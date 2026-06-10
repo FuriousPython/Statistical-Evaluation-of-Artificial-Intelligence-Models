@@ -16,9 +16,9 @@ print()
 print(dir_path)
 print()
 
-germany_datapath = f"{datasets_path}/raw_germany_gender_occupation_2023.csv"
-france_datapath = f"{datasets_path}/raw_france_gender_occupation_2023.csv"
-spain_datapath = f"{datasets_path}/raw_spain_gender_occupation_2023.csv"
+germany_datapath = f"{raw_datasets_path}/raw_germany_gender_occupation_2023.csv"
+france_datapath = f"{raw_datasets_path}/raw_france_gender_occupation_2023.csv"
+spain_datapath = f"{raw_datasets_path}/raw_spain_gender_occupation_2023.csv"
 
 
 columns_to_drop = [
@@ -58,14 +58,15 @@ def load_and_filter_dataset(datapath):
 
     df = df.drop(columns=columns_to_drop)
 
-    df = df[~df["OBS_FLAG"].isin(["du", "u"])]
+    df = df[~df["OBS_FLAG"].isin(["du", "u"])] # REMOVES LOW-RELIABLE
 
-    df = df[~df["isco08"].isin(isco_codes_to_remove)]
+    df = df[~df["isco08"].isin(isco_codes_to_remove)] # REMOVES PARENT OCCUPATION CATEGORIES
 
     return df
 
 
 def create_gender_distribution(df):
+    """Creates a new dataset with a %-Sex category per occupation"""
     occupation_col = "International Standard Classification of Occupations 2008 (ISCO-08)"
 
     df_small = df[["isco08", occupation_col, "Sex", "OBS_VALUE"]].copy()
@@ -177,6 +178,19 @@ def plot_category_distribution(df, country_name, output_path):
     print(f"Saved plot: {filepath}")
 
 
+def print_total_stats(df, country_name):
+    total_population = sum(df["total_obs"])
+    total_females = sum(df["female"] / 100 * df["total_obs"])
+    total_males = total_population - total_females
+
+    print()
+    print(country_name)
+    print(f"{total_population=}")
+    print(f"{total_females=}")
+    print(f"{total_males=}")
+    print(f"{df.shape=}")
+
+
 # --- Load and filter datasets ---
 germany_df = load_and_filter_dataset(germany_datapath)
 france_df = load_and_filter_dataset(france_datapath)
@@ -225,10 +239,19 @@ print()
 print("Spain")
 print(spain_gender_distribution.head())
 
+
 print()
-print(germany_gender_distribution.shape)
-print(france_gender_distribution.shape)
-print(spain_gender_distribution.shape)
+print_total_stats(germany_gender_distribution, "Germany")
+print_total_stats(france_gender_distribution, "France")
+print_total_stats(spain_gender_distribution, "Spain")
+
+print(f"{germany_gender_distribution.shape=}")
+print(f"{france_gender_distribution.shape=}")
+print(f"{spain_gender_distribution.shape=}")
+
+
+
+
 
 
 # --- Create categorized datasets without overwriting original ones ---
@@ -261,11 +284,6 @@ occupation_text += occupations_by_category_text(france_categorized, "France")
 occupation_text += occupations_by_category_text(spain_categorized, "Spain")
 
 
-# --- Print occupation domination text ---
-print()
-print(occupation_text)
-
-
 # --- Save occupation domination text in distribution_plots/ ---
 occupation_text_path = f"{distribution_plots_path}/occupation_domination.txt"
 
@@ -279,3 +297,5 @@ print(f"Saved text file: {occupation_text_path}")
 plot_category_distribution(germany_categorized, "Germany", distribution_plots_path)
 plot_category_distribution(france_categorized, "France", distribution_plots_path)
 plot_category_distribution(spain_categorized, "Spain", distribution_plots_path)
+
+

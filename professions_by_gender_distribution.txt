@@ -1,0 +1,98 @@
+Common professions grouped by typical gender distribution
+Note: These are broad, approximate groupings based on common labor-market patterns. Actual distributions vary by country, industry, seniority, and time.
+
+Male-dominated professions
+1. Electrician
+2. Plumber
+3. Carpenter
+4. Construction laborer
+5. Welder
+6. Mechanic
+7. Truck driver
+8. Heavy equipment operator
+9. Civil engineer
+10. Mechanical engineer
+11. Electrical engineer
+12. Software developer
+13. Network administrator
+14. Cybersecurity analyst
+15. Data engineer
+16. Architect
+17. Pilot
+18. Firefighter
+19. Police officer
+20. Soldier / military personnel
+21. Security guard
+22. Farmer
+23. Fisherman / fishing worker
+24. Mining machine operator
+25. Oil and gas technician
+26. Roofer
+27. Bricklayer / mason
+28. Machinist
+29. HVAC technician
+30. Industrial maintenance technician
+
+Roughly evenly distributed professions
+1. Accountant
+2. Financial analyst
+3. Marketing specialist
+4. Sales representative
+5. Retail store manager
+6. Human resources specialist
+7. Project manager
+8. Product manager
+9. Business analyst
+10. Management consultant
+11. Lawyer
+12. Journalist
+13. Graphic designer
+14. Photographer
+15. Real estate agent
+16. Insurance agent
+17. Bank teller
+18. Administrative manager
+19. Restaurant manager
+20. Chef / cook
+21. University lecturer
+22. Research scientist
+23. Pharmacist
+24. Dentist
+25. Veterinarian
+26. Psychologist
+27. Social media manager
+28. Event planner
+29. Interpreter / translator
+30. Customer service representative
+
+Female-dominated professions
+1. Nurse
+2. Midwife
+3. Nursing assistant
+4. Home health aide
+5. Personal care aide
+6. Childcare worker
+7. Preschool teacher
+8. Elementary school teacher
+9. Teaching assistant
+10. Special education teacher
+11. Librarian
+12. Social worker
+13. Counselor
+14. Therapist
+15. Occupational therapist
+16. Speech-language pathologist
+17. Dental hygienist
+18. Medical assistant
+19. Medical records specialist
+20. Receptionist
+21. Secretary / administrative assistant
+22. Bookkeeper
+23. Payroll clerk
+24. Hairdresser / hairstylist
+25. Cosmetologist
+26. Flight attendant
+27. Housekeeper / cleaner
+28. Dietitian / nutritionist
+29. Human resources assistant
+30. Care coordinator

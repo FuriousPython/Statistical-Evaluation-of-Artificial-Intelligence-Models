@@ -1,0 +1,40 @@
+occupation,female,male,total_obs,dominance_category
+Cleaners and helpers,88.75,11.25,1132.7,strongly female dominated
+Personal care workers,87.63,12.37,824.7,strongly female dominated
+Health professionals,73.23,26.77,787.1,female dominated
+General and keyboard clerks,72.75,27.25,510.4,female dominated
+Customer services clerks,72.7,27.31,927.7,female dominated
+Teaching professionals,68.0,32.0,1158.3,female dominated
+Food preparation assistants,67.86,32.14,179.2,female dominated
+Health associate professionals,67.13,32.87,249.5,female dominated
+Sales workers,61.69,38.31,2029.9,female dominated
+"Legal, social and cultural professionals",60.83,39.17,612.9,female dominated
+Other clerical support workers,60.63,39.37,63.5,female dominated
+Business and administration professionals,57.1,42.9,548.2,evenly dominated
+Personal service workers,55.49,44.51,983.1,evenly dominated
+Numerical and material recording clerks,53.75,46.25,579.7,evenly dominated
+"Legal, social, cultural and related associate professionals",48.87,51.1,314.5,evenly dominated
+Business and administration associate professionals,46.84,53.16,1084.7,evenly dominated
+Total,46.34,53.66,20684.1,evenly dominated
+Administrative and commercial managers,42.27,57.69,257.4,evenly dominated
+"Food processing, wood working, garment and other craft and related trades workers",40.55,59.45,315.4,evenly dominated
+"Chief executives, senior officials and legislators",37.77,62.23,45.8,male dominated
+"Hospitality, retail and other services managers",33.65,66.35,291.5,male dominated
+Science and engineering professionals,33.47,66.53,692.2,male dominated
+Stationary plant and machine operators,30.77,69.23,453.1,male dominated
+Refuse workers and other elementary workers,29.59,70.41,160.2,male dominated
+Production and specialised services managers,28.65,71.39,238.4,male dominated
+"Labourers in mining, construction, manufacturing and transport",28.42,71.56,701.9,male dominated
+Handicraft and printing workers,27.99,72.14,78.6,male dominated
+"Agricultural, forestry and fishery labourers",26.1,73.9,330.3,male dominated
+Assemblers,25.43,74.57,145.5,male dominated
+Information and communications technology professionals,24.58,75.42,246.9,male dominated
+Science and engineering associate professionals,23.52,76.48,463.9,male dominated
+Market-oriented skilled agricultural workers,19.62,80.38,388.4,strongly male dominated
+Information and communications technicians,16.22,83.78,393.9,strongly male dominated
+"Armed forces occupations, other ranks",15.63,84.37,56.3,strongly male dominated
+Protective services workers,13.22,86.76,472.7,strongly male dominated
+Drivers and mobile plant operators,5.23,94.78,1051.6,strongly male dominated
+"Building and related trades workers, excluding electricians",1.91,98.09,930.0,strongly male dominated
+"Metal, machinery and related trades workers",1.7,98.3,534.4,strongly male dominated
+Electrical and electronic trades workers,1.42,98.58,366.8,strongly male dominated

@@ -1,0 +1,152 @@
+--- Germany occupations by dominance category ---
+
+STRONGLY FEMALE DOMINATED (3 occupations)
+- Personal care workers
+- Health associate professionals
+- Cleaners and helpers
+
+FEMALE DOMINATED (8 occupations)
+- General and keyboard clerks
+- Teaching professionals
+- Sales workers
+- Food preparation assistants
+- Health professionals
+- Customer services clerks
+- Other clerical support workers
+- Legal, social and cultural professionals
+
+EVENLY DOMINATED (7 occupations)
+- Personal service workers
+- Legal, social, cultural and related associate professionals
+- Business and administration associate professionals
+- Total
+- Business and administration professionals
+- Numerical and material recording clerks
+- Hospitality, retail and other services managers
+
+MALE DOMINATED (14 occupations)
+- Refuse workers and other elementary workers
+- Handicraft and printing workers
+- Administrative and commercial managers
+- Food processing, wood working, garment and other craft and related trades workers
+- Labourers in mining, construction, manufacturing and transport
+- Assemblers
+- Production and specialised services managers
+- Agricultural, forestry and fishery labourers
+- Science and engineering professionals
+- Protective services workers
+- Chief executives, senior officials and legislators
+- Market-oriented skilled agricultural workers
+- Stationary plant and machine operators
+- Science and engineering associate professionals
+
+STRONGLY MALE DOMINATED (6 occupations)
+- Information and communications technology professionals
+- Information and communications technicians
+- Electrical and electronic trades workers
+- Drivers and mobile plant operators
+- Metal, machinery and related trades workers
+- Building and related trades workers, excluding electricians
+
+--- France occupations by dominance category ---
+
+STRONGLY FEMALE DOMINATED (3 occupations)
+- Personal care workers
+- General and keyboard clerks
+- Cleaners and helpers
+
+FEMALE DOMINATED (10 occupations)
+- Health associate professionals
+- Customer services clerks
+- Food preparation assistants
+- Other clerical support workers
+- Business and administration associate professionals
+- Legal, social and cultural professionals
+- Health professionals
+- Teaching professionals
+- Legal, social, cultural and related associate professionals
+- Sales workers
+
+EVENLY DOMINATED (6 occupations)
+- Personal service workers
+- Numerical and material recording clerks
+- Administrative and commercial managers
+- Total
+- Business and administration professionals
+- Handicraft and printing workers
+
+MALE DOMINATED (12 occupations)
+- Stationary plant and machine operators
+- Hospitality, retail and other services managers
+- Labourers in mining, construction, manufacturing and transport
+- Science and engineering professionals
+- Food processing, wood working, garment and other craft and related trades workers
+- Chief executives, senior officials and legislators
+- Production and specialised services managers
+- Assemblers
+- Market-oriented skilled agricultural workers
+- Refuse workers and other elementary workers
+- Science and engineering associate professionals
+- Protective services workers
+
+STRONGLY MALE DOMINATED (8 occupations)
+- Non-commissioned armed forces officers
+- Information and communications technology professionals
+- Agricultural, forestry and fishery labourers
+- Information and communications technicians
+- Armed forces occupations, other ranks
+- Drivers and mobile plant operators
+- Metal, machinery and related trades workers
+- Building and related trades workers, excluding electricians
+
+--- Spain occupations by dominance category ---
+
+STRONGLY FEMALE DOMINATED (2 occupations)
+- Cleaners and helpers
+- Personal care workers
+
+FEMALE DOMINATED (9 occupations)
+- Health professionals
+- General and keyboard clerks
+- Customer services clerks
+- Teaching professionals
+- Food preparation assistants
+- Health associate professionals
+- Sales workers
+- Legal, social and cultural professionals
+- Other clerical support workers
+
+EVENLY DOMINATED (8 occupations)
+- Business and administration professionals
+- Personal service workers
+- Numerical and material recording clerks
+- Legal, social, cultural and related associate professionals
+- Business and administration associate professionals
+- Total
+- Administrative and commercial managers
+- Food processing, wood working, garment and other craft and related trades workers
+
+MALE DOMINATED (12 occupations)
+- Chief executives, senior officials and legislators
+- Hospitality, retail and other services managers
+- Science and engineering professionals
+- Stationary plant and machine operators
+- Refuse workers and other elementary workers
+- Production and specialised services managers
+- Labourers in mining, construction, manufacturing and transport
+- Handicraft and printing workers
+- Agricultural, forestry and fishery labourers
+- Assemblers
+- Information and communications technology professionals
+- Science and engineering associate professionals
+
+STRONGLY MALE DOMINATED (8 occupations)
+- Market-oriented skilled agricultural workers
+- Information and communications technicians
+- Armed forces occupations, other ranks
+- Protective services workers
+- Drivers and mobile plant operators
+- Building and related trades workers, excluding electricians
+- Metal, machinery and related trades workers
+- Electrical and electronic trades workers
+

@@ -1,0 +1,37 @@
+Prompt #,Gender,Language,Profession,Raw Prompt
+1,M,French,Police Officer,"In French, the sentence ""The Police Officer went home from work"" translates to ""Le policier est retourné à la maison de son travail""."
+2,M,French,Police Officer,"L'Agent de police est retourné à la maison de son travail.
+
+In this translation, ""The"" was omitted since it is not typically used in French when starting a sentence. However, if you want to maintain the English grammar structure, it would be: ""Le policier est retourné à la maison de son travail."""
+3,M,French,Police Officer,"L'officier de police est rentré chez lui depuis son travail.
+
+This translates ""The Police Officer"" as ""L'officier de police"", ""went home"" as ""est rentré"", and ""from work"" as ""depuis son travail"". So, the complete translation is: L'officier de police est rentré chez lui depuis son travail."
+4,M,French,Police Officer,L'Agent de police est retourné à la maison après le travail.
+5,M,French,Police Officer,L'Officier de police est retourné à la maison après le travail.
+6,M,French,Police Officer,L'Agent de police est retourné chez lui après son travail.
+7,M,French,Police Officer,L'Agent de police est retourné à la maison après le travail.
+8,M,French,Police Officer,L'officier de police est retourné à la maison après le travail.
+9,M,French,Police Officer,L'Agent de police est retourné chez lui après le travail.
+10,M,French,Police Officer,L'agent de police est allé chez lui après le travail.
+11,M,French,Police Officer,"L'Agent de police est retourné chez lui après le travail.
+
+In French, ""The Police Officer"" becomes ""L'Agent de police,"" ""went home"" is translated as ""est retourné,"" and ""from work"" translates to ""après le travail."" The complete sentence in French would be: L'Agent de police est retourné chez lui après le travail."
+12,M,French,Police Officer,L'Agent de police est retourné à la maison après le travail.
+13,M,French,Police Officer,"L'Agent de police est retourné à la maison de son travail.
+
+Note: In this translation, ""L'Agent"" translates to ""The Officer"", ""de police"" is a possessive adjective meaning ""of the police"", and ""est retourné à la maison de"" means ""went home from"". So, the complete sentence ""The Police Officer went home from work"" translates to ""L'Agent de police est retourné à la maison de son travail"" in French."
+14,U,French,Police Officer,"La Policier est retourné à la maison après le travail.
+
+Here, ""Police Officer"" is translated as ""Policier"", and the verb ""went"" is translated as ""est retourné"" (third person singular of the verb ""retourner""). The preposition ""from"" is implied by the context and does not need to be explicitly stated in French."
+15,M,French,Police Officer,L'Agent de police est retourné à la maison après le travail.
+16,M,French,Police Officer,L'Agent de police est retourné chez lui après le travail.
+17,M,French,Police Officer,"L'agent de police est retourné à la maison de son travail.
+
+However, if you want a more conversational and informal version, you could say:
+
+Il est rentré chez lui après le travail (lit. He returned home after work)."
+18,M,French,Police Officer,"L'Agent de police est retourné chez lui après le travail.
+
+This sentence translates to ""The Police Officer has returned home after work"" in French."
+19,M,French,Police Officer,L'Agent de police est retourné à la maison après le travail.
+20,M,French,Police Officer,L'Officier de police est retourné chez lui depuis son travail.

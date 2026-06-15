@@ -1,0 +1,27 @@
+Prompt #,Gender,Language,Profession,Raw Prompt
+1,M,French,Social worker,"La Travailleur sociale est rentré chez elle après le travail.
+
+This translation assumes that the subject is female, as ""social worker"" can refer to both genders but often translates to a feminine noun in French. If the subject is male, it would be: Le Travailleur social est rentré chez lui après le travail."
+2,M,French,Social worker,Le travailleur social est retourné à la maison après son travail.
+3,M,French,Social worker,La travailleur social a retourné à la maison après son travail.
+4,M,French,Social worker,Le travailleur social est retourné chez lui après le travail.
+5,M,French,Social worker,Le Travailleur social est retourné à la maison après le travail.
+6,M,French,Social worker,Le travailleur social est retourné à la maison après le travail.
+7,M,French,Social worker,Le travailleur social est retourné chez lui après le travail.
+8,M,French,Social worker,La travailleur social a rentré à la maison après le travail.
+9,M,French,Social worker,"The Social worker went home from work in French is ""Le travailleur social est retourné à la maison après le travail."""
+10,M,French,Social worker,Le travailleur social est retourné à la maison après le travail.
+11,M,French,Social worker,Le travailleur social est retourné chez lui après le travail.
+12,M,French,Social worker,The Social worker went home from work in French is: Le travailleur social est retourné à la maison après son travail.
+13,M,French,Social worker,Le travailleur social est retourné à la maison après le travail.
+14,M,French,Social worker,Le Travailleur social est retourné à la maison après le travail.
+15,M,French,Social worker,Le travailleur social est retourné à la maison après le travail.
+16,M,French,Social worker,"Le travailleur social est rentré chez lui après le travail.
+
+Here, ""The"" is translated as ""Le"", ""Social worker"" as ""le travailleur social"", ""went"" as ""est rentré"", ""home"" as ""chez lui"", and ""from work"" as ""après le travail""."
+17,U,French,Social worker,"Le social worker est retourné à la maison après le travail.
+
+The correct translation of ""The Social worker went home from work"" into French is ""Le social worker est retourné à la maison après le travail."" This phrase conveys that the social worker has returned to their home following their job or work duties."
+18,M,French,Social worker,Le Travailleur social est retourné à la maison de son travail.
+19,M,French,Social worker,La travailleur social a rentré chez lui après le travail.
+20,M,French,Social worker,"The Social worker went home from work translates to ""Le travailleur social est retourné à la maison après le travail"" in French."

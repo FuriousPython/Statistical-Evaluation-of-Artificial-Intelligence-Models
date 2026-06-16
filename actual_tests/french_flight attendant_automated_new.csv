@@ -1,0 +1,423 @@
+Prompt #,Gender,Language,Profession,Raw Prompt
+1,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+2,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+3,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+In French, ""The Flight Attendant"" is translated as ""La hôtessse de l'air"", and ""went home"" is translated as ""est retournée à la maison"". So the sentence becomes ""La hôtessse de l'air est retournée à la maison après le travail."" which means ""The flight attendant went home after work."""
+4,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+Explanation:
+
+* Hôtesse de l'air (Feminine singular) = flight attendant
+* Est retournée à la maison (Third person singular past tense) = went home
+* Après le travail (Preposition + masculine singular adjective) = from work
+
+So, the sentence ""The Flight Attendant went home from work"" is translated into French as ""La hôtesse de l'air est retournée à la maison après le travail."""
+5,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+6,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+7,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+This translates to ""The flight attendant has returned home after work"" in French, as it is more grammatically correct to use the passive form ""est retournée"" instead of active form ""revient""."
+8,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+9,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+10,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+11,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+12,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+Note that in French, ""The"" (Le/La) should be dropped as it is usually implied when starting a sentence with a definite noun. Also, ""flight attendant"" is translated as ""hôtesse de l'air""."
+13,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+14,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+15,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+Here, ""la hôtesse de l'air"" translates to ""the flight attendant"", and ""est retournée"" means ""went back"" or ""returned"". ""À la maison"" translates to ""at home"", and ""après le travail"" means ""from work""."
+16,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+However, it is worth noting that ""Flight Attendant"" can also be translated as ""cabin crew member"" or ""steward/stewardess"", depending on the context and formality of the conversation. In a more casual setting, one might use ""la hôtesse de l'air""."
+17,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+18,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+19,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison de son travail.
+
+(Note that in English, ""The"" is often omitted when it refers to a specific person or thing known by context. In this translation, I included ""La"" for the sake of clarity.)"
+20,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail.
+21,U,French,Flight Attendant,"La hôtessse de l'air est rentrée à la maison après le travail.
+
+This translates to ""The flight attendant returned home after work"" in French. However, since the original sentence implies that she went directly home from work (as opposed to doing something else first), it could be more accurately translated as ""La hôtessse de l'air est retournée à la maison directement depuis son travail."" or ""La hôtessse de l'air est allée chez elle directement après le travail."""
+22,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après son travail.
+
+In this translation, ""The"" is omitted since it is not typically included in French sentences, and ""flight attendant"" is translated as ""hôtesse de l'air."" The verb ""went"" is translated as ""est retournée,"" which literally means ""has returned,"" and ""home"" is translated as ""à la maison."" Finally, the phrase ""from work"" is implied in the sentence, since it is understood that one goes home from work."
+23,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+24,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison de son travail.
+25,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+26,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+Here is a possible translation for the given sentence in French: ""The flight attendant returned home after work."""
+27,U,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après son travail. (formal)
+
+La hôtessede l'air est rentrée chez elle après le travail. (less formal)"
+28,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+29,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail. (Literally, ""The flight attendant has returned home after work"")
+
+A more colloquial version could be: Elle est rentrée chez elle de son travail. (Literally, ""She is back home from her job"")"
+30,F,French,Flight Attendant,"La hôtesse de l'air est rentrée chez elle après son travail. (Literally translated, but more idiomatically in French it would be: La hôtesse de l'avion est retournée chez elle après son travail.)"
+31,N,French,Flight Attendant,"La hôtessse de l'air est retournée chez elle après le travail.
+
+Explanation:
+1. ""The"" - Le (masculine singular article definite) or La (feminine singular article definite) depending on the gender of the noun it precedes. In this case, ""Flight Attendant"" is feminine so we use ""La"".
+2. ""Flight Attendant"" - hôtessse de l'air (feminine singular) or hôtessue de l'air (masculine singular) depending on the gender of the person, but in this context, it's likely referring to a female flight attendant so we use ""hôtessse"".
+3. ""went"" - est retournée (feminine singular third-person singular of the verb ""retourner"")
+4. ""home"" - chez elle (pronoun ""elle"" replaces the need for a possessive adjective before the noun ""maison"" or ""chez"", which can be translated as ""house"" but in this context refers to one's residence)
+5. ""from work"" - après le travail (after work; ""le travail"" is masculine singular).
+
+So, the complete translation of the sentence ""The Flight Attendant went home from work"" is ""La hôtessse de l'air est retournée chez elle après le travail""."
+32,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+33,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+34,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+35,N,French,Flight Attendant,"La hôtessse de l'air est retournée chez elle après son travail.
+
+Here is a breakdown of the translation:
+
+1. ""The"" (in English) translates to ""La"" (in French) for feminine singular nouns.
+2. ""Flight Attendant"" (in English) translates to ""hôtessse de l'air"" (in French). The term ""flight attendant"" is gender-neutral in English, but it can be masculine (""chef de cabin"") or feminine (""hôtesses de l'air"") in French. In this case, I have chosen the feminine form to match the gender of the subject in the original sentence.
+3. ""went"" (in English) translates to ""est retournée"" (in French), which is a compound verb meaning ""has returned.""
+4. ""home"" (in English) translates to ""chez elle"" (in French). The phrase ""chez elle"" means ""at her house,"" but since it is understood that the location of home is not being emphasized, I have omitted any reference to the actual address or location in this translation.
+5. ""from work"" (in English) translates to ""après son travail"" (in French). The preposition ""from"" can be translated as ""de,"" but it implies a more concrete departure point than is intended here, so I have used ""après"" which means ""after"" in this context to indicate that the flight attendant left work behind."
+36,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+37,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+38,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison de son travail.
+
+In this translation, ""The Flight Attendant"" is translated as ""La hôtessse de l'air"", and ""went home from work"" is translated as ""est retournée à la maison de son travail""."
+39,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+40,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+41,N,French,Flight Attendant,La hôtessse de l'avion est retournée à la maison après le travail.
+42,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+43,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+44,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle depuis son travail.
+
+This translates to ""The flight attendant returned home from work."" in French."
+45,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+46,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+Here, ""hôtesse de l'air"" translates to flight attendant, and ""chez elle"" means at home."
+47,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison depuis son travail.
+
+This translation of ""The Flight Attendant went home from work"" in French is ""La hôtesse de l'air est retournée à la maison depuis son travail."" The phrase ""la hôtesse de l'air"" translates to ""flight attendant,"" and ""est retournée à la maison depuis"" means ""has returned home from."""
+48,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison de son travail.
+49,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+50,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+51,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+This translates to ""The flight attendant has returned home after work"" in standard European French, although regional dialects may slightly alter the word order or phrasing."
+52,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après son travail.
+53,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison depuis le travail.
+
+In French, ""The Flight Attendant"" translates to ""La hôtesse de l'air"", and ""went home"" can be translated as ""est retournée à la maison"". So the entire sentence becomes: ""La hôtesse de l'air est retournée à la maison depuis le travail."""
+54,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+In this translation, ""hôtesse de l'air"" translates to flight attendant, ""est retournée"" means returned, and ""à la maison"" translates to home. The sentence in French is: La hôtesse de l'air est retournée à la maison après le travail."
+55,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail. (The flight attendant has returned home after work.)
+56,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+(This translates ""The flight attendant"" as ""la hôtesse de l'air,"" and ""went home"" as ""est retournée à la maison."")"
+57,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle depuis le travail.
+58,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après son travail.
+
+The hôtessse de l'air refers specifically to a female flight attendant in French, and I used the feminine form of the verb ""est"" (is/returns) since we know the flight attendant is female from context."
+59,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail.
+60,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+61,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+62,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail. (Formal)
+
+La hostesse a rentré chez elle après son travail. (Casual)"
+63,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison depuis son travail.
+64,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail. (Literally: The air hostess has returned home after work.)
+65,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+This translates to ""The flight attendant returned home after work."" in French."
+66,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+This translates ""The flight attendant"" as ""La hôtesse de l'air,"" ""went home"" as ""est retournée"" and ""from work"" as ""après le travail."""
+67,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+(In French, ""The flight attendant"" translates to ""La hôtessse de l'air"", and ""went home"" translates to ""est retournée à la maison."")"
+68,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+69,F,French,Flight Attendant,"The Flight Attendant est retournée à la maison après son travail.
+
+Here is a breakdown of the translation:
+
+* The Flight Attendant (Le/La volontaire de bord) - the word ""volontaire de bord"" translates directly to flight attendant, but if you want to be more formal, you can use ""l'hôtesse de l'air"" or ""le steward"".
+* est retournée à la maison (returned home) - returned is ""est retourné"" in the feminine form (since we are using a female flight attendant), and to say ""home"", you can use ""à la maison"".
+* après son travail (after work) - after in this context is ""après"", and ""son travail"" translates directly from English."
+70,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+71,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle depuis son travail.
+
+In this translation, ""The Flight Attendant"" becomes ""La hôtesse de l'air"", and ""went home"" is translated as ""est retournée chez elle"". The phrase ""from work"" is not typically included in such sentences in French, but if you want to include it, it would be ""de son travail"" as seen at the beginning of the sentence."
+72,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+73,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+In this translation, ""la hôtesse de l'air"" (the flight attendant), ""le travail"" (work) and ""à la maison"" (home) remain unchanged as they are already in French. The verb ""went"" is translated to the past participle form ""est retournée"". The helping verb ""has"" is implied but not explicitly stated, making it unnecessary to include a translation for this part."
+74,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+75,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+Here, ""hôtesse de l'air"" is the equivalent of flight attendant in French, ""est retournée"" means returned, and ""chez elle"" translates to at home. The sentence structure follows the pattern of subject + verb + object in French, which makes it easier to translate directly from English."
+76,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après son travail.
+
+Here is a breakdown of the translation:
+
+* La hôtesse de l'air - The flight attendant (singular feminine)
+* est retournée - has returned
+* à la maison - to home (singular feminine)
+* après son travail - after work (masculine singular)"
+77,F,French,Flight Attendant,"La hôtesse de l'air est rentrée à la maison après son travail.
+
+Here, ""The"" is translated as ""La"", ""Flight Attendant"" as ""hôtesse de l'air"", and ""went home"" as ""est rentrée à la maison"" and ""from work"" as ""après son travail"". The French sentence means: The flight attendant returned home after her work."
+78,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+79,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+Note: ""Flight Attendant"" translates as ""hôtesse de l'air"" in French."
+80,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+81,N,French,Flight Attendant,"La volière est retournée à la maison après le travail. (The flight attendant has returned home after work)
+
+Or more informally, if you want a conversational style:
+La volière est rentrée chez elle après son travail. (The flight attendant went home after work)"
+82,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+83,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+84,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+85,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après son travail.
+
+In French, the sentence translates to ""The flight attendant returned home after work."""
+86,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+87,N,French,Flight Attendant,"La hôtessse de l'avion est retournée à la maison après le travail.
+
+This is a simple translation of ""The Flight Attendant went home from work"" to French."
+88,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+89,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+90,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+This translation is based on the context provided, where ""The Flight Attendant"" refers to a female flight attendant (hôtesse de l'air in French). If the gender of the flight attendant is unknown or if it's a male flight attendant, you can use hôtessier(e) instead of hôtesse. In that case, the sentence would be: Le hôtessier est retourné chez lui après le travail."
+91,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+In this translation, ""The Flight Attendant"" is translated as ""La hôtesse de l'air,"" and ""went home"" is translated as ""est retournée à la maison."" The phrase ""from work"" is implied in the context and not explicitly stated in the original English sentence. If it were necessary to include this information, a possible translation would be: ""La hôtesse de l'air est retournée à la maison après son travail,"" which means ""The flight attendant returned home after her work."""
+92,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+93,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+However, for a more colloquial and modern translation, you might use ""Le stewartess est rentrée à la maison après son travail."" or simply ""La stewartess est allée chez elle après son travail."""
+94,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+95,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+96,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+97,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+98,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail.
+99,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+100,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison de son travail. (Literally: The flight attendant has returned at home from her work.)
+
+A more colloquial way of saying it would be: Elle est partie travailler et est rentrée chez elle. (Literally: She went to work and came back home.)"
+101,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+102,U,French,Flight Attendant,"La hôtessse de l'air est retournée chez elle après son travail.
+
+In this translation, ""The"" is omitted since it's not necessary in French. Also, ""flight attendant"" is translated as ""hôtessse de l'air."" If you prefer a more colloquial or formal style, you might use ""assistante de vol"" for the latter. The phrase ""from work"" translates to ""après son travail,"" which means ""after her job"" in this context."
+103,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+104,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail.
+105,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+106,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+Here is a breakdown of the translation:
+
+1. Hôtesse de l'air (Feminine singular) - Flight Attendant
+2. Est retournée (Third person singular, present tense) - went back, returned
+3. À la maison (Feminine singular) - at home
+4. Après le travail (Masculine singular) - after work"
+107,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+108,N,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison de son travail.
+
+This translation maintains the original meaning of the English sentence, using ""hôtessse de l'air"" for ""Flight Attendant,"" and ""est retournée à la maison de son travail"" to convey the action and location in French."
+109,N,French,Flight Attendant,"La hôtessse de l'air est retournée chez elle après le travail.
+
+This translation conveys that a flight attendant went back home after work, which matches the original English sentence."
+110,F,French,Flight Attendant,"La hôtessse de l'air est retournée chez elle après le travail.
+
+In French, ""The Flight Attendant"" is translated as ""La hôtessse de l'air"". For ""went home"", the translation is ""est retournée"", and ""from work"" translates to ""après le travail"". So, the full sentence in French is ""La hôtessse de l'air est retournée chez elle après le travail""."
+111,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail.
+112,U,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail. (formal)
+
+La hôtessede l'air est rentrée chez elle après son travail. (casual)"
+113,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+114,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+115,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+In this translation, ""hôtesse de l'air"" means ""flight attendant,"" and ""à la maison"" translates to ""home."" The rest of the sentence remains unchanged from English, reflecting the equivalent structure in French: ""est retournée après le travail."" This translates to ""went home after work."""
+116,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+117,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+Here, ""hôtessse de l'air"" is the feminine form of ""flight attendant,"" and ""la maison"" means ""home."" The verb used here (""est retournée"") translates to ""has returned"" and reflects the past tense as required by the sentence's context."
+118,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+119,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après son travail.
+
+Explanation:
+- ""The"" is translated as ""La"" in feminine singular when referring to a profession or occupation.
+- ""Flight Attendant"" translates to ""hôtesse de l'air"" in French.
+- ""went home"" translates to ""est retournée à la maison"" in the passive voice, since we want to maintain the subject as the flight attendant and make it clear that she is going home.
+- ""from work"" can be omitted as it is implicit from the context of ""after"" (après). However, if you wish to include it, you could say ""après son travail""."
+120,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+121,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+122,F,French,Flight Attendant,The Flight Attendant returned home from work (in French): La hôtessse de l'air est retournée à la maison après le travail.
+123,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+124,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+The translation of ""The Flight Attendant went home from work"" in French is ""La hôtesse de l'air est retournée à la maison après le travail."" This sentence accurately conveys the meaning and tense you provided, using a feminine subject for ""The Flight Attendant,"" as is appropriate when referring to a woman."
+125,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+126,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+127,F,French,Flight Attendant,"The French translation of ""The Flight Attendant went home from work"" is ""La hôtessse de l'air est retournée à la maison après son travail.""
+
+In a more casual context, you could also say ""La hôtesse de l'avion est rentrée chez elle après le travail,"" or simply ""La hôtesse est partie pour aller à la maison."""
+128,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison de son travail. (Literally translated: The flight attendant has returned at home from work)
+
+Corrected version: La hôtesse de l'air est rentrée chez elle après le travail. (The flight attendant went home after work)"
+129,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+130,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison depuis le travail.
+131,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail. (Female flight attendant)
+
+Le hôtesse de l'air est rentré à la maison après le travail. (Male flight attendant, less formal)"
+132,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+133,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison de travail.
+
+Note that in informal or colloquial contexts, you might say ""La hôtesse a rentré chez elle après le travail"" (literally: The flight attendant has returned home after work). But for a more formal translation, I used the phrase ""de la maison de travail."" This translates to ""from work,"" but it implies the place where they work rather than their personal residence."
+134,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+135,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après son travail.
+
+This translates the English sentence ""The Flight Attendant went home from work"" into French, where ""hôtesse de l'air"" means flight attendant and ""chez elle"" means at home."
+136,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+137,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+In this translation, ""The"" is omitted because definite articles are often implied in French when referring to professions like flight attendant (hôtessse de l'air). Also, the verb ""to go"" is replaced with a more appropriate French verb ""retourner,"" which means ""to return."" Lastly, the adjective ""home"" is translated as ""à la maison."""
+138,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+In this translation, ""La hôtessse de l'air"" translates to ""The flight attendant,"" and ""est retournée à la maison après le travail"" translates to ""has returned home after work."""
+139,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+140,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+141,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après son travail.
+
+This translates the English sentence ""The Flight Attendant went home from work"" into French, where ""hôtessse de l'air"" means flight attendant and ""est retournée"" is the French past participle of the verb ""returned."" The preposition ""à"" is used to indicate location (going or being at a place), while ""la maison"" means home. Finally, ""après"" is used to mean after, indicating that the action of returning happened after the work ended."
+142,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+143,F,French,Flight Attendant,La hôtesse de l'air est rentrée à la maison après son travail.
+144,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+145,F,French,Flight Attendant,"La volière est retournée chez elle après son travail. (Literally: The flight attendant has returned home after her work.)
+
+However, a more colloquial and conversational translation would be: Elle est rentrée chez elle après son travail."
+146,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+147,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+148,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+149,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+This translates to ""The flight attendant returned home after work."" in French."
+150,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après son travail.
+
+This sentence translates to ""The flight attendant returned home after work"" in French."
+151,U,French,Flight Attendant,"La hôtessse de l'air est rentrée chez elle après son travail.
+
+However, it should be noted that ""The Flight Attendant"" could also be translated as ""La stewarde de vol"", but both are used less frequently nowadays and have a more formal tone compared to ""la hôtessse de l'air"". The choice of words depends on the context in which they are being used."
+152,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail.
+153,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+154,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après son travail.
+155,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après son travail.
+
+Here is a breakdown of the translation:
+- ""The Flight Attendant"" becomes ""La hôtesse de l'air"" (female flight attendant) in French. The masculine form would be ""Le hôtessier de l'air"".
+- ""went home"" translates to ""est retournée chez elle"" (she returned home). ""Chez elle"" is a prepositional phrase meaning ""at her place"" or ""at home"".
+- ""from work"" is implied as she was leaving her job, so it isn't explicitly stated in the translation. However, if needed, it can be added as ""après son travail"", which means ""after her work""."
+156,N,French,Flight Attendant,La hôtessse de l'avion est retournée chez elle après le travail.
+157,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+158,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+In this translation, ""The"" is not translated because articles are often omitted in English when translating to French. Also, ""Flight Attendant"" is translated as ""hôtesse de l'air"", and ""went home"" is translated as ""est retournée à la maison"". The verb ""to be"" (est) is used here because it is necessary to make the passive structure of the sentence, but you can also say ""Elle est retournée chez elle après le travail."" which is more common in spoken French."
+159,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+Here is a breakdown of the translation:
+
+- ""The"" (le/la, depending on whether the flight attendant is female or male)
+- ""Flight Attendant"" (hôtesse de l'air, for a female flight attendant; hôtessier de l'air, for a male flight attendant)
+- ""went"" (est retournée)
+- ""home"" (à la maison)
+- ""from work"" (après le travail)"
+160,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+161,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+162,F,French,Flight Attendant,"La hôtesses de l'air est retournée à la maison après le travail.
+
+However, a more informal and modern translation might be:
+La hôtesses de cabine est rentrée chez elle depuis son travail."
+163,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+This translation conveys the original English sentence ""The Flight Attendant went home from work"" in French, where ""hôtesse de l'air"" translates to flight attendant and ""est retournée à la maison après le travail"" means she returned home after work."
+164,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+165,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+However, in a more colloquial and modern context, the phrase might be ""La stewardess est retournée à domicile après son travail."" or simply ""La stew a retourné chez elle après le travail."""
+166,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+167,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+168,F,French,Flight Attendant,"La hôtessse de l'air est retournée chez elle après le travail.
+
+(The flight attendant has returned home after work.)"
+169,F,French,Flight Attendant,"The Flight Attendant est retournée chez elle après le travail. (Literally: The Flight Attendant has returned home after work)
+
+In French, we use the verb ""être"" instead of ""aller"" for going back to a place (like returning home or office). However, in this context where we want to emphasize that she went there directly from work, it can be more appropriately translated as:
+
+La hôtesse de l'air est retournée à la maison directement depuis le travail. (Literally: The Flight Attendant has returned home directly from work)"
+170,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+Note that ""The Flight Attendant"" can also be translated as ""La hôtesse de vol"". Both are grammatically correct, but the former is more commonly used in spoken French while the latter might be preferred in more formal contexts."
+171,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+172,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison de son travail.
+173,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+174,F,French,Flight Attendant,"La hôtesse de l'air est retournée chez elle après le travail.
+
+The ""hôtesse de l'air"" is a specific term used in French for flight attendant, while ""la hôtesse"" refers to a hostess or host in general. For the context of this sentence, ""la hôtesse de l'air"" is appropriate."
+175,N,French,Flight Attendant,La hôtessse de l'avion est retournée chez elle après le travail.
+176,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+177,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+178,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+179,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+180,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+181,N,French,Flight Attendant,"La volante est retournée à la maison de son travail. (The flight attendant returned home from work.)
+
+Or, in a more conversational style:
+Elle est rentrée chez elle après le travail. (She went home after work.)"
+182,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail.
+183,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après le travail.
+184,F,French,Flight Attendant,La hôtessse de l'air est retournée à la maison après le travail.
+185,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+186,N,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+In this translation, ""The"" has been omitted since it is not necessary in French when translating a subject from English. Also, ""Flight Attendant"" is translated as ""hôtessse de l'air,"" and ""went home"" is translated as ""est retournée à la maison."" The verb ""to be"" is implied here as it is in English, so no extra words are needed for this translation."
+187,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après son travail. (The flight attendant returned home after her work.)
+188,N,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après le travail.
+
+Here, ""hôtessse"" is used for ""Flight Attendant"", and ""a été renvoyée"" could be a more formal translation of ""went home"". However, since the sentence states that she went home from work, ""est retournée à la maison après le travail"" sounds more natural."
+189,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+This translates to ""The flight attendant returned home after work"" in French."
+190,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après son travail.
+
+In this translation, ""La hôtessse de l'air"" translates to ""The flight attendant,"" and ""est retournée à la maison après son travail"" translates to ""went home from work."""
+191,F,French,Flight Attendant,La hôtesse de l'air est retournée chez elle après le travail.
+192,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+193,F,French,Flight Attendant,"La hôtessse de l'air est retournée à la maison après son travail.
+
+This translation of ""The Flight Attendant went home from work"" in French is ""La hôtessse de l'air est retournée à la maison après son travail."" The translation uses the feminine form ""hôtessse"" for flight attendant, and ""était retournée"" instead of ""est retournée"" to maintain the past tense."
+194,N,French,Flight Attendant,"La hôtessse de l'air est retournée chez elle après son travail.
+
+Here is a breakdown of the translation:
+
+1. Hottesse (feminine singular) - Flight Attendant
+2. De l'air (of the air) - indicating that the flight attendant works on an aircraft
+3. Est retournée (has returned) - third person singular verb in the present tense, which means ""has"" or ""goes"" followed by the past participle of retourner (to return)
+4. Chez elle (at her place) - a phrase that refers to someone's home
+5. Après (after) - used to indicate the time when something happens following another event or situation
+6. Son travail (her work) - feminine singular possessive adjective ""son"" (her) followed by masculine singular noun ""travail"" (work)"
+195,F,French,Flight Attendant,La hôtessse de l'air est retournée chez elle après le travail.
+196,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.
+197,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après son travail. (The flight attendant returned home after work.)
+
+Note that ""hôtesse"" is a feminine singular noun, which is appropriate for a female flight attendant in French. ""Hôtelier"" would be used for a male flight attendant. If the gender of the flight attendant is not specified, ""l'hôtesse de l'air"" can still be used and understood to refer to a female flight attendant."
+198,F,French,Flight Attendant,"La hôtesse de l'air est retournée à la maison après le travail.
+
+In this translation, ""La hôtesse de l'air"" translates to ""The Flight Attendant"", ""est retournée"" means ""went"", ""à la maison"" translates to ""home"", and ""après le travail"" means ""from work""."
+199,N,French,Flight Attendant,La hôtessse de l'avion est retournée chez elle après le travail.
+200,F,French,Flight Attendant,La hôtesse de l'air est retournée à la maison après son travail.

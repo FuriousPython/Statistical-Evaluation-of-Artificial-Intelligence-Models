@@ -1,0 +1,451 @@
+Prompt #,Gender,Language,Profession,Raw Prompt
+1,U,French,Metal worker,"Le Menuisier est retourné à la maison après son travail. (Note: In this context, ""menuisier"" is used as a general term for someone who works with metal or wood.) If you want to specifically refer to someone working with metal, you could say ""Le forgeron est rentré chez lui après son travail."" (""The blacksmith went home from work."")"
+2,M,French,Metal worker,"The Metal worker returned home from work (in French) is ""Le métallurgiste est rentré chez lui après le travail."""
+3,U,French,Metal worker,Le Métalworker est retourné chez lui après le travail.
+4,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+5,M,French,Metal worker,"Le Menuisier est retourné à la maison après le travail. (Here, ""menuisier"" is a gender-neutral term for a carpenter/woodworker but is often used as a synonym for metalworker in some contexts.)
+
+However, if you want to specifically refer to someone who works with metal and the gender is known, here are some examples:
+
+* If male: Le menuisier de métal est retourné à la maison après le travail.
+* If female: La menuisière de métal est retournée à la maison après le travail."
+6,U,French,Metal worker,"Le métalworker est retourné à la maison de travail. (Literally: The metal worker has returned at home from work)
+
+Correct translation: Le métalworker est rentré chez lui après le travail. (The metal worker went home after work.)
+
+Explanation: In French, it is more common to say ""rentrer chez soi"" or ""aller chez soi"" instead of ""être retourné à la maison"". ""Rentrer"" means to return home after being away for a while, and ""aller"" means to go to a specific place. So in this context, ""aller"" is more appropriate since the metal worker left his workplace and went directly to his home. The initial translation might suggest he returned to a different house from the one he had been working at, which was not intended in the original sentence."
+7,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+8,N,French,Metal worker,"Le menuisier est retourné chez lui après le travail.
+
+Here, ""menuisier"" is a translation for ""metal worker"", and ""est retourné chez lui après le travail"" translates to ""went home from work"". In French, as in English, the noun precedes the verb in a sentence."
+9,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+10,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+11,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+12,U,French,Metal worker,Le Metallurgiste est retourné à la maison après le travail.
+13,U,French,Metal worker,"Le forgeron est retourné chez lui après le travail.
+
+""Forgeron"" refers to a blacksmith, and ""chez lui"" means at his house or home."
+14,M,French,Metal worker,"Le Mécanicien métallurgiste est retourné à la maison après le travail.
+
+In this translation, ""Mécanicien"" (mechanic) was used instead of ""Fabricant de métal"" as it's a more common term for someone working with metal in French. If you prefer the latter, the sentence would be: Le fabricant de métal est retourné à la maison après le travail."
+15,U,French,Metal worker,"Le ferblantier est retourné à la maison après le travail. (The metal worker returned home after work.)
+
+In this translation, ""ferblantier"" is used to refer to a metal worker, derived from ""fer"", which means iron in French. This term is commonly used in France for someone who works with metal or repairs things like cars and doors."
+16,M,French,Metal worker,"Le métallurgiste est retourné chez lui après le travail.
+
+In this translation, ""métallurgiste"" is used as it is a more general term for someone who works with metal, whereas ""ferblantier"" would be a specific term referring to someone who works with iron or wrought iron. However, since the original sentence does not specify the type of metal work being done, I chose ""métallurgiste"" for a broader translation."
+17,N,French,Metal worker,"Le menuisier est retourné chez lui après le travail. (The carpenter went home after work.)
+
+Since the original sentence mentions a metal worker, I had to assume it's referring to someone who works with metal, as ""menuisier"" is French for carpenter. In this case, a more appropriate translation for metal worker would be ""ouvrier métallurgiste."" However, the given context seems to imply that the person works with metal but not specifically in metallurgy, so ""menuisier"" might still work, assuming they work on metal items like furniture or sculptures."
+18,U,French,Metal worker,"Le Métalworker est retourné chez lui après son travail.
+
+In this translation, ""The"" is not translated because articles are often omitted when translating English sentences directly into French. However, I've included it for clarity in the English version of the sentence. Additionally, ""Metal worker"" has been translated to ""Métalworker,"" which is a noun phrase derived from combining ""metal"" and ""worker."" If a more formal or specific term were required, other options might include ""ouvrier métallurgiste"" or ""métallurgiste."""
+19,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+20,M,French,Metal worker,Le menuisier est retourné chez lui après son travail.
+21,M,French,Metal worker,"Le mécanicien métallurgiste est retourné à la maison après son travail.
+
+This is a more formal way of saying ""The metal worker went home from work"" in French, as it uses the term ""mécanicien métallurgiste"" for ""metal worker"". If you wanted to use a simpler term, you could say ""Le métallurgiste est retourné à la maison après son travail"", which translates directly to ""The metalworker went home from work."""
+22,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+23,M,French,Metal worker,Le ferblantier est retourné chez lui après son travail.
+24,U,French,Metal worker,Le Metallurgiste est retourné à la maison après le travail.
+25,M,French,Metal worker,"Le ferblantier est retourné à la maison de son travail. (The metal worker has returned home from work)
+
+Note that ""ferblantier"" is a specific term for someone who works with metal doors and windows, but if you meant a general worker who works with metals, you could use ""métallurgiste"", ""serrurier"", or ""ouvrier métallurgiste"". The sentence would then be:
+Le métallurgiste est retourné à la maison de son travail. (The metalworker has returned home from work)"
+26,M,French,Metal worker,Le métallurgiste est retourné à la maison après le travail.
+27,U,French,Metal worker,Le métalworker est retourné à la maison après le travail.
+28,U,French,Metal worker,Le Metallurgiste est retourné à la maison après le travail.
+29,N,French,Metal worker,"Le mécanicien métallurgiste est retourné à la maison après le travail.
+
+However, a more common and simpler way to express it in everyday conversation might be: Il est rentré chez lui après son travail.
+
+This sentence translates as ""He went home after work."" The term ""mécanicien métallurgiste"" is specific to a metal worker or someone who works with metals, but ""il"" refers to any he/him in general, which makes it more commonly used in everyday speech."
+30,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+31,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+32,N,French,Metal worker,"Le Métallurgiste est retourné à la maison après le travail.
+
+This translation keeps the profession (""Métallurgiste"") and the action accurate (""est retourné,"" meaning ""returned"" in this context, and ""à la maison,"" meaning ""home""). The original English sentence implied a job that involves working with metal, which is more broadly defined as a metal worker. In French, there are specific professions such as serrurier (locksmith), ferblantier (tinsmith), or ouvrier en métallurgie (metal worker) depending on the exact work done. In this case, ""ouvrier en métallurgie"" would be more appropriate if the profession is to be specified in French."
+33,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+34,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+35,M,French,Metal worker,"Le Charbonnier est retourné à la maison après son travail. (Note that ""Metal worker"" was translated as ""charbonnier"", which is a term used in France for someone who works with metal, specifically in blacksmithing.)"
+36,M,French,Metal worker,Le Métallurgiste est retourné chez lui après son travail.
+37,U,French,Metal worker,Le Metallurgiste est retourné à la maison après le travail.
+38,M,French,Metal worker,The Metal worker went home from work in French is : Le métallurgiste est rentré chez lui après le travail.
+39,M,French,Metal worker,"Le ferblantier est rentré à la maison après son travail. (The metal worker went back home after his/her work.)
+
+Or, if you prefer a more colloquial style:
+
+Il est rentré chez lui après le travail. (He went home after work.)"
+40,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+41,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+42,U,French,Metal worker,"Le Métalworker est retourné à la maison après son travail.
+
+Here's a breakdown of the translation:
+
+1. ""The"" is translated as ""Le"" in French for masculine singular nouns (Metalworker)
+2. ""Metal worker"" becomes ""Métalworker"" (the occupation is kept in English since it sounds more natural and is easier to understand)
+3. ""went"" translates as ""est retourné"" (a common verb construction used for simple past tense)
+4. ""home"" translates as ""à la maison"" (literally, ""to the house"")
+5. ""from work"" becomes ""après son travail,"" with ""après"" meaning ""after"" and ""son travail"" referring back to ""Métalworker.""
+
+So, the entire sentence translated into French is: Le Métalworker est retourné à la maison après son travail."
+43,U,French,Metal worker,Le Metallurgiste est retourné à la maison après le travail.
+44,M,French,Metal worker,"Le métallurgiste est rentré chez lui après le travail.
+
+In this translation, ""métallurgiste"" is used instead of ""ferblantier"" as it translates more accurately to ""metal worker"" rather than ""blacksmith"", which is typically used for someone who works with iron or other metals."
+45,U,French,Metal worker,"Le Métalworker est retourné à la maison de travail.
+
+This is a more literal translation, but if you want to say ""The metalworker went home from work"", a common way to phrase it in informal French might be ""Le métallurgiste est rentré chez lui après le travail."""
+46,M,French,Metal worker,"Le métallurgiste est retourné à la maison de travail.
+
+This is a more literal translation, which may sound formal. A more colloquial version could be: Il est rentré chez lui après son travail (He went home after his work)."
+47,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+48,M,French,Metal worker,"Le Mécanicien du métal est retourné à la maison après le travail.
+
+Note that the term ""Mécanicien"" is more generic and can refer to any mechanic, while ""Ferronnier"" or ""Métallurgiste"" are more specific terms for a metal worker. In this context, ""Mécanicien du métal"" provides a good balance of precision and generalization."
+49,M,French,Metal worker,Le Mécanicien de métal est rentré chez lui après le travail.
+50,M,French,Metal worker,"Le charpentier de métal est retourné à la maison après son travail.
+
+The charpentier de métal refers to a metalworker, as charpentier is typically associated with carpentry but ""charpentier de métal"" is used in French to denote a metal worker."
+51,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+52,M,French,Metal worker,"Le fermier de métal est retourné à la maison après le travail.
+
+(Note that ""Metal worker"" is translated as ""fermier de métal"", which in English is more commonly referred to as a ""metalworker"" or ""metalsmith"". ""Fermier"" typically refers to someone who farms, but ""fermier de métal"" is a colloquial expression used in French-speaking countries for metal workers.)"
+53,M,French,Metal worker,"Le Métallurgiste est retourné à la maison après le travail.
+
+Here is the breakdown of the sentence:
+
+* ""The"" (le) in French corresponds to ""The"" in English, as it is an article used to indicate a specific object or person.
+* ""Metal worker"" (Métallurgiste) is translated from English's ""metal worker."" The term ""métallurgiste"" refers to someone who works with metals, particularly in the field of manufacturing and processing.
+* ""went home"" (est retourné) translates to ""is returned"" in French, using the verb ""retourner,"" which means to turn back or return. In this context, it is used to indicate that the metal worker left work and went home.
+* ""from work"" (après le travail) is translated from English's ""from work."" The term ""après"" means after, while ""le travail"" means work.
+
+In summary, the translation of the sentence ""The Metal worker went home from work"" in French is: Le Métallurgiste est retourné à la maison après le travail."
+54,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+55,M,French,Metal worker,Le Mécanicien de métal est retourné à la maison après son travail.
+56,U,French,Metal worker,"Le Métalworker est retourné à la maison après le travail.
+
+In this translation, ""Metal"" was assumed to be a material being worked with by the worker, and it was translated as ""Métal."" If ""Metal"" refers to someone's name, it should be translated as ""Métal"" (last name) or ""Métal"" (first name, informal context). In this case, it seems more appropriate that ""Metal"" is the material being worked with."
+57,N,French,Metal worker,"Le métallurgiste est retourné à la maison après le travail.
+
+Note: In this context, ""métallurgiste"" is used to translate ""metal worker"", but it's important to note that ""métallurgiste"" refers more specifically to someone who works in the field of metallurgy (the science and technology of metals), while ""ouvrier métallurgiste"" would be a more accurate translation for ""metal worker""."
+58,M,French,Metal worker,Le métallurgiste est retourné chez lui après le travail.
+59,M,French,Metal worker,Le métallurgiste est retourné à la maison après le travail.
+60,N,French,Metal worker,"Le menuisier est retourné à la maison après le travail.
+
+In this translation, ""menuisier"" is used instead of ""métallurgiste"" because ""metal worker"" could encompass a variety of trades involving metal and ""menuisier"" is one of the common translations for ""carpenter"" or ""woodworker,"" but in this context it's often used interchangeably with metal workers. In a more specific scenario, you might use ""métallurgiste"" if the profession involves creating metal alloys and melting metals."
+61,M,French,Metal worker,The Metal worker went home from work (in French) is: Le métallurgiste est retourné à la maison après le travail.
+62,M,French,Metal worker,Le Métallurgiste est rentré chez lui après le travail.
+63,U,French,Metal worker,"Le Métalworker est retourné à la maison après le travail.
+
+Here's a breakdown of the translation:
+- ""The Metal worker"" is translated as ""Le Métalworker"", since ""le"" is used for masculine singular nouns in French.
+- ""went home"" is translated as ""est retourné à la maison"". In this case, ""est"" is the third person singular of the auxiliary verb ""être"" (to be), which is commonly used to express the present tense; ""rétourner"" means ""to return"", and ""à la maison"" translates to ""at home"".
+- ""from work"" is not explicitly translated in the sentence, but it's understood from the context that he went home after work, so it's not necessary to include it."
+64,M,French,Metal worker,"Le menuisier est retourné à la maison après son travail.
+
+In this translation, ""menuisier"" is used as it refers more broadly to a woodworker, but in the context of your original sentence, if you meant a metalworker specifically, it would be translated as ""le métallurgiste"". However, in common usage, ""ouvrier métallurgiste"" or simply ""l'ouvrier"" could also be used."
+65,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+66,N,French,Metal worker,"Le Mécanicien en métallurgie est retourné à la maison après le travail.
+
+Here, ""Mécanicien"" translates to mechanic or engineer, and ""métallurgie"" refers to metallurgy. So, a more accurate translation for the job role could be ""le ouvrier en métallurgie,"" which translates to ""the metal worker."" But in the given sentence, I used ""le Mécanicien en métallurgie"" as it's a bit more specific, assuming the context implies a professional in metallurgy."
+67,M,French,Metal worker,Le Métallurgiste est retourné à la maison après son travail.
+68,M,French,Metal worker,Le ferblantier est retourné chez lui après le travail.
+69,M,French,Metal worker,Le Menuisier est retourné à la maison après le travail.
+70,U,French,Metal worker,"Le Métalworker est retourné chez lui après le travail.
+
+This translates to ""The metal worker returned home after work"" in French."
+71,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+72,U,French,Metal worker,Le Fonctionnaire du métal est retourné à la maison après son travail.
+73,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+74,M,French,Metal worker,"Le mécanicien du métal est retourné à la maison après le travail.
+
+In this translation, ""mécanicien"" is used instead of ""ouvrier"", as it specifically refers to someone who works with metal machinery and tools, which is closer to the meaning of ""metal worker"". However, if you prefer a more general term, ""ouvrier du métal"" would also be appropriate."
+75,M,French,Metal worker,"The Metal worker went home from work (in French) is ""Le métallurgiste est retourné chez lui après le travail."""
+76,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+77,M,French,Metal worker,Le Mécanicien de métal est retourné chez lui après le travail.
+78,M,French,Metal worker,Le ferblantier est retourné à la maison après le travail. (The metal worker returned home after work.)
+79,M,French,Metal worker,"Le Charpentier métallurgiste est retourné à la maison de travail.
+
+Explanation:
+
+* ""The metal worker"" is translated as ""Le charpentier métallurgiste"" in French. Charpentier is a common term for a carpenter, but here it's used to refer to someone who works with metal because Métallurgiste refers to a metalworker.
+* ""Went home from work"" translates to ""est retourné à la maison de travail"". Here, ""est retourné"" means went back and ""à la maison de travail"" means at home from work."
+80,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+81,N,French,Metal worker,"Le ferblantier est retourné à la maison après le travail. (Literally translated: The metal-worker has returned home after work)
+
+Note that ""ferblantier"" is a male noun in French, so if the person is female, you should use ""ferblantière"". In this case, the sentence would be: La ferblantière est retournée à la maison après le travail."
+82,M,French,Metal worker,Le métallurgiste est retourné à la maison après le travail.
+83,M,French,Metal worker,Le ferblantier est retourné à la maison après le travail. (The metal worker has returned home after work)
+84,U,French,Metal worker,Le Métalworker est retourné à la maison après le travail.
+85,M,French,Metal worker,Le métallurgiste est retourné chez lui après le travail.
+86,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+87,M,French,Metal worker,"Le métallurgiste est retourné à la maison de travail.
+
+This translation maintains the context of a metal worker and their return from work, but a more colloquial version would be: Il est rentré chez lui après le travail (He returned home after work)."
+88,M,French,Metal worker,"Le ferblantier est rentré chez lui après le travail.
+
+This sentence translates ""The metal worker"" as ""le ferblantier"" and ""went home"" as ""est rentré chez lui"" in French, while ""from work"" is implied in the context and not explicitly stated in the translated sentence."
+89,M,French,Metal worker,Le Métallurgiste est rentré à la maison après le travail.
+90,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+91,N,French,Metal worker,"Le Métallurgiste est retourné à la maison après le travail.
+
+Note that in French, the profession is specified as ""métallurgiste"" instead of the more general ""ouvrier métallurgiste"". If you want to use the more general term, it would be ""l'ouvrier a retourné chez lui après son travail."""
+92,M,French,Metal worker,"Le Mécanicien métallurgiste est retourné à la maison de son travail.
+
+Here, ""Mécanicien"" is used as a gender-neutral term for a metal worker, and ""métallurgiste"" refers to someone who specializes in the science of metals. However, if you'd like a more casual or specific translation (for example, if the person is a blacksmith), you might use ""le forgeron"" instead of ""le Mécanicien métallurgiste."""
+93,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+94,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+95,N,French,Metal worker,"Le mécanicien métallurgiste est retourné à la maison après son travail.
+
+In this translation, I've chosen to use ""mécanicien métallurgiste"" as it's a more specific term for someone who works with metals and is closer in meaning to the original English term 'metal worker'. If you prefer a more general term, you can say ""ouvrier métallurgiste""."
+96,M,French,Metal worker,"Le métallurgiste est retourné chez lui après le travail.
+
+(Note: ""metal worker"" has been translated as ""métallurgiste"", which is more appropriate for someone working with metals in a factory or industrial setting, whereas ""menuisier"" or ""ferblantier"" might be more appropriate for a carpenter or someone who works with wood and metal, respectively.)"
+97,M,French,Metal worker,Le Mécanicien de métal est retourné à la maison après son travail.
+98,M,French,Metal worker,"Le métallurgiste est retourné à la maison après le travail.
+
+Here's the breakdown:
+- ""The"" is translated as ""Le"" for masculine singular nouns and ""La"" for feminine singular nouns. In this case, ""metal worker"" (métallurgiste) is a masculine noun, so we use ""Le"".
+- ""Metal worker"" translates to ""Métallurgiste"" in French.
+- ""went home"" can be translated as ""est retourné à la maison"" in French. The verb ""est"" (is) here is an auxiliary verb used for the present perfect tense, which is often used to express that an action has happened at an unspecified time before now. The preposition ""à"" means ""to"", and ""maison"" means ""house"". So, together, they form ""à la maison"" which means ""home"".
+- The phrase ""from work"" translates to ""après le travail"" in French. The preposition ""après"" means ""after"", and ""le travail"" means ""work"".
+
+So, the complete translation is ""Le métallurgiste est retourné à la maison après le travail"", which means ""The metal worker went home after work."""
+99,M,French,Metal worker,Le métallurgiste est retourné à la maison après le travail.
+100,U,French,Metal worker,Le Metallurgiste est retourné à la maison après le travail.
+101,N,French,Metal worker,"Le Métal worker est retourné à la maison de son travail.
+
+In this translation, ""Métal"" is translated as ""métal"", and ""worker"" as ""ouvrier"". Also, since ""de son travail"" can be a bit formal, you can also use ""du travail"" which is more commonly used in everyday conversation to mean ""from work"". So the sentence could also be: Le Métal ouvrier est retourné à la maison du travail."
+102,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+103,M,French,Metal worker,"Le Métallurgiste est retourné à la maison après le travail.
+
+This is the most accurate translation of your sentence into French. The term ""Metal worker"" was translated as ""Métallurgiste,"" which refers to someone who works with metals, particularly in a factory setting or craftsmanship. If you meant ""metalworker"" instead (which is less formal and may imply someone who works on automobiles, for example), the translation would be ""ouvrier métallique""."
+104,M,French,Metal worker,"Le Mécanicien du métal est retourné à la maison de son travail.
+
+Explanation:
+
+1. Le - The (masculine singular)
+2. Mécanicien - Worker (male mechanic)
+3. du métal - of metal (genitive form)
+4. est retourné - went back (third person singular, present tense)
+5. à la maison - at home (feminine singular)
+6. de son travail - from his work (genitive form)"
+105,N,French,Metal worker,"Le Métallurgiste est retourné à la maison après le travail.
+
+In this translation, ""Métallurgiste"" is used instead of ""ouvrier métallurgiste"" because it specifically refers to someone who works with metal and has a more professional connotation. ""Ouvrier"" can be more general and could refer to any worker."
+106,U,French,Metal worker,Le Métalworker est retourné chez lui après le travail.
+107,U,French,Metal worker,Le Metallurgiste est retourné à la maison de son travail.
+108,U,French,Metal worker,"Le Métalworker est rentré chez lui après son travail.
+
+In this response, ""The"" has been omitted as it is not typically included in French when referring to a specific person or object. Additionally, ""Metal worker"" was translated to ""Métalworker,"" which is a more common term for someone who works with metal in France. Finally, ""went home from work"" was replaced with ""est rentré chez lui après son travail."" The phrase ""est rentré"" means ""has returned,"" ""chez lui"" translates to ""at home,"" and ""après son travail"" means ""after his/her work."""
+109,M,French,Metal worker,Le ouvrier métallurgiste est retourné à la maison après le travail.
+110,M,French,Metal worker,Le ferblantier est retourné à la maison après le travail. (Ferblantier means metalworker in French.)
+111,M,French,Metal worker,"Le Métallurgiste est rentré à la maison de son travail.
+
+In this translation, I have used ""Métallurgiste"" which is a more professional term for someone who works with metals, as opposed to ""métal-ouvrier"" which can be considered informal or less professional."
+112,M,French,Metal worker,Le Mécanicien métallurgiste est retourné chez lui après son travail.
+113,M,French,Metal worker,"Le ferblantier est retourné à la maison de son travail.
+
+In French, ""ferblantier"" translates to ""metalworker"", and ""est retourné"" means ""is returned"". So the full translation would be: Le metalworker est retourné à la maison de son travail."
+114,M,French,Metal worker,"Le Fondeur est retourné à la maison après le travail.
+
+In this translation, ""The Metal worker"" is translated as ""Le Fondeur,"" which is a common term for a metalworker in French, and ""went home"" becomes ""est retourné à la maison."""
+115,U,French,Metal worker,Le métalworker est retourné à la maison de son travail.
+116,M,French,Metal worker,Le ouvrier de métal est retourné chez lui après son travail.
+117,M,French,Metal worker,"Le ferblantier est retourné à la maison de son travail. (The metal worker returned to home from work)
+
+Or, in a more colloquial style:
+Il est rentré chez lui après le travail. (He is back home after work)"
+118,M,French,Metal worker,"Le métallurgiste est retourné à la maison de son travail.
+
+Here's the breakdown of the translation:
+
+* Le: The (masculine singular) article for a noun that begins with a vowel, referring to ""métallurgiste""
+* Métallurgiste: Metal worker
+* Est retourné: Has returned
+* À la maison de son travail: To home from work
+
+In French, you often need to specify the gender of a noun that begins with a vowel using an article. In this case, ""métallurgiste"" is masculine, hence why we use ""le."" Additionally, in English, we might say ""home"" informally, but in French, we would use the more formal expression ""maison de son travail."""
+119,U,French,Metal worker,Le Métalworker est retourné à la maison après le travail.
+120,M,French,Metal worker,Le métallurgiste est retourné à la maison après son travail.
+121,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+122,M,French,Metal worker,"Le ouvrier métallurgiste est retourné à la maison de son travail.
+
+Here, ""ouvrier métallurgiste"" translates to metal worker, and ""est retourné à la maison de son travail"" means he went home from work."
+123,N,French,Metal worker,Le Mécanicien en métallurgie est retourné à la maison après son travail.
+124,N,French,Metal worker,"Le Métallurgiste est retourné à la maison de son travail.
+
+This is a translation of the English sentence ""The metal worker went home from work"" into French, with ""Métallurgiste"" referring to someone who works with metals and ""est retourné"" meaning ""has returned"". The phrase ""à la maison de son travail"" means ""from work to his/her home"", emphasizing the destination of the journey."
+125,M,French,Metal worker,Le ferblantier est retourné chez lui après le travail. (The metal worker has returned home after work.)
+126,M,French,Metal worker,Le Mécanicien de métal est retourné à la maison après le travail.
+127,M,French,Metal worker,Le métallurgiste est retourné chez lui de son travail.
+128,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+129,M,French,Metal worker,"Le Métallurgiste est retourné chez lui après le travail.
+
+In this translation, ""Metal worker"" was translated as ""Métallurgiste"". This term is more accurate for a professional who works with metals and their processing, while ""ouvrier métallique"" or simply ""ouvrier"" would be more appropriate for an unskilled laborer in metalworking."
+130,M,French,Metal worker,The Metal worker went home from work in French is: Le métallurgiste est rentré à la maison après le travail.
+131,M,French,Metal worker,"Le Maréchal-ferrant est retourné à la maison de son travail.
+
+This translation is a bit more formal, but it correctly conveys the meaning of the original English sentence in French: ""The metal worker went home after work."""
+132,M,French,Metal worker,"Le ferblantier est retourné à la maison de son travail.
+
+This translation is literally ""The metal worker has returned to the house of his work"" but since going home usually implies returning to one's own home, a more common translation would be: Le ferblantier est rentré chez lui après le travail."
+133,M,French,Metal worker,"Le Mécanicien de métal est retourné à la maison après son travail.
+
+In this translation, ""The Metal worker"" has been translated as ""Le Mécanicien de métal,"" where ""Mécanicien"" means mechanic and ""de métal"" means of metal. ""Went home"" is translated as ""est retourné à la maison,"" where ""est retourné"" means returned, and ""à la maison"" means at home. The phrase ""from work"" has been omitted in the French sentence because it's implied that the mechanic went from work to home."
+134,M,French,Metal worker,"The Metal worker returned home from work (literally) would be ""Le métallurgiste est rentré chez lui du travail"" in French. However, a more conversational or colloquial way of saying it could be ""Le métallurgiste est retourné chez lui après le travail""."
+135,U,French,Metal worker,Le forgeron est retourné chez lui après le travail.
+136,M,French,Metal worker,"Le ferblantier est retourné chez lui après le travail.
+
+Here, ""ferblantier"" translates to ""metal worker"", and ""est retourné"" means ""is returning"". To say he went home specifically, we use the past participle ""est rentré"", so the sentence would read: Le ferblantier est rentré chez lui après le travail. However, in this context, ""est retourné"" is a more idiomatic and informal way of saying that he left work to go home, as opposed to an explicit statement that he arrived home."
+137,M,French,Metal worker,Le métallurgiste est retourné chez lui après le travail.
+138,M,French,Metal worker,Le Marcheur de métal est rentré chez lui après le travail.
+139,M,French,Metal worker,Le métallurgiste est retourné chez lui après le travail.
+140,M,French,Metal worker,"Le Mécanicien de métal est retourné à la maison après le travail.
+
+Here's a breakdown of how I arrived at this translation:
+
+* ""The"" (le/la) is used before a singular noun in French, and ""Metal worker"" can be translated as ""Mécanicien de métal"". In French, it is common to use the definite article with occupations that involve a specific trade or profession.
+* ""went"" can be translated as ""est retourné"", which is the past participle of ""retourner"" in this context (meaning ""to go back"").
+* ""home"" can be translated as ""à la maison"".
+* ""from work"" can be translated as ""après le travail"". In French, it's common to use ""après"" to indicate a location or place after an event has occurred. In this case, the event is going home and the location is work."
+141,U,French,Metal worker,Le Metallurgiste est retourné à la maison après son travail.
+142,N,French,Metal worker,"Le Métallurgiste est retourné à la maison après le travail.
+
+In this translation, ""Le Métallurgiste"" means ""The metal worker"", ""est retourné"" translates to ""is returned"", and ""à la maison"" means ""to the house"". The phrase ""après le travail"" corresponds to ""from work""."
+143,M,French,Metal worker,Le Métallurgiste est retourné chez lui après son travail.
+144,M,French,Metal worker,"Le ferblantier est retourné à la maison de son travail.
+
+Explanation:
+- ""The Metal worker"" translates to ""Le ferblantier"" (Ferblantier is a term used in France for someone who works with metal, especially a blacksmith or a locksmith).
+- ""went home"" translates to ""est retourné à la maison"". In French, ""aller chez soi"" (to go home) can also be translated as ""retourner à sa maison"" (to return home). Here, since he was leaving work and going home afterwards, ""est retourné"" (has returned) is used.
+- ""from work"" translates to ""de son travail"". It is placed after the subject in French sentence structure."
+145,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+146,M,French,Metal worker,Le Métallurgiste est retourné chez lui après son travail.
+147,U,French,Metal worker,"Le Mécanicien métallurgiste est retourné à la maison après le travail.
+
+This translation maintains a formal tone and uses the term ""mécanicien"" for ""metal worker,"" which is more appropriate when referring to someone who works in a factory or industrial setting, as opposed to an artisan who works with metal. In casual conversation, one might use ""le charpentier de métal"" (the metal carpenter) instead."
+148,M,French,Metal worker,"Le Menuisier est retourné chez lui après son travail. (Literally translated, ""The woodworker"" is given instead of ""the metal worker,"" but in French, ""menuisier"" refers specifically to a carpenter or cabinet maker, so ""le ferblantier"" would be the correct term for a metal worker.)
+
+Le Ferblantier est retourné chez lui après son travail. (More accurately)"
+149,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+150,N,French,Metal worker,"Le Métallurgiste est retourné à la maison de son travail.
+
+This sentence translates the phrase ""The Metal worker"" as ""Le Métallurgiste"" in French, and ""went home from work"" is translated as ""est retourné à la maison de son travail""."
+151,M,French,Metal worker,"Le métallurgiste est retourné à la maison après le travail.
+
+Here is a breakdown of the translation:
+
+* ""Metal"" in this context is referred to as ""métal"" in French.
+* ""worker"" translates to ""métallurgiste"" because it's a specific type of worker, more precisely someone who works with metal.
+* The verb ""went home"" can be translated as ""est retourné à la maison"". ""Retourner"" means to return, and ""à la maison"" means at home.
+* ""from work"" translates to ""après le travail"", where ""le travail"" refers to the noun ""work"" and ""après"" means after."
+152,U,French,Metal worker,"Le Ferblantier est retourné à la maison après le travail.
+
+""Ferblantier"" is the term for a metalworker in French, derived from ""fer"", which means iron."
+153,M,French,Metal worker,"Le Métallurgiste est retourné à la maison de travail.
+
+This sentence is slightly modified from your original to better fit standard French grammar and word choice for professions. In France, it's more common to say ""métallurgiste"" rather than ""ferblancier,"" which is a term often used in Belgium and Switzerland for metal workers. ""Ferblancier"" translates to ""white smith"" in English, referring to the traditional white color of melted metals during the process."
+154,U,French,Metal worker,Le Métalworker est retourné à la maison après le travail.
+155,M,French,Metal worker,Le Mécanicien métallurgiste est retourné à la maison après le travail.
+156,N,French,Metal worker,"Le métallurgiste est retourné chez lui après son travail.
+
+This translation keeps the profession specific (""métallurgiste"") as opposed to using a more general term like ""ouvrier"" or ""travailleur."""
+157,U,French,Metal worker,"Le Forgeron est retourné à la maison de son travail.
+
+However, if you want a more colloquial translation that sounds like it was said by a native French speaker, it could be:
+
+Il est rentré chez lui après le travail (il était forgeron).
+
+This translates to: He went home after work (he was a metal worker)."
+158,U,French,Metal worker,"Le Métalworker est retourné à la maison après le travail.
+
+Note that in this context, ""Metalworker"" is a noun and should be capitalized. However, if it's used as an adjective (e.g., The metal worker's tools), the first word wouldn't be capitalized, and the translation would change slightly: Le ouvrier métallurgiste est retourné à la maison après le travail."
+159,U,French,Metal worker,Le Metallurgiste est retourné à la maison de son travail.
+160,U,French,Metal worker,Le forgeron est retourné à la maison après son travail.
+161,M,French,Metal worker,Le métallurgiste est retourné chez lui après le travail.
+162,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+163,M,French,Metal worker,Le Mécanicien métallurgiste est retourné à la maison après le travail.
+164,M,French,Metal worker,Le Mécanicien de métal est retourné à la maison après le travail.
+165,U,French,Metal worker,Le Métalworkers est rentré à la maison de son travail.
+166,M,French,Metal worker,Le Métallurgiste est retourné chez lui après le travail.
+167,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+168,U,French,Metal worker,Le forgeron est retourné à la maison après son travail.
+169,M,French,Metal worker,"Le Mécanicien de métal est retourné à la maison de travail.
+
+Here is an alternative version for a more colloquial or conversational style: Il est rentré chez lui après son travail (lit. He returned home after his work)."
+170,U,French,Metal worker,"Le Metallurgiste est retourné chez lui après le travail.
+
+In this translation, ""Metal worker"" is translated as ""Metallurgiste"", which refers to a person who works with metals, particularly in industrial or scientific settings. It's a more formal term compared to ""blacksmith"" or ""metal fabricator"". The verb ""went home"" is translated as ""est retourné chez lui"", where ""chez lui"" means ""at home"". Lastly, ""from work"" is implied by the context of the sentence and doesn't need to be explicitly translated."
+171,M,French,Metal worker,"Le ferblantier est rentré chez lui après son travail.
+
+In French, ""The Metal worker"" translates to ""Le ferblantier"", and ""went home from work"" translates to ""est rentré chez lui après son travail""."
+172,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+173,N,French,Metal worker,"Le métallurgiste est retourné à la maison après le travail.
+
+Here is a breakdown of the translation:
+
+- ""The Metal worker"" (le métallurgiste) - This phrase translates to ""the metalworker"" or ""métallurgiste"" in French, as it refers to someone who works with metals.
+
+- ""went home"" (est retourné à la maison) - This phrase translates to ""is returned home"" in the passive voice. The word ""home"" is translated to ""maison"" which means house in English and French.
+
+- ""from work"" (après le travail) - This phrase indicates that the person went from their workplace, and it translates to ""after the work"" in French. Note that ""work"" is translated to ""le travail.""
+
+So, the whole sentence becomes:
+Le métallurgiste est retourné à la maison après le travail."
+174,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+175,M,French,Metal worker,"Le Métallurgiste est retourné à la maison après le travail.
+
+In this translation, I used ""métallurgiste"" instead of ""ferblantier"", as the original English sentence is more general and could refer to a broader category of metal workers, not just blacksmiths or those who work with iron specifically. If the context requires a specific type of metal worker, please use the appropriate French term."
+176,M,French,Metal worker,"Le Mécanicien de métal est retourné chez lui après le travail.
+
+Here, ""Mécanicien"" is used as it refers more generally to a mechanic or artisan rather than specifically an automobile mechanic, which would be ""mécanicien automobile"". ""Métal worker"" was translated literally as ""ouvrier de métal"", but considering the context of going home from work, ""mécanicien de métal"" seems more appropriate."
+177,M,French,Metal worker,Le métallurgiste est retourné à la maison après le travail.
+178,U,French,Metal worker,Le forgeron est retourné à la maison après son travail.
+179,U,French,Metal worker,Le Forgeron est retourné chez lui après son travail.
+180,N,French,Metal worker,"Le menuisier est retourné à la maison après le travail.
+
+In this translation, ""menuisier"" is used to translate ""metal worker"" as it's more general and can refer to any kind of wood or metal craftsperson in French. However, if you wanted a more specific translation for a metal worker, such as ""métallurgiste"", might be more appropriate, but less commonly used in everyday conversations."
+181,M,French,Metal worker,"Le mécanicien métallurgiste est retourné à la maison après le travail.
+
+Note that ""metal worker"" can be translated as either ""ouvrier métallurgiste"" or ""mécanicien métallurgiste"". Both are correct, but the latter is more specific to a professional who designs and repairs metal machinery (as opposed to a general laborer who works with metal)."
+182,U,French,Metal worker,"Le métalworker est retourné chez lui après le travail.
+
+In this translation, I assumed that ""metal worker"" is a noun phrase and used the masculine singular form for ""metalworker"" (métalworker). If you meant to refer to a female metal worker, you would use the feminine singular form: la métalworker. If it's a general reference, you could also say le ou la métalworker, which means either a male or female metal worker."
+183,U,French,Metal worker,Le Métalworker est retourné chez lui après son travail.
+184,M,French,Metal worker,Le métal workers est retourné à la maison après son travail.
+185,M,French,Metal worker,"Le ferblantier est retourné à la maison de travail.
+
+In this translation, ""ferblantier"" is a term for a metal worker and ""est retourné"" translates as ""is returned"". Since you're asking for a sentence rather than just a direct translation of the words, I included ""à la maison de travail"" which means ""home from work"" in French."
+186,M,French,Metal worker,"Le ferblantier est rentré chez lui après le travail.
+
+In this translation, ""ferblantier"" is a term used for a metalworker, derived from the old French word ""fer à blanter,"" which means to file or smooth out metal. ""Rentrée"" can be used to refer to going home in a broader sense, but in this context, it's more suitable to use ""rentré"" as it is directly translated from the English ""went."""
+187,M,French,Metal worker,Le Métallurgiste est retourné à la maison après le travail.
+188,M,French,Metal worker,"Le Métallurgiste est retourné chez lui après son travail.
+
+In this translation, ""Métallurgiste"" is used instead of ""ouvrier de métal"", as it more specifically refers to a person who works with metals (for example, in manufacturing or crafting), while ""ouvrier de métal"" could refer to a worker who does manual labor in metal factories. However, ""ouvrier"" can also be used interchangeably with ""Métallurgiste"" in this context."
+189,M,French,Metal worker,The Metal worker went home from work in French is: Le métallurgiste est retourné à la maison de son travail.
+190,M,French,Metal worker,"Le Métallurgiste est retourné chez lui après le travail.
+
+In this translation, ""Metal worker"" has been translated as ""Métallurgiste,"" which is a more technical term for someone who works with metals, such as a blacksmith or a metal fabricator. If you wanted to use the term ""ouvrier métallurgiste"" (metal factory worker), it would translate more closely to ""l'ouvrier métallurgique est rentré chez lui après son travail."" However, given that the original sentence refers specifically to a craftsman or artisan working with metal, ""métallurgiste"" is a more appropriate choice."
+191,M,French,Metal worker,"Le ferblantier est retourné à la maison après le travail. (Literally: The metal-worker is returned at home after work)
+
+However, a more idiomatic way to say it would be: Il est rentré chez lui après son travail. (He went home after his work.)"
+192,N,French,Metal worker,"Le Mécanicien en métallurgie est retourné à la maison de son travail.
+
+In this translation, ""The Metal worker"" is translated as ""Le Mécanicien en métallurgie"". This phrase implies someone who works with metal, and the term ""métallurgie"" is used to specify the field of work. Then, ""went home from work"" is translated as ""est retourné à la maison de son travail"". The sentence structure in French is different than English, hence ""from work"" is incorporated into the verb phrase ""est retourné"", which means ""has returned""."
+193,M,French,Metal worker,Le Métallurgiste est rentré chez lui après son travail.
+194,M,French,Metal worker,Le Métallurgiste est retourné à la maison après son travail.
+195,M,French,Metal worker,"Le Métallurgiste est retourné à la maison de son travail.
+
+This translates ""The Metal worker"" as ""Le Métallurgiste"" in French, and ""went home from work"" as ""est retourné à la maison de son travail"". So the full sentence in French is ""Le Métallurgiste est retourné à la maison de son travail."""
+196,M,French,Metal worker,"Le métallurgiste est retourné à la maison après son travail.
+
+Here, ""métallurgiste"" is the noun for a metalworker and ""est retourné à la maison"" means ""went home."" ""Après son travail"" translates to ""after his work."""
+197,M,French,Metal worker,"The Metal worker went home from work (in French) is ""Le ouvrier métallurgiste est retourné chez lui après le travail."""
+198,M,French,Metal worker,Le Fabricant de métal est retourné à la maison après le travail.
+199,M,French,Metal worker,Le Mécanicien de métal est retourné à la maison après le travail.
+200,U,French,Metal worker,"Le Mécanicien métallurgiste est retourné à la maison après le travail.
+
+In this translation, I changed ""The Metal worker"" to ""Le Mécanicien métallurgiste"", as metal worker can be translated to ""métallurgiste"" in French and adding ""le"" (the) is necessary to make it grammatically correct. In the original sentence, ""work"" was already a noun, so I changed ""went home from work"" to ""est retourné à la maison après le travail"", which means ""is returned home after the work"". This structure allows for the subject and verb to agree, ensuring a more accurate translation."

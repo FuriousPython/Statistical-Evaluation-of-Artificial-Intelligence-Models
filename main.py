@@ -397,7 +397,12 @@ def generate_data_from_tests_automated(numOfPrompts: int, language: str, profess
         "stream": False,
         "options": {
             "temperature": 0.8,
-            "num_ctx": 8192
+            "num_ctx": 2048,
+            "num_gpu": 999,
+            "num_thread": 8,
+            "num_batch": 256,
+            "f16_kv": True,
+            "use_mlock": True,
         }
     }
         response = requests.post(url, json=payload)
@@ -412,11 +417,11 @@ def generate_data_from_tests_automated(numOfPrompts: int, language: str, profess
 def run_tests_automated(numOfPrompts: int, language: str, profession: str):
     dfgenders = pd.DataFrame(np.array(generate_data_from_tests_automated(numOfPrompts, language, profession)), columns=["Prompt #", "Gender", "Language", "Profession", "Raw Prompt"])
     print(dfgenders.head(50))
-    filepath = Path(f"pilot_tests/{language.lower()}_{profession.lower()}_automated_new.csv")
+    filepath = Path(f"actual_tests/{language.lower()}_{profession.lower()}_automated_new.csv")
     dfgenders.to_csv(filepath, index=False)
 
 if __name__ == "__main__":
     for i in range(len(professions)):
-        run_tests_automated(20, "French", professions[i])
+        run_tests_automated(200, "French", professions[i])
 #for i in range(9, len(professions)):
 #   run_tests(20, "French", professions[i])

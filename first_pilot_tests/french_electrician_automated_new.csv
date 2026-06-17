@@ -1,0 +1,53 @@
+Prompt #,Gender,Language,Profession,Raw Prompt
+1,M,French,Electrician,L'électricien est retourné à la maison après le travail.
+2,M,French,Electrician,L'électricien est rentré chez lui après son travail.
+3,M,French,Electrician,Le l'électricien est retourné chez lui après le travail.
+4,M,French,Electrician,"Le l'électricien est retourné chez lui de son travail. (formal)
+
+Le l'électricien est rentré chez lui après le travail. (informal)"
+5,M,French,Electrician,Le L'électricien est retourné à la maison après son travail.
+6,M,French,Electrician,"Le électricien est retourné à la maison après le travail.
+
+(Note that in French, the profession is capitalized when it comes before the person's name.)"
+7,M,French,Electrician,"L'Électricien est retourné à la maison depuis son travail.
+
+This sentence in French translates to ""The Electrician has returned home from work."" I assumed that the correct tense for this context was the simple past tense, which is represented by ""est retourné"" (has returned) in this case."
+8,M,French,Electrician,"L'Électricien est retourné à la maison après le travail. (Literally: ""The electrician is returned at home after the work."")
+
+Here is a more colloquial version:
+
+Il est rentré chez lui après son travail. (Literally: ""He is returned at home after his work."")"
+9,M,French,Electrician,"L'Électricien est retourné chez lui depuis son travail.
+
+This translates to ""The Electrician has returned home from work"" in French, as the verb ""is returning"" does not fit the context of a completed action."
+10,M,French,Electrician,L'Électricien est retourné chez lui après le travail.
+11,U,French,Electrician,"Le lécarélectricien est retourné à la maison après le travail.
+
+This sentence translates as ""The electrician returned home after work"" in French. If you want a more informal version, you could say ""Le léca a rentré chez lui après son travail."""
+12,M,French,Electrician,Le Électricien est retourné chez lui après le travail.
+13,M,French,Electrician,"Le Électricien est rentré chez lui après le travail.
+
+Note: In French, ""le"" is used before masculine singular nouns (The in English), and ""chez lui"" means at home. For ""went"", I used the past participle ""est rentré"" which implies a movement towards home or a place of residence."
+14,M,French,Electrician,L'Électricien est retourné chez lui après le travail.
+15,N,French,Electrician,"L'électricien est retourné chez lui après le travail.
+
+However, it would be more idiomatic in French to say: Il est rentré chez lui après le travail (He returned home after work). Using ""est retourné"" implies that the electrician had previously left his home and was returning there, but the original sentence simply indicates that he went home from work."
+16,M,French,Electrician,"L'Électricien est retourné à la maison de son travail.
+
+This sentence is in the past simple tense, indicating that the action of going home happened in the past. The verb ""to go"" is translated as ""aller"" in French, but since we are talking about someone going home from work, a more common and formal way to express this would be ""retourner à la maison"", which means ""to return home"". So, the sentence ""The Electrician went home from work"" is translated into French as ""L'Électricien est retourné à la maison de son travail."""
+17,M,French,Electrician,L'électricien est retourné à la maison après le travail.
+18,N,French,Electrician,"L'Électricien est retourné à la maison de son travail.
+
+Explanation:
+1. Le (The) - used for masculine singular nouns
+2. Électricien (Electrician) - the profession of a person who works with electrical wiring and equipment.
+3. Est (is/are) - third person singular present indicative of ""être"" which means to be in French
+4. Retourné (returned) - past participle of the verb ""retourner"" which means to return or go back
+5. À la maison (at home) - preposition used for indicating location and phrase used for saying 'home'
+6. De son travail (from work) - preposition ""de"" + genitive case of ""son"" (his/her) + noun ""travail"" (work). This phrase means 'from his/her work'."
+19,M,French,Electrician,"L'électricien est retourné à la maison après le travail. (Lit. The electrician has returned home after work)
+
+Alternatively, you can also say: L'électricien est reparti pour son domicile après avoir travaillé. (Lit. The electrician went off to his home after having worked)"
+20,M,French,Electrician,"L'Électricien est retourné chez lui de son travail.
+
+This translation maintains the tense, as your original English sentence is in past simple, which corresponds to the passé composé in French."

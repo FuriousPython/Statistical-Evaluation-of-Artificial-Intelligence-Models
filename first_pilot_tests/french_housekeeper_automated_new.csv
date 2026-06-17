@@ -1,0 +1,48 @@
+Prompt #,Gender,Language,Profession,Raw Prompt
+1,F,French,Housekeeper,"La serveuse est retournée chez elle après le travail. (However, if referring to a male housekeeper, it would be Le gardien de la maison est rentré chez lui après le travail.)
+
+In this context, ""serveuse"" is used to refer generally to a housekeeper or butler. If you want to specifically refer to a female housekeeper, you can use ""la serveuse"" and for a male housekeeper, you can use ""le gardien de la maison""."
+2,F,French,Housekeeper,La laquaisie est retournée chez elle après le travail.
+3,F,French,Housekeeper,"La gouvernante est retournée chez elle après le travail.
+
+In this translation, ""gouvernante"" (housekeeper) and ""chez elle"" (at her home) were used instead of ""la bonne"" (the maid, a more informal term) and ""à la maison"" (at home) respectively to make the sentence sound more formal."
+4,F,French,Housekeeper,"La gardienne est retournée à la maison après le travail.
+
+In this translation, ""The Housekeeper"" is translated as ""La gardienne,"" which can refer to a female housekeeper or caretaker in French. If you specifically mean a domestic housekeeper (female), it would be ""la femme de ménage."" ""Went home"" is translated as ""est retournée à la maison."" And ""from work"" is omitted because the meaning is implied by the context of returning home after a day's work."
+5,F,French,Housekeeper,The sentence in French is: La femme de ménage est retournée à la maison après son travail.
+6,F,French,Housekeeper,La femme de ménage est retournée à la maison après son travail.
+7,F,French,Housekeeper,La Gardienne de Maison est retournée chez elle après le travail.
+8,F,French,Housekeeper,"La Coiffure est retournée chez elle après le travail. (Note that ""housekeeper"" is translated as ""coiffure"" in French, which refers to a hairdresser or beauty salon. For a housekeeper, ""la bonne d'habitation"" or simply ""la bonne"" would be more appropriate.) However, for the sake of understanding your question, I have used ""housekeeper"" in my translation. If you want to use ""la bonne"", the sentence translates as: La bonne est retournée chez elle après le travail."
+9,F,French,Housekeeper,"The Housekeeper returned home from work is translated in French as ""La femme de ménage est retournée à la maison du travail."""
+10,F,French,Housekeeper,"La gouvernante est retournée à la maison après son travail.
+
+In French, ""The"" is usually not translated when referring to people (except for certain formal contexts). So, the sentence becomes ""La gouvernante est retournée à la maison après son travail,"" which translates directly to ""The housekeeper returned home after her work."""
+11,F,French,Housekeeper,"La femme de ménage est retournée chez elle depuis le travail.
+
+Here's a breakdown of each part of the translation:
+
+1. ""La femme de ménage"" - This translates as ""The housekeeper"".
+2. ""est retournée"" - This is the third-person singular form of the French verb ""rentrer"", which means ""to go back"" or ""to return"". In this context, it implies that someone went back to their original location (usually home).
+3. ""chez elle"" - This phrase means ""at her"" and indicates the location where the housekeeper returned. It's implied that ""elle"" refers to a specific person, as in our case, the housekeeper.
+4. ""depuis le travail"" - This expression translates as ""from work"". It explains why the housekeeper left their previous location (work) and went back home."
+12,F,French,Housekeeper,"La gardienne est retournée chez elle après le travail.
+
+In this translation, ""The Housekeeper"" was translated as ""La gardienne"", which is a common term for someone who takes care of a house or household in French. ""Went home"" translates to ""est retournée chez elle"", where ""chez elle"" means ""at her place/home"". Lastly, ""from work"" translates to ""après le travail""."
+13,F,French,Housekeeper,"La Jardinière est retournée à la maison après son travail. (Note that the English term ""housekeeper"" doesn't directly translate into French as it can refer to a domestic worker or a manager of a hotel, so I've used ""jardinière,"" which is a more common term for a caretaker of a garden or estate in France.)
+
+If you want to express that the person who goes by the title 'housekeeper' went home from work, it would be: La gardienne de maison est retournée à la maison après son travail."
+14,F,French,Housekeeper,"La bonne est retournée chez elle après le travail.
+
+In this translation, ""la bonne"" refers to a housekeeper in French. If you meant another profession such as a cleaner or maid, you could say ""la nettoyante"" instead."
+15,F,French,Housekeeper,"La Jardinière est retournée chez elle après le travail. (Note: In this context, ""housekeeper"" is translated as ""jardinière"", which is a term often used in English-speaking countries to refer to a maid or domestic worker. However, if you meant ""gardener"", the correct translation would be ""le jardinier"".)"
+16,F,French,Housekeeper,La gouvernante est retournée chez elle après le travail. (Literally: The housekeeper returned home after work)
+17,F,French,Housekeeper,"La femme de ménage est retournée chez elle après le travail.
+
+In this translation, ""The"" is not included because it's typically dropped in French when referring to a female housekeeper, which is ""la femme de ménage."" Additionally, the verb tense used here is the simple past (retournée), as it indicates an action completed in the past, and the agent (femme de ménage) and the action (returned home) are both in their correct positions in this sentence."
+18,F,French,Housekeeper,"La bonne est retournée à la maison après le travail. (The housekeeper is back home after work.)
+
+In informal contexts, you can also use ""La femme de ménage"" instead of ""la bonne"". In this case, the sentence would be: La femme de ménage est retournée à la maison après le travail."
+19,F,French,Housekeeper,La femme de ménage est retournée à la maison après le travail.
+20,F,French,Housekeeper,"La gouvernante est retournée chez elle après le travail.
+
+This translates the English sentence ""The housekeeper went home from work"" into French, expressing that the housekeeper has returned home after completing their duties."

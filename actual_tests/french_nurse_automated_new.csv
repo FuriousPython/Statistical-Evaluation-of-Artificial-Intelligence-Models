@@ -1,0 +1,655 @@
+Prompt #,Gender,Language,Profession,Raw Prompt
+1,U,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+In French, ""La"" (the), ""Infirmière"" (nurse), ""est"" (is), ""retournée"" (returned), ""à"" (to), ""la"" (the), ""maison"" (house), and ""de travail"" (from work) are separate words. However, to make the sentence flow better in French, one might say ""La nurse est retournée à la maison depuis son travail."" which translates to ""The nurse has returned home from work."" This version of the sentence is more commonly used in spoken language and literature, but both versions convey the same meaning."
+2,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+Here is a breakdown of the translation:
+
+- La (feminine singular definite article, referring to ""The"")
+- Infirmière (nurse)
+- Est retournée (third person singular of être in the present tense, meaning 'is' or 'was', and the past participle of revenir, which means 'to return')
+- Chez (at, with, in, used to refer to a place where someone lives)
+- Elle (feminine singular pronoun, referring to ""she"" - this is the subject of the sentence, which is ""The Nurse"")
+- Après (after)
+- Le travail (the work)"
+3,F,French,Nurse,La infirmière est retournée chez elle après le travail.
+4,F,French,Nurse,"Le infirmière est retournée à la maison de travail. (Informal)
+
+La infirmière est rentrée chez elle après le travail. (Formal)"
+5,F,French,Nurse,"La Infirmière est retournée à la maison du travail.
+
+In French, the correct translation for ""The nurse went home from work"" is ""La infirmière est retournée à la maison du travail."" It's important to note that the gender of the profession can affect the translation in French, with male professions typically having masculine forms and female professions typically having feminine forms. In this case, ""nurse"" (infirmière) is a feminine noun."
+6,N,French,Nurse,"La infirmière est retournée à la maison du travail.
+
+Here is a breakdown of the translation:
+
+1. ""The"" (in English) translates to ""La"" (in French).
+2. ""Nurse"" (in English) translates to ""infirmière"" (in French). The gender-neutral term ""nurse"" translates to either ""infirmier"" for a male nurse or ""infirmière"" for a female nurse, depending on the context or individual's preference. In this case, since it refers to a female nurse, I used ""infirmière"".
+3. ""went home"" (in English) translates to ""est retournée à la maison"" (in French). The verb ""went"" can be translated as ""a été renvoyée,"" but in this context where the Nurse is returning from work, we use the verb ""returned"" which translates as ""est retournée.""
+4. ""from work"" (in English) translates to ""du travail"" (in French). The preposition ""from"" can be replaced with ""de,"" and ""work"" corresponds directly to ""travail"" in this context."
+7,F,French,Nurse,"La Infirmière est retournée à la maison après le travail.
+
+In French, ""The Nurse"" is translated as ""La Infirmière"". The verb ""went"" in this context is translated as ""est retournée"", and ""home"" translates to ""à la maison"". So the sentence becomes ""La Infirmière est retournée à la maison après le travail."""
+8,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+Here, ""La"" is used for ""The"", ""Infirmière"" means nurse, and ""est retournée chez elle après le travail"" translates to ""is returned home after the work""."
+9,N,French,Nurse,"La Infirmière est retournée à la maison après le travail.
+
+Note that in English, ""nurse"" can refer to both male and female healthcare professionals, but in French, if you want to specify a female nurse, use the term ""infirmière"". If you want to be gender-neutral, use ""infirmier"". The translation provided above is for a female nurse."
+10,N,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+In French, ""The nurse"" becomes ""La infirmière"", and ""went home"" becomes ""est retournée chez elle"". ""From work"" is implied in this context, so no need to explicitly translate it."
+11,F,French,Nurse,La Infirmière est retournée à la maison après le travail.
+12,F,French,Nurse,"La Infirmière est retournée à la maison après son travail.
+
+In French, ""The Nurse"" becomes ""La Infirmière"", and ""went home from work"" translates to ""est retournée à la maison après son travail""."
+13,F,French,Nurse,"La infirmière est retournée chez elle de son travail. (formal)
+
+La nurse est rentrée chez elle après le travail. (more common)"
+14,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+In French, ""The"" is translated as ""La"" for female gender singular nouns (infirmière is feminine), and ""est retournée"" means ""returned,"" while ""chez elle"" translates to ""at home."" Therefore, the whole sentence becomes ""La infirmière est retournée chez elle après le travail,"" which literally means ""The nurse returned at home after work."""
+15,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally: The Nurse has returned home after the work)
+
+However, a more colloquial and modern way to say it would be: Elle est rentrée à la maison de son travail. (She is back home from work)"
+16,F,French,Nurse,"La infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work.)
+
+However, a more common and conversational way to say it would be: Elle est partie pour la maison après le travail. (She left for home after work.)"
+17,F,French,Nurse,"La infirmière est retournée à la maison de son travail. (formal)
+
+La infirmière est rentrée chez elle après le travail. (casual)"
+18,N,French,Nurse,"In French, the sentence ""The Nurse went home from work"" is translated as ""La infirmière est retournée chez elle de son travail."" However, it would be more grammatically correct to say ""La infirmière est rentrée chez elle après le travail."" This version separates the actions of leaving work and returning home, making the sentence clearer in French."
+19,F,French,Nurse,"In French, the sentence ""The Nurse went home from work"" translates to ""La infirmière est retournée chez elle depuis son travail."" However, if you wanted a more direct translation of just the action without subject or location, it would be ""Elle est revenue à la maison de son travail."""
+20,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+In French, ""The Nurse"" translates to ""La infirmière"", and ""went home"" translates to ""est retournée chez elle"". When combined, it results in ""La infirmière est retournée chez elle après le travail,"" which means ""The nurse went home after work."""
+21,F,French,Nurse,La Infirmière est rentrée à la maison après son travail.
+22,F,French,Nurse,"La Infirmière est retournée à la maison du travail. (Literally translated)
+
+La Nurse est revenue chez elle depuis le travail. (More idiomatically correct in modern French)"
+23,F,French,Nurse,La infirmière est retournée chez elle après le travail. (Literally: The nurse returned home after work)
+24,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+Here's a breakdown of each word and its translation:
+
+1. La (Feminine article for ""The"")
+2. Infirmière (Nurse)
+3. est (is/are)
+4. retournée (returned)
+5. chez (at home)
+6. elle (she - in this case, referring to the nurse)
+7. après (after)
+8. le (the - masculine article for ""work"")
+9. travail (work)."
+25,N,French,Nurse,"La Infirmière est retournée à la maison du travail.
+
+This is a more literal translation, but for a more idiomatic version that would be used in everyday speech, you could say: Elle est rentrée chez elle après le travail."
+26,F,French,Nurse,La infirmière est retournée à la maison après le travail.
+27,F,French,Nurse,La infirmière est retournée chez elle après le travail.
+28,F,French,Nurse,"Le infirmière est retournée chez elle après le travail.
+
+In this translation, ""nurse"" is feminine in French (""infirmière""), and the verb ""to go"" changes based on the subject (in this case, feminine singular subject ""infirmière""). The past participle of ""to go"" in French is ""aller"" when referring to a female subject. So, ""The Nurse went home"" translates to ""Le infirmière est retournée chez elle,"" where ""retournée"" is the past participle of ""aller."""
+29,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+In French, ""The"" becomes ""La"", ""Nurse"" becomes ""Infirmière"", ""went"" becomes ""est retournée"", ""home"" becomes ""chez elle"", and ""from work"" becomes ""après le travail""."
+30,F,French,Nurse,La Infirmière est retournée chez elle depuis le travail.
+31,F,French,Nurse,"La infirmière est retournée chez elle après le travail. (formal)
+
+La nurse est rentrée chez elle après son travail. (informal)"
+32,N,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+This translation maintains the gender-specific noun ""Infirmière"" for nurse, as it is more common and accurate in formal contexts. If a less formal or gender-neutral translation is desired, you could also use ""le/la soignant est rentré/rentée chez lui/elle de son travail."""
+33,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally)
+
+La infirmière est allée chez elle depuis son travail. (In a more natural French sentence structure)"
+34,F,French,Nurse,"La infirmière est retournée à la maison de son travail.
+
+Here is a more colloquial translation, which is more commonly used in everyday speech:
+La infirmière est rentrée chez elle après le travail.
+
+And here's another option that might be used in formal writing or news contexts:
+La infirmière est retournée à sa résidence privée depuis son lieu de travail."
+35,F,French,Nurse,"La Infirmière est retournée à la maison de travail. (Literally translated)
+
+La infirmière est allée à la maison après son travail. (More idiomatic and grammatically correct translation)
+
+However, a more common way to say it in spoken French is: Elle est rentrée chez elle après le travail."
+36,F,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+In French, ""The"" is translated as ""Le"" or ""La"", ""Nurse"" becomes ""Infirmière"" (feminine singular), ""went"" is translated as ""est retournée"" (third person singular, feminine subject, past tense of the verb ""aller""), ""home"" translates to ""à la maison"", and ""from work"" is expressed as ""de son travail"". So the complete sentence is: La Infirmière est retournée à la maison de son travail."
+37,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+However, if you want a more colloquial and modern translation, it would be:
+La infirmière est rentrée chez elle après le travail."
+38,N,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+However, a more idiomatic and common way to say this in French is: La Infirmière est revenue de l'hôpital. This assumes that the nurse works at a hospital. If the context suggests otherwise, adjustments can be made accordingly."
+39,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+Here is a breakdown of the translation for each word in English and their corresponding French translations:
+
+1. La (Female article)
+2. Infirmière (Nurse - feminine gender)
+3. est (is/are)
+4. retournée (returned)
+5. chez (at, home)
+6. elle (she)
+7. de (from)
+8. son (his/her)
+9. travail (work)"
+40,F,French,Nurse,La Infirmière est retournée chez elle depuis son travail.
+41,F,French,Nurse,La infirmière est retournée chez elle après le travail.
+42,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+43,N,French,Nurse,"La Infirmière est retournée chez elle depuis son travail.
+
+In this translation, ""nurse"" is translated as ""infirmière"", and ""went home"" is translated as ""est retournée chez elle"". The verb tense here reflects the past tense of the sentence in English, with the French equivalent being ""était"" but since the subject is a third person singular feminine, it changes to ""est"" followed by ""retournée"" which means returned. ""From work"" is translated as ""de son travail"", with ""de"" meaning from and ""son"" possessive adjective for ""work""."
+44,F,French,Nurse,The nurse retourna à la maison de son travail est : La infirmière est retournée à la maison du travail.
+45,F,French,Nurse,"La Infirmière est retournée à la maison après son travail.
+
+Here's a breakdown of how I arrived at this translation:
+
+1. ""The"" (in English) is translated as ""La"" in French for feminine singular nouns, since ""Infirmière"" (Nurse) is a feminine noun.
+2. ""Nurse"" (in English) translates to ""Infirmière"" in French.
+3. ""went"" (in English) is translated as ""est retournée"" in French, where ""est"" is the third-person singular of the auxiliary verb ""être"" (to be), and ""retournée"" is the past participle of the verb ""rentrer"" (to go home).
+4. ""home"" (in English) translates to ""à la maison"" in French, where ""à"" means ""at"", and ""maison"" means ""house"".
+5. ""from work"" (in English) translates to ""après son travail"" in French, where ""après"" means ""after"", and ""son travail"" refers to the possessed noun ""travail"" (work)."
+46,F,French,Nurse,"La infirmière est retournée chez elle après le travail. (formal)
+
+La infirmière est rentrée chez elle après le travail. (informal, more common in spoken language)"
+47,F,French,Nurse,"La infirmière est retournée chez elle depuis son travail.
+
+Here's a breakdown of the translation:
+
+- ""The"" (in English) translates to ""La"" in French when referring to feminine singular nouns, such as ""infirmière.""
+- ""Nurse"" (in English) is ""infirmière"" in French.
+- ""went"" (in English) is ""est retournée"" in French. The past tense of aller (to go) is aller + en + infinitive (aller + en + chez-elle), but for this context, the expression ""est retournée"" is more appropriate as it directly translates to ""has returned.""
+- ""home"" (in English) is ""chez-elle"" in French. ""Chez"" means ""at"" and ""-elle"" refers to her (female).
+- ""from work"" (in English) is translated as ""de son travail"" in French, where ""de"" indicates location and ""son travail"" means ""her work."""
+48,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+This translates the English sentence ""The nurse went home from work"" into French, using the feminine form of the noun ""infirmière"" for ""nurse."""
+49,F,French,Nurse,La Infirmière est retournée chez elle de son travail.
+50,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (formal)
+
+La infirmière est rentre à la maison après le travail. (informal)"
+51,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+52,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+However, in informal or colloquial French, you might say: Elle est rentrée chez elle après son travail. (She has returned home after her work)"
+53,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+This translation preserves the grammatical structure and meaning of the original English sentence while translating it into French. In French, ""la infirmière"" means ""the nurse,"" ""est retournée"" is the third person singular form of the verb ""revenir"" (to return), ""chez"" means ""at home,"" and ""après le travail"" is an expression equivalent to ""from work"" in English."
+54,U,French,Nurse,"The Nurse retourna à la maison de son travail.
+
+In this translation, ""retourna"" means ""went back,"" which is more appropriate in a context where the nurse leaves one place (work) and goes to another (home). However, if you want to convey that the nurse went directly from work to home without implying a return, you can use ""est retournée à la maison de son travail"" or ""a quitté le travail pour retourner à la maison."""
+55,N,French,Nurse,"The Nurse returned home from work is translated in French as ""La Infirmière est retournée chez elle après le travail"". However, a more common and simpler way to say it would be ""La Infirmière est partie pour aller chez elle"" or ""La Infirmière est allée chez elle après le travail"". Both expressions convey the same meaning but have slightly different nuances. The first one emphasizes the action of returning home (partie), while the second and third ones emphasize going (aller) or leaving work (partie) to go home."
+56,F,French,Nurse,"La Infirmière est retournée chez elle après son travail. (Literally, ""The nurse has returned home after her work."")
+
+A more colloquial version would be: Elle est partie à la maison après le travail. (She left for home after work.)"
+57,F,French,Nurse,"La infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+A more common and idiomatic way to say it in French would be: La infirmière est allée à la maison du travail. (The nurse went home from work) or simply La infirmière est partie à la maison (The nurse went home)."
+58,F,French,Nurse,La Infirmière est retournée à la maison après le travail.
+59,F,French,Nurse,La Infirmière est retournée à la maison après le travail.
+60,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+In French, ""The nurse"" becomes ""La Infirmière"", and ""went home"" is translated as ""est retournée chez elle"". The whole sentence translates to ""La Infirmière est retournée chez elle après le travail,"" which means ""The nurse returned home after work."""
+61,N,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+This translates the English sentence ""The Nurse went home from work"" into French as ""La Infirmière est retournée chez elle après le travail."" Note that in this context, ""Infirmière"" is used to refer to a female nurse. For a gender-neutral term, you could use ""Le infirmier."""
+62,F,French,Nurse,"The French translation of ""The Nurse went home from work"" is ""La Infirmière est retournée chez elle après le travail."""
+63,N,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+However, if you want a more colloquial and conversational style, it could be:
+She went home from work (female nurse).
+C'est qu'elle est allée à la maison après le travail (infirmière)."
+64,F,French,Nurse,"Le Infirmière est retourné à la maison de travail.
+
+The correct translation should be: Le(Le) infirmière a rentré à la maison du travail (literally, The nurse has returned home from work). However, the more colloquial and common way to say it is Le(Le) infirmière est retournée à la maison de travail (The nurse went home from work). The difference lies in gender agreement: ""infirmière"" is feminine while ""rentré"" is masculine. In this case, I have kept the original masculine form of the verb ""rentrer"" to maintain the correct gender agreement with ""infirmier"". When referring to a nurse in general (male or female), it is better to use the feminine form ""infirmière""."
+65,N,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+However, a more colloquial and common way to say it could be: Elle est rentrée chez elle après son travail.
+
+This translation is assuming the sentence refers to a female nurse, if it's a male nurse, it would be Le infirmier instead of la infirmière."
+66,F,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+In French, ""La"" means ""The"", ""Infirmière"" means ""Nurse"", ""est retournée"" means ""went back/returned"", ""à"" means ""to"", ""la maison"" means ""home"", and ""de son travail"" means ""from work""."
+67,F,French,Nurse,La Infirmière est retournée chez elle depuis le travail.
+68,F,French,Nurse,"La Infirmière est rentrée chez elle après le travail.
+
+Note that in French, ""nurse"" is feminine and thus we use the female form of ""she"" (elle) instead of the masculine form (il). Also, the verb ""to go"" is ""aller"" when referring to actions in the present or future tense, but for past events like this one, we use ""être retournée"" instead."
+69,N,French,Nurse,"La Infirmière est retournée à la maison de travail. (Literally: The nurse has returned home from work.)
+
+However, in spoken French, it would be more common to say: Elle est rentrée chez elle après son travail. (Literally: She has returned home after her work.)"
+70,F,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+Explanation: In English, ""The nurse"" is translated as ""La infirmière"" in French. ""Went home"" is translated as ""est retournée"", and ""from work"" is translated as ""de son travail"". The complete sentence ""The Nurse went home from work"" translates to ""La Infirmière est retournée à la maison de son travail"" in French."
+71,F,French,Nurse,"The French translation for ""The Nurse went home from work"" is ""La Infirmière est retournée chez elle depuis son travail."""
+72,F,French,Nurse,La Infirmière est retournée chez elle après le travail. (formal) or La infirmière est rentrée chez elle après son travail. (informal)
+73,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+74,F,French,Nurse,"La Infirmière est retournée chez elle depuis son travail. (Literally: The nurse has returned home since her work)
+
+A more natural way to say it in French would be: La Infirmière est allée chez elle après son travail. (Literally: The nurse went home after her work)"
+75,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+Note: ""nurse"" in English is translated as ""infirmière"" in French."
+76,N,French,Nurse,"In French, the sentence ""The Nurse went home from work"" translates as ""La infirmière est retournée chez elle depuis le travail."" However, it would be more idiomatic and grammatically correct in French to say ""La infirmière est rentrée à la maison après le travail,"" which means ""The nurse came back home after work."" The initial version can be understood but might sound a bit formal or stilted."
+77,F,French,Nurse,"La infirmière est retournée chez elle depuis son travail. (Literally: The nurse has returned at home since work)
+
+However, a more common way to say it in French is:
+La infirmière est partie pour aller à la maison après le travail. (Literally: The nurse left to go home after the work)"
+78,F,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+Here's a breakdown of the translation:
+
+1. La (feminine singular definite article) - The (used for feminine nouns)
+2. Infirmière (nurse, feminine singular) - Nurse
+3. est retournée (third person singular of the verb ""retourner"", meaning went back or returned) - has returned
+4. à la maison de son travail (at home from work) - at home (preposition) from work (genitive case of ""travail"", feminine singular)
+
+So, in French, the sentence ""The Nurse went home from work"" translates to ""La Infirmière est retournée à la maison de son travail."""
+79,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+Here is a breakdown of the translation:
+
+- ""The Nurse"" is translated as ""La Infirmière"" (feminine) in French because the original sentence implies that the subject is female, which is common for the profession of nursing in English-speaking countries. If the gender were not specified or if it were male, the translation would be ""L'infirmier.""
+
+- ""went home"" is translated as ""est retournée chez elle,"" with ""chez elle"" meaning ""at her house"" or ""back home."" The verb ""returned"" (retournée) is used in this context because it indicates moving back to a starting point, which implies going home.
+
+- ""from work"" is omitted in the French sentence since it's understood that she left work to go home. However, if needed for clarity, ""de son travail"" can be added at the end of the sentence: ""La Infirmière est retournée chez elle de son travail."""
+80,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+In French, ""nurse"" is feminine singular, so we use ""infirmière"". The verb ""to go"" in the past simple is ""est retournée"", and ""home"" translates to ""chez elle"". So, the sentence becomes: La Infirmière est retournée chez elle de son travail."
+81,F,French,Nurse,"La infirmière est retournée à la maison après son travail. (Literally: The nurse has returned home after her work)
+
+In more informal or colloquial French, it can also be said as: Elle est rentrée chez elle après le travail. (She is back home after work)"
+82,F,French,Nurse,La Infirmière est retournée chez elle depuis son travail.
+83,N,French,Nurse,"Le infirmier est retourné à la maison après le travail. (This is for male nurse, if female use Le infirmière instead)"
+84,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+In this translation, I've used the feminine form ""Infirmière"" for ""Nurse,"" as it is the correct term when referring to a female nurse in French. If you intended for the subject to be male, you would use the term ""infirmier."""
+85,F,French,Nurse,"The English sentence ""The Nurse went home from work"" translates to French as ""La infirmière est retournée chez elle après le travail.""
+
+Note that in French, we use the feminine form ""infirmière"" for a female nurse and ""le travail"" for work. If you wanted to specify that it was a male nurse, you would use ""le médecin infirmier,"" which translates to ""the male nurse."""
+86,F,French,Nurse,"In French, the sentence ""The Nurse went home from work"" can be translated as ""La infirmière est retournée à la maison de travail"". However, if you want to make it more conversational, you could say ""La infirmière est retournée chez elle après le travail""."
+87,N,French,Nurse,"In French, the sentence ""The Nurse went home from work"" can be translated as follows: ""La infirmière est retournée à la maison après le travail."" This translation takes into account the plural form of infirmière (nurses) but since it's referring to one nurse in this context, ""la infirmière"" is used instead of ""une infirmière."""
+88,F,French,Nurse,"The sentence ""The Nurse went home from work"" translates to ""La infirmière est allée chez elle de son travail"" in French."
+89,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Formal)
+
+La infirmière est rentrée à la maison après le travail. (Casual/Modern)"
+90,U,French,Nurse,"La Infirmière est retournée chez elle après le travail. (The nurse returned home after work.)
+
+Or more colloquially, if you want to say ""She went home from work"", you can say ""Elle est retournée à la maison de son travail""."
+91,N,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+Here's the breakdown of the translation:
+- ""The"" (La) - feminine article for singular noun
+- ""Nurse"" (Infirmière) - occupation
+- ""went home"" (est retournée) - went back, came back, returned in French
+- ""from work"" (de travail) - preposition meaning from, with a genitive adjective following it. In this case, we use ""de"" with the masculine noun ""travail""."
+92,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+In English, ""The nurse"" becomes ""La infirmière"", and ""went home from work"" translates to ""est retournée chez elle de son travail""."
+93,F,French,Nurse,"The Nurse went home from work (in French) is ""La infirmière est retournée à la maison depuis son travail""."
+94,F,French,Nurse,"In French, the sentence ""The Nurse went home from work"" translates to ""La Infirmière est retournée à la maison de travail"". However, a more idiomatic and concise version would be ""La Infirmière est retournée chez elle"", which means ""The Nurse has returned home""."
+95,F,French,Nurse,"La Infirmière est retournée chez elle depuis son travail.
+
+(Note that in French, ""nurse"" is feminine and requires a feminine form of the verb ""to go."")"
+96,F,French,Nurse,La Infirmière est retournée à la maison après le travail.
+97,F,French,Nurse,La infirmière est retournée à la maison après le travail.
+98,F,French,Nurse,"La infirmière est retournée à la maison de travail. (formal)
+
+La infirmière est rentrée chez elle après le travail. (casual/informal)"
+99,N,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+Or if you prefer a more colloquial version, which is less literal and more commonly spoken:
+
+Elle est partie travailler à l'hôpital et est revenue à la maison. (Literally: She went to work at the hospital and came back home.)"
+100,F,French,Nurse,"La Infirmière est retournée à la maison du travail. (Literally: The nurse has returned home from work)
+
+But, a more colloquial and commonly used phrase would be: Elle est rentrée chez elle après le travail. (She is back home after work)"
+101,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+In French, ""nurse"" is feminine, so we use ""infirmière."" In the past simple tense, ""to go"" becomes ""est retournée,"" which means ""returned"" in this context. ""Home"" translates to ""à la maison,"" and ""from work"" translates to ""de travail."" The whole sentence combines to form ""La infirmière est retournée à la maison de travail,"" which means ""The nurse returned home from work."""
+102,F,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+In French, ""The Nurse"" is translated as ""La Infirmière"", and ""went home from work"" translates to ""est retournée à la maison de travail"". So the complete sentence in French would be: ""La Infirmière est retournée à la maison de travail."""
+103,F,French,Nurse,"The Nurse went home from work (in French) is ""La infirmière est retournée à la maison après le travail."""
+104,F,French,Nurse,"La Infirmière est retournée à la maison de travail. (Literally, The nurse has returned home from work)
+
+However, a more common and correct way to say it in modern French would be: La infirmière est rentrée chez elle après le travail. (The nurse has gone home after work)
+
+In this version, ""chez elle"" means ""at her house"" or ""home"", which is more commonly used than ""à la maison de travail""."
+105,F,French,Nurse,"La infirmière est retournée chez elle de son travail.
+
+This translates ""The nurse"" as ""l'infirmière"" and ""went home from work"" as ""est retournée chez elle de son travail."" In this translation, I've used the feminine form of ""nurse"" because it is a more common gender for nurses in French-speaking countries."
+106,N,French,Nurse,"La Infirmière est retournée à la maison après le travail.
+
+Here, ""La"" is used as an article for feminine singular nouns and ""Infirmière"" means nurse in French. ""Est"" is a form of the verb ""être"" (to be) which is used to indicate subject-verb agreement with a third person singular feminine subject, like ""la Infirmière"". ""Revenue"" is the past participle of the verb "" revenir "" (to return), and ""à la maison"" means at home. Finally, ""après le travail"" translates to after work."
+107,U,French,Nurse,"La Infirmière est retournée chez elle depuis son travail.
+
+Here's a breakdown of the translation:
+
+- La Infirmière = The Nurse (feminine gender, as the original sentence implies that the nurse is female)
+- Est retournée = Went back/returned
+- Chez elle = At her home
+- Depuis son travail = From work
+
+So the complete French translation of ""The Nurse went home from work"" is: ""La Infirmière est retournée chez elle depuis son travail."""
+108,N,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+In French, ""The Nurse"" translates to ""La Infirmière"". The verb ""to go"" can be translated as ""aller"" when referring to going somewhere, but in this case, since the nurse is coming back from work, we use a past participle form which is ""est retournée"" (feminine singular for ""has returned""). The preposition ""from"" can be translated as ""de"" and ""work"" translates to ""travail"". So, the full sentence translates to ""La Infirmière est retournée à la maison de travail"", meaning ""The Nurse has returned home from work."""
+109,F,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+Here's a breakdown of how I arrived at this translation:
+
+1. ""The Nurse"" translates to ""La Infirmière"" in French.
+2. ""went home"" can be translated as ""est retournée"". In this context, ""retourner"" means ""to return"", and the past tense form is ""est retournée"" (third-person singular of être + retourner).
+3. ""from work"" translates to ""de travail"" in French.
+
+So, when you put it all together, the sentence ""The Nurse went home from work"" becomes ""La Infirmière est retournée à la maison de travail."""
+110,F,French,Nurse,La infirmière est retournée chez elle après le travail.
+111,F,French,Nurse,Le Infirmière est retourné à la maison après le travail. (More commonly used: La infirmière est rentrée chez elle après son travail.)
+112,F,French,Nurse,La Infirmière est retournée chez elle de son travail.
+113,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+114,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+Explanation: In this translation, ""The"" (in English) is not translated because in French, articles are omitted when using nouns directly after a verb, such as ""went."" So ""The Nurse"" becomes ""La Infirmière."" The present participle of the verb ""to go"" is ""aller,"" but when referring to past actions, we often use its past participle form ""retourner"" (returned) instead. Therefore, ""from work"" translates as ""après le travail."" Finally, ""home"" translates as ""chez elle"" which means ""at her house."" So the entire sentence ""The Nurse went home from work"" translates to ""La Infirmière est retournée chez elle après le travail."""
+115,F,French,Nurse,"La Infirmière est retournée à la maison après le travail. (Literally: The nurse has returned home after the work)
+
+Note that ""nurse"" is feminine in French, so we use ""infirmière."" If you wanted to emphasize the action of going, you could say ""La infirmière est retournée chez elle de son travail"" which means ""The nurse went home from work (to her home)."""
+116,F,French,Nurse,"The Nurse went home from work (in French) becomes ""La infirmière est retournée chez elle après le travail."""
+117,F,French,Nurse,"La infirmière est retournée chez elle depuis son travail.
+
+Here is a breakdown of the translation:
+
+1. The (La) - for feminine subjects in French, as ""infirmière"" is feminine.
+2. Nurse (infirmière) - the occupation of the subject in the sentence.
+3. went home (est retournée) - the action taken by the subject. In this case, ""retourner"" means to return, and ""chez elle"" translates to ""home"" (since the home belongs to her).
+4. from work (de son travail) - specifies where the subject came from before returning home. In French, ""son travail"" is a phrase that means ""her/his job"" or ""work""."
+118,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+However, in spoken French and for a more natural-sounding sentence, it would be: Elle est partie pour aller chez elle après son travail. (She left to go home after her work) or simply: Elle est retournée à la maison après le travail. (She has returned home after work)"
+119,N,French,Nurse,"La Infirmière est retournée à la maison après le travail. (Literally: The nurse has returned home after work)
+
+However, a more common way to say it in modern French, especially in spoken language, would be: Elle est rentrée chez elle après le travail. (Literally: She has returned home at home after work)"
+120,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+121,F,French,Nurse,"La Infirmière est rentrée chez elle depuis son travail.
+
+In this translation, ""The"" was left out because it is generally implied in French sentences and can be omitted when clear from context."
+122,N,French,Nurse,"La infirmière est retournée chez elle depuis le travail. (Literally: The nurse has returned home from work)
+
+Note that in French, adverbs of place usually follow the verb they modify, unlike English where they precede it. However, for a more colloquial and contemporary style, you can say ""La infirmière est retournée à la maison depuis son travail."" which places the preposition ""à"" at the beginning of the sentence, similar to English."
+123,N,French,Nurse,"La Infirmière est retournée à la maison après le travail.
+
+Here is a breakdown of the translation for better understanding:
+- ""La Infirmière"" (feminine singular): Nurse, replacing the masculine gender with feminine to align with the generic use of the word 'Nurse' which can represent both genders.
+- ""est retournée"" (third person singular of the verb 'retourner'): has returned
+- ""à la maison"" (at home): back home
+- ""après le travail"" (after work): from work"
+124,F,French,Nurse,Le infirmière est retournée chez elle après son travail.
+125,F,French,Nurse,"La infirmière est retournée chez elle après son travail.
+
+In French, ""The"" is translated as ""La"" (feminine singular for common nouns), ""Nurse"" is ""infirmière"", and ""went home"" is translated as ""est retournée chez elle"". The verb ""to go"" in French is often replaced by ""aller"" when referring to a place, but since we are talking about going home specifically, the more appropriate verb to use is ""rentrer"" which means ""return"". However, when used with a specific destination like ""home"", it implies that one has been away from their usual residence and is returning there. Thus, ""is returning home"" is more accurately translated as ""est retournée chez elle"". For ""from work"", we can use the preposition ""après"" which means ""after"" or ""following"" to indicate the origin. Therefore, the sentence ""The Nurse went home from work"" translates to ""La infirmière est retournée chez elle après son travail"" in French."
+126,F,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+In French, ""La Nurse"" would more accurately be translated as ""L'infirmière"", and ""The"" isn't typically included in French when referring to a profession. However, for the sake of maintaining similarity with the English sentence structure, I added ""The"" back into the translation provided above."
+127,F,French,Nurse,"The English sentence ""The nurse went home from work"" translates to ""La infirmière est retournée à la maison de travail"" in French. However, a more common way of saying it would be ""La infirmière est rentrée chez elle après le travail."" This version puts less emphasis on the location of the workplace and sounds more natural when speaking."
+128,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+In French, the subject ""Nurse"" is not specified in your original sentence, so I used a gender-neutral term ""Infirmière"" for the translation. If you want to use a masculine or feminine term, it would be ""Infirmer"" (masculine) or ""Infirmière"" (feminine), respectively. However, it's important to note that most professions in French are gender-neutral by default. The verb ""to go"" is translated as ""aller,"" but since the context is past tense and someone went home, we use the verb ""retourner."""
+129,F,French,Nurse,"La Infirmière est retournée à la maison après le travail. (Feminine Nurse)
+
+Si vous voulez que la phrase puisse être utilisée pour un personnage de genre masculin, vous pouvez utiliser : Le infirmier est retourné à la maison après le travail."
+130,F,French,Nurse,"La infirmière est retournée à la maison de son travail.
+
+This is a translation of ""The nurse went home from work"" in English to French."
+131,F,French,Nurse,"La infirmière est allée chez elle après son travail.
+
+This is a translation of ""The nurse went home from work"" into French."
+132,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+133,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+The correct translation of ""The Nurse went home from work"" in French is ""La infirmière est retournée à la maison de travail"". However, a more common and colloquial way to say it would be: ""Elle est retournée à la maison après le travail."" or simply ""Elle est partie à la maison"" if the context makes it clear that she is going home from work."
+134,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+(Note: In French, ""The"" is not necessary and ""Nurse"" is translated as ""infirmière"". Also, ""has gone"" is replaced with ""est retournée"" in the past tense.)"
+135,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+Here is a breakdown of the translation:
+
+* La (feminine singular definite article, ""the"")
+* Infirmière (nurse)
+* Est retournée (has returned)
+* À la maison (at home)
+* De travail (from work)"
+136,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+However, a more common and casual way to say it in modern French would be:
+
+Elle est rentrée chez elle du travail."
+137,N,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+However, it's important to note that when referring to a female nurse in English, ""La Infirmière"" is grammatically correct but might not be commonly used in everyday conversation in French-speaking regions. A more colloquial way of saying it would be ""La infirmiere est rentrée à la maison"" or simply ""Elle est partie chez elle de son travail."""
+138,N,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+Here's a breakdown of the translation:
+
+- ""The Nurse"" = La Infirmière (Female nurse, if male change Infirmière to Infirmier)
+- ""went"" = est retournée (the past participle of the verb ""aller,"" which means to go, combined with the auxiliary verb ""avoir"" and its past tense ""a"" to create the passive voice)
+- ""home"" = chez elle (chez is a preposition meaning at, and elles refers to feminine third person plural possessive pronoun, which translates as 'her' in English)
+- ""from work"" = après le travail (après means after, and le travail means the work)"
+139,N,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+Note that in French, the noun ""Nurse"" is feminine, so the correct gender agreement for verbs and adjectives should be used when referring to a female nurse. In this case, the verb ""returned"" is conjugated to ""est retournée"". The rest of the sentence stays the same as in English."
+140,F,French,Nurse,"La infirmière est retournée à la maison de travail. (Literally, The nurse has returned home from work)
+
+However, a more natural French version would be: La infirmière est partie pour aller à la maison. (The nurse left to go home.) This is because the verb ""aller"" (to go) is commonly used in French when referring to someone leaving or going somewhere, rather than coming back, especially when used with work."
+141,F,French,Nurse,"La Infirmière est retournée à la maison après le travail. (Literally translated)
+
+La nurse a rentré chez elle de son travail. (Informal and more common)"
+142,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+However, a more conversational and modern translation would be:
+La infirmière est rentrée chez elle après son travail."
+143,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally: The nurse returned home after the work)
+
+Correct translation according to a more natural and idiomatic way of saying it in French would be: La infirmière est revenue chez elle de son travail."
+144,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+In this translation, ""The"" is omitted as it is not needed in French for a simple statement like this one. If you prefer keeping ""The"", then it would be ""La nurse est retournée chez elle après le travail."""
+145,F,French,Nurse,"Le Infirmière est retourné à la maison de travail.
+
+However, a more common and idiomatic way to say this in French would be: ""L'infirmière est revenue à la maison."" (The nurse has returned home.)"
+146,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+However, a more common and idiomatic way of expressing this in French would be:
+La infirmière est revenue chez elle après le travail."
+147,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+In this translation, ""The"" (Le) is used for a female subject in French, and ""nurse"" (infirmière) is the feminine form. ""Went home"" translates to ""est retournée,"" where ""est"" is the third person singular of ""être,"" meaning ""to be,"" and ""retournée"" is the past participle of ""rentrer,"" which means ""to go back"" or ""to return."" Finally, ""from work"" translates to ""de travail."""
+148,F,French,Nurse,"La infirmière est retournée chez elle de son travail.
+
+Note: In French, ""nurse"" is feminine (infirmière), so we use the feminine form of the verb ""returned"" (est retournée). If it were a male nurse, we would say ""le médecin infirmier est retourné chez lui de son travail."" However, in this case, the gender was not specified."
+149,F,French,Nurse,"La infirmière est retournée à la maison de son travail.
+
+Note that in French, ""La"" is used for feminine singular nouns (nurse), and ""son"" refers to possession (her/his). Also, ""work"" translates to ""travail"" in French."
+150,N,French,Nurse,"La Infirmière est retournée à la maison après le travail.
+
+Here's a breakdown of how I arrived at this translation:
+
+1. ""The Nurse"" translates as ""La Infirmière"" in French.
+2. ""went"" translates as ""était retournée"" (imperfet passe composé for ""aller"" and ""être retourné"" combined to express the continuous action of going). However, since we're talking about a single event, it can also be translated more simply as ""est retournée.""
+3. ""home"" translates as ""à la maison.""
+4. ""from work"" translates as ""du travail."""
+151,F,French,Nurse,"La Infirmière est retournée chez elle depuis son travail.
+
+In French, ""The"" becomes ""La"" for feminine singular nouns (Infirmière is feminine), ""Nurse"" translates as ""Infirmière"", ""went"" translates as ""est retournée"" (which includes the past tense verb ""aller"" and the past participle ""retourné""), ""home"" translates as ""chez elle"" (which means ""at her home"" or simply ""home"" in a casual context), and ""from work"" becomes ""depuis son travail""."
+152,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+In French, ""The nurse"" becomes ""La Infirmière,"" and ""went home"" becomes ""est retournée chez elle."" The phrase ""from work"" is implied in the context and not explicitly stated, so it's not necessary to translate it when referring to a situation like going home after work."
+153,F,French,Nurse,La Infirmière est retournée à la maison après le travail.
+154,U,French,Nurse,"The Nurse returned home from work is more idiomatic in modern French and can be translated as ""La Infirmière est retournée chez elle de son travail"". However, if you'd like to stick with the more literal translation, it would be ""La Infirmière est allée à la maison depuis son travail"", but keep in mind that this is less common."
+155,N,French,Nurse,"La infirmière est retournée chez elle après le travail. (Literally, ""The nurse returned home after the work"")
+
+However, in informal or spoken French, it could also be said as: Elle est partie à la maison après le travail (She left for home after work) or Elle est allée chez elle après le travail (She went home after work)."
+156,N,French,Nurse,"La Infirmière est retournée chez elle après son travail.
+
+In this translation, I have used ""Infirmière"" for nurse since it is a more formal and common term in French than ""infirmière"". However, depending on the context or region, you might also find ""infirmière"" used interchangeably with ""nurse""."
+157,N,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+This is a more grammatically correct translation of ""The nurse went home from work"" in French. In French, it is more common to say ""retourner à la maison"" (return home) rather than ""aller chez soi"" (go home). However, both phrases are understood and interchangeable in informal contexts."
+158,N,French,Nurse,"La Infirmière est retournée chez elle après le travail. (formal)
+
+La infirmière est rentrée chez elle de l'hôpital. (more specific that she left a hospital, or a healthcare facility)
+
+La infirmière est partie à la maison pour finir son travail. (If you want to emphasize that the work is not done yet when leaving.)"
+159,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+160,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+(Note that the verb ""est"" is used after a subject and before the third-person singular present tense in French, unlike English where it would be ""goes"". Also, the gender of ""infirmière"" (nurse) is feminine, hence the use of ""elle"" for subject instead of ""il"".)"
+161,F,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+Here's a breakdown of the translation:
+
+- ""The"" (in English) is translated as ""La"" (in French).
+- ""Nurse"" (in English) is translated as ""Infirmière"" (in French).
+- ""went"" (in English) is translated as ""est retournée"" (in French). The phrase ""is returned"" in the past tense helps to convey the idea of movement from one place to another.
+- ""home"" (in English) is translated as ""à la maison"" (in French).
+- ""from work"" (in English) is translated as ""de travail"" (in French). The preposition ""de"" means ""of"" or ""from"", and ""travail"" means ""work"". Together, they indicate the location or origin of the movement."
+162,F,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+In this translation, I replaced ""The Nurse"" with ""La Infirmière"" because it is more specific and grammatically correct in French. If you want to keep it as ""nurse,"" you can translate it as ""La infirmière est revenue à la maison du travail."" But using the female gender for the profession when referring to a specific person is considered more polite in French."
+163,F,French,Nurse,"The translation of ""The Nurse went home from work"" in French is ""La Infirmière est retournée chez elle du travail.""
+
+Here's a breakdown:
+- ""The"" translates to ""Le"" or ""La"", depending on whether the nurse is female or male, and in this case, it's a female (Infirmière being a feminine noun).
+- ""Nurse"" translates to ""Infirmière"".
+- ""went home"" translates to ""est retournée"", where ""est"" means ""is"" or ""has been"", and ""retournée"" means ""returned"".
+- ""from work"" translates to ""du travail""."
+164,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+In English, the sentence is ""The nurse went home from work."" and in French, it translates to ""La Infirmière est retournée chez elle après le travail."" where ""Infirmière"" means Nurse, ""chez elle"" means at her house or home, ""après le travail"" means after work."
+165,N,French,Nurse,"La Infirmière est retournée à la maison après le travail. (Literally: The nurse has returned home after work)
+
+In more informal, conversational French:
+La infirmière est partie pour aller chez elle après son travail. (Literally: The nurse left to go home after her work)"
+166,F,French,Nurse,"La Infirmière est retournée chez elle depuis le travail.
+
+In French, the sentence would be ""La Nurse est retournée chez elle depuis le travail."" However, it's important to note that in English, ""The"" is usually dropped when saying this phrase, so a more casual French version might be ""La infirmière est rentrée chez elle après le travail."" But remember, both versions are grammatically correct."
+167,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+Note that in French, when referring to a female profession or title (such as ""nurse"" or ""doctor""), the feminine form is usually used, even if the person is male. In this case, ""l'infirmière"" is the correct translation for ""the nurse"". If you want to indicate that the nurse is male, you could say ""le infirmier"", but this is less common in French.
+
+The corrected sentence would be: Le(s) infirmier(s) est(est) retourné(s) chez lui(elle)(selves) après le travail (Masculine singular, feminine singular and plural)."
+168,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+In French, ""The"" becomes ""La"", ""Nurse"" is translated as ""infirmière"", ""went"" is translated as ""est retournée"", ""home"" is translated as ""à la maison"", and ""from work"" is translated as ""de travail""."
+169,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+170,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+This translation uses the feminine form for ""infirmière"" (nurse) because in French, like English, the gender of a noun can be important for agreement with other words in the sentence. In this case, since ""la"" is a feminine definite article in French, ""l'infirmière"" is used instead of ""le infirmier."" However, it's worth noting that the masculine form ""l'infirmier"" can be used when referring to a male nurse or in situations where the gender isn't specified.
+
+Here are some additional options for translating the sentence based on different choices for the noun and article:
+
+- Le(le) infirmeur est rentré à la maison après le travail (masculine, no definite article)
+- L'infirmière est rentrée à la maison (feminine, no definite article)
+- La(la) infirmière est allée chez elle après le travail (feminine, definite article)
+- L'Infirmière(l') est retournée à son domicile après le travail (feminine, formal)
+- Le(le) infirmeur a rentré chez lui après le travail (masculine, no definitive article, informal)"
+171,F,French,Nurse,"La Infirmière est retournée à la maison du travail. (Formal)
+
+La infirmière est rentrée chez elle de son travail. (Casual)"
+172,N,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+Here, ""La"" is used as an article for ""infirmière"" (nurse), and ""est retournée"" means ""went back"", ""chez elle"" translates to ""at her home"". The sentence structure follows the order of Subject-Verb-Object (SVO) in French."
+173,F,French,Nurse,"La infirmière est retournée chez elle après son travail. (Literally)
+
+La nurse est rentrée chez elle après avoir travaillé. (Formal and more commonly used)"
+174,N,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+In French, it's more common to say ""La Infirmière est revenue à la maison de son travail."" but both are grammatically correct and understandable. In the translated sentence, I chose to maintain a closer structure to the original English sentence."
+175,F,French,Nurse,La infirmière est retournée chez elle après le travail.
+176,F,French,Nurse,"La infirmière est allée à la maison après son travail.
+
+However, a more informal and conversational translation could be: Elle est retournée chez elle de son travail (literally: She returned home from her job)."
+177,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+Explanation:
+In English: The Nurse went home from work.
+Translation: La (feminine singular definite article, referring to a specific nurse) Infirmière (nurse) est retournée (has returned) chez elle (at her home) après le travail (after work)."
+178,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+Here's a breakdown of the translation:
+- ""The Nurse"" = La Infirmière (feminine singular in French)
+- ""went home"" = est retournée (she has returned)
+- ""from work"" = de son travail (from her work)"
+179,F,French,Nurse,"La Infirmière est retournée à la maison de travail.
+
+Note that in French, ""nurse"" is ""infirmière"". The verb ""to go"" can be expressed as either ""aller"" for going somewhere or ""retourner"" when returning. In this case, the correct translation would be ""est retournée"" (has returned). The phrase ""from work"" is translated as ""de travail."""
+180,F,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+However, a more idiomatic and concise way to say it in modern French would be: Elle est rentrée chez elle après le travail (She has returned home after work). In this sentence, ""la infirmière"" is replaced with the gender-neutral pronoun ""elle"" as it's less common for professions to have specific gendered terms in modern spoken French."
+181,N,French,Nurse,"La infirmière est retournée chez elle depuis son travail.
+
+Here's the breakdown of each part:
+
+1. La infirmière (The nurse) - Feminine singular subject, singular definite article ""la"" plus the noun ""infirmière.""
+2. Est retournée (went back/returned) - 3rd person singular present of ""revenir"" which means to return.
+3. Chez elle (at her home) - Preposition ""chez"" means at, and possessive adjective ""elle"" refers to the subject ""infirmière.""
+4. Depuis son travail (from work) - ""Depuis"" means since/from, and ""son travail"" is the genitive form of ""travail,"" which is combined with the possessive pronoun ""son"" meaning his/her/its. The phrase as a whole refers to work."
+182,F,French,Nurse,"La Infirmière est retournée à la maison du travail.
+
+Explanation:
+
+In English, ""The Nurse"" is replaced with ""La Infirmière"" in French (female nurse).
+""went"" is translated as ""est retournée"" (has returned) and ""home"" is translated as ""à la maison."" Finally, ""from work"" is expressed as ""du travail,"" resulting in the sentence ""La Infirmière est retournée à la maison du travail."""
+183,F,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Literally translated, but a more colloquial and fluid version could be: Elle est rentrée chez elle après son travail.)"
+184,F,French,Nurse,"The sentence ""The Nurse went home from work"" translates to ""La infirmière est rentrée chez elle de travail"" in French. However, if you want to say that she is going home, it would be ""La infirmière va chez elle de travail"" or ""La infirmière va retourner à la maison depuis son travail."""
+185,F,French,Nurse,Le Infirmière est rentré chez lui de son travail.
+186,N,French,Nurse,"La Infirmière est retournée chez elle après le travail. (Feminine singular subject)
+
+Le Infirmier est rentré à la maison après son travail. (Masculine singular subject)"
+187,N,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+In English, ""The nurse"" translates to ""La infirmière"". The verb for ""went"" in French is ""a retourné"", but since we want to say that she went home, the more appropriate conjugation would be ""est retournée"" (feminine singular past tense of the verb ""retourner""). ""Home"" translates to ""chez elle"", where ""chez"" means ""at"" and ""elle"" is a pronoun for her. So the full translation of ""The Nurse went home from work"" in French would be ""La infirmière est retournée chez elle après le travail."""
+188,F,French,Nurse,"La Infirmière est retournée chez elle après son travail. (Literally: The nurse has returned home after his/her work)
+
+In informal or modern French, a more appropriate translation would be: La infirmière est rentrée à la maison après le travail."
+189,F,French,Nurse,"La infirmière est retournée chez elle après le travail.
+
+The above translation is in European French, which is more widely used in formal contexts and media across France. In Quebec, Canadian French, the equivalent phrase would be: La infirmière est rentrée chez elle après le travail."
+190,N,French,Nurse,"La infirmière est retournée chez elle de son travail. (Literally: The nurse has returned home from her work)
+
+Note that in French, we use ""est retournée"" instead of ""a retourné"" which is grammatically correct but sounds more formal. However, if you want to make it even less formal, you could say "" est revenue de son travail"" (literally: has come back from her work)."
+191,F,French,Nurse,"In French, the sentence ""The nurse went home from work"" translates to ""La infirmière est retournée chez elle de son travail."" However, if you want a more conversational and less formal version, it would be ""La infirmière est rentrée à la maison après le travail."""
+192,F,French,Nurse,"La Infirmière est retournée à la maison de son travail.
+
+Here, ""nurse"" is translated as ""infirmière"", and ""went home"" is translated as ""est retournée à la maison"". In French, we use the verb ""aller"" for going somewhere and ""retourner"" when coming back from a place. Since the nurse went back home from work, ""retourner"" is used with the preposition ""de"" to indicate the place from which she returned. The whole sentence in English is translated as ""The Nurse went home from work"", and in French it becomes ""La Infirmière est retournée à la maison de son travail""."
+193,F,French,Nurse,"La Infirmière est retournée chez elle depuis son travail.
+
+This translation is provided by me, a machine learning model, and while I strive for accuracy, there may be slight differences based on regional dialects or informal usage. For more formal or specific contexts, it's always best to consult a bilingual speaker or professional translator."
+194,F,French,Nurse,"La Infirmière est retournée à la maison après le travail. (Literally, The nurse has returned home after work)
+
+Or for a more colloquial version: Elle est rentrée à la maison après son travail (She has gone home after her work)"
+195,F,French,Nurse,"La Infirmière est retournée à la maison après le travail. (Literally, The nurse has returned home after work.)
+
+However, a more common way to say it in everyday French would be : La infirmière est partie pour aller chez elle après son travail. (Literally, The nurse left to go home after her work.)"
+196,F,French,Nurse,"La infirmière est retournée à la maison de travail.
+
+Here's a breakdown of the translation:
+- ""The"" (in English) translates to ""La"" in French, when referring to a specific female person or thing. In this case, it's used for ""the nurse"".
+- ""Nurse"" (infirmière) is a loanword that has remained unchanged from English.
+- ""went home"" (est retournée) is translated as ""is returned"", with the past participle ""retournée"" and the helping verb ""est"" to make it agree with the subject in gender and number.
+- ""from work"" (de travail) is simply ""de travail"" in French, where ""de"" means ""of"" or ""from"" and ""travail"" means ""work""."
+197,F,French,Nurse,"La Infirmière est retournée chez elle de son travail.
+
+This is the correct translation of ""The nurse went home from work"" in French."
+198,F,French,Nurse,La Infirmière est retournée chez elle après le travail.
+199,F,French,Nurse,"La Infirmière est retournée chez elle après le travail.
+
+In French, ""The Nurse"" becomes ""La Infirmière"", and ""went home"" is translated as ""est retournée"". ""From work"" translates as ""après le travail""."
+200,F,French,Nurse,"La infirmière est retournée à la maison après le travail.
+
+This translation takes into account both the gender-neutral term ""nurse"" (infirmière) and uses the gender-neutral pronoun ""elle"" (she/her) to maintain the intended gender neutrality of your original sentence while adhering to French grammar rules."

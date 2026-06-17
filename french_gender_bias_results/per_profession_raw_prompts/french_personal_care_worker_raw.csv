@@ -15,7 +15,7 @@ Sentence: The Personal care worker went home from work.",Le travailleur de soins
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12351,0.8,mistral:7b
 8,N,neutral/both/no gender,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après son travail.,neutral cue(s): ['personnel soignant'],12352,0.8,mistral:7b
-9,U,unknown/unclear,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+9,N,neutral/both/no gender,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur du soin personnel est retourné chez lui après le travail.,occupation/gender cue not detected,12353,0.8,mistral:7b
 10,N,neutral/both/no gender,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison de son travail.,neutral cue(s): ['personnel soignant'],12354,0.8,mistral:7b

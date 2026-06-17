@@ -53,13 +53,13 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",Le ferblantier est rentré chez lui après le travail.,male cue(s): ['ferblantier'],12353,0.8,mistral:7b
-10,U,unknown/unclear,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
+10,M,male,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",Le menuisier est retourné à la maison de son travail.,occupation/gender cue not detected,12354,0.8,mistral:7b
-11,U,unknown/unclear,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
+11,M,male,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -89,13 +89,13 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",Le métallurgiste est rentré chez lui après le travail.,male cue(s): ['article+common:metallurgiste'],12359,0.8,mistral:7b
-16,U,unknown/unclear,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
+16,M,male,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",Le menuisier est rentré à la maison après le travail.,occupation/gender cue not detected,12360,0.8,mistral:7b
-17,U,unknown/unclear,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
+17,M,male,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -107,7 +107,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",Le métallurgiste est retourné chez lui de son travail.,male cue(s): ['article+common:metallurgiste'],12362,0.8,mistral:7b
-19,N,neutral/both/no gender,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
+19,M,male,French,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

@@ -7,7 +7,7 @@ Note that in English, ""The"" is usually not translated when starting a sentence
 Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
 
 However, if you want a more colloquial or informal translation for ""The nurse"" (in this context), you can use ""La infirmière"" as it is. But for ""has gone,"" the French equivalent would be ""est partie."" So, a possible sentence could be: La infirm",female cue(s): ['infirmiere'],12346,0.8,mistral:7b
-3,N,neutral/both/no gender,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+3,F,female,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
 Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
 
 In French, we don't have a specific gender for occupations like in English (""Nurse"" is feminine in English but not gendered in French). However, the gender-neutral term ""infirmier"" (male) or ""infirmière"" (female) can be","both male and female cues: M=['infirmier'], F=['infirmiere']",12347,0.8,mistral:7b

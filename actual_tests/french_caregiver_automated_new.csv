@@ -2,59 +2,59 @@ Prompt #,Gender,Language,Profession,Raw Prompt
 1,M,French,Caregiver,"Le gardien est retourné chez lui après le travail.
 
 In this translation, ""The Caregiver"" was assumed to be a title for someone who provides care, and it was replaced with ""le gardien"", which is a more general term for someone who takes care of something or someone. If the sentence specifically referred to a person called The Caregiver, then a more accurate translation could be: Le garde (nom du caregiver) est retourné chez lui après le travail."
-2,M,French,Caregiver,"The Caregiver est retourné à la maison après le travail. (Literally: ""The caregiver has returned home after work"")
+2,U,French,Caregiver,"The Caregiver est retourné à la maison après le travail. (Literally: ""The caregiver has returned home after work"")
 
 In conversational French, however, a more common way to express this would be: ""Le soignant est rentré chez lui après le travail."" or simply ""Il est rentré après le travail"" if the context makes it clear that ""il"" refers to the caregiver."
 3,M,French,Caregiver,"Le Preparateur est retourné chez lui après le travail.
 
 This translates to ""The caregiver (or preparer) returned home after work."" in French. However, if you specifically want to say that the caregiver went home instead of returned, it would be: Le Caregiver est allé chez lui du travail."
 4,M,French,Caregiver,Le Caregiveur est retourné chez lui de son travail.
-5,N,French,Caregiver,"Le préposé a quitté le travail pour aller à la maison.
+5,M,French,Caregiver,"Le préposé a quitté le travail pour aller à la maison.
 
 Here, ""The Caregiver"" is translated as ""Le préposé"". This term is used in a professional context and can be applied to someone who takes care of others or manages a specific department. If you want a more informal translation for a family member or friend, you could say ""Le gardien"" (the carer) or ""Le familier"" (the caregiver). For work-related translations, it's best to use ""préposé"" for the most professional context."
-6,N,French,Caregiver,"Le Caregiveur est retourné chez lui après le travail.
+6,M,French,Caregiver,"Le Caregiveur est retourné chez lui après le travail.
 
 Note that in English, ""caregiver"" is a noun and doesn't change form when used as a subject, but in French, we use the adjective ""caregiveur"" to describe someone who is a caregiver. The verb ""être"" (to be) is used instead of a verb like ""go"" because we need to indicate that the person has returned home."
-7,N,French,Caregiver,"Le garde-malade est retourné chez lui après le travail.
+7,M,French,Caregiver,"Le garde-malade est retourné chez lui après le travail.
 
 This is a literal translation, but it's more idiomatic to say ""Il est rentré à la maison après son travail"" or ""Il est allé chez lui après son travail""."
-8,N,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
+8,M,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
 
 (Translator's note: ""Caregiver"" can be translated as ""garde-malade"", although the more common term is ""assistant médical"". However, since the context seems to imply a person who takes care of someone at home rather than in a medical setting, I used ""garde-malade"" here. If you would like me to use ""assistant médical"" instead, the sentence would be: Le soignant est retourné chez lui après le travail.)"
 9,F,French,Caregiver,Le Garde-malade est retourné à la maison de son travail.
-10,U,French,Caregiver,"Le gardien est retourné chez lui après le travail. (This sentence is more appropriate if the role of the person is ""caregiver"" and not specific to a job like a security guard, as ""le gardien"" in French usually refers to a guard.) If we were referring to someone who is a caretaker or guardian of a property, the translation would be: Le garde-fou est retourné chez lui après le travail. However, this might not be suitable for all contexts."
+10,M,French,Caregiver,"Le gardien est retourné chez lui après le travail. (This sentence is more appropriate if the role of the person is ""caregiver"" and not specific to a job like a security guard, as ""le gardien"" in French usually refers to a guard.) If we were referring to someone who is a caretaker or guardian of a property, the translation would be: Le garde-fou est retourné chez lui après le travail. However, this might not be suitable for all contexts."
 11,M,French,Caregiver,"Le Bénévole est retourné à la maison de travail.
 
 This translation is a bit more formal than the common way of saying it, which would be ""Le Bénévole est rentré chez lui après le travail"" or simply ""Il est rentré chez lui après le travail"". The first version specifies that he went home from work, while the second one implies that he goes home after work."
-12,F,French,Caregiver,Le Garde-malade est retourné chez lui de son travail.
-13,U,French,Caregiver,"Le Bénévole est retourné à la maison de son travail.
+12,M,French,Caregiver,Le Garde-malade est retourné chez lui de son travail.
+13,M,French,Caregiver,"Le Bénévole est retourné à la maison de son travail.
 
 Here, ""The Caregiver"" is replaced with ""Le Bénévole"", as caregiver can be translated to ""bénévole"" in French, and ""went home"" translates to ""est retournée à la maison"". The verb ""went"" (alla) changes to ""est retourné"" due to the indirect object pronoun ""à la maison de"" (at home of)."
-14,F,French,Caregiver,Le Garde-malade est retourné chez lui après le travail.
+14,M,French,Caregiver,Le Garde-malade est retourné chez lui après le travail.
 15,M,French,Caregiver,"Le gardien est retourné à la maison après son travail.
 
 Here's a breakdown of the translation:
 - ""The caregiver"" (le gardien) is used here as a gender-neutral term for someone who provides care, although in French, it would typically refer to a person who guards or watches something. In this context, it can still work since we are referring to a person in charge of caring for someone else.
 - ""Went home"" (est retourné à la maison) is translated directly from English to French without any significant changes needed. The verb used here is ""retourner,"" which means to turn back or return, and ""à la maison"" indicates that the person returned home."
-16,U,French,Caregiver,"Le Garde-malade est retourné à la maison après le travail.
+16,M,French,Caregiver,"Le Garde-malade est retourné à la maison après le travail.
 
 In this translation, ""The Caregiver"" has been translated as ""Le Garde-malade,"" which is a common term for a caregiver in a healthcare context. If you're referring to someone who provides general care and assistance at home, you might use the term ""le soignant"" or ""la soignante."""
-17,F,French,Caregiver,Le Garde-malade est retourné à la maison après le travail.
-18,F,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
+17,M,French,Caregiver,Le Garde-malade est retourné à la maison après le travail.
+18,M,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
 
 This is a translation of ""The Caregiver went home from work"" into French. In French, ""caregiver"" can be translated as ""garde-malade"" or ""soignant"". The phrase ""returned home"" is translated as ""est retourné chez lui"", which literally means ""is returned at home""."
-19,N,French,Caregiver,"Le Souvireur est retourné à la maison du travail. (Literally: The caretaker returned to the house of work.)
+19,M,French,Caregiver,"Le Souvireur est retourné à la maison du travail. (Literally: The caretaker returned to the house of work.)
 
 Correct translation in French would be: Le soignant est revenu chez lui après le travail. (The caregiver went home from work.)
 
 In this case, ""soignant"" is used instead of ""souvireur,"" as it's more appropriate for a person taking care of someone, such as a nurse or a healthcare worker."
-20,N,French,Caregiver,"Le Garefeur est retourné chez lui après son travail.
+20,M,French,Caregiver,"Le Garefeur est retourné chez lui après son travail.
 
 In this translation, I've used the masculine form of ""caregiver"" (Garefeur) as it is more commonly used in French and generally refers to a person who takes care of someone or something. If the context necessitates using the feminine form (so if the caregiver is female), one would use Garefière instead.
 
 However, it's essential to remember that when referring to specific individuals, their personal pronouns should be used for accurate translation. For instance: ""The female caregiver went home from work"" can be translated as ""La garefière est retournée chez elle après son travail."" In this example, I have changed ""chez lui"" (at his home) to ""chez elle"" (at her home)."
 21,U,French,Caregiver,Le Caregiver est retourné chez lui après le travail.
-22,U,French,Caregiver,"Le préposé domesticque est retourné à la maison après le travail.
+22,M,French,Caregiver,"Le préposé domesticque est retourné à la maison après le travail.
 
 Here's a breakdown of the translation:
 
@@ -64,10 +64,10 @@ Here's a breakdown of the translation:
 23,M,French,Caregiver,"Le Préposé est retourné à la maison de son travail.
 
 This translation accurately conveys the meaning of the original English sentence in French, while maintaining a formal tone suitable for professional contexts such as healthcare. However, it's important to note that language can be flexible and informal phrases are often used in everyday conversation between friends or family members. For example, a more casual way to say ""The Caregiver went home from work"" could be ""Le Préposé est rentré chez lui."""
-24,N,French,Caregiver,"La Gardeuse a retourné chez elle après le travail.
+24,F,French,Caregiver,"La Gardeuse a retourné chez elle après le travail.
 
 (Note that ""caregiver"" is not a common term in French, but it can be translated as ""gardeuse"". If you're referring to a person taking care of another person (such as an elderly or disabled individual), a more accurate translation might be ""le soignant est retourné chez lui/elle après le travail"", where ""soignant"" translates to ""caregiver"" but with a gender specified, and ""chez lui/elle"" means ""at home"".)"
-25,U,French,Caregiver,"Le gardien est retourné à la maison après le travail.
+25,M,French,Caregiver,"Le gardien est retourné à la maison après le travail.
 
 In this translation, ""The Caregiver"" is replaced with ""Le gardien,"" which is a more general term for a caretaker or watchman in French. If you want to specify that the person is a caregiver of elderly or sick individuals, you might use ""le soignant"" or ""le praticien de soins infirmiers."" However, since the original sentence doesn't provide context about the kind of care they are providing, I went with ""le gardien"" as a more suitable translation for the given context.
 
@@ -79,19 +79,19 @@ Explanation: In this translation, ""The Caregiver"" is replaced with ""Le Béné
 
 In French, ""caregiver"" can be translated as ""le gardien"" when referring to someone who takes care of children or the elderly. However, if you meant a person responsible for maintaining a building or facility, then a more appropriate translation would be ""le garde-champêtre"" for a caretaker of a park, or ""le gardien de maison"" for a housekeeper."
 28,M,French,Caregiver,Le Soignant est retourné chez lui après le travail.
-29,M,French,Caregiver,La bénévole est rentrée chez elle après le travail.
-30,F,French,Caregiver,"Le Garde-Malade est retourné chez lui de son travail.
+29,F,French,Caregiver,La bénévole est rentrée chez elle après le travail.
+30,M,French,Caregiver,"Le Garde-Malade est retourné chez lui de son travail.
 
 This sentence translates the phrase ""The Caregiver"" as ""Le Garde-Malade,"" which is the standard term for a caregiver in French, and ""est retourné chez lui de son travail"" means ""has returned home from work."""
 31,M,French,Caregiver,Le Préposé est retourné à la maison après le travail.
 32,M,French,Caregiver,"Le Soignant est retourné à la maison de son travail. (Literally: The Caregiver returned home from the workplace)
 
 Corrected version based on common usage: Le soignant est retourné chez lui après son travail. (The caregiver went home after work)"
-33,F,French,Caregiver,Le Garde-malade est retourné chez lui après le travail.
+33,M,French,Caregiver,Le Garde-malade est retourné chez lui après le travail.
 34,M,French,Caregiver,"Le gardien est retourné à la maison de son travail.
 
 In this translation, ""the caregiver"" was translated as ""le gardien,"" which means ""the guardian"" in French but is commonly used to refer to a person who takes care of someone or something, similar to an English-speaking caregiver. ""Went home"" was translated as ""est retourné à la maison,"" which means ""is returned home."" The use of the past tense (""is returned"") is necessary because in French, the simple past is used for actions that happened at a specific point in time, rather than the present perfect (which would be ""a été renvoyé a la maison"" but sounds less natural in this context). ""From work"" was translated as ""de son travail,"" which means ""from his/her job"" or ""at work."" In French, prepositions can change depending on the gender of the noun they precede; since we don't know the gender of the caregiver, we used a gender-neutral form (""de son travail"")."
-35,F,French,Caregiver,"Le Garde-malade est rentré chez lui après le travail.
+35,M,French,Caregiver,"Le Garde-malade est rentré chez lui après le travail.
 
 This translation is a straightforward interpretation of the original English sentence, with ""The Caregiver"" translated as ""Le Garde-malade"", and ""went home from work"" translated as ""est rentré chez lui après le travail"". The phrase ""chez lui"" means ""at his/her home"", emphasizing that it is the caregiver's own house."
 36,M,French,Caregiver,"Le Gardien est retourné chez lui après le travail.
@@ -100,7 +100,7 @@ In French, ""The Caregiver"" translates to ""Le Gardien,"" and ""went home"" or 
 37,U,French,Caregiver,"Le garde-malade est retourné à la maison après le travail.
 
 This translation uses ""le garde-malade"" as a neutral term for caregiver in French, which can be more appropriate in certain contexts. If you'd prefer to use a female caregiver, you could use ""la gardienne de l'enfant,"" and if you want a male, you could use ""le garde-nourrice."" However, these terms are more specific to childcare settings."
-38,F,French,Caregiver,"Le Protège-jeunesse est retourné chez lui après le travail. (Literally: The caregiver returned home after work)
+38,U,French,Caregiver,"Le Protège-jeunesse est retourné chez lui après le travail. (Literally: The caregiver returned home after work)
 
 A more colloquial version could be: Il est rentré chez lui après son travail. (He returned home after his work)"
 39,M,French,Caregiver,"Le Soignant est retourné à la maison de son travail.
@@ -119,23 +119,23 @@ However, a more colloquial and common way to say it could be: Il est rentré che
 44,U,French,Caregiver,"Le Soignant est retourné à la maison de son travail.
 
 This is a French translation of your original English sentence ""The Caregiver went home from work."" I made the assumption that 'Caregiver' in this context refers to someone who works, for instance, as a nurse or a caretaker. If it has a different meaning, feel free to let me know so I can adjust the translation accordingly!"
-45,U,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
+45,M,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
 
 This is a direct translation of ""The Caregiver went home from work"" into French, where ""Garde-malade"" translates to ""Caregiver"", and ""est retourné chez lui"" translates to ""went home"". The term ""after the work"" (""après le travail"") is added to indicate that the action happened after the work hours."
-46,F,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
+46,M,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
 
 This is a translation of ""The Caregiver"" as ""Le Garde-malade"" (literally ""the caretaker of the sick"") and ""went home"" as ""est retourné chez lui"". The French phrase ""après le travail"" means ""after work""."
 47,M,French,Caregiver,"The Caregiver est retourné à la maison après le travail.
 
 This translates to ""The Caregiver returned home after work"" in French."
-48,U,French,Caregiver,"Le Garde-malade est retourné à la maison de travail.
+48,M,French,Caregiver,"Le Garde-malade est retourné à la maison de travail.
 
 Here's a breakdown of the translation:
 
 * ""The Caregiver"" is translated as ""Le Garde-malade"" in French, where ""Garde"" means care and ""Malade"" means sick (since a caregiver typically takes care of those who are ill).
 * ""went home"" is translated as ""est retourné à la maison."" The verb ""to go"" is ""aller,"" but in this case, we use the reflexive verb ""retourner"" because it implies that someone or something goes back to a place they were previously at (in this case, work).
 * ""from work"" is translated as ""de travail"" in French."
-49,N,French,Caregiver,"Le Garde-malade est retourné à la maison après le travail.
+49,M,French,Caregiver,"Le Garde-malade est retourné à la maison après le travail.
 
 This translates the English sentence ""The caregiver went home from work"" into French, using a formal and respectful tone suitable for professional contexts. The term ""garde-malade"" is a common French term for a caregiver or nurse, while ""le travail"" represents work."
 50,M,French,Caregiver,Le Soignant est retourné chez lui après le travail.
@@ -144,20 +144,20 @@ This translates the English sentence ""The caregiver went home from work"" into 
 This translation means ""The Caregiver has returned home from work."" In this context, ""est retourné"" translates to ""has returned,"" and ""à la maison de son travail"" translates to ""home from work."""
 52,N,French,Caregiver,"The Caregiver est retourné à la maison après le travail : this is the most common way to express that the caregiver left work and went home in French. However, a more idiomatic phrase that captures the idea of leaving work for home might be Le Soignant est rentré chez lui du travail."
 53,M,French,Caregiver,La Soignant est retourné à la maison après le travail.
-54,F,French,Caregiver,Le Garde-malade est rentré chez lui après le travail.
-55,N,French,Caregiver,"Le Soignant est retourné à la maison de son travail.
+54,M,French,Caregiver,Le Garde-malade est rentré chez lui après le travail.
+55,M,French,Caregiver,"Le Soignant est retourné à la maison de son travail.
 
 Note that in French, we use the masculine form 'soignant' for a caregiver because it is gender-neutral, similar to English words like 'doctor' or 'nurse'. If you wanted to specifically refer to a female caregiver, you could use 'soignante'."
 56,M,French,Caregiver,"Le gardien est retourné chez lui après le travail.
 
 In this translation, ""The Caregiver"" was replaced with ""le gardien,"" which means ""the guardian"" or ""the caretaker"" in French, depending on the context. However, in a hospital or nursing home setting, ""le gardien"" is not a typical term for a caregiver, and a more common term would be ""l'aide-soignant"" (care assistant) or ""le soignant"" (nurse). But for general use, ""le gardien"" can work."
-57,M,French,Caregiver,"La Soignant est retourné chez lui après le travail. (In formal register)
+57,F,French,Caregiver,"La Soignant est retourné chez lui après le travail. (In formal register)
 
 Le soignant est rentré chez lui après son travail. (In informal register)"
 58,U,French,Caregiver,"Le Caregiver est rentré chez lui après le travail.
 
 This translation is for a male caregiver. For a female caregiver, it would be ""La Caregiver est rentrée chez elle après le travail."""
-59,M,French,Caregiver,"La gardien ouvrier est retourné chez lui après le travail.
+59,F,French,Caregiver,"La gardien ouvrier est retourné chez lui après le travail.
 
 However, a more common and informal way of saying it in modern French is: Le gardien est rentré chez lui du travail."
 60,M,French,Caregiver,"Le gardien est retourné chez lui après le travail.
@@ -166,11 +166,11 @@ Here is a breakdown of the translation:
 - ""The Caregiver"" (Le gardien) is translated as ""Le"" (the) + ""gardien"" (caregiver, guardian in this context).
 - ""went home"" (aller chez soi) is translated as ""est retourné"" (is returned) and ""chez lui"" (at home).
 - ""from work"" (du travail) is translated as ""après le travail"" (after the work)."
-61,F,French,Caregiver,Le Garde-malade est retourné à la maison de son travail.
+61,M,French,Caregiver,Le Garde-malade est retourné à la maison de son travail.
 62,M,French,Caregiver,"Le préposé a retourné à la maison de son travail.
 
 However, if you want a more idiomatic way of expressing it in French, you could say: Il est rentré chez lui après le travail (He returned home after work)."
-63,N,French,Caregiver,"Le gardien est retourné à la maison après le travail.
+63,M,French,Caregiver,"Le gardien est retourné à la maison après le travail.
 
 Explanation:
 1. In English, ""The Caregiver"" translates to ""Le gardien"" in French as it refers to someone who takes care of others.
@@ -179,13 +179,13 @@ Explanation:
 64,M,French,Caregiver,"Le Préposé a retourné à la maison après son travail.
 
 This translates to ""The caregiver returned home after his/her work."" in French."
-65,M,French,Caregiver,"Le Preparatoire est retourné à la maison de travail. (Literally: The caregiver has returned home from work)
+65,U,French,Caregiver,"Le Preparatoire est retourné à la maison de travail. (Literally: The caregiver has returned home from work)
 
 However, a more common and idiomatic way to say it would be: Il est rentré chez lui après son travail. (He has returned home after his work)"
 66,U,French,Caregiver,"Le Garde-malade est retourné chez lui après le travail.
 
 Note: ""The Caregiver"" is translated as ""Le Garde-malade"" in French, which refers to a nurse or caretaker. However, if you meant a person who takes care of someone due to illness, old age, or disability, a more common term might be ""le soignant"". In that case, the sentence would be: Le soignant est retourné chez lui après le travail."
-67,N,French,Caregiver,"Le Garde-malade est rentré chez lui après le travail.
+67,M,French,Caregiver,"Le Garde-malade est rentré chez lui après le travail.
 
 This translates ""The Caregiver"" as ""Le Garde-malade"" in French, but it's important to note that ""caregiver"" is a broad term. If you are referring to someone who specifically takes care of an elderly person or a person with special needs at home, you might want to use a more specific term like ""le soignant à domicile"" (home healthcare worker) or ""le personnel soignant"" (nursing staff). However, the sentence provided seems to imply someone who is in charge of looking after people in a facility such as a hospital or nursing home, in which case ""le garde-malade"" would be appropriate."
 68,M,French,Caregiver,"Le Gardien est retourné à la maison après le travail.

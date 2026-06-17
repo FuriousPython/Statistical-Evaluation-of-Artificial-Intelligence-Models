@@ -113,7 +113,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Receptionist went home from work.",La réceptionniste est allée chez elle depuis son travail.,female cue(s): ['article+common:receptionniste'],12363,0.8,mistral:7b
-20,U,unknown/unclear,French,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into French.
+20,F,female,French,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

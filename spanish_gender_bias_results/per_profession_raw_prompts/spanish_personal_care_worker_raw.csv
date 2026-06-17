@@ -1,5 +1,5 @@
 Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
-1,U,unknown/unclear,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+1,N,neutral/both/no gender,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal de cuidado doméstico regresó a su casa después del trabajo.,occupation/gender cue not detected,12345,0.8,mistral:7b
 2,M,male,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12346,0.8,mistral:7b

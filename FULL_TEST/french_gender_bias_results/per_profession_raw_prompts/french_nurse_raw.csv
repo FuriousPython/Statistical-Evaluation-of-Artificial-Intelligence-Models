@@ -1,0 +1,684 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail. (More formally)
+La nurse est rentrée chez elle après le travail. (More casually)",female cue(s): ['infirmiere'],12345,0.8,mistral:7b
+2,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+However, if you want a more colloquial or informal translation for ""The nurse"" (in this context), you can use ""La infirmière"" as it is. But for ""has gone,"" the French equivalent would be ""est partie."" So, the sentence would translate to: La Infirm",female cue(s): ['infirmiere'],12346,0.8,mistral:7b
+3,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail.
+
+This sentence is a translation of ""The nurse went home from work"" into French using feminine gender for the nurse, as it assumes the nurse mentioned in the English sentence is female. If the nurse's gender isn't specified, you can also use the masculine form ""l'infirmier.""","both male and female cues: M=['infirmier'], F=['infirmiere']",12347,0.8,mistral:7b
+4,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail. (Formal)
+La infirmière est rentré à la maison de son travail. (Informal/Modern French)",female cue(s): ['infirmiere'],12348,0.8,mistral:7b
+5,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle depuis le travail.,female cue(s): ['infirmiere'],12349,0.8,mistral:7b
+6,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle de son travail. (Formal)
+La nurse est rentrée chez elle de son travail. (Informal)",female cue(s): ['infirmiere'],12350,0.8,mistral:7b
+7,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+In French, ""The"" is often omitted in everyday speech and writing, so it can be also expressed as:
+La infirmière est rentrée chez elle après son travail.",female cue(s): ['infirmiere'],12351,0.8,mistral:7b
+8,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work) or Couramment : Elle est partie travailler à l'hôpital et est retournée à la maison. (Commonly: She left for work at the hospital and came home.),female cue(s): ['infirmiere'],12352,0.8,mistral:7b
+9,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est allée chez elle après le travail.
+(Notice that in English, ""nurse"" is used as a noun and in French it requires a feminine gender article ""la"")",female cue(s): ['infirmiere'],12353,0.8,mistral:7b
+10,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail. (Formal)
+La infirmière est revenue à la maison de travail. (Informal)",female cue(s): ['infirmiere'],12354,0.8,mistral:7b
+11,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après le travail. (formal)
+La infirmière est rentree à la maison après son travail. (informal)",female cue(s): ['infirmiere'],12355,0.8,mistral:7b
+12,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison après le travail. (Feminine nurse)
+
+La infirmier est retourné à la maison après le travail. (Masculine nurse)
+
+Note that in French, the gender of a noun can affect its associated adjectives and articles. In this case, ""infirmière"" is femin","both male and female cues: M=['infirmier'], F=['infirmiere']",12356,0.8,mistral:7b
+13,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally)
+La infirmière est revenue chez elle après le travail. (More natural and common in spoken French)",female cue(s): ['infirmiere'],12357,0.8,mistral:7b
+14,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (formal)
+La infirmière est rentrée chez elle après le travail. (informal)",female cue(s): ['infirmiere'],12358,0.8,mistral:7b
+15,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Formal)
+La infirmière est rentrée chez elle de son travail. (Casual)",female cue(s): ['infirmiere'],12359,0.8,mistral:7b
+16,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12360,0.8,mistral:7b
+17,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12361,0.8,mistral:7b
+18,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail.
+
+In this translation, I've used ""Infirmière"" instead of ""nurse"" since it is a more formal and accurate term for nurse in French. However, if you want to use the less formal ""nurse,"" you can simply say ""la infirmière est retournée chez elle de son",female cue(s): ['infirmiere'],12362,0.8,mistral:7b
+19,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison de travail.,female cue(s): ['infirmiere'],12363,0.8,mistral:7b
+20,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail. (Formal)
+La infirmière est rentrée chez elle après le travail. (Casual)",female cue(s): ['infirmiere'],12364,0.8,mistral:7b
+21,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail. (Literally)
+La infirmière est rentrée chez elle après le travail. (In more common usage)",female cue(s): ['infirmiere'],12365,0.8,mistral:7b
+22,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12366,0.8,mistral:7b
+23,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail. (The Nurse has returned home after work),female cue(s): ['infirmiere'],12367,0.8,mistral:7b
+24,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+Explanation:
+In this case, ""nurse"" is a noun referring to a female professional, so we use the feminine form ""infirmière"". ""Went home"" translates to ""est retournée"" (is returned) in the third person singular, present tense of the verb",female cue(s): ['infirmiere'],12368,0.8,mistral:7b
+25,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (formal)
+La infirmière est revenue à la maison du travail. (casual)
+L'infirmière est rentrée chez elle après le travail. (informal)",female cue(s): ['infirmiere'],12369,0.8,mistral:7b
+26,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12370,0.8,mistral:7b
+27,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison de travail.,female cue(s): ['infirmiere'],12371,0.8,mistral:7b
+28,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle depuis son travail. (formal)
+La nurses est rentrée à la maison depuis le travail. (informal)",female cue(s): ['infirmiere'],12372,0.8,mistral:7b
+29,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+In this translation, ""The"" was omitted since it is not typically used in a declarative sentence in French. Also, ""Nurse"" (infirmière) was used instead of ""nurse"" to specify the profession of the person.",female cue(s): ['infirmiere'],12373,0.8,mistral:7b
+30,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12374,0.8,mistral:7b
+31,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12375,0.8,mistral:7b
+32,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail.
+
+This translates to ""The nurse has returned home after work"" in French, since the past tense is more appropriate given the context of going home from work.",female cue(s): ['infirmiere'],12376,0.8,mistral:7b
+33,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail. (Literally: The nurse has returned home from her work)
+
+La infirmière est allée à la maison après le travail. (A more common way to express it)",female cue(s): ['infirmiere'],12377,0.8,mistral:7b
+34,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12378,0.8,mistral:7b
+35,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail. (Literally translated)
+La infirmière est partie pour aller chez elle après le travail. (More idiomatic translation)",female cue(s): ['infirmiere'],12379,0.8,mistral:7b
+36,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de son travail.
+
+Note that in French, ""nurse"" (infirmière) is a feminine noun, so we use the feminine form of the verb ""to go"" (retourner). The phrase ""from work"" can be translated as ""de son travail."" In this sentence, ""home""",female cue(s): ['infirmiere'],12380,0.8,mistral:7b
+37,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (literally translated)
+La infirmière est allée chez elle après son travail. (more commonly used in spoken French)",female cue(s): ['infirmiere'],12381,0.8,mistral:7b
+38,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","Le Infirmière est retourné à la maison de travail. (Formal)
+Le infirmier est rentré chez lui du travail. (Informal)","both male and female cues: M=['infirmier'], F=['infirmiere']",12382,0.8,mistral:7b
+39,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail. (Formal)
+La infirmière est rentrée chez elle après le travail. (Informal)",female cue(s): ['infirmiere'],12383,0.8,mistral:7b
+40,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12384,0.8,mistral:7b
+41,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (literally: The nurse has returned home from work)
+
+But a more common way to say it in French is: La Infirmière est partie pour aller à la maison. (literally: The nurse has left to go home)",female cue(s): ['infirmiere'],12385,0.8,mistral:7b
+42,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Literally)
+Le nurse est rentré chez lui après son travail. (Incorrect because ""nurse"" is feminine in French and should correspond to ""infirmière"")
+La infirmière est rentrée à la maison après son travail. (Correct)",female cue(s): ['infirmiere'],12386,0.8,mistral:7b
+43,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle depuis son travail. (Literally: The nurse has returned home from work),female cue(s): ['infirmiere'],12387,0.8,mistral:7b
+44,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après son travail.,female cue(s): ['infirmiere'],12388,0.8,mistral:7b
+45,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+The ""Nurse"" part is in English because it's a specific profession, and the gender-neutral term for nurse doesn't exist in French. So I used ""Infirmière"", which is the female version of the word. If you want to keep the gender-neutral term, you",female cue(s): ['infirmiere'],12389,0.8,mistral:7b
+46,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+Here's a breakdown of the translation:
+1. ""The"" (La) - This is used to denote the specificity of the nurse in question, similar to ""the"" in English.
+2. ""Nurse"" (Infirmière) - This translates directly from English to French for",female cue(s): ['infirmiere'],12390,0.8,mistral:7b
+47,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+However, in more colloquial or informal French, you could also say ""La infirmière est rentrée chez elle après le travail."" or simply ""La nurse est revenue à la maison.""",female cue(s): ['infirmiere'],12391,0.8,mistral:7b
+48,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","Le Infirmier est retourné à la maison après le travail. (In French, the profession ""nurse"" is masculine, so we use ""infirmier"" instead of ""infirmière"" for a female nurse.) However, in everyday spoken language, it's common to use the feminine form regardless of the gender, so it can also be: Le inf","both male and female cues: M=['infirmier'], F=['infirmiere']",12392,0.8,mistral:7b
+49,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après son travail.,female cue(s): ['infirmiere'],12393,0.8,mistral:7b
+50,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Formal)
+La infirmière est rentrée chez elle du travail. (Informal)",female cue(s): ['infirmiere'],12394,0.8,mistral:7b
+51,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après le travail. (literally: The nurse has returned home after work)
+
+However, in more colloquial or informal French, you could say:
+La infirmière est revenue chez elle après le travail. (The nurse came back home after work)",female cue(s): ['infirmiere'],12395,0.8,mistral:7b
+52,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison de travail.,female cue(s): ['infirmiere'],12396,0.8,mistral:7b
+53,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","The Nurse est retourné chez lui après le travail. (Literally: The Nurse is returned home after work)
+However, a more idiomatic translation would be: La infirmière est partie travailler à la maison. (The nurse went home to work.)",female cue(s): ['infirmiere'],12397,0.8,mistral:7b
+54,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12398,0.8,mistral:7b
+55,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle depuis le travail. (formal)
+La infirmière est revenue chez elle de son travail. (casual)",female cue(s): ['infirmiere'],12399,0.8,mistral:7b
+56,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après son travail. (Literally: The nurse has returned to the house after her work.),female cue(s): ['infirmiere'],12400,0.8,mistral:7b
+57,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle depuis son travail. (Literally, ""The nurse has returned home since her work"")
+
+In a more idiomatic way, it would be: La Infirmière est partie pour aller chez elle après le travail. (Literally, ""The nurse has left to go home after the work."")",female cue(s): ['infirmiere'],12401,0.8,mistral:7b
+58,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle depuis son travail.,female cue(s): ['infirmiere'],12402,0.8,mistral:7b
+59,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle depuis son travail.
+
+This translates to ""The nurse has returned home from work"" in French.",female cue(s): ['infirmiere'],12403,0.8,mistral:7b
+60,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12404,0.8,mistral:7b
+61,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (literally translated)
+
+La femme de soins est rentrée chez elle après le travail. (more idiomatic)",female cue(s): ['infirmiere'],12405,0.8,mistral:7b
+62,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Feminine pronoun)
+
+Si on ne connaît pas le genre de la personne, on peut utiliser :
+La Infirmier a rentré à la maison après le travail. (Neutre pronoun)","both male and female cues: M=['infirmier'], F=['infirmiere']",12406,0.8,mistral:7b
+63,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Formal)
+La infirmière est rentrée chez elle après le travail. (Casual)
+In French, both sentences are grammatically correct and can be used depending on the context and style of the conversation or writing. The first option is more formal, while the second one is more conversational and",female cue(s): ['infirmiere'],12407,0.8,mistral:7b
+64,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+However, in informal contexts or when referring to a female nurse, you could also say:
+La infirmière est retournée chez elle du travail.",female cue(s): ['infirmiere'],12408,0.8,mistral:7b
+65,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12409,0.8,mistral:7b
+66,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12410,0.8,mistral:7b
+67,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12411,0.8,mistral:7b
+68,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally)
+La Nurse est rentrée chez elle depuis le travail. (More idiomatically)",female cue(s): ['infirmiere'],12412,0.8,mistral:7b
+69,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle de son travail. (formal)
+La nurse est rentrée chez elle de son travail. (informal)",female cue(s): ['infirmiere'],12413,0.8,mistral:7b
+70,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison du travail. (Literally: The nurse has returned to the house from work)
+Correct translation: La infirmière est allée chez elle après le travail. (Literally: The nurse went home after work)",female cue(s): ['infirmiere'],12414,0.8,mistral:7b
+71,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12415,0.8,mistral:7b
+72,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail. (Literally: The nurse has returned to the house of work)
+Correct translation: La infirmière est revenue de l'hôpital. (The nurse has come back from the hospital)
+
+In French, we say ""retourner à l'hôpital"" instead of """,female cue(s): ['infirmiere'],12416,0.8,mistral:7b
+73,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Literally, ""The nurse has returned home after work."")",female cue(s): ['infirmiere'],12417,0.8,mistral:7b
+74,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12418,0.8,mistral:7b
+75,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison de travail.,female cue(s): ['infirmiere'],12419,0.8,mistral:7b
+76,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally translated)
+La Nurse est retournée chez elle après son travail. (A more natural and idiomatic translation)",female cue(s): ['infirmiere'],12420,0.8,mistral:7b
+77,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","Le infirmier est retourné à la maison du travail. (This is a more gender-neutral translation of your sentence, as ""nurse"" can refer to both male and female healthcare professionals.)
+
+If you want to keep the feminine gender, it would be: La infirmière est retournée à la maison du travail.","both male and female cues: M=['infirmier'], F=['infirmiere']",12421,0.8,mistral:7b
+78,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","The nurse retourna chez elle après son travail. (Literally: The nurse returned at home after his work)
+Corrected version: La infirmière est revenue à la maison après son travail. (Feminine form for ""nurse"" and proper subject-verb agreement)",female cue(s): ['infirmiere'],12422,0.8,mistral:7b
+79,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Literally, ""The nurse has returned home after the work"")
+Or you can say: Elle est retournée à la maison de son travail. (More idiomatically)",female cue(s): ['infirmiere'],12423,0.8,mistral:7b
+80,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après le travail. (formal)
+La infirmière est rentrée chez elle après son travail. (informal)",female cue(s): ['infirmiere'],12424,0.8,mistral:7b
+81,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle depuis son travail. (Literally, ""The nurse has returned home since work."")
+
+However, a more common and concise way to express this in French would be:
+La infirmière est rentrée chez elle du travail. (Literally, ""The nurse is back home from work."")",female cue(s): ['infirmiere'],12425,0.8,mistral:7b
+82,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après son travail.,female cue(s): ['infirmiere'],12426,0.8,mistral:7b
+83,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail.
+
+Here's a breakdown of the translation:
+- ""The nurse"" (la infirmière) is translated directly from English to French, as it refers to a specific profession.
+- ""went"" (est retournée) is translated to the past participle form because in French, when using verbs like",female cue(s): ['infirmiere'],12427,0.8,mistral:7b
+84,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12428,0.8,mistral:7b
+85,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de son travail.
+
+However, if you meant ""the nurse"" to be in singular form (one specific nurse), the correct translation would be:
+La infirmière est revenue chez elle du travail.",female cue(s): ['infirmiere'],12429,0.8,mistral:7b
+86,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après son travail. (Formal) or La infirmière est revenue à la maison après le travail. (Casual),female cue(s): ['infirmiere'],12430,0.8,mistral:7b
+87,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après son travail. (Literally translated, but in this context it's more common to use ""nurse"" as a feminine noun.)
+
+La infirmière est revenue chez elle de son travail. (This version uses the more colloquial French that better fits spoken language.)",female cue(s): ['infirmiere'],12431,0.8,mistral:7b
+88,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après son travail. (literally: The nurse has returned home after her work),female cue(s): ['infirmiere'],12432,0.8,mistral:7b
+89,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail. (literally: The nurse has returned to the house of her work)
+The correct translation, however, would be: La Nurse est rentrée chez elle après le travail. (The nurse has gone home after work.)
+I have added ""chez elle"" which means ""at her home"" or ""at",female cue(s): ['infirmiere'],12433,0.8,mistral:7b
+90,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle depuis son travail.
+
+Explanation:
+The Nurse (infirmière) went home (est retournée) from work (depuis son travail).",female cue(s): ['infirmiere'],12434,0.8,mistral:7b
+91,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12435,0.8,mistral:7b
+92,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail.
+
+In this translation, ""The"" was omitted as it is not needed in French for a simple sentence like this one. Also, I used ""infirmière"" instead of ""nurse"", which might be less common in an informal context but is more appropriate for formal or medical contexts. If you want",female cue(s): ['infirmiere'],12436,0.8,mistral:7b
+93,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (Literally translated)
+
+La nurse est rentrée chez elle après son travail. (More idiomatically)",female cue(s): ['infirmiere'],12437,0.8,mistral:7b
+94,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12438,0.8,mistral:7b
+95,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","Le Infirmier est retourné chez lui après le travail. (For a male nurse)
+Le Infirmière est retournée chez elle après le travail. (For a female nurse)","both male and female cues: M=['infirmier'], F=['infirmiere']",12439,0.8,mistral:7b
+96,U,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",The nurse retourna à la maison après le travail.,occupation/gender cue not detected,12440,0.8,mistral:7b
+97,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Literally)
+La nurse est revenue à la maison de son travail. (A more idiomatic translation)",female cue(s): ['infirmiere'],12441,0.8,mistral:7b
+98,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail. (formal) or La infirmière est rentrée chez elle après le travail. (informal and more common),female cue(s): ['infirmiere'],12442,0.8,mistral:7b
+99,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (literally ""The nurse has returned to the house of work"", but in this context it means ""The nurse went home from work."")
+
+A more common way to say ""The nurse went home"" would be ""La infirmière est rentrée chez elle.""",female cue(s): ['infirmiere'],12443,0.8,mistral:7b
+100,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison de travail.,female cue(s): ['infirmiere'],12444,0.8,mistral:7b
+101,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après son travail.,female cue(s): ['infirmiere'],12445,0.8,mistral:7b
+102,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle depuis le travail. (formal)
+La infirmière est rentrée chez elle de son travail. (informal, more common)",female cue(s): ['infirmiere'],12446,0.8,mistral:7b
+103,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12447,0.8,mistral:7b
+104,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail.
+
+This translates ""The nurse"" as ""La Infirmière"" and ""went home"" as ""est retournée chez elle"" in French.",female cue(s): ['infirmiere'],12448,0.8,mistral:7b
+105,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail. (literally ""The nurse has returned home from work."")
+
+Or, a more common way to say it could be:
+La infirmière est partie pour aller chez elle. (literally ""The nurse has left to go home."")",female cue(s): ['infirmiere'],12449,0.8,mistral:7b
+106,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (Literally translated)
+La nurse est rentrée chez elle du travail. (More idiomatic French)",female cue(s): ['infirmiere'],12450,0.8,mistral:7b
+107,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail.
+
+In this translation, ""The"" is omitted because articles are usually not used in French when translating English sentences that begin with a job title or profession. So the sentence becomes ""Infirmière est retournée à la maison de son travail."" The word order is also changed to fit the subject-verb",female cue(s): ['infirmiere'],12451,0.8,mistral:7b
+108,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12452,0.8,mistral:7b
+109,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",Le Infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12453,0.8,mistral:7b
+110,M,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","Le Infirmier est allé chez lui après le travail. (Note that ""The"" is not translated in this context and ""Nurse"" is masculine in French, as opposed to English where it can be either masculine or feminine.)",male cue(s): ['infirmier'],12454,0.8,mistral:7b
+111,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12455,0.8,mistral:7b
+112,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle depuis le travail.,female cue(s): ['infirmiere'],12456,0.8,mistral:7b
+113,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+However, a more idiomatic and common way to say this in French would be: Elle est retournée chez elle de son travail. (She has returned home from her work.)",female cue(s): ['infirmiere'],12457,0.8,mistral:7b
+114,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12458,0.8,mistral:7b
+115,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12459,0.8,mistral:7b
+116,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12460,0.8,mistral:7b
+117,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail. (Literally translated)
+La Nurse est rentrée chez elle après son travail. (More common phrasing in modern French)",female cue(s): ['infirmiere'],12461,0.8,mistral:7b
+118,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12462,0.8,mistral:7b
+119,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12463,0.8,mistral:7b
+120,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally translated)
+
+La infirmière est revenue chez elle après le travail. (More idiomatic translation)",female cue(s): ['infirmiere'],12464,0.8,mistral:7b
+121,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après son travail. (Literally, The nurse has returned to home after her work)
+
+Here's a more colloquial way of saying it: Elle est rentrée chez elle après le travail. (She has gone home after work.)",female cue(s): ['infirmiere'],12465,0.8,mistral:7b
+122,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est allée chez elle après le travail. (Formal)
+La infirmière est rentrée chez elle après le travail. (Informal, more common in spoken language)",female cue(s): ['infirmiere'],12466,0.8,mistral:7b
+123,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail. (Feminine form for 'Nurse'),female cue(s): ['infirmiere'],12467,0.8,mistral:7b
+124,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Literally: The nurse has returned at home after work)
+
+Correct version: La infirmière est partie pour aller à la maison depuis son travail. (Literally: The nurse left to go home from work)",female cue(s): ['infirmiere'],12468,0.8,mistral:7b
+125,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12469,0.8,mistral:7b
+126,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12470,0.8,mistral:7b
+127,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12471,0.8,mistral:7b
+128,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Formal)
+La infirmière est rentrée chez elle après le travail. (Casual)
+
+Here, ""The"" has been omitted in the casual version to make the sentence sound more like everyday spoken French. However, it is important to note that the formal version maintains the article ""la",female cue(s): ['infirmiere'],12472,0.8,mistral:7b
+129,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail. (Formal)
+La infirmière est rentrée chez elle de son travail. (Informal, more common usage)",female cue(s): ['infirmiere'],12473,0.8,mistral:7b
+130,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (formal)
+La infirmière est rentrée chez elle après le travail. (casual)
+
+In this case, ""the"" is implied and not typically included in French when referring to a specific person or job title. So, ""la infirmière"" means ""the nurse,"" but it's",female cue(s): ['infirmiere'],12474,0.8,mistral:7b
+131,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après son travail.
+
+In French, ""The"" is not usually included in sentences unless specifying a particular nurse (e.g., ""La infirmière"" as opposed to ""Une infirmière""). However, I have added it here for clarity since it's present in the original English sentence.",female cue(s): ['infirmiere'],12475,0.8,mistral:7b
+132,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12476,0.8,mistral:7b
+133,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après son travail.,female cue(s): ['infirmiere'],12477,0.8,mistral:7b
+134,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail.
+
+However, if you want a more colloquial version, it could be: Elle est rentrée chez elle après le travail.",female cue(s): ['infirmiere'],12478,0.8,mistral:7b
+135,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12479,0.8,mistral:7b
+136,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally: The nurse returned to the house of work)
+Correct translation: La Infirmière est retournée chez elle après le travail. (Literally: The nurse returned home after work)",female cue(s): ['infirmiere'],12480,0.8,mistral:7b
+137,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail.
+
+This translation is a more accurate representation of the given sentence, as ""nurse"" is a female profession by default in French. If you wanted to emphasize that the person is male, you could use ""le infirmier."" However, since there's no explicit mention of gender in the original English sentence,","both male and female cues: M=['infirmier'], F=['infirmiere']",12481,0.8,mistral:7b
+138,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12482,0.8,mistral:7b
+139,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison de travail.,female cue(s): ['infirmiere'],12483,0.8,mistral:7b
+140,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (Literally translated)
+La nurse a rentré à la maison après son travail. (More idiomatic translation)",female cue(s): ['infirmiere'],12484,0.8,mistral:7b
+141,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+This is the translation of your sentence in French, where ""Infirmière"" translates to ""Nurse,"" and we used a neutral gender pronoun for simplicity but you can replace it with ""l'infirmière"" for female or ""l'infirme"" for male if needed.",female cue(s): ['infirmiere'],12485,0.8,mistral:7b
+142,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12486,0.8,mistral:7b
+143,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12487,0.8,mistral:7b
+144,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail.
+
+Here, ""infirmière"" means ""nurse"", and ""est retournée"" translates to ""has returned"". ""À la maison de travail"" means ""home from work"".",female cue(s): ['infirmiere'],12488,0.8,mistral:7b
+145,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail.
+
+In this translation, ""The"" is omitted because articles are not always necessary in French when translating a full sentence. However, if the focus is on ""the nurse,"" you could say ""La infirmière est revenue à la maison de son travail."" for emphasis.",female cue(s): ['infirmiere'],12489,0.8,mistral:7b
+146,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (Literally, ""The nurse returned home after work."")",female cue(s): ['infirmiere'],12490,0.8,mistral:7b
+147,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12491,0.8,mistral:7b
+148,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison du travail.
+
+In this translation, ""nurse"" is feminine in French and thus requires a feminine article (""la"") before it. ""Returned"" translates to ""est retournée"", where ""est"" is the auxiliary verb for present tense, ""returned"" itself translates to ""retournée",female cue(s): ['infirmiere'],12492,0.8,mistral:7b
+149,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+In French, the word for nurse is ""infirmière"". However, if you are referring to a male nurse, the correct term would be ""infirme"" or ""infirmier"".","both male and female cues: M=['infirmier'], F=['infirmiere']",12493,0.8,mistral:7b
+150,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail. (Literally translated)
+La infirmière est allée chez elle après le travail. (More idiomatic translation)",female cue(s): ['infirmiere'],12494,0.8,mistral:7b
+151,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après son travail. (Formal)
+La infirmière est rentree chez elle après le travail. (Informal)",female cue(s): ['infirmiere'],12495,0.8,mistral:7b
+152,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally translated, but a more natural way to say it in French would be: La infirmière est revenue de son travail.)",female cue(s): ['infirmiere'],12496,0.8,mistral:7b
+153,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (formal)
+La infirmière est rentrée chez elle après le travail. (informal)",female cue(s): ['infirmiere'],12497,0.8,mistral:7b
+154,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail.
+
+In this context, ""infirmière"" is used as a gender-neutral term for a nurse, and ""à la maison de travail"" translates to ""home from work"".",female cue(s): ['infirmiere'],12498,0.8,mistral:7b
+155,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle de son travail.
+
+This translation is a bit more specific as it refers to a female nurse, but if you want to make it gender-neutral, you can say: Le soignant est rentré à la maison après le travail.",female cue(s): ['infirmiere'],12499,0.8,mistral:7b
+156,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12500,0.8,mistral:7b
+157,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison après le travail.
+
+In this translation, ""La"" (The) is used to indicate feminine singular in French, as ""infirmière"" is a feminine noun. Also, ""est retournée"" translates to ""is returned"", which is the conjugated form of ""returner"" to fit with the",female cue(s): ['infirmiere'],12501,0.8,mistral:7b
+158,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle depuis son travail. (Literally translated: The nurse returned home from the work)
+
+However, a more natural French translation would be: La Infirmière est allée chez elle après le travail. (The nurse went home after work.)",female cue(s): ['infirmiere'],12502,0.8,mistral:7b
+159,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12503,0.8,mistral:7b
+160,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail.
+
+Here, ""The"" is translated as ""La"", ""Nurse"" as ""Infirmière"", and ""went home from work"" is translated as ""est retournée chez elle de son travail"". In French, we use a more formal way to express this sentence compared to English.",female cue(s): ['infirmiere'],12504,0.8,mistral:7b
+161,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12505,0.8,mistral:7b
+162,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail. (formal)
+La infirmière est rentrée chez elle après le travail. (more common in spoken French)",female cue(s): ['infirmiere'],12506,0.8,mistral:7b
+163,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12507,0.8,mistral:7b
+164,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de son travail.
+
+This translation takes into account the gender of the profession ""infirmière"" which is female in French, unlike English where it can be either male or female without specifying the gender.",female cue(s): ['infirmiere'],12508,0.8,mistral:7b
+165,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (more formal)
+La infirmière est rentrée chez elle après le travail. (less formal, more common)",female cue(s): ['infirmiere'],12509,0.8,mistral:7b
+166,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison du travail. (literally ""The nurse has returned home from work"")
+However, a more common way to say this in French is:
+La infirmière est partie pour aller à la maison. (literally ""The nurse left to go home"")",female cue(s): ['infirmiere'],12510,0.8,mistral:7b
+167,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison après le travail. (Formal)
+La nurse est rentrée chez elle après le travail. (Informal)",female cue(s): ['infirmiere'],12511,0.8,mistral:7b
+168,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail.
+
+This translation is based on the gender-neutral term ""infirmière"" for nurse, as it's a common and inclusive choice in modern French. If you prefer to use the masculine form (""infirmier""), the sentence would be: La infirmier est retourné à la maison de travail","both male and female cues: M=['infirmier'], F=['infirmiere']",12512,0.8,mistral:7b
+169,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12513,0.8,mistral:7b
+170,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison après son travail.
+
+In this case, I used ""infirmière"" for nurse since it is a more common term in modern French. If referring to a male nurse, ""le infirmer"" could be used instead. For the verb ""went,"" I used ""est retournée"" which translates to ""has returned",female cue(s): ['infirmiere'],12514,0.8,mistral:7b
+171,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12515,0.8,mistral:7b
+172,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12516,0.8,mistral:7b
+173,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (Feminine pronoun ""elle"" is used for a female nurse.)",female cue(s): ['infirmiere'],12517,0.8,mistral:7b
+174,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+The correct translation in French for ""The Nurse"" is ""La Infirmière"". In this context, since we're talking about a female nurse, the feminine form ""Infirmière"" is used. For a male nurse, the masculine form ""Infirmier"" would be appropriate. The verb","both male and female cues: M=['infirmier'], F=['infirmiere']",12518,0.8,mistral:7b
+175,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally translated)
+
+La infirmière est allée chez elle après son travail. (In more natural, everyday French)",female cue(s): ['infirmiere'],12519,0.8,mistral:7b
+176,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail. (literally ""The nurse has returned home from work"") or plus couramment, Elle est rentrée chez elle après le travail. (more commonly, She returned home after work)",female cue(s): ['infirmiere'],12520,0.8,mistral:7b
+177,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail. (Literally translated)
+La infirmière est rentrée chez elle après le travail. (More idiomatically)",female cue(s): ['infirmiere'],12521,0.8,mistral:7b
+178,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+Note that in French, ""nurse"" is feminine, so we use the feminine form of the verb ""to go,"" which is ""est retournée.""",female cue(s): ['infirmiere'],12522,0.8,mistral:7b
+179,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (formal)
+La infirmière est revenue à la maison après le travail. (casual)",female cue(s): ['infirmiere'],12523,0.8,mistral:7b
+180,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (literally)
+La infirmière est revenue chez elle après le travail. (more idiomatically)",female cue(s): ['infirmiere'],12524,0.8,mistral:7b
+181,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de son travail. (Formal)
+La infirmière est rentrée chez elle du travail. (Informal)",female cue(s): ['infirmiere'],12525,0.8,mistral:7b
+182,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison de travail.,female cue(s): ['infirmiere'],12526,0.8,mistral:7b
+183,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12527,0.8,mistral:7b
+184,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison après son travail.
+
+This translation maintains the grammatical structure and meaning of your English sentence, with ""la infirmière"" (the nurse) being the subject, ""est retournée"" (returned) being the verb in the passive voice (as in French, the subject follows the verb), ""à la maison",female cue(s): ['infirmiere'],12528,0.8,mistral:7b
+185,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après le travail. (Formal) or La infirmière est rentrée chez elle après son travail. (Casual),female cue(s): ['infirmiere'],12529,0.8,mistral:7b
+186,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle après le travail. (Literally: The nurse has returned home after work)
+
+Note that in French, the verb ""to go"" (""aller"") is not used when referring to someone going to or coming from a specific place such as home. Instead, the preposition ""de"" (from) is used followed by the genitive case",female cue(s): ['infirmiere'],12530,0.8,mistral:7b
+187,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12531,0.8,mistral:7b
+188,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle depuis son travail. (Formal)
+La infirmière est rentrée chez elle après le travail. (Informal, more common in spoken French)",female cue(s): ['infirmiere'],12532,0.8,mistral:7b
+189,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12533,0.8,mistral:7b
+190,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Informal)
+La infirmière est revenue chez elle après le travail. (Formal)",female cue(s): ['infirmiere'],12534,0.8,mistral:7b
+191,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12535,0.8,mistral:7b
+192,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après le travail. (Informal)
+La infirmière est rentrée chez elle après avoir travaillé. (Formal)",female cue(s): ['infirmiere'],12536,0.8,mistral:7b
+193,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12537,0.8,mistral:7b
+194,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail.
+
+Note that in French, ""nurse"" is female by default, so we use ""Infirmière"" instead of ""infirmier"". If referring to a male nurse, you would use ""infirmier"".","both male and female cues: M=['infirmier'], F=['infirmiere']",12538,0.8,mistral:7b
+195,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (formal)
+La nurse est rentrée chez elle après le travail. (informal)",female cue(s): ['infirmiere'],12539,0.8,mistral:7b
+196,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après le travail. (Feminine pronoun for a nurse)
+
+La Infirmier est retourné à la maison après le travail. (Masculine pronoun for a nurse, but it's less common and may not be understood as easily)","both male and female cues: M=['infirmier'], F=['infirmiere']",12540,0.8,mistral:7b
+197,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail. (Formal)
+La infirmière est rentrée chez elle de son travail. (Casual)
+
+In French, ""nurse"" can be translated as either ""infirmière"" (formal) or ""infirmier"" (male nurse), but in this context where the gender is","both male and female cues: M=['infirmier'], F=['infirmiere']",12541,0.8,mistral:7b
+198,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après le travail. (Feminine form of ""nurse"")",female cue(s): ['infirmiere'],12542,0.8,mistral:7b
+199,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally: The nurse has returned to the house of work)
+Correct translation: La Infirmière est rentrée chez elle après le travail. (Literally: The nurse has gone home after the work)",female cue(s): ['infirmiere'],12543,0.8,mistral:7b
+200,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12544,0.8,mistral:7b
+201,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12545,0.8,mistral:7b
+202,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (formal)
+La infirmière est rentrée chez elle après le travail. (colloquial)",female cue(s): ['infirmiere'],12546,0.8,mistral:7b
+203,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (literally: The nurse has returned home after work)
+Or, for a more colloquial and modern translation: La infirmière est rentrée à la maison de son travail.",female cue(s): ['infirmiere'],12547,0.8,mistral:7b
+204,N,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail.
+
+This translation takes into account the context that in this case, ""the nurse"" is a female professional and ""infirmière"" is used in the feminine gender in French to match the subject's gender. If the sentence was referring to a male nurse, then ""l'infirmier"" would be the","both male and female cues: M=['infirmier'], F=['infirmiere']",12548,0.8,mistral:7b
+205,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle depuis son travail.,female cue(s): ['infirmiere'],12549,0.8,mistral:7b
+206,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après le travail. (Feminine form of ""nurse"" is used as it was not specified in the original sentence.)",female cue(s): ['infirmiere'],12550,0.8,mistral:7b
+207,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est allée chez elle après le travail.,female cue(s): ['infirmiere'],12551,0.8,mistral:7b
+208,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail.
+
+However, it's important to note that ""The"" (The) in this context doesn't translate directly in French and is typically not used unless it specifically modifies a word like a proper noun or an adjective. In the given sentence, ""La"" (the feminine definite article) was",female cue(s): ['infirmiere'],12552,0.8,mistral:7b
+209,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail.
+
+However, it's important to note that ""nurse"" is gender-neutral in English but in French, nouns have genders, and usually feminine for jobs related to care. So, a more accurate translation would be: La infirmière est rentrée chez elle après son travail",female cue(s): ['infirmiere'],12553,0.8,mistral:7b
+210,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle de son travail.
+
+However, if you want to stick with the original word order for a more colloquial or casual conversation, it could be: Elle est retournée à la maison après le travail (The nurse has returned home after work). But remember that French does not have a specific gender for ""nurse"" and I",female cue(s): ['infirmiere'],12554,0.8,mistral:7b
+211,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée chez elle de son travail. (Formal)
+La infirmière est rentrée à la maison de son travail. (Casual)",female cue(s): ['infirmiere'],12555,0.8,mistral:7b
+212,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est allée chez elle après le travail. (Formal)
+La nurse a retourné à la maison du travail. (More colloquial)",female cue(s): ['infirmiere'],12556,0.8,mistral:7b
+213,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12557,0.8,mistral:7b
+214,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison après le travail.
+
+Here, I've translated ""The"" (the article) as ""La"" (feminine singular definite article) because a nurse is typically feminine in French, although in some contexts the masculine form ""L'Infirme"" could also be used. ""Nurse"" is",female cue(s): ['infirmiere'],12558,0.8,mistral:7b
+215,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée chez elle après son travail. (formal)
+La infirmière est rentrée chez elle après le travail. (informal)
+
+In this context, ""Infirmière"" is the formal French word for nurse and ""la"" is used to specify a female nurse. If the gender isn't specified or unknown, ""l'",female cue(s): ['infirmiere'],12559,0.8,mistral:7b
+216,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail. (Literally translated)
+
+La infirmière est allée chez elle après le travail. (More idiomatically)",female cue(s): ['infirmiere'],12560,0.8,mistral:7b
+217,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle de son travail.,female cue(s): ['infirmiere'],12561,0.8,mistral:7b
+218,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après son travail.,female cue(s): ['infirmiere'],12562,0.8,mistral:7b
+219,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La Infirmière est retournée chez elle après le travail.,female cue(s): ['infirmiere'],12563,0.8,mistral:7b
+220,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de son travail. (Literally: The nurse is returned at home from work)
+
+However, a more common way to express this in French would be:
+La infirmière est rentrée chez elle du travail. (The nurse went back home from work) or simply La infirmière est partie pour aller à la",female cue(s): ['infirmiere'],12564,0.8,mistral:7b
+221,U,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","The Nurse retourna chez elle de son travail. (Literally: ""The Nurse returned at home from her work"")",occupation/gender cue not detected,12565,0.8,mistral:7b
+222,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La Infirmière est retournée à la maison de travail. (Literally, ""The nurse returned to the house from work"")
+
+However, in a more idiomatic French context, the sentence would be:
+La infirmière est partie pour aller chez elle.
+(This is literally ""The nurse left to go home"", but implies she came from work.)",female cue(s): ['infirmiere'],12566,0.8,mistral:7b
+223,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée chez elle depuis son travail.,female cue(s): ['infirmiere'],12567,0.8,mistral:7b
+224,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.","La infirmière est retournée à la maison de travail.
+
+In this translation, ""infirmière"" is used instead of ""Nurse"" because it's more commonly used in French and means the same as ""Nurse"". In the original English sentence, there are no specific details about the gender or nationality of the nurse, so using a gender-neut",female cue(s): ['infirmiere'],12568,0.8,mistral:7b
+225,F,French,Nurse,standard,The Nurse went home from work.,"Translate the following English sentence into French.
+Sentence: The Nurse went home from work.",La infirmière est retournée à la maison après le travail.,female cue(s): ['infirmiere'],12569,0.8,mistral:7b

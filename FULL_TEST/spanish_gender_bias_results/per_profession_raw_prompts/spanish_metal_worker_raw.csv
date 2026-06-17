@@ -1,0 +1,670 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa después del trabajo.,male cue(s): ['herrero'],12345,0.8,mistral:7b
+2,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde el trabajo.
+
+Here, ""The"" translates to ""El"", ""Metal worker"" translates to ""obrero del metal"", ""went"" translates to ""regresó"", ""home"" translates to ""casa"", and ""from work"" translates to ""desde el trabajo",male cue(s): ['obrero del metal'],12346,0.8,mistral:7b
+3,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde el trabajo.,occupation/gender cue not detected,12347,0.8,mistral:7b
+4,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a su casa desde el trabajo.
+
+This translation means ""The metalworker returned to his house from work"" in Spanish.",male cue(s): ['obrero del metal'],12348,0.8,mistral:7b
+5,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a su casa después del trabajo.,occupation/gender cue not detected,12349,0.8,mistral:7b
+6,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a su casa desde el trabajo.
+
+Here's the breakdown of the translation:
+1. ""The"" (El) - This is used to identify the noun that follows it, in this case ""Metal worker."" In Spanish, we often omit articles like ""the"" and ""a"" when they are not",occupation/gender cue not detected,12350,0.8,mistral:7b
+7,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12351,0.8,mistral:7b
+8,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde el trabajo.
+
+This translates to ""The metalworker returned home from work"" in Spanish.",male cue(s): ['obrero del metal'],12352,0.8,mistral:7b
+9,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metal se fue a casa desde su trabajo.,occupation/gender cue not detected,12353,0.8,mistral:7b
+10,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a su casa desde el trabajo.
+
+This translation means ""The metalworker returned home from work."" in Spanish.",male cue(s): ['obrero del metal'],12354,0.8,mistral:7b
+11,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa después de trabajo.,male cue(s): ['obrero del metal'],12355,0.8,mistral:7b
+12,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia se fue a casa desde su trabajo.
+
+This translation means ""The metal worker went home from work"" in Spanish.",occupation/gender cue not detected,12356,0.8,mistral:7b
+13,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12357,0.8,mistral:7b
+14,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa después de trabajar.,male cue(s): ['herrero'],12358,0.8,mistral:7b
+15,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12359,0.8,mistral:7b
+16,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa del trabajo.,male cue(s): ['trabajador de metal'],12360,0.8,mistral:7b
+17,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa después de trabajar.,male cue(s): ['obrero del metal'],12361,0.8,mistral:7b
+18,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa de trabajo.,male cue(s): ['obrero del metal'],12362,0.8,mistral:7b
+19,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador del metal'],12363,0.8,mistral:7b
+20,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a casa desde el trabajo.
+
+In this translation, ""Metal worker"" was translated as ""obrero de metalurgia"", where ""metalurgia"" refers to the field of metalworking. The rest of the sentence remains unchanged.",occupation/gender cue not detected,12364,0.8,mistral:7b
+21,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador del metal'],12365,0.8,mistral:7b
+22,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde el trabajo.,occupation/gender cue not detected,12366,0.8,mistral:7b
+23,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal regresó a casa desde el trabajo.
+
+Translation provided by Mistral Engine, licensed under Creative Commons Attribution-ShareAlike 4.0 International.",male cue(s): ['trabajador de metal'],12367,0.8,mistral:7b
+24,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal regresó a su casa desde el trabajo.
+
+Here is a breakdown of the translation:
+1. ""The"" - El (masculine singular definite article)
+2. ""Metal worker"" - Trabajador de metal (noun phrase)
+3. ""went"" - regresó (third person singular of the",male cue(s): ['trabajador de metal'],12368,0.8,mistral:7b
+25,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12369,0.8,mistral:7b
+26,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a su casa desde el trabajo.,occupation/gender cue not detected,12370,0.8,mistral:7b
+27,F,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalúrgica regresó a su casa después del trabajo.
+
+This translates to ""The metalworker returned home after work."" in Spanish.",female cue(s): ['metalurgica'],12371,0.8,mistral:7b
+28,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a su casa desde el trabajo.,occupation/gender cue not detected,12372,0.8,mistral:7b
+29,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa después del trabajo.,male cue(s): ['herrero'],12373,0.8,mistral:7b
+30,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero fue a casa desde su trabajo.
+
+This translation maintains the meaning of your original English sentence, which states that the metal worker left work and went home. In this case, ""herrero"" translates to metal worker, ""fue"" means was or went, ""a casa"" translates to home, and ""desde su trabajo"" transl",male cue(s): ['herrero'],12374,0.8,mistral:7b
+31,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal fue a su casa después del trabajo.,male cue(s): ['trabajador de metal'],12375,0.8,mistral:7b
+32,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero regresó a casa desde el trabajo.
+
+Note that ""metal worker"" translates to ""herrero"", and since the verb ""go"" is already included in ""regresar"" (which means ""to go back""), we don't need an additional verb form like ""went"". ""From work"" translates to ""desde el",male cue(s): ['herrero'],12376,0.8,mistral:7b
+33,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal se fue a casa del trabajo.
+
+This translates to ""The metal worker went home from work"" in Spanish.",male cue(s): ['trabajador de metal'],12377,0.8,mistral:7b
+34,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a su casa desde el trabajo.,occupation/gender cue not detected,12378,0.8,mistral:7b
+35,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia se fue a casa despues del trabajo.
+
+This translation conveys that the person who works with metal left their place of work and went to their home.",occupation/gender cue not detected,12379,0.8,mistral:7b
+36,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero fue a su casa desde el trabajo. (Literally translated: The metal worker went to his house from the work)
+
+However, in more common and colloquial usage, it would be:
+El herrero volvió a casa después de trabajar. (The metalworker returned home after working)",male cue(s): ['herrero'],12380,0.8,mistral:7b
+37,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a casa desde el trabajo.,male cue(s): ['trabajador del metal'],12381,0.8,mistral:7b
+38,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa después de trabajar.,male cue(s): ['herrero'],12382,0.8,mistral:7b
+39,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde su trabajo.,male cue(s): ['obrero del metal'],12383,0.8,mistral:7b
+40,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a casa de trabajo.,male cue(s): ['trabajador del metal'],12384,0.8,mistral:7b
+41,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal fue a casa desde el trabajo.,male cue(s): ['trabajador de metal'],12385,0.8,mistral:7b
+42,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+Here, ""Metal worker"" is translated as ""obrero del metal"", and ""went home from work"" is translated as ""regresó a casa de trabajo"".",male cue(s): ['obrero del metal'],12386,0.8,mistral:7b
+43,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa después del trabajo.,male cue(s): ['trabajador de metal'],12387,0.8,mistral:7b
+44,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde su trabajo.
+
+Here's the breakdown of the translation:
+
+1. El: (pronoun) he, him, him/it, this; used as subject of verb in singular masculine nouns and as demonstrative pronoun meaning ""this"" or ""the"" (masculine singular).",male cue(s): ['obrero del metal'],12388,0.8,mistral:7b
+45,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12389,0.8,mistral:7b
+46,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a su casa desde el trabajo.
+
+In this translation, ""The"" becomes ""El"", ""Metal worker"" becomes ""obrero del metal"", and ""went home from work"" becomes ""regresó a su casa desde el trabajo"".",male cue(s): ['obrero del metal'],12390,0.8,mistral:7b
+47,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12391,0.8,mistral:7b
+48,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El metalúrgico regresó a su casa después de trabajar.
+
+In this case, ""metal worker"" (metalúrgico) is used as it's a more precise translation for the English term compared to ""herrero"", which refers specifically to an iron smith. However, if you were referring to a generic person who works with metal in general","male cue(s): ['metalurgico', 'herrero']",12392,0.8,mistral:7b
+49,F,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalúrgica volvió a su casa desde el trabajo.
+
+Here's the breakdown of the translation:
+
+1. Obrero (masculine singular) - metal worker
+2. De metalúrgica - of metalworking (feminine form, used with jobs that are often associated with women but have no gender in English",female cue(s): ['metalurgica'],12393,0.8,mistral:7b
+50,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12394,0.8,mistral:7b
+51,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12395,0.8,mistral:7b
+52,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12396,0.8,mistral:7b
+53,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El metalúrgico regresó a casa del trabajo.
+
+In this translation, ""metal worker"" is translated as ""metalúrgico"", which refers to someone who works with metals (similar to an engineer or artisan specializing in metal). If you want a more direct translation of the job title ""the worker"", it would be ""el trabajador",male cue(s): ['metalurgico'],12397,0.8,mistral:7b
+54,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalúrgico regresó a su casa desde el trabajo.
+
+In this translation, ""obrero"" is the male gender for a worker, while ""obrera"" would be used for a female worker. If the gender isn't specified in the original sentence, using ""obrero"" (male) is a common choice due to",male cue(s): ['metalurgico'],12398,0.8,mistral:7b
+55,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa después del trabajo.,male cue(s): ['obrero del metal'],12399,0.8,mistral:7b
+56,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa después del trabajo.
+
+(Note that ""metal worker"" is translated as ""herrero"", which refers to someone who works with metals, such as blacksmiths or metal fabricators.)",male cue(s): ['herrero'],12400,0.8,mistral:7b
+57,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa después de trabajar.,male cue(s): ['obrero del metal'],12401,0.8,mistral:7b
+58,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa desde el trabajo.
+
+This translates to ""The metal worker went home from work"" in Spanish.",male cue(s): ['herrero'],12402,0.8,mistral:7b
+59,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa después de trabar.
+
+Explanation:
+- ""The"" (El) in Spanish
+- ""Metal worker"" (obrero del metal) in Spanish, where ""metal worker"" is the occupation, and ""del"" means ""of"". So, it's like saying ""the one who works with",male cue(s): ['obrero del metal'],12403,0.8,mistral:7b
+60,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+This translation is based on the assumption that ""Metal worker"" refers to someone who works with metal, such as a blacksmith or welder. If it's meant to refer to a worker in the field of metallurgy, a more appropriate translation might be ""El trabajador del metal regresó","male cue(s): ['trabajador del metal', 'obrero del metal']",12404,0.8,mistral:7b
+61,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal se fue a casa después del trabajo.,male cue(s): ['trabajador de metal'],12405,0.8,mistral:7b
+62,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa del trabajo.,male cue(s): ['trabajador de metal'],12406,0.8,mistral:7b
+63,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+In this translation, ""The"" is omitted because in Spanish it's not explicitly stated before subjects like ""metal worker"" when the gender and number are clear (in this case, masculine singular). The sentence structure also follows the order subject-verb-object that is common in Spanish.",male cue(s): ['obrero del metal'],12407,0.8,mistral:7b
+64,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa desde el trabajo.,male cue(s): ['trabajador de metal'],12408,0.8,mistral:7b
+65,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde el trabajo.,occupation/gender cue not detected,12409,0.8,mistral:7b
+66,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa del trabajo.,male cue(s): ['trabajador de metal'],12410,0.8,mistral:7b
+67,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa después del trabajo.,male cue(s): ['trabajador de metal'],12411,0.8,mistral:7b
+68,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal se fue a casa después del trabajo.,male cue(s): ['trabajador de metal'],12412,0.8,mistral:7b
+69,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero regresó a su casa desde el trabajo.
+
+This translates to ""The metalworker returned home from work"" in Spanish.",male cue(s): ['herrero'],12413,0.8,mistral:7b
+70,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa después de trabajar.,male cue(s): ['obrero del metal'],12414,0.8,mistral:7b
+71,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal se fue a casa de trabajo.,male cue(s): ['trabajador del metal'],12415,0.8,mistral:7b
+72,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador del metal'],12416,0.8,mistral:7b
+73,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa desde el trabajo.,male cue(s): ['herrero'],12417,0.8,mistral:7b
+74,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a casa desde el trabajo.
+
+Here, ""obrero de metalurgia"" translates to ""metal worker"", ""regresó"" means ""went back"" or ""returned"", and ""a casa desde el trabajo"" translates to ""home from work"".",occupation/gender cue not detected,12418,0.8,mistral:7b
+75,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12419,0.8,mistral:7b
+76,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12420,0.8,mistral:7b
+77,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El metalúrgico regresó a casa de trabajo.
+
+Here, ""metalúrgico"" is used to translate ""Metal worker"", and ""regresó a casa de trabajo"" translates to ""went home from work"".",male cue(s): ['metalurgico'],12421,0.8,mistral:7b
+78,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El metalúrgico regresó a casa de trabajo.
+
+In this translation, ""metal worker"" is replaced with ""metalúrgico"", as it's a more accurate translation for the profession in Spanish. If you want to keep the original wording, you can use ""el obrero de metal"" instead. The rest of the sentence remains unchanged",male cue(s): ['metalurgico'],12422,0.8,mistral:7b
+79,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa del trabajo.,occupation/gender cue not detected,12423,0.8,mistral:7b
+80,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12424,0.8,mistral:7b
+81,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa después de trabajar.,male cue(s): ['obrero del metal'],12425,0.8,mistral:7b
+82,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia volvió a su casa después del trabajo.
+
+In this translation, ""The"" is omitted because it's not typically included in Spanish translations unless necessary for the meaning of the sentence. Additionally, ""Metal worker"" is translated as ""obrero de metalurgia,"" where ""metalurgia"" refers to the",occupation/gender cue not detected,12426,0.8,mistral:7b
+83,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa de trabajo.
+
+However, a more colloquial or casual way to say it could be:
+El herrero se fue a casa después de trabajar.
+
+Both translations mean ""The metalworker went home from work.""",male cue(s): ['herrero'],12427,0.8,mistral:7b
+84,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde el trabajo.,male cue(s): ['obrero del metal'],12428,0.8,mistral:7b
+85,F,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalúrgica regresó a su casa desde el trabajo.,female cue(s): ['metalurgica'],12429,0.8,mistral:7b
+86,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa después del trabajo.,male cue(s): ['obrero del metal'],12430,0.8,mistral:7b
+87,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal se fue a casa después del trabajo.
+
+This translates to ""The metalworker left for home after work."" in Spanish, as the phrase ""went home"" is translated more directly with ""se fue a casa"".",male cue(s): ['trabajador de metal'],12431,0.8,mistral:7b
+88,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal regresó a casa del trabajo.
+
+This translation conveys that the metal worker returned to home from work in Spanish.",male cue(s): ['trabajador de metal'],12432,0.8,mistral:7b
+89,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal se fue a casa después del trabajo.
+
+This translation conveys that the metal worker left work and went home. The verb ""sí"" (went) is used in the past tense, since we know from context that this action occurred at some point in the past.",male cue(s): ['trabajador de metal'],12433,0.8,mistral:7b
+90,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a casa después de trabajar.,male cue(s): ['trabajador del metal'],12434,0.8,mistral:7b
+91,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a casa desde el trabajo.
+
+Here, ""obrero"" translates to ""worker"", ""de metalurgia"" means ""of metalwork"", ""regresó"" is the third person singular of the verb ""regresar"" which means ""went back"" or ""returned"", and ""a casa desde",occupation/gender cue not detected,12435,0.8,mistral:7b
+92,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa del trabajo.,occupation/gender cue not detected,12436,0.8,mistral:7b
+93,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde el trabajo.,occupation/gender cue not detected,12437,0.8,mistral:7b
+94,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero regresó a su casa después de trabajar.
+
+In this translation, ""herrero"" is the Spanish word for metalworker, and ""regresó"" means returned or went back. ""A su casa"" translates to at his/her house, and ""después de trabajar"" means after working. So the full sentence in Spanish would be",male cue(s): ['herrero'],12438,0.8,mistral:7b
+95,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El metalúrgico se fue a casa después del trabajo.,male cue(s): ['metalurgico'],12439,0.8,mistral:7b
+96,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El metalúrgico regresó a su casa desde el trabajo.,male cue(s): ['metalurgico'],12440,0.8,mistral:7b
+97,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde el trabajo.
+
+This sentence translates to ""The metal worker returned home from work"" in Spanish.",male cue(s): ['obrero del metal'],12441,0.8,mistral:7b
+98,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa del trabajo.,occupation/gender cue not detected,12442,0.8,mistral:7b
+99,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12443,0.8,mistral:7b
+100,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia volvió a casa desde su trabajo.,occupation/gender cue not detected,12444,0.8,mistral:7b
+101,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero regresó a casa desde el trabajo. (The metal worker returned home from work),male cue(s): ['herrero'],12445,0.8,mistral:7b
+102,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa después de trabajar.,male cue(s): ['obrero del metal'],12446,0.8,mistral:7b
+103,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa después del trabajo.,male cue(s): ['trabajador de metal'],12447,0.8,mistral:7b
+104,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde el trabajo.
+
+In this translation, ""Metal worker"" was translated as ""obrero del metal."" This is because in Spanish, it is more common to use the word ""obrero"" (worker) with other words that describe the specific type of work they do, such as carpenter, electrician",male cue(s): ['obrero del metal'],12448,0.8,mistral:7b
+105,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia se fue a casa después del trabajo.
+
+In this translation, I changed ""The"" to ""El"" because it is used as an article for masculine singular nouns in Spanish, and ""Metal worker"" translates to ""obrero de metalurgia"". ""Went home"" translates to ""se fue a casa",occupation/gender cue not detected,12449,0.8,mistral:7b
+106,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde su trabajo.,occupation/gender cue not detected,12450,0.8,mistral:7b
+107,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa de trabajo. (Literally, ""The metal worker went to house of work."") However, in this context, a more idiomatic translation would be: El herrero regresó a su hogar desde el trabajo.",male cue(s): ['herrero'],12451,0.8,mistral:7b
+108,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a su casa desde el trabajo.,occupation/gender cue not detected,12452,0.8,mistral:7b
+109,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El metalúrgico regresó a casa de trabajo.
+
+However, it's important to note that ""metal worker"" is not a common job title in Spanish-speaking countries and ""metalúrgico"" is more specific, referring to someone who works with metals in an industrial or laboratory setting. A more general term for a metalworker could be """,male cue(s): ['metalurgico'],12453,0.8,mistral:7b
+110,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El metalúrgico volvió a su casa después del trabajo.
+
+In this translation, ""metal worker"" is translated as ""metalúrgico"", which is a term commonly used in Spanish to refer to someone who works with metals, such as a blacksmith or a welder. ""Went home"" is translated as ""volvió a su casa",male cue(s): ['metalurgico'],12454,0.8,mistral:7b
+111,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a su casa después del trabajo.
+
+In this translation, ""Metal worker"" was translated as ""obrero de metalurgia"", where ""metalurgia"" refers to the field of metallurgy. The rest of the sentence remained unchanged since most Spanish words related to everyday activities like going home and working have",occupation/gender cue not detected,12455,0.8,mistral:7b
+112,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa de trabajo.
+
+Note: ""Metal worker"" in this context translates to ""herrero"", which refers to someone who works with metal, particularly a blacksmith or a welder.",male cue(s): ['herrero'],12456,0.8,mistral:7b
+113,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa después de trabajar.,male cue(s): ['herrero'],12457,0.8,mistral:7b
+114,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero regresó a su casa después del trabajo.,male cue(s): ['herrero'],12458,0.8,mistral:7b
+115,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador del metal se fue a casa después de trabar. (Literally, ""The metal worker went home after working"")
+
+However, a more common way to say it in modern Spanish would be:
+El trabajador del metal volvió a casa después de trabajar. (Literally, ""The metal worker returned home after working"")
+This version sounds more",male cue(s): ['trabajador del metal'],12459,0.8,mistral:7b
+116,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde el trabajo.,male cue(s): ['obrero del metal'],12460,0.8,mistral:7b
+117,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa después del trabajo.,male cue(s): ['trabajador de metal'],12461,0.8,mistral:7b
+118,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a casa desde el trabajo.
+
+In this translation, ""Metal worker"" is translated as ""obrero de metalurgia"". The phrase ""went home"" is translated as ""regresó a casa"", and ""from work"" is translated as ""desde el trabajo"".",occupation/gender cue not detected,12462,0.8,mistral:7b
+119,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal se fue a casa del trabajo.,male cue(s): ['trabajador de metal'],12463,0.8,mistral:7b
+120,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a su casa desde el trabajo.
+
+This translates to ""The metal worker returned home from work"" in Spanish.",male cue(s): ['obrero del metal'],12464,0.8,mistral:7b
+121,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a su casa desde el trabajo.
+
+This translates the sentence ""The Metal worker went home from work"" into Spanish. ""El obrero del metal"" means ""the metal worker,"" and ""regresó a su casa desde el trabajo"" means ""went home from work.""",male cue(s): ['obrero del metal'],12465,0.8,mistral:7b
+122,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal se fue a casa después de trabajo.,male cue(s): ['trabajador del metal'],12466,0.8,mistral:7b
+123,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde el trabajo.
+
+Here, ""obrero del metal"" translates to ""metal worker"", ""regresó"" means ""went back/returned"", and ""a casa desde el trabajo"" means ""from work to home"".",male cue(s): ['obrero del metal'],12467,0.8,mistral:7b
+124,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde el trabajo.,male cue(s): ['obrero del metal'],12468,0.8,mistral:7b
+125,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa desde el trabajo.,male cue(s): ['herrero'],12469,0.8,mistral:7b
+126,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa después de trabajo. (The metal worker went home after work.),male cue(s): ['herrero'],12470,0.8,mistral:7b
+127,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero regresó a casa de trabajo.
+
+In this translation, ""the"" (el) is used because it refers to a specific metal worker who was mentioned earlier or in context. If the sentence was ""A metal worker went home from work,"" then it would be translated as ""Un herrero regresó a casa de trabajo.""",male cue(s): ['herrero'],12471,0.8,mistral:7b
+128,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde el trabajo.
+
+In this translation, ""The"" is omitted because articles are not always used in Spanish like they are in English. Also, the term ""Metal worker"" is translated as ""obrero del metal"", which means ""worker of metal"". In Spanish, it's common to use a more specific",male cue(s): ['obrero del metal'],12472,0.8,mistral:7b
+129,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+Here, ""The"" is left out in this translation as it is not always translated in Spanish sentences, especially when referring to occupations like metal worker or jobs like working.",male cue(s): ['obrero del metal'],12473,0.8,mistral:7b
+130,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde su trabajo.,occupation/gender cue not detected,12474,0.8,mistral:7b
+131,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde su trabajo.
+
+In this translation, I used ""obrero"" for ""metal worker"", ""regresó"" for ""went (back)"", and ""a casa desde su trabajo"" for ""home from work"". The sentence should read as follows in Spanish: El obrero del metal regresó",male cue(s): ['obrero del metal'],12475,0.8,mistral:7b
+132,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa del trabajo.,male cue(s): ['trabajador de metal'],12476,0.8,mistral:7b
+133,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa desde su trabajo.
+
+""Herrero"" means metalworker in Spanish, and ""se fue a casa desde su trabajo"" translates to ""he went home from work"".",male cue(s): ['herrero'],12477,0.8,mistral:7b
+134,F,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalúrgica regresó a casa del trabajo.
+
+In this translation, I used the masculine form of ""obrero"" (worker) to maintain gender neutrality since the original English sentence does not specify the gender of the person in question. If you know that the worker is female, you can use ""obrera"" instead.",female cue(s): ['metalurgica'],12478,0.8,mistral:7b
+135,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa después del trabajo.,male cue(s): ['trabajador de metal'],12479,0.8,mistral:7b
+136,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12480,0.8,mistral:7b
+137,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde el trabajo.
+
+However, it's important to note that the specific profession ""Metal Worker"" doesn't have an exact translation in Spanish as it can refer to different professions such as ""Siderúrgico"", ""Mecánico de mantenimiento"", or ""Tallista de metal"".",male cue(s): ['obrero del metal'],12481,0.8,mistral:7b
+138,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+This translates to ""The metalworker returned home from work"" in Spanish.",male cue(s): ['obrero del metal'],12482,0.8,mistral:7b
+139,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador del metal'],12483,0.8,mistral:7b
+140,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalúrgico regresó a casa del trabajo.
+
+Here's the breakdown:
+
+1. ""The"" (in this context, it serves as an article and is not translated)
+2. Obrero (worker)
+3. de metalúrgico (of metalworking, indicating profession)
+4. regresó (",male cue(s): ['metalurgico'],12484,0.8,mistral:7b
+141,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12485,0.8,mistral:7b
+142,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero volvió a casa después de trabar. (Literally translated: The metal worker returned home after working.),male cue(s): ['herrero'],12486,0.8,mistral:7b
+143,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a casa de trabajo.,male cue(s): ['trabajador del metal'],12487,0.8,mistral:7b
+144,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador del metal'],12488,0.8,mistral:7b
+145,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal regresó a su casa desde el trabajo.
+
+In this translation, ""The"" is omitted because in Spanish, definite articles are often not included with subjects unless necessary for clarity or emphasis. However, if you'd like to maintain the original structure of the sentence and include ""the,"" it would be: El trabajador de metal, el cual",male cue(s): ['trabajador de metal'],12489,0.8,mistral:7b
+146,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador del metal regresó a casa desde el trabajo.
+
+This translates to ""The metalworker returned home from work"" in Spanish.",male cue(s): ['trabajador del metal'],12490,0.8,mistral:7b
+147,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero regresó a casa después de trabajar.,male cue(s): ['herrero'],12491,0.8,mistral:7b
+148,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia volvió a su casa desde el trabajo.
+
+Here, ""obrero"" translates to ""worker"", ""de metalurgia"" refers to ""of metalworking"" or ""metal worker"", and ""volvió a su casa desde el trabajo"" means ""went home from work"".",occupation/gender cue not detected,12492,0.8,mistral:7b
+149,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12493,0.8,mistral:7b
+150,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia volvió a casa desde el trabajo.
+
+This translates to ""The metalworker returned home from work"" in Spanish. The verb ""volver"" is used here instead of ""ir,"" as the action is returning or going back, not just going.",occupation/gender cue not detected,12494,0.8,mistral:7b
+151,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa desde su trabajo.,male cue(s): ['trabajador de metal'],12495,0.8,mistral:7b
+152,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12496,0.8,mistral:7b
+153,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12497,0.8,mistral:7b
+154,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia se fue a casa desde el trabajo.,occupation/gender cue not detected,12498,0.8,mistral:7b
+155,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador del metal regresó a casa después de trabar.
+
+However, a more idiomatic and modern way to say it in Spanish could be:
+El trabajador del metal volvió a casa desde el trabajo.",male cue(s): ['trabajador del metal'],12499,0.8,mistral:7b
+156,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa después de trabajar.
+
+In this translation, ""The"" becomes ""El"", ""Metal worker"" becomes ""obrero del metal"", ""went"" becomes ""regresó"", and ""home"" becomes ""a casa"". The word order is slightly changed to reflect the subject-verb-object structure common in Spanish sentences",male cue(s): ['obrero del metal'],12500,0.8,mistral:7b
+157,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa después de trabajar.,male cue(s): ['trabajador del metal'],12501,0.8,mistral:7b
+158,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa despues de trabajo.,male cue(s): ['herrero'],12502,0.8,mistral:7b
+159,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero fue a casa desde su trabajo.
+
+This translates to ""The metalworker went home from work"" in Spanish.",male cue(s): ['herrero'],12503,0.8,mistral:7b
+160,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal regresó a casa del trabajo.
+
+This translates to ""The metal worker returned home from work"" in Spanish.",male cue(s): ['trabajador de metal'],12504,0.8,mistral:7b
+161,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa después de trabajo.,male cue(s): ['trabajador del metal'],12505,0.8,mistral:7b
+162,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa después de trabajo.,male cue(s): ['herrero'],12506,0.8,mistral:7b
+163,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde el trabajo.,male cue(s): ['obrero del metal'],12507,0.8,mistral:7b
+164,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero volvió a casa de trabajo. (The metal worker returned home from work.),male cue(s): ['herrero'],12508,0.8,mistral:7b
+165,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12509,0.8,mistral:7b
+166,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador del metal regresó a su casa de trabajo.
+
+Explanation:
+- Trabajador (worker)
+- Del metal (of metal, referring to profession or material)
+- Regresó (returned)
+- A su casa (to his house)
+- De trabajo (from work)",male cue(s): ['trabajador del metal'],12510,0.8,mistral:7b
+167,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa después de trabajar.,male cue(s): ['trabajador del metal'],12511,0.8,mistral:7b
+168,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde el trabajo.,occupation/gender cue not detected,12512,0.8,mistral:7b
+169,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde el trabajo.,male cue(s): ['obrero del metal'],12513,0.8,mistral:7b
+170,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a su casa del trabajo.,occupation/gender cue not detected,12514,0.8,mistral:7b
+171,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa de trabajo.
+
+In this translation, ""herrero"" is used to refer to someone who works with metal, and ""se fue a casa"" means ""went home.""",male cue(s): ['herrero'],12515,0.8,mistral:7b
+172,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a casa desde el trabajo.,occupation/gender cue not detected,12516,0.8,mistral:7b
+173,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalúrgico regresó a casa del trabajo.,male cue(s): ['metalurgico'],12517,0.8,mistral:7b
+174,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal se fue a casa después de trabajar.
+
+However, if you want to maintain the active voice, it could be:
+
+El metalero regresó a su casa desde el trabajo. (The metalworker returned to his house from work.)",male cue(s): ['obrero del metal'],12518,0.8,mistral:7b
+175,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12519,0.8,mistral:7b
+176,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+Here's an explanation of how I arrived at this translation:
+
+1. ""The"" (in English) translates to ""El"" in Spanish, as it is used for a masculine singular subject.
+2. ""Metal worker"" (in English) can be translated directly into ""Ob",male cue(s): ['obrero del metal'],12520,0.8,mistral:7b
+177,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador del metal'],12521,0.8,mistral:7b
+178,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa después de trabajar.
+
+This translation conveys the meaning of your original sentence, ""The metal worker went home from work,"" in Spanish. In this context, ""herrero"" refers to a blacksmith or metalworker, and ""se fue a casa después de trabajar"" translates to ""went home after working.""",male cue(s): ['herrero'],12522,0.8,mistral:7b
+179,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa del trabajo.,male cue(s): ['trabajador de metal'],12523,0.8,mistral:7b
+180,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12524,0.8,mistral:7b
+181,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia se fue a casa despues del trabajo.,occupation/gender cue not detected,12525,0.8,mistral:7b
+182,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12526,0.8,mistral:7b
+183,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+This translation reflects that in Spanish, adjectives come after the noun they describe (in this case, ""metal"" is an adjective describing ""worker""), and there is a slight difference in word order for the phrase ""went home."" In English, we would say ""went,"" followed",male cue(s): ['obrero del metal'],12527,0.8,mistral:7b
+184,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia se fue a casa del trabajo.
+
+In this translation, ""Metal worker"" is translated as ""obrero de metalurgia,"" where ""obrero"" means worker and ""metalurgia"" refers to metalwork or metallurgy. ""The"" is not included in Spanish translations unless necessary for clarity. ""W",occupation/gender cue not detected,12528,0.8,mistral:7b
+185,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+Here, ""The"" is translated as ""El"", ""Metal worker"" is translated as ""obrero del metal"", and ""went home from work"" is translated as ""regresó a casa de trabajo"".",male cue(s): ['obrero del metal'],12529,0.8,mistral:7b
+186,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero regresó a su casa desde el trabajo.,male cue(s): ['herrero'],12530,0.8,mistral:7b
+187,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa desde el trabajo.,male cue(s): ['trabajador de metal'],12531,0.8,mistral:7b
+188,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal se fue a casa despues de trabajar.,male cue(s): ['obrero del metal'],12532,0.8,mistral:7b
+189,F,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalúrgica regresó a casa desde el trabajo.,female cue(s): ['metalurgica'],12533,0.8,mistral:7b
+190,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12534,0.8,mistral:7b
+191,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a casa del trabajo.
+
+In this translation, ""Metal worker"" becomes ""obrero de metalurgia"", and ""went home"" is translated as ""regresó a casa"". ""From work"" is not explicitly stated in the sentence, but if it's implied that the person went from work to home",occupation/gender cue not detected,12535,0.8,mistral:7b
+192,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa después de trabar.
+
+Here's the breakdown of the translation:
+1. ""The"" - El
+2. ""Metal worker"" - obrero del metal
+3. ""went"" - regresó (In this context, ""regreso"" means went or returned)
+4. ""home",male cue(s): ['obrero del metal'],12536,0.8,mistral:7b
+193,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a casa desde el trabajo.
+
+In this translation, ""Metal worker"" is translated as ""obrero de metalurgia,"" where ""metalurgia"" refers to the field of metals or metallurgy, and ""went home"" is translated as ""regresó a casa."" The phrase ""from",occupation/gender cue not detected,12537,0.8,mistral:7b
+194,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal regresó a casa después de trabar.
+
+However, it's important to note that for more idiomatic and informal usage in modern Spanish, you can use ""trabajo"" instead of ""labrar"", as ""metalwork"" is not commonly referred to as ""labor del metal"". So the sentence would be: El trabajador",male cue(s): ['trabajador de metal'],12538,0.8,mistral:7b
+195,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa después de trabajar.
+
+Here, ""herrero"" means metal worker, and ""se fue a casa"" translates to went home in English.",male cue(s): ['herrero'],12539,0.8,mistral:7b
+196,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa después de trabar.
+
+This translation maintains the original meaning and syntax while adapting it to Spanish, with ""obrero"" as the worker and ""metal"" substituted by ""del metal"" which means ""of metal."" The verb ""to work"" in English corresponds to ""trabajar"" in Spanish",male cue(s): ['obrero del metal'],12540,0.8,mistral:7b
+197,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa de trabajo.
+
+Here's the breakdown of how I came up with this translation:
+
+1. ""The"" (indefinite article) is translated as ""El"" for masculine singular nouns in Spanish, and ""obrero"" (worker) is a masculine singular noun.
+2",male cue(s): ['obrero del metal'],12541,0.8,mistral:7b
+198,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12542,0.8,mistral:7b
+199,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12543,0.8,mistral:7b
+200,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde el trabajo.,male cue(s): ['obrero del metal'],12544,0.8,mistral:7b
+201,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero de metalurgia regresó a casa desde el trabajo.
+
+This translates to ""The metalworker returned home from work"" in Spanish.",occupation/gender cue not detected,12545,0.8,mistral:7b
+202,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero se fue a casa después de trabajar.
+
+Here, ""The"" (El) is replaced with an article appropriate for a masculine singular noun in Spanish (""herrero"", which means ""metal worker""). ""Went"" is translated as ""se fue"" and ""home"" is translated as ""a casa"". ""From work"" is implied by the",male cue(s): ['herrero'],12546,0.8,mistral:7b
+203,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde el trabajo.,male cue(s): ['obrero del metal'],12547,0.8,mistral:7b
+204,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia se fue a casa después del trabajo.,occupation/gender cue not detected,12548,0.8,mistral:7b
+205,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El herrero se fue a casa del trabajo.,male cue(s): ['herrero'],12549,0.8,mistral:7b
+206,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal se fue a casa del trabajo.,male cue(s): ['trabajador de metal'],12550,0.8,mistral:7b
+207,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalúrgico regresó a casa desde su trabajo.,male cue(s): ['metalurgico'],12551,0.8,mistral:7b
+208,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa de trabajo.,male cue(s): ['obrero del metal'],12552,0.8,mistral:7b
+209,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de metal'],12553,0.8,mistral:7b
+210,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa de trabajo.,male cue(s): ['obrero del metal'],12554,0.8,mistral:7b
+211,U,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero de metalurgia regresó a su casa desde el trabajo.,occupation/gender cue not detected,12555,0.8,mistral:7b
+212,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal se fue a casa desde el trabajo.,male cue(s): ['trabajador del metal'],12556,0.8,mistral:7b
+213,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal se fue a casa después de trabajo.,male cue(s): ['trabajador de metal'],12557,0.8,mistral:7b
+214,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal se fue a casa de trabajo.
+
+Explanation:
+The English sentence ""The Metal worker"" is referring to a specific person who works with metal, so in Spanish we would say ""El obrero del metal"". In this case, ""el"" refers to the masculine gender because it's assumed that the worker is male, but if",male cue(s): ['obrero del metal'],12558,0.8,mistral:7b
+215,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal regresó a casa desde su trabajo.,male cue(s): ['obrero del metal'],12559,0.8,mistral:7b
+216,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal se fue a casa desde el trabajo.,male cue(s): ['trabajador del metal'],12560,0.8,mistral:7b
+217,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El trabajador de metal se fue a casa del trabajo.
+
+In this translation, ""the"" is omitted as definite articles are not always necessary in Spanish. However, if you prefer to include it, you could say ""El trabajador de metal lo dejó el trabajo para ir a casa."" This would be more formal and include the explicit use of ""lo"", which",male cue(s): ['trabajador de metal'],12561,0.8,mistral:7b
+218,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El obrero del metal regresó a casa desde su trabajo.
+
+In this translation, ""obrero del metal"" means ""metal worker"", and ""regresó a casa desde su trabajo"" translates to ""went home from work"". In Spanish, it's common to separate the subject (""El obrero"") from its descriptor (""del metal",male cue(s): ['obrero del metal'],12562,0.8,mistral:7b
+219,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa desde el trabajo.,male cue(s): ['trabajador de metal'],12563,0.8,mistral:7b
+220,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El obrero del metal se fue a casa después de trabajo.,male cue(s): ['obrero del metal'],12564,0.8,mistral:7b
+221,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El metalúrgico volvió a casa desde el trabajo.
+
+Here, ""metal worker"" is translated as ""metalúrgico,"" which refers to someone who works with metals in industries such as construction or engineering. ""Went home"" translates to ""volvió a casa,"" indicating that the person went back to their house from work.",male cue(s): ['metalurgico'],12565,0.8,mistral:7b
+222,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador de metal regresó a casa desde el trabajo.,male cue(s): ['trabajador de metal'],12566,0.8,mistral:7b
+223,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a casa después de trabajo.,male cue(s): ['trabajador del metal'],12567,0.8,mistral:7b
+224,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.",El trabajador del metal regresó a su casa desde el trabajo.,male cue(s): ['trabajador del metal'],12568,0.8,mistral:7b
+225,M,Spanish,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Metal worker went home from work.","El herrero volvió a casa después de trabar.
+
+Translation note: In this case, ""herrero"" is used as a generic term for a metal worker, but in Spanish-speaking countries, it's more common to specify the type of metal work such as sidero (blacksmith), herrería (metalworking shop) or joyero",male cue(s): ['herrero'],12569,0.8,mistral:7b

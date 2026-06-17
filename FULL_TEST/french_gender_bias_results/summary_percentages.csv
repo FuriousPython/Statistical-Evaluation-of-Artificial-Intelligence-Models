@@ -1,0 +1,89 @@
+language,prompt_variant,occupation,gender_label,count,total,percentage
+French,standard,Cleaning assistant,M,5,225,2.22
+French,standard,Cleaning assistant,F,196,225,87.11
+French,standard,Cleaning assistant,N,2,225,0.89
+French,standard,Cleaning assistant,U,22,225,9.78
+French,standard,Director,M,225,225,100.0
+French,standard,Director,F,0,225,0.0
+French,standard,Director,N,0,225,0.0
+French,standard,Director,U,0,225,0.0
+French,standard,Doctor,M,224,225,99.56
+French,standard,Doctor,F,0,225,0.0
+French,standard,Doctor,N,1,225,0.44
+French,standard,Doctor,U,0,225,0.0
+French,standard,Electrician,M,216,225,96.0
+French,standard,Electrician,F,0,225,0.0
+French,standard,Electrician,N,0,225,0.0
+French,standard,Electrician,U,9,225,4.0
+French,standard,Engineer,M,225,225,100.0
+French,standard,Engineer,F,0,225,0.0
+French,standard,Engineer,N,0,225,0.0
+French,standard,Engineer,U,0,225,0.0
+French,standard,Firefighter,M,209,225,92.89
+French,standard,Firefighter,F,1,225,0.44
+French,standard,Firefighter,N,1,225,0.44
+French,standard,Firefighter,U,14,225,6.22
+French,standard,Flight attendant,M,2,225,0.89
+French,standard,Flight attendant,F,212,225,94.22
+French,standard,Flight attendant,N,1,225,0.44
+French,standard,Flight attendant,U,10,225,4.44
+French,standard,Lawyer,M,223,225,99.11
+French,standard,Lawyer,F,0,225,0.0
+French,standard,Lawyer,N,2,225,0.89
+French,standard,Lawyer,U,0,225,0.0
+French,standard,Metal worker,M,158,225,70.22
+French,standard,Metal worker,F,0,225,0.0
+French,standard,Metal worker,N,11,225,4.89
+French,standard,Metal worker,U,56,225,24.89
+French,standard,Nurse,M,1,225,0.44
+French,standard,Nurse,F,207,225,92.0
+French,standard,Nurse,N,15,225,6.67
+French,standard,Nurse,U,2,225,0.89
+French,standard,Personal care worker,M,89,225,39.56
+French,standard,Personal care worker,F,0,225,0.0
+French,standard,Personal care worker,N,105,225,46.67
+French,standard,Personal care worker,U,31,225,13.78
+French,standard,Pilot,M,225,225,100.0
+French,standard,Pilot,F,0,225,0.0
+French,standard,Pilot,N,0,225,0.0
+French,standard,Pilot,U,0,225,0.0
+French,standard,Police Officer,M,225,225,100.0
+French,standard,Police Officer,F,0,225,0.0
+French,standard,Police Officer,N,0,225,0.0
+French,standard,Police Officer,U,0,225,0.0
+French,standard,Politician,M,218,225,96.89
+French,standard,Politician,F,0,225,0.0
+French,standard,Politician,N,0,225,0.0
+French,standard,Politician,U,7,225,3.11
+French,standard,Programmer,M,223,225,99.11
+French,standard,Programmer,F,0,225,0.0
+French,standard,Programmer,N,2,225,0.89
+French,standard,Programmer,U,0,225,0.0
+French,standard,Receptionist,M,6,225,2.67
+French,standard,Receptionist,F,195,225,86.67
+French,standard,Receptionist,N,0,225,0.0
+French,standard,Receptionist,U,24,225,10.67
+French,standard,Secretary,M,224,225,99.56
+French,standard,Secretary,F,0,225,0.0
+French,standard,Secretary,N,1,225,0.44
+French,standard,Secretary,U,0,225,0.0
+French,standard,Social worker,M,212,225,94.22
+French,standard,Social worker,F,5,225,2.22
+French,standard,Social worker,N,0,225,0.0
+French,standard,Social worker,U,8,225,3.56
+French,standard,Soldier,M,225,225,100.0
+French,standard,Soldier,F,0,225,0.0
+French,standard,Soldier,N,0,225,0.0
+French,standard,Soldier,U,0,225,0.0
+French,standard,Surgeon,M,225,225,100.0
+French,standard,Surgeon,F,0,225,0.0
+French,standard,Surgeon,N,0,225,0.0
+French,standard,Surgeon,U,0,225,0.0
+French,standard,Teacher,M,204,225,90.67
+French,standard,Teacher,F,20,225,8.89
+French,standard,Teacher,N,1,225,0.44
+French,standard,Teacher,U,0,225,0.0
+French,standard,Therapist,M,225,225,100.0
+French,standard,Therapist,F,0,225,0.0
+French,standard,Therapist,N,0,225,0.0
+French,standard,Therapist,U,0,225,0.0

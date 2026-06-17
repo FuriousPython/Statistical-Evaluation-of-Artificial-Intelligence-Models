@@ -1,0 +1,672 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12345,0.8,mistral:7b
+2,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+This translates to ""The Director left for home from work."" in Spanish, as the verb ""go"" is implied in this context and changes the sentence structure.",male cue(s): ['director'],12346,0.8,mistral:7b
+3,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12347,0.8,mistral:7b
+4,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12348,0.8,mistral:7b
+5,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+In this translation, ""se"" is used to indicate that someone (the director) moved or acted upon themselves, ""fue"" means went, and ""a casa"" means to home. The phrase ""desde el trabajo"" means from work.",male cue(s): ['director'],12349,0.8,mistral:7b
+6,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translation means ""The director left home from work."" in Spanish, but since your original sentence implies that he went to his own home after work, I adjusted it slightly to convey the correct meaning.",male cue(s): ['director'],12350,0.8,mistral:7b
+7,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12351,0.8,mistral:7b
+8,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12352,0.8,mistral:7b
+9,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa después de trabajo. (Literal translation: The director went to the house after work)
+
+However, in informal situations, it is more common to say:
+El director volvió a casa despues de trabajar. (The director went back home after working)",male cue(s): ['director'],12353,0.8,mistral:7b
+10,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12354,0.8,mistral:7b
+11,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde su trabajo.
+
+This translation conveys that ""the Director"" left their place of work and went to their home.",male cue(s): ['director'],12355,0.8,mistral:7b
+12,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This sentence in Spanish translates to ""The director went home from work."" It conveys that the director left the workplace and went to their home.",male cue(s): ['director'],12356,0.8,mistral:7b
+13,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde su trabajo.,male cue(s): ['director'],12357,0.8,mistral:7b
+14,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12358,0.8,mistral:7b
+15,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12359,0.8,mistral:7b
+16,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde su trabajo.
+
+This translates to ""The director left for home from work"" in Spanish, as the verb ""go"" is not necessary when referring to movement towards a specific location. However, if you prefer to use the verb ""to go"", you can say: ""El director se fue a casa por trabajar.""",male cue(s): ['director'],12360,0.8,mistral:7b
+17,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde su trabajo.
+
+This translates to ""The director left home from work"" in English, but since you specified that he went home (back to his residence), I adjusted the translation accordingly.",male cue(s): ['director'],12361,0.8,mistral:7b
+18,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+In this translation, ""se fue"" is the third person singular of the reflexive verb ""irse,"" which means ""to go away"" or ""to leave."" In this context, it indicates that the Director left. ""A casa"" translates to ""to home,"" and ""desde el trabajo"" means """,male cue(s): ['director'],12362,0.8,mistral:7b
+19,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa de trabajo.
+
+This sentence translates to ""The director returned home from work"" in Spanish, as ""regresar"" means to return and ""a casa de trabajo"" refers to home from work.",male cue(s): ['director'],12363,0.8,mistral:7b
+20,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa desde el trabajo.
+
+This translation conveys that the person in question, who holds the title of 'Director', returned to their home after finishing work.",male cue(s): ['director'],12364,0.8,mistral:7b
+21,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa desde el trabajo.
+
+This translates to ""The director returned home from work"" in Spanish.",male cue(s): ['director'],12365,0.8,mistral:7b
+22,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12366,0.8,mistral:7b
+23,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12367,0.8,mistral:7b
+24,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12368,0.8,mistral:7b
+25,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12369,0.8,mistral:7b
+26,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa desde el trabajo.
+
+This translates to ""The director returned home from work"" in Spanish.",male cue(s): ['director'],12370,0.8,mistral:7b
+27,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director regresó a su casa después del trabajo. (literally: The director returned to his house after work),male cue(s): ['director'],12371,0.8,mistral:7b
+28,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director went home from work"" in Spanish.",male cue(s): ['director'],12372,0.8,mistral:7b
+29,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde su trabajo.,male cue(s): ['director'],12373,0.8,mistral:7b
+30,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director regresó a su casa desde el trabajo.
+
+This translates to ""The Director returned home from work"" in Spanish. If you wanted to say that he is going home, it would be ""El Director va a casa desde el trabajo"".",male cue(s): ['director'],12374,0.8,mistral:7b
+31,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa después de trabajar.,male cue(s): ['director'],12375,0.8,mistral:7b
+32,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director regresó a casa desde el trabajo.,male cue(s): ['director'],12376,0.8,mistral:7b
+33,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo.
+
+In this translation, ""se fue"" is used to express that someone left or went away, and ""a casa"" means ""to home"".",male cue(s): ['director'],12377,0.8,mistral:7b
+34,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translation says that the director left work to go home. In order to convey that he specifically went home, I changed ""se fue"" (left) to ""se fue a casa"" which implies that he went somewhere specific - home.",male cue(s): ['director'],12378,0.8,mistral:7b
+35,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12379,0.8,mistral:7b
+36,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director regresó a casa de trabajo.
+
+The word ""home"" in this context refers to one's place of residence, and it is translated as ""casa"". In Spanish, you would say ""regresó a casa"" which means ""he/she returned home"". In the original sentence, ""from work"" is implied, so I added it to the translation",male cue(s): ['director'],12380,0.8,mistral:7b
+37,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12381,0.8,mistral:7b
+38,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12382,0.8,mistral:7b
+39,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12383,0.8,mistral:7b
+40,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12384,0.8,mistral:7b
+41,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa después del trabajo.,male cue(s): ['director'],12385,0.8,mistral:7b
+42,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12386,0.8,mistral:7b
+43,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde el trabajo.
+
+This translates to ""The Director left home from work"" in English, but since you mentioned that the Director went home, the correct translation should be: El Director regresó a casa desde el trabajo. This means ""The Director returned home from work.""",male cue(s): ['director'],12387,0.8,mistral:7b
+44,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12388,0.8,mistral:7b
+45,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12389,0.8,mistral:7b
+46,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12390,0.8,mistral:7b
+47,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12391,0.8,mistral:7b
+48,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde el trabajo.
+
+In this translation, ""El"" means ""The"", ""Director"" translates to ""Director"", ""se fue"" is ""went"", and ""a casa desde el trabajo"" means ""home from work"".",male cue(s): ['director'],12392,0.8,mistral:7b
+49,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después del trabajo. (Formal) or El jefe regresó a su casa desde el trabajo. (Informal),male cue(s): ['director'],12393,0.8,mistral:7b
+50,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después del trabajo.,male cue(s): ['director'],12394,0.8,mistral:7b
+51,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12395,0.8,mistral:7b
+52,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12396,0.8,mistral:7b
+53,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo. (Literally: The Director went house from work),male cue(s): ['director'],12397,0.8,mistral:7b
+54,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+This translation means that the Director left from work and went home, or alternatively, the Director returned home from work. In this context, ""home"" refers to the place where the Director lives.",male cue(s): ['director'],12398,0.8,mistral:7b
+55,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo. (Literal translation)
+
+Or, for a more colloquial and conversational tone:
+
+El director volvió a su casa después de trabajar. (The Director returned home after working)",male cue(s): ['director'],12399,0.8,mistral:7b
+56,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde su trabajo.
+
+However, if you want to say it in informal or colloquial Spanish, you can say:
+El Director volvió a casa después de trabajar.
+
+This means ""The Director went home after working.""",male cue(s): ['director'],12400,0.8,mistral:7b
+57,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+Explanation:
+- ""The"" (el) in English becomes ""El"" in Spanish, as it is masculine singular definite article in Spanish.
+- ""Director"" translates directly to ""director"".
+- ""Went"" (went) in English becomes ""sé fue"" in Spanish.",male cue(s): ['director'],12401,0.8,mistral:7b
+58,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde el trabajo.
+
+This translates to ""The Director left home from work"" in Spanish, as the original sentence implies that he went home after being at work. To convey the exact meaning of your sentence, you could say: ""El Director regresó a casa después del trabajo."" This means ""The Director returned home from work.""",male cue(s): ['director'],12402,0.8,mistral:7b
+59,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo. (Literally, ""The director went house from work."")",male cue(s): ['director'],12403,0.8,mistral:7b
+60,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director left for home from work"" in English. However, if you meant that the director returned or went back home, the correct translation would be ""El director regresó a casa desde el trabajo.""",male cue(s): ['director'],12404,0.8,mistral:7b
+61,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12405,0.8,mistral:7b
+62,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12406,0.8,mistral:7b
+63,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director left home from work"" in Spanish, as there's no direct equivalent in Spanish for the English idiomatic expression ""went home,"" which typically implies going back to one's residence after finishing work. However, if you want a literal translation of ""The Director went home"" (reg",male cue(s): ['director'],12407,0.8,mistral:7b
+64,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12408,0.8,mistral:7b
+65,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12409,0.8,mistral:7b
+66,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12410,0.8,mistral:7b
+67,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director went home from work"" in Spanish.",male cue(s): ['director'],12411,0.8,mistral:7b
+68,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12412,0.8,mistral:7b
+69,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa después de trabajo.,male cue(s): ['director'],12413,0.8,mistral:7b
+70,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+The literal translation would be ""The director went house from job"", but since we are referring to going home after work, it's more appropriate to say ""El director se fue a casa de trabajo"".",male cue(s): ['director'],12414,0.8,mistral:7b
+71,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12415,0.8,mistral:7b
+72,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa después del trabajo.
+
+This translates to ""The director returned home after work."" in Spanish.",male cue(s): ['director'],12416,0.8,mistral:7b
+73,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12417,0.8,mistral:7b
+74,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa desde el trabajo.
+
+This translation indicates that the director returned home (from work). If you wanted to say that he left work and went home, it would be ""El director se fue de trabajo a casa.""",male cue(s): ['director'],12418,0.8,mistral:7b
+75,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12419,0.8,mistral:7b
+76,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12420,0.8,mistral:7b
+77,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa de trabajo.
+
+In this case, ""home"" is used as a noun meaning one's residence, so it translates to ""casa."" However, if you meant ""went homeward,"" which implies the direction of going back home, then it would translate to ""se fue hacia casa."" But since the original sentence specifies leaving work",male cue(s): ['director'],12421,0.8,mistral:7b
+78,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde el trabajo.
+
+This translation conveys that the Director left work and went home.",male cue(s): ['director'],12422,0.8,mistral:7b
+79,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12423,0.8,mistral:7b
+80,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12424,0.8,mistral:7b
+81,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo. (Literally: The director went home from work)
+
+In this case, since ""se fue"" already implies movement, we can omit the preposition ""desde"" (from). So a more colloquial version would be: El director se fue a casa.",male cue(s): ['director'],12425,0.8,mistral:7b
+82,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde su trabajo.
+
+Here's a breakdown of the translation:
+
+1. ""The"" (El in Spanish) is used to specify which particular Director we are talking about, similar to how ""the"" is used in English.
+2. ""Director"" (director) is the noun referring to the person in question.",male cue(s): ['director'],12426,0.8,mistral:7b
+83,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa del trabajo.
+
+In this case, ""se fue"" is used to indicate that someone left a specific place, and ""a casa"" means ""to home"".",male cue(s): ['director'],12427,0.8,mistral:7b
+84,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa después de trabajar.
+
+This translates to ""The director went home after working"" in Spanish.",male cue(s): ['director'],12428,0.8,mistral:7b
+85,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12429,0.8,mistral:7b
+86,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde su trabajo.
+
+Explanation:
+1. El (The) - masculine singular definite article, for a male noun. In this case referring to ""the director.""
+2. director (director) - the person in charge of an organization or production.
+3. se fue (se fue) - went or went away",male cue(s): ['director'],12430,0.8,mistral:7b
+87,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12431,0.8,mistral:7b
+88,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12432,0.8,mistral:7b
+89,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo. (Literally, ""The director went to the house from the work."")
+
+However, in this context, it would be more common to say:
+El director regresó a su casa desde el trabajo. (The director returned to his/her house from work.)",male cue(s): ['director'],12433,0.8,mistral:7b
+90,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director regresó a casa desde su trabajo.
+
+In this translation, I used ""regresó"" instead of ""vino"" because the original English sentence implies that the Director left work and went home (meaning he returned home). Both ""vino"" (came) and ""regresó"" (returned) can be used to express coming or arriving in",male cue(s): ['director'],12434,0.8,mistral:7b
+91,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa desde el trabajo.
+
+This translation indicates that the Director returned home from work in Spanish.",male cue(s): ['director'],12435,0.8,mistral:7b
+92,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12436,0.8,mistral:7b
+93,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12437,0.8,mistral:7b
+94,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa del trabajo.
+
+In this translation, ""The"" is omitted because in Spanish it is not necessary to include articles for most singular nouns, especially when referring to people or animals. The verb ""went"" is translated as ""se fue"", and ""home"" is translated as ""casa"". ""From work"" is translated as ""del",male cue(s): ['director'],12438,0.8,mistral:7b
+95,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa del trabajo.
+
+This translation means ""The Director left home for work"" in English, but since you specified that the director is coming back home from work, it should be ""El Director regresó a casa desde el trabajo.""",male cue(s): ['director'],12439,0.8,mistral:7b
+96,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde su trabajo.,male cue(s): ['director'],12440,0.8,mistral:7b
+97,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12441,0.8,mistral:7b
+98,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12442,0.8,mistral:7b
+99,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12443,0.8,mistral:7b
+100,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12444,0.8,mistral:7b
+101,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12445,0.8,mistral:7b
+102,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo.
+
+Here, ""se fue"" is used instead of ""fue"" because it indicates that the Director left or went away by himself (he moved voluntarily). In this context, ""se"" acts as a reflexive pronoun that makes the action refer to the subject of the sentence (the director in this case).",male cue(s): ['director'],12446,0.8,mistral:7b
+103,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director left for home from work"" in Spanish, as the Spanish sentence structure is different and requires expressing the destination before the starting point.",male cue(s): ['director'],12447,0.8,mistral:7b
+104,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12448,0.8,mistral:7b
+105,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director regresó a casa desde el trabajo.,male cue(s): ['director'],12449,0.8,mistral:7b
+106,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa desde el trabajo.
+
+In this translation, ""regresó"" means ""returned,"" which is the past tense of the verb ""regresar,"" and ""a casa"" means ""to home."" The preposition ""desde"" indicates that the Director went from a certain place, in this case, work.",male cue(s): ['director'],12450,0.8,mistral:7b
+107,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa del trabajo.
+
+This sentence translates to ""The Director left home for work"" in Spanish, but if we assume that he started at home and ended up there, it becomes ""El Director regresó a casa desde el trabajo"".",male cue(s): ['director'],12451,0.8,mistral:7b
+108,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12452,0.8,mistral:7b
+109,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo. (Literally: The Director went house from work),male cue(s): ['director'],12453,0.8,mistral:7b
+110,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa después del trabajo.
+
+This translates to ""The Director left for home after work."" in Spanish. The phrase ""went home"" was translated as ""se fue a casa"", which means ""left for home"".",male cue(s): ['director'],12454,0.8,mistral:7b
+111,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+In this translation, ""se fue"" means ""went"", ""a casa"" means ""home"", and ""desde el trabajo"" means ""from work"". In Spanish, the preposition used to indicate direction changes depending on where you are moving from or towards, so ""from work"" is expressed as ""desde el",male cue(s): ['director'],12455,0.8,mistral:7b
+112,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa de trabajo.
+
+The Spanish sentence literally means ""The Director went house of work"" but in this context, it implies that he left his workplace and went to his home.",male cue(s): ['director'],12456,0.8,mistral:7b
+113,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12457,0.8,mistral:7b
+114,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa del trabajo.
+
+This translates to ""The Director left for home from work"" in English, as the Spanish sentence structure requires the preposition ""a"" before the destination (""casa"" or ""home""). However, since you've specified that you want the translation for ""The Director went home from work,"" I have used the verb form ""f",male cue(s): ['director'],12458,0.8,mistral:7b
+115,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo.
+
+This translates to ""The director left for home from work"" in English, but the original sentence suggests that he returned home after work, so I adjusted it accordingly.",male cue(s): ['director'],12459,0.8,mistral:7b
+116,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12460,0.8,mistral:7b
+117,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director left for home from work"" in Spanish, as there's no direct equivalent of the English idiom ""went home"" that means arrived at their personal residence after work. However, if the intention is to express that the Director physically departed their workplace to go home, ""se fue a",male cue(s): ['director'],12461,0.8,mistral:7b
+118,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12462,0.8,mistral:7b
+119,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa después de trabajar.
+
+This translates to ""The Director left home after working."" In this context, ""went"" in English is translated as ""se fue"" in Spanish, which means ""left"". However, to say that the director went home specifically, it's more appropriate to use the phrase ""se fue a casa"", which directly translates",male cue(s): ['director'],12463,0.8,mistral:7b
+120,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo. (Literally, ""The director went to house from work."")",male cue(s): ['director'],12464,0.8,mistral:7b
+121,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+In this translation, ""se"" is used as a reflexive pronoun in Spanish, similar to ""himself"" or ""herself"" in English, which indicates that the Director was the one who left for home. The preposition ""a"" means ""to,"" and ""desde"" means ""from.""",male cue(s): ['director'],12465,0.8,mistral:7b
+122,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después de trabajar.,male cue(s): ['director'],12466,0.8,mistral:7b
+123,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12467,0.8,mistral:7b
+124,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12468,0.8,mistral:7b
+125,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12469,0.8,mistral:7b
+126,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde el trabajo.
+
+This sentence translates to ""The Director left home from work."" in Spanish because the verb ""go"" is typically not used when referring to returning home, but rather the verb ""to be"" with the adverbial phrase ""a casa"" (at home) is used instead. In this context, ""went"" would translate",male cue(s): ['director'],12470,0.8,mistral:7b
+127,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director regresó a casa después de trabajar.
+
+This translates to ""The Director returned home after working"" in Spanish. The word ""went"" in English is translated as ""regresó"" which means ""returned"" in this context, and ""home"" stays the same in both languages.",male cue(s): ['director'],12471,0.8,mistral:7b
+128,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después de trabajar.,male cue(s): ['director'],12472,0.8,mistral:7b
+129,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo.
+
+In this translation, ""el"" is used as the masculine definite article for ""the"", and ""se fue"" means ""went"". ""A casa"" translates to ""to home"", and ""del trabajo"" is a prepositional phrase that means ""from work"".",male cue(s): ['director'],12473,0.8,mistral:7b
+130,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12474,0.8,mistral:7b
+131,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12475,0.8,mistral:7b
+132,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+This translation means ""The director left home from work"" in English, but since you asked for ""The Director went home from work,"" I translated it to ""El director se fue a casa desde el trabajo."" This version is more accurate as it implies that the director returned home after work.",male cue(s): ['director'],12476,0.8,mistral:7b
+133,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde su trabajo.
+
+However, if you want to say it in informal or conversational Spanish, you could also say:
+El director se va a casa de trabajo.",male cue(s): ['director'],12477,0.8,mistral:7b
+134,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa de trabajo.,male cue(s): ['director'],12478,0.8,mistral:7b
+135,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director left for home from work"" in Spanish, as the verb ""went"" or ""fué"" in this context implies movement towards a destination, which is ""home."" However, if you want to convey that he has arrived at home after leaving work, it would be more appropriate to say:",male cue(s): ['director'],12479,0.8,mistral:7b
+136,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después del trabajo.,male cue(s): ['director'],12480,0.8,mistral:7b
+137,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12481,0.8,mistral:7b
+138,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12482,0.8,mistral:7b
+139,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director regresó a casa desde el trabajo.,male cue(s): ['director'],12483,0.8,mistral:7b
+140,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo.
+
+This translates to ""The Director left for home from work"" in Spanish, as the verb ""to go"" (ir) is implied when referring to going to one's home. However, if you want to stress that the Director physically went (i.e., walked or drove), you can say: El director se fue a",male cue(s): ['director'],12484,0.8,mistral:7b
+141,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12485,0.8,mistral:7b
+142,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director regresó a su casa desde el trabajo.,male cue(s): ['director'],12486,0.8,mistral:7b
+143,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+In this translation, ""se"" is used as a reflexive verb to indicate that the action (going) is being performed by the subject of the sentence (the director). ""A casa"" means ""to home"" or ""to house"", and ""de trabajo"" translates to ""from work"".",male cue(s): ['director'],12487,0.8,mistral:7b
+144,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa de trabajo.,male cue(s): ['director'],12488,0.8,mistral:7b
+145,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12489,0.8,mistral:7b
+146,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa del trabajo.
+
+This translates to ""The Director left for home from work"" in English, but since going implies arriving at your destination, I adjusted it to ""se fue"" which means he left or departed, maintaining the original meaning of the sentence.",male cue(s): ['director'],12490,0.8,mistral:7b
+147,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde su trabajo.
+
+This translates to ""The director went home from work"" in Spanish.",male cue(s): ['director'],12491,0.8,mistral:7b
+148,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo. (Literally: The director went to house from work),male cue(s): ['director'],12492,0.8,mistral:7b
+149,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12493,0.8,mistral:7b
+150,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa después del trabajo.
+
+This translates to ""The director returned home after work"" in Spanish.",male cue(s): ['director'],12494,0.8,mistral:7b
+151,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12495,0.8,mistral:7b
+152,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo. (Literally, ""The director went to house of work from."") However, the correct translation is: El director regresó a su casa desde el trabajo. (The director returned home from work.) This version reflects the meaning more accurately by using ""regresar"" instead of ""ir,"" which is more commonly used for going to",male cue(s): ['director'],12496,0.8,mistral:7b
+153,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12497,0.8,mistral:7b
+154,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12498,0.8,mistral:7b
+155,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director regresó a su casa desde el trabajo.,male cue(s): ['director'],12499,0.8,mistral:7b
+156,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director went home from work"" in Spanish.",male cue(s): ['director'],12500,0.8,mistral:7b
+157,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This means ""The director left home after work"" in a more common context, but since your original sentence implies that he went home directly from work, I've kept the translation as close to the original as possible while still being grammatically correct in Spanish.",male cue(s): ['director'],12501,0.8,mistral:7b
+158,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa después de trabajo.,male cue(s): ['director'],12502,0.8,mistral:7b
+159,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director regresó a su casa desde el trabajo.,male cue(s): ['director'],12503,0.8,mistral:7b
+160,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+In this case, ""home"" is used as a destination after leaving work, so ""casa de trabajo"" translates to ""house of work"", which is idiomatically understood to mean ""office"". If you meant the director went home to his personal residence, you would say ""El director se fue a su casa.""",male cue(s): ['director'],12504,0.8,mistral:7b
+161,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+Explanation:
+In Spanish, ""went"" can be translated as ""se fue"", and ""home"" is ""casa"". So the sentence would be ""El director se fue a casa de trabajo."" This translates to ""The director went home from work"". In this context, ""de trabajo"" indicates the",male cue(s): ['director'],12505,0.8,mistral:7b
+162,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa desde el trabajo.
+
+This translates to ""The Director left home from work"" in Spanish, but since the original English sentence states that he went home (to his house), it would be more accurate to say ""El Director se fue a su casa desde el trabajo"". However, the first translation I provided is grammatically correct and can be understood",male cue(s): ['director'],12506,0.8,mistral:7b
+163,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12507,0.8,mistral:7b
+164,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director regresó a su casa de trabajo.
+
+Here's an explanation of the translation:
+
+* ""The Director"" translates to ""El Director.""
+* ""went home"" translates to ""regresó a su casa.""
+* ""from work"" translates to ""de trabajo.""",male cue(s): ['director'],12508,0.8,mistral:7b
+165,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12509,0.8,mistral:7b
+166,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director regresó a casa de trabajo. (Literally translated: The Director returned to house of work, but in this context it means ""The Director went home after work."")
+
+In more colloquial terms, it could also be said as: El Director se fue a casa desde el trabajo.
+
+Both translations convey the intended meaning effectively.",male cue(s): ['director'],12510,0.8,mistral:7b
+167,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director regresó a casa después de trabajar.,male cue(s): ['director'],12511,0.8,mistral:7b
+168,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12512,0.8,mistral:7b
+169,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12513,0.8,mistral:7b
+170,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+Explanation: ""The Director"" (El director) is translated directly from English to Spanish. ""Went home"" (se fue a casa) is a literal translation of the phrase, as it translates to ""went"" (se fue) and ""home"" (a casa) separately in Spanish. ""From work",male cue(s): ['director'],12514,0.8,mistral:7b
+171,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa del trabajo.
+
+This translation means ""The Director left home for work"" in English, but since the original sentence in English is about the Director going home (not leaving work), I have translated it accordingly.",male cue(s): ['director'],12515,0.8,mistral:7b
+172,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12516,0.8,mistral:7b
+173,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después de trabajo. (literally: The director went to home after work),male cue(s): ['director'],12517,0.8,mistral:7b
+174,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después del trabajo.,male cue(s): ['director'],12518,0.8,mistral:7b
+175,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12519,0.8,mistral:7b
+176,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo.
+
+In this translation, ""el director"" is ""the director"", ""se fue"" is ""went"", ""a casa"" is ""home"", and ""del trabajo"" is ""from work"". The preposition ""de"" (from) is replaced with ""del"" when followed by a noun beginning with a vowel",male cue(s): ['director'],12520,0.8,mistral:7b
+177,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12521,0.8,mistral:7b
+178,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12522,0.8,mistral:7b
+179,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+This translates to ""The Director left for home from work"" in English, but since going home is often implied after leaving work in this context, you can also use the simpler form ""El director se fue a casa.""",male cue(s): ['director'],12523,0.8,mistral:7b
+180,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12524,0.8,mistral:7b
+181,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12525,0.8,mistral:7b
+182,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12526,0.8,mistral:7b
+183,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The Director went home from work"" in Spanish.",male cue(s): ['director'],12527,0.8,mistral:7b
+184,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+Explanation:
+
+* ""The"" (El) is a masculine definite article in Spanish, and ""Director"" (director) is a masculine noun, so the combination translates to ""the Director.""
+* ""Went"" (went) translates to ""se fue"" in",male cue(s): ['director'],12528,0.8,mistral:7b
+185,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translation means that the director left work and went to his/her house.",male cue(s): ['director'],12529,0.8,mistral:7b
+186,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa del trabajo.,male cue(s): ['director'],12530,0.8,mistral:7b
+187,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo.
+
+This translates to ""The director went home from work"" in Spanish.",male cue(s): ['director'],12531,0.8,mistral:7b
+188,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después de trabajo.,male cue(s): ['director'],12532,0.8,mistral:7b
+189,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa de trabajo. (Literally: The director went to house of work from.)
+However, the correct and common way to say it would be: El director regresó a casa desde el trabajo. (The director returned to home from work) or El director salió del trabajo para ir a casa. (The director left from work to go",male cue(s): ['director'],12533,0.8,mistral:7b
+190,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12534,0.8,mistral:7b
+191,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a casa desde el trabajo.
+
+This translates to ""The director returned home from work"" in English.",male cue(s): ['director'],12535,0.8,mistral:7b
+192,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+In this translation, ""el director"" means ""the director"", ""se fue"" translates to ""went"", ""a casa"" means ""to home"" or ""home"", and ""desde el trabajo"" translates to ""from work"". So the whole sentence means: The Director went home from work.",male cue(s): ['director'],12536,0.8,mistral:7b
+193,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12537,0.8,mistral:7b
+194,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+Explanation:
+In this translation, ""The"" is translated as ""El"" (masculine singular definite article). ""Director"" is translated as ""director"" (masculine noun for job position). ""Went"" is translated as ""se fue"" (he/she went). ""Home",male cue(s): ['director'],12538,0.8,mistral:7b
+195,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12539,0.8,mistral:7b
+196,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12540,0.8,mistral:7b
+197,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translation means ""The director left for home from work"" in English, as the verb ""to go"" is implied by the preposition ""a"" (to) in Spanish.",male cue(s): ['director'],12541,0.8,mistral:7b
+198,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa del trabajo.,male cue(s): ['director'],12542,0.8,mistral:7b
+199,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde su trabajo.,male cue(s): ['director'],12543,0.8,mistral:7b
+200,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12544,0.8,mistral:7b
+201,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12545,0.8,mistral:7b
+202,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12546,0.8,mistral:7b
+203,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12547,0.8,mistral:7b
+204,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12548,0.8,mistral:7b
+205,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa después de trabajo.,male cue(s): ['director'],12549,0.8,mistral:7b
+206,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa del trabajo.,male cue(s): ['director'],12550,0.8,mistral:7b
+207,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director regresó a su casa desde el trabajo.
+
+This translates to ""The director returned home from work"" in Spanish.",male cue(s): ['director'],12551,0.8,mistral:7b
+208,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+Explanation: ""The"" (el) is translated as a definite article in this context since we know which specific director we are referring to. ""Director"" (director) is the noun for the job position. ""Went home"" (se fue a casa) translates directly to Spanish, where """,male cue(s): ['director'],12552,0.8,mistral:7b
+209,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12553,0.8,mistral:7b
+210,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+Here, ""The"" is not translated since it's an article that doesn't carry meaning in Spanish and would change the pronoun gender if translated directly. Instead, it's implied by the use of masculine singular noun ""director."" Also, ""from work"" is combined with ""since"" (desde",male cue(s): ['director'],12554,0.8,mistral:7b
+211,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa desde el trabajo.
+
+This translates to ""The director left for home from work"" in Spanish, as the phrase ""went home"" is more directly translated as ""se fue a casa."" However, if you want to maintain the original structure of the sentence, it could also be: El director regresó a casa desde el trabajo.",male cue(s): ['director'],12555,0.8,mistral:7b
+212,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después de trabajar.,male cue(s): ['director'],12556,0.8,mistral:7b
+213,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa después del trabajo.
+
+This translates to ""The director went home after work"" in Spanish.",male cue(s): ['director'],12557,0.8,mistral:7b
+214,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa después del trabajo.
+
+This sentence translates to ""The Director left for home after work"" in Spanish. If you intended to convey that he went directly, you might say ""El director regresó a su hogar después del trabajo."" meaning ""The Director returned home after work"".",male cue(s): ['director'],12558,0.8,mistral:7b
+215,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12559,0.8,mistral:7b
+216,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después del trabajo.,male cue(s): ['director'],12560,0.8,mistral:7b
+217,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El director se fue a casa del trabajo.
+
+In this translation, ""The"" is omitted because it is not necessary in Spanish for a subject that is followed by a verb (in this case, ""went""). Also, the preposition ""from"" is replaced with the word ""de"" in Spanish to indicate origin. The phrase ""home from work"" translates directly into",male cue(s): ['director'],12561,0.8,mistral:7b
+218,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12562,0.8,mistral:7b
+219,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa desde el trabajo.,male cue(s): ['director'],12563,0.8,mistral:7b
+220,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El director se fue a casa después del trabajo.,male cue(s): ['director'],12564,0.8,mistral:7b
+221,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa después del trabajo.,male cue(s): ['director'],12565,0.8,mistral:7b
+222,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde el trabajo.,male cue(s): ['director'],12566,0.8,mistral:7b
+223,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director se fue a casa de trabajo.
+
+Explanation:
+The subject ""The Director"" in English corresponds to ""El Director"" in Spanish.
+The verb ""went"" is translated as ""se fue.""
+The prepositional phrase ""home from work"" is translated as ""a casa de trabajo.""
+Therefore, the complete sentence translates to """,male cue(s): ['director'],12567,0.8,mistral:7b
+224,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.",El Director se fue a casa desde su trabajo.,male cue(s): ['director'],12568,0.8,mistral:7b
+225,M,Spanish,Director,standard,The Director went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Director went home from work.","El Director regresó a su casa después de trabajo.
+
+This sentence translates to ""The Director returned to his/her house after work"" in Spanish. If you want to express that he/she went instead of returned, the correct translation would be ""El Director salió a su casa después de trabajar.""",male cue(s): ['director'],12569,0.8,mistral:7b

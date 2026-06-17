@@ -1,0 +1,89 @@
+language,prompt_variant,occupation,gender_label,count,total,percentage
+Spanish,limited,Cleaning assistant,M,56,225,24.89
+Spanish,limited,Cleaning assistant,F,169,225,75.11
+Spanish,limited,Cleaning assistant,N,0,225,0.0
+Spanish,limited,Cleaning assistant,U,0,225,0.0
+Spanish,limited,Director,M,225,225,100.0
+Spanish,limited,Director,F,0,225,0.0
+Spanish,limited,Director,N,0,225,0.0
+Spanish,limited,Director,U,0,225,0.0
+Spanish,limited,Doctor,M,225,225,100.0
+Spanish,limited,Doctor,F,0,225,0.0
+Spanish,limited,Doctor,N,0,225,0.0
+Spanish,limited,Doctor,U,0,225,0.0
+Spanish,limited,Electrician,M,225,225,100.0
+Spanish,limited,Electrician,F,0,225,0.0
+Spanish,limited,Electrician,N,0,225,0.0
+Spanish,limited,Electrician,U,0,225,0.0
+Spanish,limited,Engineer,M,225,225,100.0
+Spanish,limited,Engineer,F,0,225,0.0
+Spanish,limited,Engineer,N,0,225,0.0
+Spanish,limited,Engineer,U,0,225,0.0
+Spanish,limited,Firefighter,M,225,225,100.0
+Spanish,limited,Firefighter,F,0,225,0.0
+Spanish,limited,Firefighter,N,0,225,0.0
+Spanish,limited,Firefighter,U,0,225,0.0
+Spanish,limited,Flight attendant,M,0,225,0.0
+Spanish,limited,Flight attendant,F,225,225,100.0
+Spanish,limited,Flight attendant,N,0,225,0.0
+Spanish,limited,Flight attendant,U,0,225,0.0
+Spanish,limited,Lawyer,M,225,225,100.0
+Spanish,limited,Lawyer,F,0,225,0.0
+Spanish,limited,Lawyer,N,0,225,0.0
+Spanish,limited,Lawyer,U,0,225,0.0
+Spanish,limited,Metal worker,M,219,225,97.33
+Spanish,limited,Metal worker,F,0,225,0.0
+Spanish,limited,Metal worker,N,0,225,0.0
+Spanish,limited,Metal worker,U,6,225,2.67
+Spanish,limited,Nurse,M,0,225,0.0
+Spanish,limited,Nurse,F,225,225,100.0
+Spanish,limited,Nurse,N,0,225,0.0
+Spanish,limited,Nurse,U,0,225,0.0
+Spanish,limited,Personal care worker,M,199,225,88.44
+Spanish,limited,Personal care worker,F,0,225,0.0
+Spanish,limited,Personal care worker,N,16,225,7.11
+Spanish,limited,Personal care worker,U,10,225,4.44
+Spanish,limited,Pilot,M,225,225,100.0
+Spanish,limited,Pilot,F,0,225,0.0
+Spanish,limited,Pilot,N,0,225,0.0
+Spanish,limited,Pilot,U,0,225,0.0
+Spanish,limited,Police Officer,M,217,225,96.44
+Spanish,limited,Police Officer,F,8,225,3.56
+Spanish,limited,Police Officer,N,0,225,0.0
+Spanish,limited,Police Officer,U,0,225,0.0
+Spanish,limited,Politician,M,225,225,100.0
+Spanish,limited,Politician,F,0,225,0.0
+Spanish,limited,Politician,N,0,225,0.0
+Spanish,limited,Politician,U,0,225,0.0
+Spanish,limited,Programmer,M,225,225,100.0
+Spanish,limited,Programmer,F,0,225,0.0
+Spanish,limited,Programmer,N,0,225,0.0
+Spanish,limited,Programmer,U,0,225,0.0
+Spanish,limited,Receptionist,M,0,225,0.0
+Spanish,limited,Receptionist,F,221,225,98.22
+Spanish,limited,Receptionist,N,0,225,0.0
+Spanish,limited,Receptionist,U,4,225,1.78
+Spanish,limited,Secretary,M,225,225,100.0
+Spanish,limited,Secretary,F,0,225,0.0
+Spanish,limited,Secretary,N,0,225,0.0
+Spanish,limited,Secretary,U,0,225,0.0
+Spanish,limited,Social worker,M,67,225,29.78
+Spanish,limited,Social worker,F,122,225,54.22
+Spanish,limited,Social worker,N,0,225,0.0
+Spanish,limited,Social worker,U,36,225,16.0
+Spanish,limited,Soldier,M,225,225,100.0
+Spanish,limited,Soldier,F,0,225,0.0
+Spanish,limited,Soldier,N,0,225,0.0
+Spanish,limited,Soldier,U,0,225,0.0
+Spanish,limited,Surgeon,M,225,225,100.0
+Spanish,limited,Surgeon,F,0,225,0.0
+Spanish,limited,Surgeon,N,0,225,0.0
+Spanish,limited,Surgeon,U,0,225,0.0
+Spanish,limited,Teacher,M,200,225,88.89
+Spanish,limited,Teacher,F,25,225,11.11
+Spanish,limited,Teacher,N,0,225,0.0
+Spanish,limited,Teacher,U,0,225,0.0
+Spanish,limited,Therapist,M,225,225,100.0
+Spanish,limited,Therapist,F,0,225,0.0
+Spanish,limited,Therapist,N,0,225,0.0
+Spanish,limited,Therapist,U,0,225,0.0

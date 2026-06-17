@@ -1,0 +1,1351 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12345,0.8,mistral:7b
+2,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12346,0.8,mistral:7b
+3,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12347,0.8,mistral:7b
+4,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12348,0.8,mistral:7b
+5,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12349,0.8,mistral:7b
+6,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12350,0.8,mistral:7b
+7,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12351,0.8,mistral:7b
+8,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12352,0.8,mistral:7b
+9,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé chez lui depuis son travail.,male cue(s): ['avocat'],12353,0.8,mistral:7b
+10,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12354,0.8,mistral:7b
+11,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12355,0.8,mistral:7b
+12,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12356,0.8,mistral:7b
+13,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12357,0.8,mistral:7b
+14,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12358,0.8,mistral:7b
+15,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12359,0.8,mistral:7b
+16,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui du travail.,male cue(s): ['avocat'],12360,0.8,mistral:7b
+17,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12361,0.8,mistral:7b
+18,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12362,0.8,mistral:7b
+19,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12363,0.8,mistral:7b
+20,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12364,0.8,mistral:7b
+21,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12365,0.8,mistral:7b
+22,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12366,0.8,mistral:7b
+23,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12367,0.8,mistral:7b
+24,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12368,0.8,mistral:7b
+25,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12369,0.8,mistral:7b
+26,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12370,0.8,mistral:7b
+27,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est rentré à la maison de son travail.,male cue(s): ['avocat'],12371,0.8,mistral:7b
+28,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12372,0.8,mistral:7b
+29,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12373,0.8,mistral:7b
+30,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12374,0.8,mistral:7b
+31,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé chez lui après le travail.,male cue(s): ['avocat'],12375,0.8,mistral:7b
+32,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12376,0.8,mistral:7b
+33,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12377,0.8,mistral:7b
+34,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui du travail.,male cue(s): ['avocat'],12378,0.8,mistral:7b
+35,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12379,0.8,mistral:7b
+36,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12380,0.8,mistral:7b
+37,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12381,0.8,mistral:7b
+38,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12382,0.8,mistral:7b
+39,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui après son travail.,male cue(s): ['avocat'],12383,0.8,mistral:7b
+40,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12384,0.8,mistral:7b
+41,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé à la maison après le travail.,male cue(s): ['avocat'],12385,0.8,mistral:7b
+42,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12386,0.8,mistral:7b
+43,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12387,0.8,mistral:7b
+44,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12388,0.8,mistral:7b
+45,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12389,0.8,mistral:7b
+46,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12390,0.8,mistral:7b
+47,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12391,0.8,mistral:7b
+48,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12392,0.8,mistral:7b
+49,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est rentré chez lui du travail.,male cue(s): ['avocat'],12393,0.8,mistral:7b
+50,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12394,0.8,mistral:7b
+51,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12395,0.8,mistral:7b
+52,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12396,0.8,mistral:7b
+53,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12397,0.8,mistral:7b
+54,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12398,0.8,mistral:7b
+55,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12399,0.8,mistral:7b
+56,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12400,0.8,mistral:7b
+57,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12401,0.8,mistral:7b
+58,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12402,0.8,mistral:7b
+59,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12403,0.8,mistral:7b
+60,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12404,0.8,mistral:7b
+61,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12405,0.8,mistral:7b
+62,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12406,0.8,mistral:7b
+63,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12407,0.8,mistral:7b
+64,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12408,0.8,mistral:7b
+65,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12409,0.8,mistral:7b
+66,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12410,0.8,mistral:7b
+67,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12411,0.8,mistral:7b
+68,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12412,0.8,mistral:7b
+69,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui du travail.,male cue(s): ['avocat'],12413,0.8,mistral:7b
+70,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12414,0.8,mistral:7b
+71,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est rentré chez lui du travail.,male cue(s): ['avocat'],12415,0.8,mistral:7b
+72,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12416,0.8,mistral:7b
+73,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12417,0.8,mistral:7b
+74,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12418,0.8,mistral:7b
+75,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12419,0.8,mistral:7b
+76,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12420,0.8,mistral:7b
+77,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12421,0.8,mistral:7b
+78,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12422,0.8,mistral:7b
+79,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12423,0.8,mistral:7b
+80,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12424,0.8,mistral:7b
+81,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12425,0.8,mistral:7b
+82,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui du travail.,male cue(s): ['avocat'],12426,0.8,mistral:7b
+83,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12427,0.8,mistral:7b
+84,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12428,0.8,mistral:7b
+85,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12429,0.8,mistral:7b
+86,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12430,0.8,mistral:7b
+87,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12431,0.8,mistral:7b
+88,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12432,0.8,mistral:7b
+89,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12433,0.8,mistral:7b
+90,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12434,0.8,mistral:7b
+91,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12435,0.8,mistral:7b
+92,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12436,0.8,mistral:7b
+93,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12437,0.8,mistral:7b
+94,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12438,0.8,mistral:7b
+95,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12439,0.8,mistral:7b
+96,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12440,0.8,mistral:7b
+97,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12441,0.8,mistral:7b
+98,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12442,0.8,mistral:7b
+99,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12443,0.8,mistral:7b
+100,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12444,0.8,mistral:7b
+101,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12445,0.8,mistral:7b
+102,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12446,0.8,mistral:7b
+103,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12447,0.8,mistral:7b
+104,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12448,0.8,mistral:7b
+105,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12449,0.8,mistral:7b
+106,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12450,0.8,mistral:7b
+107,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12451,0.8,mistral:7b
+108,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12452,0.8,mistral:7b
+109,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12453,0.8,mistral:7b
+110,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est allé à la maison de son travail.,male cue(s): ['avocat'],12454,0.8,mistral:7b
+111,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui du travail.,male cue(s): ['avocat'],12455,0.8,mistral:7b
+112,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison du travail.,male cue(s): ['avocat'],12456,0.8,mistral:7b
+113,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12457,0.8,mistral:7b
+114,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12458,0.8,mistral:7b
+115,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12459,0.8,mistral:7b
+116,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12460,0.8,mistral:7b
+117,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12461,0.8,mistral:7b
+118,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12462,0.8,mistral:7b
+119,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui après son travail.,male cue(s): ['avocat'],12463,0.8,mistral:7b
+120,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12464,0.8,mistral:7b
+121,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12465,0.8,mistral:7b
+122,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est allé chez lui après le travail.,male cue(s): ['avocat'],12466,0.8,mistral:7b
+123,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12467,0.8,mistral:7b
+124,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12468,0.8,mistral:7b
+125,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12469,0.8,mistral:7b
+126,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12470,0.8,mistral:7b
+127,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui du travail.,male cue(s): ['avocat'],12471,0.8,mistral:7b
+128,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12472,0.8,mistral:7b
+129,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui de son travail.,male cue(s): ['avocat'],12473,0.8,mistral:7b
+130,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12474,0.8,mistral:7b
+131,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12475,0.8,mistral:7b
+132,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12476,0.8,mistral:7b
+133,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12477,0.8,mistral:7b
+134,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12478,0.8,mistral:7b
+135,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12479,0.8,mistral:7b
+136,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12480,0.8,mistral:7b
+137,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12481,0.8,mistral:7b
+138,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12482,0.8,mistral:7b
+139,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12483,0.8,mistral:7b
+140,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12484,0.8,mistral:7b
+141,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12485,0.8,mistral:7b
+142,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12486,0.8,mistral:7b
+143,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12487,0.8,mistral:7b
+144,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12488,0.8,mistral:7b
+145,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12489,0.8,mistral:7b
+146,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12490,0.8,mistral:7b
+147,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12491,0.8,mistral:7b
+148,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui depuis son travail.,male cue(s): ['avocat'],12492,0.8,mistral:7b
+149,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12493,0.8,mistral:7b
+150,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12494,0.8,mistral:7b
+151,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12495,0.8,mistral:7b
+152,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12496,0.8,mistral:7b
+153,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12497,0.8,mistral:7b
+154,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12498,0.8,mistral:7b
+155,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12499,0.8,mistral:7b
+156,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12500,0.8,mistral:7b
+157,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12501,0.8,mistral:7b
+158,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé chez lui à partir de son travail.,male cue(s): ['avocat'],12502,0.8,mistral:7b
+159,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12503,0.8,mistral:7b
+160,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12504,0.8,mistral:7b
+161,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui du travail.,male cue(s): ['avocat'],12505,0.8,mistral:7b
+162,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12506,0.8,mistral:7b
+163,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12507,0.8,mistral:7b
+164,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12508,0.8,mistral:7b
+165,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12509,0.8,mistral:7b
+166,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui depuis son travail.,male cue(s): ['avocat'],12510,0.8,mistral:7b
+167,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12511,0.8,mistral:7b
+168,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12512,0.8,mistral:7b
+169,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12513,0.8,mistral:7b
+170,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui du travail.,male cue(s): ['avocat'],12514,0.8,mistral:7b
+171,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12515,0.8,mistral:7b
+172,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12516,0.8,mistral:7b
+173,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est allé chez lui après le travail.,male cue(s): ['avocat'],12517,0.8,mistral:7b
+174,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé à la maison après le travail.,male cue(s): ['avocat'],12518,0.8,mistral:7b
+175,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12519,0.8,mistral:7b
+176,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui de son travail.,male cue(s): ['avocat'],12520,0.8,mistral:7b
+177,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12521,0.8,mistral:7b
+178,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12522,0.8,mistral:7b
+179,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12523,0.8,mistral:7b
+180,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12524,0.8,mistral:7b
+181,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12525,0.8,mistral:7b
+182,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12526,0.8,mistral:7b
+183,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12527,0.8,mistral:7b
+184,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12528,0.8,mistral:7b
+185,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12529,0.8,mistral:7b
+186,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12530,0.8,mistral:7b
+187,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12531,0.8,mistral:7b
+188,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé chez lui à partir de son travail.,male cue(s): ['avocat'],12532,0.8,mistral:7b
+189,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12533,0.8,mistral:7b
+190,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12534,0.8,mistral:7b
+191,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12535,0.8,mistral:7b
+192,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12536,0.8,mistral:7b
+193,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12537,0.8,mistral:7b
+194,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12538,0.8,mistral:7b
+195,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12539,0.8,mistral:7b
+196,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui du travail.,male cue(s): ['avocat'],12540,0.8,mistral:7b
+197,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12541,0.8,mistral:7b
+198,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui de son travail.,male cue(s): ['avocat'],12542,0.8,mistral:7b
+199,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12543,0.8,mistral:7b
+200,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12544,0.8,mistral:7b
+201,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12545,0.8,mistral:7b
+202,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12546,0.8,mistral:7b
+203,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12547,0.8,mistral:7b
+204,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12548,0.8,mistral:7b
+205,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui depuis son travail.,male cue(s): ['avocat'],12549,0.8,mistral:7b
+206,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12550,0.8,mistral:7b
+207,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est allé chez lui après le travail.,male cue(s): ['avocat'],12551,0.8,mistral:7b
+208,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12552,0.8,mistral:7b
+209,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12553,0.8,mistral:7b
+210,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après son travail.,male cue(s): ['avocat'],12554,0.8,mistral:7b
+211,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12555,0.8,mistral:7b
+212,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est allé chez lui après le travail.,male cue(s): ['avocat'],12556,0.8,mistral:7b
+213,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé à la maison depuis son travail.,male cue(s): ['avocat'],12557,0.8,mistral:7b
+214,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé à la maison depuis son travail.,male cue(s): ['avocat'],12558,0.8,mistral:7b
+215,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12559,0.8,mistral:7b
+216,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12560,0.8,mistral:7b
+217,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est rentré chez lui du travail.,male cue(s): ['avocat'],12561,0.8,mistral:7b
+218,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12562,0.8,mistral:7b
+219,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de travail.,male cue(s): ['avocat'],12563,0.8,mistral:7b
+220,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est allé à la maison après son travail.,male cue(s): ['avocat'],12564,0.8,mistral:7b
+221,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",L'Avocat est rentré chez lui après le travail.,male cue(s): ['avocat'],12565,0.8,mistral:7b
+222,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12566,0.8,mistral:7b
+223,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12567,0.8,mistral:7b
+224,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12568,0.8,mistral:7b
+225,M,French,Lawyer,limited,The Lawyer went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Lawyer went home from work.",Le Avocat est rentré à la maison de son travail.,male cue(s): ['avocat'],12569,0.8,mistral:7b

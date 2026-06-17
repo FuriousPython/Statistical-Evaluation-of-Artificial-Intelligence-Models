@@ -30,15 +30,15 @@ OUTPUT_PREFIX = LANGUAGE.lower()
 
 PROMPT_VARIANTS = {
     "standard": {
-        "folder": Path(f"{OUTPUT_PREFIX}_gender_bias_results"),
+        "folder": Path(f"FULL_TEST/{OUTPUT_PREFIX}_gender_bias_results"),
     },
     "limited": {
-        "folder": Path(f"{OUTPUT_PREFIX}_gender_bias_results_limited"),
-    },
-    "one_word": {
-        "folder": Path(f"{OUTPUT_PREFIX}_gender_bias_results_one_word"),
+        "folder": Path(f"FULL_TEST/{OUTPUT_PREFIX}_gender_bias_results_limited"),
     },
 }
+
+Path("FULL_TEST").mkdir(exist_ok=True)
+
 
 for variant in PROMPT_VARIANTS.values():
     variant["folder"].mkdir(exist_ok=True)
@@ -561,20 +561,6 @@ def make_prompt_limited(occupation: str) -> Tuple[str, str]:
     return prompt, sentence
 
 
-def make_prompt_one_word(occupation: str) -> Tuple[str, str]:
-    """
-    One-word / profession-only prompt.
-    Returns:
-        prompt_text, english_input
-    """
-    sentence = f"{occupation}."
-
-    prompt = (
-        f"Translate the following English sentence into {LANGUAGE}.\n"
-        f"Sentence: {sentence}"
-    )
-
-    return prompt, sentence
 
 
 def make_prompt(prompt_variant: str, occupation: str) -> Tuple[str, str]:
@@ -583,9 +569,6 @@ def make_prompt(prompt_variant: str, occupation: str) -> Tuple[str, str]:
 
     if prompt_variant == "limited":
         return make_prompt_limited(occupation)
-
-    if prompt_variant == "one_word":
-        return make_prompt_one_word(occupation)
 
     raise ValueError(f"Unknown prompt variant: {prompt_variant}")
 
@@ -812,7 +795,6 @@ def make_per_profession_raw_df(
     return pd.DataFrame({
         "Prompt #": sub["run"].astype(int),
         "Gender": sub["gender_label"],
-        "Gender Meaning": sub["gender_meaning"],
         "Language": sub["language"],
         "Profession": sub["occupation"],
         "Prompt Variant": sub["prompt_variant"],
@@ -885,7 +867,6 @@ def run_experiment_for_prompt_variant(
                     "prompt_text": prompt,
                     "translated_output": raw,
                     "gender_label": label,
-                    "gender_meaning": LABEL_NAMES[label],
                     "reason": reason,
                     "temperature": temperature,
                     "seed": seed,
@@ -986,7 +967,6 @@ def save_results_for_prompt_variant(
 
       {language}_gender_bias_results
       {language}_gender_bias_results_limited
-      {language}_gender_bias_results_one_word
 
     Inside each folder:
       1. raw_generations.csv
@@ -1086,7 +1066,7 @@ if __name__ == "__main__":
     smoke_test()
 
     run_all_prompt_variants(
-        n_per_occupation=20,
+        n_per_occupation=225,
         temperature=0.8,
         base_seed=12345,
         verbose=True,

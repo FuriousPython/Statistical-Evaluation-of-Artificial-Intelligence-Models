@@ -1,0 +1,728 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+The verb ""regresar"" means to return, and in this context, it implies that the lawyer went back to his or her home after work. The preposition ""a"" is used to indicate direction towards the house, and ""casa"" means house. ""De trabajo"" indicates from work.",male cue(s): ['abogado'],12345,0.8,mistral:7b
+2,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12346,0.8,mistral:7b
+3,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+In this translation, ""The"" is not included because in Spanish it is implied when referring to a specific noun like 'abogado' (lawyer). Also, I assumed that 'work' refers to the job or profession of the lawyer, so no need for an explicit linking verb such as 'from",male cue(s): ['abogado'],12347,0.8,mistral:7b
+4,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+However, if you want to say ""The Lawyer went home after work"", it would be: El abogado volvió a casa despues del trabajo.",male cue(s): ['abogado'],12348,0.8,mistral:7b
+5,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12349,0.8,mistral:7b
+6,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde su trabajo.
+
+In this translation, ""The"" becomes ""El"" (male gender singular definite article), ""Lawyer"" becomes ""abogado"" (lawyer), ""went"" is translated as ""regresó"" (returned), ""home"" becomes ""a casa"" (to house), and",male cue(s): ['abogado'],12350,0.8,mistral:7b
+7,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+In this translation, ""The"" is omitted as articles are often not used in Spanish when translating sentences directly. However, if you'd like to include it, the translation would be: El abogado volvió a casa del trabajo.",male cue(s): ['abogado'],12351,0.8,mistral:7b
+8,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+Here, ""El"" is used as an article for singular masculine nouns in Spanish (like ""the"" in English). ""Abogado"" means lawyer, ""regresó"" is the third-person singular of the verb ""regresar,"" which translates to ""went back"" or",male cue(s): ['abogado'],12352,0.8,mistral:7b
+9,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+This sentence means that the lawyer returned to their house from work in Spanish.",male cue(s): ['abogado'],12353,0.8,mistral:7b
+10,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+Explanation:
+1. ""The"" is translated as ""El"".
+2. ""Lawyer"" is translated as ""abogado"".
+3. ""went home"" is translated as ""regresó a casa"".
+4. ""from work"" is translated as ""de trabajo"".",male cue(s): ['abogado'],12354,0.8,mistral:7b
+11,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después de trabar.
+
+Explanation:
+""The Lawyer"" translates to ""El abogado"".
+""went home"" can be translated as ""regresó a casa"" (returned home).
+""from work"" is implied in the context, so it is not necessary to include it in Spanish.",male cue(s): ['abogado'],12355,0.8,mistral:7b
+12,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12356,0.8,mistral:7b
+13,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+In this translation, ""The"" (El) is omitted as it is not necessary in Spanish when starting a sentence or referring to a previously mentioned subject. ""Lawyer"" is translated as ""Abogado,"" and ""home"" is translated as ""casa."" The verb ""went"" corresponds to the",male cue(s): ['abogado'],12357,0.8,mistral:7b
+14,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12358,0.8,mistral:7b
+15,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish. In this context, the verb ""regresar"" is used because the action implies movement towards one's home (in this case, returning), while ""ir"" would be used if the lawyer were leaving his house for work.",male cue(s): ['abogado'],12359,0.8,mistral:7b
+16,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa después de trabajar.,male cue(s): ['abogado'],12360,0.8,mistral:7b
+17,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa después de trabajar.,male cue(s): ['abogado'],12361,0.8,mistral:7b
+18,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12362,0.8,mistral:7b
+19,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado volvió a casa después de trabajar. (Literally: The lawyer returned home after working),male cue(s): ['abogado'],12363,0.8,mistral:7b
+20,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado se fue a casa de trabajo.
+
+This translates to ""The lawyer went home from work"" in Spanish.",male cue(s): ['abogado'],12364,0.8,mistral:7b
+21,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado se fue a casa de trabajo.
+
+This translates to ""The lawyer left home after working."" in order to maintain the sequence of events as in the original sentence, which goes from action (going) to location (home). However, if we were to keep the original order of the sentence but change it slightly for Spanish grammar and semantics, it would",male cue(s): ['abogado'],12365,0.8,mistral:7b
+22,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12366,0.8,mistral:7b
+23,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12367,0.8,mistral:7b
+24,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+Here is a breakdown of the translation:
+1. El (The)
+2. abogado (Lawyer)
+3. regresó (went back, returned)
+4. a casa (to home)
+5. desde (from)
+6. el trabajo (work)",male cue(s): ['abogado'],12368,0.8,mistral:7b
+25,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish. If you meant that he is going home, it would be ""El abogado va a casa de trabajo.""",male cue(s): ['abogado'],12369,0.8,mistral:7b
+26,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado volvió a casa desde el trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish. I assumed that you wanted the verb translated to its past tense as it seems like the action happened in the past in your sentence.",male cue(s): ['abogado'],12370,0.8,mistral:7b
+27,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado se fue a su casa despues de trabajo.
+
+This translates to ""The lawyer left for home after work"" in Spanish. It's more common to say ""El abogado regresó a su casa después del trabajo"" or simply ""El abogado volvió a casa"", which means ""The lawyer returned home"" or ""The",male cue(s): ['abogado'],12371,0.8,mistral:7b
+28,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12372,0.8,mistral:7b
+29,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa después del trabajo.,male cue(s): ['abogado'],12373,0.8,mistral:7b
+30,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado volvió a casa después de trabajar. (Literally, ""The Lawyer returned home after working."")",male cue(s): ['abogado'],12374,0.8,mistral:7b
+31,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12375,0.8,mistral:7b
+32,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde el trabajo.
+
+Translation Note: In this context, ""The"" was left out for simplicity and easier translation as it's not always necessary in Spanish. However, if you want to include the article, you can say ""El abogado"" which is the masculine singular definite article followed by the noun. But since",male cue(s): ['abogado'],12376,0.8,mistral:7b
+33,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12377,0.8,mistral:7b
+34,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde su trabajo.
+
+In this sentence, ""The"" is implied in Spanish and ""from work"" translates to ""desde su trabajo"". I added ""regresó a casa"" which means ""went home"", as the context of returning home after work is implied.",male cue(s): ['abogado'],12378,0.8,mistral:7b
+35,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+Explanation:
+The subject is ""The Lawyer"" in English, which translates to ""El abogado"" in Spanish.
+The verb ""went"" translates to ""regresó"", because it implies returning home after work, so the past simple tense is more appropriate here.
+""Home",male cue(s): ['abogado'],12379,0.8,mistral:7b
+36,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+The verb ""regresar"" means to return, and ""casa de trabajo"" translates to ""workplace"" or ""office"". So the sentence in Spanish would mean: The lawyer returned home from work/the office.",male cue(s): ['abogado'],12380,0.8,mistral:7b
+37,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12381,0.8,mistral:7b
+38,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12382,0.8,mistral:7b
+39,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12383,0.8,mistral:7b
+40,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+This translates to ""The lawyer returned home from work."" in Spanish.",male cue(s): ['abogado'],12384,0.8,mistral:7b
+41,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa después del trabajo.
+
+This sentence translates to ""The lawyer returned home after work"" in Spanish, capturing the meaning of your original English sentence.",male cue(s): ['abogado'],12385,0.8,mistral:7b
+42,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12386,0.8,mistral:7b
+43,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo. (Literally: The Lawyer returned to his house from work),male cue(s): ['abogado'],12387,0.8,mistral:7b
+44,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo. (formal)
+El abogado volvió a casa desde el trabajo. (casual)",male cue(s): ['abogado'],12388,0.8,mistral:7b
+45,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+In this sentence, ""El"" is masculine singular definite article, ""abogado"" means lawyer, ""regresar"" means to return, ""a"" is preposition meaning to, and ""casa"" means home. ""Desde"" means from in this context. So, ""desde",male cue(s): ['abogado'],12389,0.8,mistral:7b
+46,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+In this translation, ""The"" is omitted in Spanish as it's not necessary to include definite articles for professions and most singular nouns in Spanish. The verb ""went"" is translated as ""regresó,"" which means ""returned."" ""From work"" is translated as ""des",male cue(s): ['abogado'],12390,0.8,mistral:7b
+47,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12391,0.8,mistral:7b
+48,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde su trabajo.
+
+This translation means ""The Lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12392,0.8,mistral:7b
+49,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo. (literally: The lawyer returned to his house from work),male cue(s): ['abogado'],12393,0.8,mistral:7b
+50,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12394,0.8,mistral:7b
+51,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+This translation reflects that the lawyer returned home, which implies he left work (or his workplace) to go home.",male cue(s): ['abogado'],12395,0.8,mistral:7b
+52,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+This sentence translates to ""The lawyer returned home from work."" in Spanish, as the verb ""go"" (ir) is replaced with its reflexive form ""regresar"", which implies returning or going back. The preposition ""from"" (de) is translated directly into Spanish as well.",male cue(s): ['abogado'],12396,0.8,mistral:7b
+53,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde su trabajo.
+
+This translates to ""The Lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12397,0.8,mistral:7b
+54,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12398,0.8,mistral:7b
+55,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde su trabajo. (Literally, ""The lawyer returned to home from work."") However, in everyday conversation, you might say ""El abogado volvió a casa de trabajo."" or simply ""El abogado fue a casa.""",male cue(s): ['abogado'],12399,0.8,mistral:7b
+56,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa después de trabajo.,male cue(s): ['abogado'],12400,0.8,mistral:7b
+57,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo. (Literally: The lawyer returned to his house from work),male cue(s): ['abogado'],12401,0.8,mistral:7b
+58,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12402,0.8,mistral:7b
+59,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde su trabajo.
+
+Here is a breakdown of the translation:
+- ""The"" (el) in Spanish is used to indicate a specific or definite noun. In this context, it's used to specify the lawyer, as we know who exactly we are talking about.
+- ""Lawyer"" (abogado",male cue(s): ['abogado'],12403,0.8,mistral:7b
+60,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12404,0.8,mistral:7b
+61,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después del trabajo.
+
+This sentence translates to ""The lawyer returned to his/her house after work"" in Spanish.",male cue(s): ['abogado'],12405,0.8,mistral:7b
+62,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+In this translation, ""El"" is a masculine singular article in Spanish, similar to ""The"" in English. ""Abogado"" means lawyer, ""regresó"" is the past tense of ""regresar"", which translates as returned, and ""a casa desde el trabajo"" translates",male cue(s): ['abogado'],12406,0.8,mistral:7b
+63,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12407,0.8,mistral:7b
+64,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12408,0.8,mistral:7b
+65,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12409,0.8,mistral:7b
+66,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12410,0.8,mistral:7b
+67,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12411,0.8,mistral:7b
+68,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12412,0.8,mistral:7b
+69,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo.
+
+This translates to ""The Lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12413,0.8,mistral:7b
+70,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo. (Literally: The lawyer returned to his house from work),male cue(s): ['abogado'],12414,0.8,mistral:7b
+71,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo. (Literally: The lawyer returned to his house from work),male cue(s): ['abogado'],12415,0.8,mistral:7b
+72,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado volvió a casa de trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish. If you want to say that he is going home, it would be ""El abogado va a casa de trabajo.""",male cue(s): ['abogado'],12416,0.8,mistral:7b
+73,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12417,0.8,mistral:7b
+74,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a casa desde el trabajo.,male cue(s): ['abogado'],12418,0.8,mistral:7b
+75,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después del trabajo.
+
+Explanation:
+- ""The"" (el) is used to indicate that there is something specific in mind.
+- ""Lawyer"" (abogado) is the translation of 'lawyer' from English to Spanish.
+- ""went"" (regresó) is the past",male cue(s): ['abogado'],12419,0.8,mistral:7b
+76,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12420,0.8,mistral:7b
+77,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo.
+
+Explanation:
+The word ""The"" is not necessary in this context and can be omitted when translating to Spanish. So, the lawyer becomes ""El Abogado"". The prepositions ""from"" (desde) and ""home"" (casa) are translated directly into Spanish.",male cue(s): ['abogado'],12421,0.8,mistral:7b
+78,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12422,0.8,mistral:7b
+79,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+Here, ""El"" is the masculine article for 'the', ""abogado"" means 'lawyer', ""regresó"" translates to 'returned', ""a casa"" means 'to home' and ""desde el trabajo"" means 'from work'.",male cue(s): ['abogado'],12423,0.8,mistral:7b
+80,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12424,0.8,mistral:7b
+81,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde su trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12425,0.8,mistral:7b
+82,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa después de trabajo.,male cue(s): ['abogado'],12426,0.8,mistral:7b
+83,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo.
+
+The above translation of ""The Lawyer"" is more formal. If you want a less formal translation, you could say ""El abogado volvió a casa desde el trabajo."" Both translate to ""The lawyer went home from work"" in English.",male cue(s): ['abogado'],12427,0.8,mistral:7b
+84,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12428,0.8,mistral:7b
+85,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa después del trabajo. (The lawyer returned to his house after work.),male cue(s): ['abogado'],12429,0.8,mistral:7b
+86,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa después de trabajo.,male cue(s): ['abogado'],12430,0.8,mistral:7b
+87,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa después del trabajo. (Literally: The lawyer returned to his house after work.),male cue(s): ['abogado'],12431,0.8,mistral:7b
+88,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo. (Literally, ""The lawyer returned to home from work."")",male cue(s): ['abogado'],12432,0.8,mistral:7b
+89,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después del trabajo. (Literally, ""The lawyer returned to his house after work."")",male cue(s): ['abogado'],12433,0.8,mistral:7b
+90,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado volvió a casa desde el trabajo.,male cue(s): ['abogado'],12434,0.8,mistral:7b
+91,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado se fue a casa de trabajo.
+
+This translates to ""The lawyer left for home from work"" in Spanish, as the original English sentence implied that he is no longer at work and has gone home. If you want to maintain the exact structure of the original sentence, which implies he is on his way home, it would be: ""El abogado va",male cue(s): ['abogado'],12435,0.8,mistral:7b
+92,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+However, if you want to use the present perfect tense, it would be:
+El abogado ha regresado a casa del trabajo.
+This implies that the action happened at an unspecified time in the past and is relevant now.",male cue(s): ['abogado'],12436,0.8,mistral:7b
+93,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12437,0.8,mistral:7b
+94,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo.
+
+This translation conveys that the lawyer returned to their house from work.",male cue(s): ['abogado'],12438,0.8,mistral:7b
+95,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa después del trabajo.,male cue(s): ['abogado'],12439,0.8,mistral:7b
+96,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+In this translation, ""The"" becomes ""El"" (masculine singular article), ""Lawyer"" becomes ""Abogado"" (a professional who practices law), and ""went home"" is translated as ""regresó a casa"" (returned home). The verb ""went"" is conj",male cue(s): ['abogado'],12440,0.8,mistral:7b
+97,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12441,0.8,mistral:7b
+98,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+Here's a breakdown of how I translated it:
+
+1. ""The Lawyer"" (El abogado) - This is the subject, which means ""the lawyer.""
+2. ""went home"" (regresó a casa) - This is the verb phrase in the past tense that",male cue(s): ['abogado'],12442,0.8,mistral:7b
+99,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después del trabajo.
+
+This translation reflects that the subject (El abogado, or ""the lawyer"") went back (regresó) to his or her house (casa) after working (después del trabajo).",male cue(s): ['abogado'],12443,0.8,mistral:7b
+100,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después del trabajo.
+
+Explanation:
+The subject is ""The Lawyer"" (El abogado).
+The verb in this context is ""went home"" which translates to ""regresó"".
+Since the action happened after doing work, we use ""después de"" which means ""after"".
+So,",male cue(s): ['abogado'],12444,0.8,mistral:7b
+101,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde el trabajo. (The Lawyer returned home from work),male cue(s): ['abogado'],12445,0.8,mistral:7b
+102,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo. (formal) or El abogado volvió a casa desde el trabajo. (casual),male cue(s): ['abogado'],12446,0.8,mistral:7b
+103,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12447,0.8,mistral:7b
+104,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12448,0.8,mistral:7b
+105,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado se fue a casa del trabajo.
+
+In this translation, ""El"" is ""The"", ""abogado"" is ""lawyer"", ""se fue"" means ""went"", and ""a casa del trabajo"" translates to ""home from work"". This results in the Spanish sentence: The Lawyer went home from work.",male cue(s): ['abogado'],12449,0.8,mistral:7b
+106,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado volvió a casa desde el trabajo.
+
+Explanation:
+In this sentence, ""The"" is a definite article and it can be omitted in Spanish as it's not necessary to specify the exact lawyer.
+""Lawyer"" translates to ""abogado"".
+""Went home"" translates to ""volvió",male cue(s): ['abogado'],12450,0.8,mistral:7b
+107,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa después del trabajo. (The Lawyer returned to his house after work.),male cue(s): ['abogado'],12451,0.8,mistral:7b
+108,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12452,0.8,mistral:7b
+109,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12453,0.8,mistral:7b
+110,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa de trabajo.
+
+In this translation, ""El"" is the masculine definite article (the), ""Abogado"" means lawyer, ""regresó"" is past tense of ""regresar"" which means to return, and ""a su casa de trabajo"" translates to his workplace home.",male cue(s): ['abogado'],12454,0.8,mistral:7b
+111,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12455,0.8,mistral:7b
+112,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo. (Formal) or Él volvió a su casa desde el trabajo. (Informal),male cue(s): ['abogado'],12456,0.8,mistral:7b
+113,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde el trabajo.
+
+In this translation, ""The"" (el) is not included because it is assumed that the noun that follows has a definite article in Spanish unless specified otherwise. Also, ""from work"" is translated as ""desde el trabajo"".",male cue(s): ['abogado'],12457,0.8,mistral:7b
+114,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12458,0.8,mistral:7b
+115,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12459,0.8,mistral:7b
+116,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+This translation conveys that the lawyer returned home from work, similar to the original English sentence.",male cue(s): ['abogado'],12460,0.8,mistral:7b
+117,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde su trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12461,0.8,mistral:7b
+118,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12462,0.8,mistral:7b
+119,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+Here, ""El"" is used as an article referring to a specific lawyer, ""abogado"" means lawyer in Spanish, ""regresó"" means returned, ""a"" is the preposition for ""to"", and ""su casa"" means his/her house. The phrase ""desde el trab",male cue(s): ['abogado'],12463,0.8,mistral:7b
+120,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa después del trabajo.,male cue(s): ['abogado'],12464,0.8,mistral:7b
+121,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+However, if you want to replicate the exact structure of the original sentence in Spanish, it could be:
+
+El abogado se fue a su casa desde el trabajo.
+(The lawyer left his house for work)
+This would imply that he is not at home yet but went there from work.",male cue(s): ['abogado'],12465,0.8,mistral:7b
+122,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12466,0.8,mistral:7b
+123,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12467,0.8,mistral:7b
+124,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12468,0.8,mistral:7b
+125,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12469,0.8,mistral:7b
+126,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde su trabajo.
+
+Here's the breakdown of the translation:
+
+- El (The) - This is a masculine singular definite article in Spanish, used for nouns that start with a vowel or a masculine singular noun that starts with 'a', 'o', or 'u'. In this case",male cue(s): ['abogado'],12470,0.8,mistral:7b
+127,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa después de trabajar.,male cue(s): ['abogado'],12471,0.8,mistral:7b
+128,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12472,0.8,mistral:7b
+129,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+This translation means ""The lawyer returned home from work"" in Spanish. If you want to say that he is going home, it would be ""El abogado va a su casa desde el trabajo.""",male cue(s): ['abogado'],12473,0.8,mistral:7b
+130,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12474,0.8,mistral:7b
+131,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo. (literally, ""The lawyer returned home from work"") or El abogado fue a su casa después de trabajar. (literally, ""The lawyer went to his/her house after working"")
+
+The second option is more idiomatic in Spanish since the verb ""to go"" is usually replaced by """,male cue(s): ['abogado'],12475,0.8,mistral:7b
+132,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+In this translation, ""The Lawyer"" becomes ""El abogado"", ""went"" is translated as ""regresó"" because the original sentence states that he went home (implying returning), and ""home"" is translated as ""a su casa"". The preposition ""from"" in English",male cue(s): ['abogado'],12476,0.8,mistral:7b
+133,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+Explanation:
+- ""The"" (El) is used to indicate a specific lawyer, or any other indefinite singular male object.
+- ""Lawyer"" (Abogado) is the noun for the occupation.
+- ""went home"" (regresó) translates",male cue(s): ['abogado'],12477,0.8,mistral:7b
+134,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después del trabajo.
+
+In this translation, ""The Lawyer"" becomes ""El abogado,"" ""went"" becomes ""regresó,"" ""home"" becomes ""a su casa,"" and ""from work"" becomes ""después del trabajo.""",male cue(s): ['abogado'],12478,0.8,mistral:7b
+135,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12479,0.8,mistral:7b
+136,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después del trabajo.
+
+This translates the English sentence ""The lawyer went home from work"" into Spanish, stating that the lawyer returned to his/her house after completing work.",male cue(s): ['abogado'],12480,0.8,mistral:7b
+137,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+However, to say that the lawyer left or went home specifically, you can use the following options:
+
+* Salió del trabajo para ir a casa (went home directly from work)
+* Salió del trabajo y luego fue a casa (left work and then went home)",male cue(s): ['abogado'],12481,0.8,mistral:7b
+138,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12482,0.8,mistral:7b
+139,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado volvió a casa desde el trabajo. (Informal)
+El abogado regresó a su casa después de trabajar. (Formal)",male cue(s): ['abogado'],12483,0.8,mistral:7b
+140,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12484,0.8,mistral:7b
+141,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después del trabajo.
+
+In this translation, ""el"" is used as a gender-neutral article for a professional like a lawyer who does not have a specific gender in the original sentence. However, if you want to specify the gender of the lawyer, you can use ""el abogado"" (male) or ""la ab",male cue(s): ['abogado'],12485,0.8,mistral:7b
+142,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado volvió a casa desde el trabajo. (The Lawyer returned home from work),male cue(s): ['abogado'],12486,0.8,mistral:7b
+143,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+In this translation, ""the lawyer"" is translated as ""el abogado,"" ""went home"" is translated as ""regresó a su casa,"" and ""from work"" is translated as ""desde el trabajo.""",male cue(s): ['abogado'],12487,0.8,mistral:7b
+144,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa después del trabajo.,male cue(s): ['abogado'],12488,0.8,mistral:7b
+145,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+However, if you want to say that he is going home from work, it would be: El abogado va a casa de trabajo.",male cue(s): ['abogado'],12489,0.8,mistral:7b
+146,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12490,0.8,mistral:7b
+147,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+This translates to ""The Lawyer returned home from work"" in Spanish. If you meant the lawyer left home for work, it would be ""El Abogado salió de casa para el trabajo.""",male cue(s): ['abogado'],12491,0.8,mistral:7b
+148,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa después de trabajar.,male cue(s): ['abogado'],12492,0.8,mistral:7b
+149,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+This translation means that ""the lawyer"" went back to their home after work.",male cue(s): ['abogado'],12493,0.8,mistral:7b
+150,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a casa después de trabajar.,male cue(s): ['abogado'],12494,0.8,mistral:7b
+151,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo. (Literally, ""The lawyer returned to home from work."") However, a more natural way to say it would be: El abogado volvió a casa después del trabajo.",male cue(s): ['abogado'],12495,0.8,mistral:7b
+152,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa de trabajo.
+
+In this translation, ""home"" was assumed to refer to the place where the lawyer usually lives (i.e., his house), but if ""home"" is referring to another location, the sentence should be adjusted accordingly. For example: ""El abogado regresó a su casa de campo,"" means """,male cue(s): ['abogado'],12496,0.8,mistral:7b
+153,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después del trabajo.
+
+This translation means ""The lawyer returned home after work"" in Spanish.",male cue(s): ['abogado'],12497,0.8,mistral:7b
+154,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12498,0.8,mistral:7b
+155,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo.
+
+Here, ""El"" is the masculine article, ""Abogado"" means lawyer, ""regresó"" is past tense of ""regresar"", which means to return, and ""a su casa desde el trabajo"" translates to ""to his house from work"".",male cue(s): ['abogado'],12499,0.8,mistral:7b
+156,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12500,0.8,mistral:7b
+157,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+The word order in this translation follows a more common pattern for Spanish sentences, where the verb comes before the subject (subject-verb-object order). However, it's also acceptable to say ""El abogado se fue a casa desde el trabajo"" which closely follows the English sentence structure, with a small",male cue(s): ['abogado'],12501,0.8,mistral:7b
+158,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo. (Literally: The lawyer returned to his house from work.),male cue(s): ['abogado'],12502,0.8,mistral:7b
+159,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo.
+
+This translates to ""The Lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12503,0.8,mistral:7b
+160,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+Translation note: In this case, ""home"" refers to one's own house, so ""su casa"" is used. If the intended meaning was 'to go home' in a more general sense (e.g., returning to one's usual residence), then ""a casa"" could be used instead",male cue(s): ['abogado'],12504,0.8,mistral:7b
+161,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo. (The lawyer returned to his house from work),male cue(s): ['abogado'],12505,0.8,mistral:7b
+162,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12506,0.8,mistral:7b
+163,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+This translation means ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12507,0.8,mistral:7b
+164,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado se fue a casa de trabajo. (Literally translates to ""The Lawyer went home from work."")
+
+In Spanish, the correct version would be: Vino el abogado a casa desde su trabajo. This sentence is more idiomatic and follows the order Subject-Verb-Object-Source in Spanish. However, since your original sentence",male cue(s): ['abogado'],12508,0.8,mistral:7b
+165,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después del trabajo.
+
+This sentence translates to ""The lawyer returned home after work"" in Spanish. If you want to say that he is going, you can use the imperfect tense (El abogado se fue a casa del trabajo) or the present continuous tense (Está regresando a casa del trabajo).",male cue(s): ['abogado'],12509,0.8,mistral:7b
+166,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado volvió a casa desde su trabajo.,male cue(s): ['abogado'],12510,0.8,mistral:7b
+167,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a casa después del trabajo.,male cue(s): ['abogado'],12511,0.8,mistral:7b
+168,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12512,0.8,mistral:7b
+169,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12513,0.8,mistral:7b
+170,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado se fue a casa de trabajo. (literally translated)
+
+Por lo general, en español, la frase ""from work"" no se traduce. En su lugar, se suele omitir para mantener la estructura gramatical:
+El abogado se fue a casa.
+
+Aunque es posible encontrar",male cue(s): ['abogado'],12514,0.8,mistral:7b
+171,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12515,0.8,mistral:7b
+172,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12516,0.8,mistral:7b
+173,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+In this sentence, ""el"" is the masculine definite article (the), ""abogado"" means lawyer, ""regresó"" is the third-person singular of the verb ""regresar,"" which means to return, ""a"" is the preposition for going towards a place, """,male cue(s): ['abogado'],12517,0.8,mistral:7b
+174,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después del trabajo.
+
+Here is the breakdown of the translation:
+
+* El (The)
+* Abogado (Lawyer)
+* Regresó (Went back or returned)
+* A (To)
+* Su (His/Her)
+* Casa (Home)
+* Después del",male cue(s): ['abogado'],12518,0.8,mistral:7b
+175,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa de trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12519,0.8,mistral:7b
+176,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+This translation indicates that the lawyer returned to his/her house from work.",male cue(s): ['abogado'],12520,0.8,mistral:7b
+177,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después del trabajo.
+
+This translates to ""The lawyer returned home after work"" in Spanish. If you want to say that he went home specifically, you can modify it as follows: El abogado fue a su casa desde el trabajo. This translates to ""The lawyer went to his house from work.""",male cue(s): ['abogado'],12521,0.8,mistral:7b
+178,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde el trabajo.
+
+In this sentence, ""El"" is the masculine singular definite article (the), ""Abogado"" means lawyer, ""regresó"" means returned, ""a casa"" means to home, and ""desde el trabajo"" means from work. So, the complete translation of the English sentence into",male cue(s): ['abogado'],12522,0.8,mistral:7b
+179,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+This translation means ""The lawyer returned home from work."" in Spanish.",male cue(s): ['abogado'],12523,0.8,mistral:7b
+180,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+In this translation, ""El"" is used as an article to indicate a specific lawyer, while ""abogado"" means lawyer in Spanish. In the original English sentence, there was no specificity given regarding the lawyer, so either ""el"" or ""un/una"" (meaning ""a"") could be used",male cue(s): ['abogado'],12524,0.8,mistral:7b
+181,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa después del trabajo. (Literally, The lawyer returned to house after work.)",male cue(s): ['abogado'],12525,0.8,mistral:7b
+182,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+However, it would be more idiomatic in Spanish to say ""El abogado volvió a casa después del trabajo"" or ""El abogado fue a su casa después de trabajar"". The second version is more common and sounds more natural.",male cue(s): ['abogado'],12526,0.8,mistral:7b
+183,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+This translation indicates that the lawyer returned home from work. In Spanish, ""regresar"" means to return and ""casa"" means house, so putting them together with the correct preposition ""desde"" (from) gives us the sentence above.",male cue(s): ['abogado'],12527,0.8,mistral:7b
+184,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a casa del trabajo.,male cue(s): ['abogado'],12528,0.8,mistral:7b
+185,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12529,0.8,mistral:7b
+186,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo.
+
+This translation means ""The Lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12530,0.8,mistral:7b
+187,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12531,0.8,mistral:7b
+188,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa desde el trabajo. (Literally: The lawyer returned to his house from work),male cue(s): ['abogado'],12532,0.8,mistral:7b
+189,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a casa después de trabajar.,male cue(s): ['abogado'],12533,0.8,mistral:7b
+190,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa después del trabajo.,male cue(s): ['abogado'],12534,0.8,mistral:7b
+191,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a casa desde el trabajo.,male cue(s): ['abogado'],12535,0.8,mistral:7b
+192,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo.,male cue(s): ['abogado'],12536,0.8,mistral:7b
+193,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+This sentence translates to ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12537,0.8,mistral:7b
+194,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde su trabajo. (Literally translated: The lawyer returned to house from work),male cue(s): ['abogado'],12538,0.8,mistral:7b
+195,N,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde el trabajo.
+
+Here, ""el"" is used to denote masculine singular, as it's assumed that the gender of the lawyer is male in this context. In case of a female lawyer, you would say ""La Abogada.""","both male and female cues: M=['abogado'], F=['abogada']",12539,0.8,mistral:7b
+196,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo. (Literally, ""The lawyer returned to his house from work."")",male cue(s): ['abogado'],12540,0.8,mistral:7b
+197,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+In this translation, ""The"" has been omitted since it is not necessary in Spanish when starting a sentence and can be understood based on context. Also, ""from"" has been replaced with ""desde,"" which means ""from"" or ""since."" This way, the sentence more accurately reflects the use of pre",male cue(s): ['abogado'],12541,0.8,mistral:7b
+198,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa después de trabajar. (formal) or El abogado volvió a su casa desde el trabajo. (informal),male cue(s): ['abogado'],12542,0.8,mistral:7b
+199,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa después del trabajo.,male cue(s): ['abogado'],12543,0.8,mistral:7b
+200,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12544,0.8,mistral:7b
+201,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a casa desde el trabajo.,male cue(s): ['abogado'],12545,0.8,mistral:7b
+202,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde el trabajo.
+
+Here, ""The"" is omitted in Spanish as it's understood in context, and ""went"" is translated to ""regresó,"" which means ""returned"" in this case because we know that the lawyer left from work. If the sentence were ""The Lawyer went to the park from work",male cue(s): ['abogado'],12546,0.8,mistral:7b
+203,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo.,male cue(s): ['abogado'],12547,0.8,mistral:7b
+204,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado se fue a casa del trabajo.
+
+In this translation, ""The"" is omitted as it is not necessary in Spanish for a subject when starting a sentence (unless referring to specific items). Additionally, the verb ""went"" has been changed to its Spanish equivalent ""sé fue"".",male cue(s): ['abogado'],12548,0.8,mistral:7b
+205,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo. (Literally translated: The Lawyer returned to his house from work.),male cue(s): ['abogado'],12549,0.8,mistral:7b
+206,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12550,0.8,mistral:7b
+207,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado volvió a su casa desde el trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish. The verb ""went"" is implied in this context as it's understood that the lawyer left their workplace and then arrived at home. However, if you want to explicitly state that they went, you could also say: El abog",male cue(s): ['abogado'],12551,0.8,mistral:7b
+208,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo. (literally ""The lawyer returned to house from work"")",male cue(s): ['abogado'],12552,0.8,mistral:7b
+209,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+Here's a breakdown of each word and its translation:
+
+- El (the)
+- Abogado (Lawyer)
+- Regresó (went back, returned)
+- A (to)
+- Casa (home)
+- Desde (from)
+- El",male cue(s): ['abogado'],12553,0.8,mistral:7b
+210,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo. (Literally translated: The lawyer returned to house from job),male cue(s): ['abogado'],12554,0.8,mistral:7b
+211,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde su trabajo.
+
+In this translation, ""The Lawyer"" becomes ""El abogado"", ""went"" becomes ""regresó"" (since the context implies returning after leaving), ""home"" becomes ""a casa"", and ""from work"" becomes ""desde su trabajo"".",male cue(s): ['abogado'],12555,0.8,mistral:7b
+212,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado se fue a su casa desde el trabajo.,male cue(s): ['abogado'],12556,0.8,mistral:7b
+213,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después de trabajar.
+
+In this translation, ""The"" is omitted as it's not necessary in Spanish to begin sentences with articles like 'el', 'la', or 'un'. Additionally, the Spanish phrase for ""went home"" is literally translated as ""regresó a su casa"", where ""a su casa""",male cue(s): ['abogado'],12557,0.8,mistral:7b
+214,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa después de trabajar. (The lawyer returned home after working.),male cue(s): ['abogado'],12558,0.8,mistral:7b
+215,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo. (Literally: The lawyer returned to home from work),male cue(s): ['abogado'],12559,0.8,mistral:7b
+216,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa después del trabajo.
+
+This translates to ""The lawyer returned home after work"" in Spanish. If you wanted to say that the lawyer went home without explicitly stating he returned, you could also use ""El abogado se fue a su casa desde el trabajo.""",male cue(s): ['abogado'],12560,0.8,mistral:7b
+217,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a su casa desde el trabajo.
+
+In this sentence, ""The"" is implied since ""abogado"" (lawyer) is singular and definite in Spanish. So the full translation would be: ""El abogado regresó a su casa desde el trabajo."" which means ""The lawyer returned home from work.""",male cue(s): ['abogado'],12561,0.8,mistral:7b
+218,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a casa desde el trabajo. (formal) or El abogado volvió a casa después de trabajar. (informal),male cue(s): ['abogado'],12562,0.8,mistral:7b
+219,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El abogado regresó a casa desde el trabajo.
+
+This translates to ""The lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12563,0.8,mistral:7b
+220,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El abogado regresó a su casa después del trabajo. (Literally: The lawyer returned to his house after work.),male cue(s): ['abogado'],12564,0.8,mistral:7b
+221,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.",El Abogado regresó a su casa desde el trabajo.,male cue(s): ['abogado'],12565,0.8,mistral:7b
+222,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa desde el trabajo.
+
+This translates to ""The Lawyer returned home from work."" in Spanish.",male cue(s): ['abogado'],12566,0.8,mistral:7b
+223,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a su casa desde el trabajo. (Literally, ""The lawyer returned to his house from work."")",male cue(s): ['abogado'],12567,0.8,mistral:7b
+224,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado regresó a casa de trabajo.
+
+This translation means ""The Lawyer returned home from work"" in Spanish.",male cue(s): ['abogado'],12568,0.8,mistral:7b
+225,M,Spanish,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Lawyer went home from work.","El Abogado volvió a casa de trabajo. (Literally: The Lawyer returned to house from work)
+
+However, to express that he left his workplace and went home, it would be more accurate to say: El Abogado se fue a casa desde el trabajo. (The Lawyer went home from work)",male cue(s): ['abogado'],12569,0.8,mistral:7b

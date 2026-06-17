@@ -1,0 +1,465 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12345,0.8,mistral:7b
+2,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12346,0.8,mistral:7b
+3,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12347,0.8,mistral:7b
+4,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12348,0.8,mistral:7b
+5,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12349,0.8,mistral:7b
+6,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12350,0.8,mistral:7b
+7,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12351,0.8,mistral:7b
+8,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12352,0.8,mistral:7b
+9,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","La hôtessse de l'air est retournée chez elle après son travail. (More formally)
+La hôtesses est rentrée chez elle du travail. (Informal/Modern French)","female cue(s): [""hotessse de l'air""]",12353,0.8,mistral:7b
+10,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12354,0.8,mistral:7b
+11,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12355,0.8,mistral:7b
+12,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12356,0.8,mistral:7b
+13,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12357,0.8,mistral:7b
+14,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12358,0.8,mistral:7b
+15,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12359,0.8,mistral:7b
+16,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12360,0.8,mistral:7b
+17,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12361,0.8,mistral:7b
+18,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12362,0.8,mistral:7b
+19,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12363,0.8,mistral:7b
+20,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12364,0.8,mistral:7b
+21,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12365,0.8,mistral:7b
+22,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12366,0.8,mistral:7b
+23,N,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","La hôtessse de l'air est retournée à la maison après son travail. (Female flight attendant)
+Le membre d'équipage de l'avion est rentré à la maison après son travail. (Neutral or male flight attendant)","both male and female cues: M=[""article+common:membre d'equipage""], F=[""hotessse de l'air""]",12367,0.8,mistral:7b
+24,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12368,0.8,mistral:7b
+25,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12369,0.8,mistral:7b
+26,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12370,0.8,mistral:7b
+27,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12371,0.8,mistral:7b
+28,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12372,0.8,mistral:7b
+29,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12373,0.8,mistral:7b
+30,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée chez elle après le travail.,occupation/gender cue not detected,12374,0.8,mistral:7b
+31,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12375,0.8,mistral:7b
+32,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée à la maison après le travail.,occupation/gender cue not detected,12376,0.8,mistral:7b
+33,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12377,0.8,mistral:7b
+34,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12378,0.8,mistral:7b
+35,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison de son travail.,"female cue(s): [""hotessse de l'air""]",12379,0.8,mistral:7b
+36,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée à la maison après le travail. (formal) or L'assistante de vol est rentrée chez elle après son travail. (informal),occupation/gender cue not detected,12380,0.8,mistral:7b
+37,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12381,0.8,mistral:7b
+38,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12382,0.8,mistral:7b
+39,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12383,0.8,mistral:7b
+40,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12384,0.8,mistral:7b
+41,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12385,0.8,mistral:7b
+42,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12386,0.8,mistral:7b
+43,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle depuis son travail.,"female cue(s): [""hotesse de l'air""]",12387,0.8,mistral:7b
+44,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12388,0.8,mistral:7b
+45,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12389,0.8,mistral:7b
+46,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12390,0.8,mistral:7b
+47,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12391,0.8,mistral:7b
+48,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12392,0.8,mistral:7b
+49,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle depuis son travail.,"female cue(s): [""hotessse de l'air""]",12393,0.8,mistral:7b
+50,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12394,0.8,mistral:7b
+51,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12395,0.8,mistral:7b
+52,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12396,0.8,mistral:7b
+53,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",Le hôtessse de l'air est allée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12397,0.8,mistral:7b
+54,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12398,0.8,mistral:7b
+55,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12399,0.8,mistral:7b
+56,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12400,0.8,mistral:7b
+57,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12401,0.8,mistral:7b
+58,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12402,0.8,mistral:7b
+59,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","La hôtesse de l'air est retournée à la maison depuis son travail. (Formal)
+La hôtesse a rentré chez elle après le travail. (Informal, more conversational)","female cue(s): [""hotesse de l'air""]",12403,0.8,mistral:7b
+60,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12404,0.8,mistral:7b
+61,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12405,0.8,mistral:7b
+62,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12406,0.8,mistral:7b
+63,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12407,0.8,mistral:7b
+64,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12408,0.8,mistral:7b
+65,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12409,0.8,mistral:7b
+66,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12410,0.8,mistral:7b
+67,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12411,0.8,mistral:7b
+68,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12412,0.8,mistral:7b
+69,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée chez elle après son travail.,occupation/gender cue not detected,12413,0.8,mistral:7b
+70,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle depuis son travail.,"female cue(s): [""hotesse de l'air""]",12414,0.8,mistral:7b
+71,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12415,0.8,mistral:7b
+72,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12416,0.8,mistral:7b
+73,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12417,0.8,mistral:7b
+74,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12418,0.8,mistral:7b
+75,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail. (Literally: The flight attendant has returned home after work),"female cue(s): [""hotesse de l'air""]",12419,0.8,mistral:7b
+76,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12420,0.8,mistral:7b
+77,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","L'assistante de vol est retournée chez elle après son travail.
+
+In this translation, I used ""l'assistante de vol"" for ""flight attendant,"" ""est retournée"" for ""went home,"" and ""chez elle"" for ""from work."" In French, the preposition indicating location changes depending on where you are going or coming from,",occupation/gender cue not detected,12421,0.8,mistral:7b
+78,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",Le hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12422,0.8,mistral:7b
+79,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12423,0.8,mistral:7b
+80,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12424,0.8,mistral:7b
+81,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison depuis son travail.,"female cue(s): [""hotesse de l'air""]",12425,0.8,mistral:7b
+82,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle depuis son travail.,"female cue(s): [""hotessse de l'air""]",12426,0.8,mistral:7b
+83,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle depuis son travail.,"female cue(s): [""hotessse de l'air""]",12427,0.8,mistral:7b
+84,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12428,0.8,mistral:7b
+85,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12429,0.8,mistral:7b
+86,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12430,0.8,mistral:7b
+87,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12431,0.8,mistral:7b
+88,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12432,0.8,mistral:7b
+89,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12433,0.8,mistral:7b
+90,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12434,0.8,mistral:7b
+91,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12435,0.8,mistral:7b
+92,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12436,0.8,mistral:7b
+93,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12437,0.8,mistral:7b
+94,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12438,0.8,mistral:7b
+95,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12439,0.8,mistral:7b
+96,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","Le hôtesses de l'air est retournée à la maison après le travail. (Note that in French, ""hôtesses de l'air"" is gender-neutral.)
+
+A more common phrase to say this would be: Elle est retournée chez elle après le travail. (She returned home after work) which is more direct and uses the feminine",occupation/gender cue not detected,12440,0.8,mistral:7b
+97,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12441,0.8,mistral:7b
+98,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12442,0.8,mistral:7b
+99,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12443,0.8,mistral:7b
+100,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12444,0.8,mistral:7b
+101,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée à la maison après le travail. (literally: The flight attendant has returned home after work),occupation/gender cue not detected,12445,0.8,mistral:7b
+102,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12446,0.8,mistral:7b
+103,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12447,0.8,mistral:7b
+104,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12448,0.8,mistral:7b
+105,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12449,0.8,mistral:7b
+106,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12450,0.8,mistral:7b
+107,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12451,0.8,mistral:7b
+108,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12452,0.8,mistral:7b
+109,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",Le hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12453,0.8,mistral:7b
+110,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12454,0.8,mistral:7b
+111,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12455,0.8,mistral:7b
+112,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","L'hôtesse de l'air est retournée chez elle après le travail.
+
+However, in a more colloquial or informal context, you might say: Elle est rentrée chez elle après son travail.","female cue(s): [""hotesse de l'air""]",12456,0.8,mistral:7b
+113,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12457,0.8,mistral:7b
+114,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12458,0.8,mistral:7b
+115,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12459,0.8,mistral:7b
+116,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12460,0.8,mistral:7b
+117,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12461,0.8,mistral:7b
+118,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12462,0.8,mistral:7b
+119,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12463,0.8,mistral:7b
+120,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12464,0.8,mistral:7b
+121,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12465,0.8,mistral:7b
+122,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12466,0.8,mistral:7b
+123,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12467,0.8,mistral:7b
+124,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12468,0.8,mistral:7b
+125,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","L'hôtessse de l'air est retournée à la maison après le travail. (Literally, ""The flight attendant has returned home after work."")","female cue(s): [""hotessse de l'air""]",12469,0.8,mistral:7b
+126,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12470,0.8,mistral:7b
+127,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée à la maison depuis le travail.,occupation/gender cue not detected,12471,0.8,mistral:7b
+128,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12472,0.8,mistral:7b
+129,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12473,0.8,mistral:7b
+130,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12474,0.8,mistral:7b
+131,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12475,0.8,mistral:7b
+132,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12476,0.8,mistral:7b
+133,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12477,0.8,mistral:7b
+134,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12478,0.8,mistral:7b
+135,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12479,0.8,mistral:7b
+136,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12480,0.8,mistral:7b
+137,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","La hôtesse de l'air est retournée à la maison après son travail.
+
+The ""flight attendant"" is translated as ""hôtesse de l'air"", and ""went home"" translates to ""est retournée à la maison"". The sentence in French would be: La hôtesse de l'air est retournée à","female cue(s): [""hotesse de l'air""]",12481,0.8,mistral:7b
+138,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12482,0.8,mistral:7b
+139,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12483,0.8,mistral:7b
+140,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12484,0.8,mistral:7b
+141,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est allée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12485,0.8,mistral:7b
+142,M,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","L'agent de bord est retourné à la maison après le travail. (Formal)
+L'agent de bord est rentré chez lui après le travail. (Casual)",male cue(s): ['agent de bord'],12486,0.8,mistral:7b
+143,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12487,0.8,mistral:7b
+144,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12488,0.8,mistral:7b
+145,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12489,0.8,mistral:7b
+146,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12490,0.8,mistral:7b
+147,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12491,0.8,mistral:7b
+148,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12492,0.8,mistral:7b
+149,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12493,0.8,mistral:7b
+150,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12494,0.8,mistral:7b
+151,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12495,0.8,mistral:7b
+152,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12496,0.8,mistral:7b
+153,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12497,0.8,mistral:7b
+154,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12498,0.8,mistral:7b
+155,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12499,0.8,mistral:7b
+156,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12500,0.8,mistral:7b
+157,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12501,0.8,mistral:7b
+158,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison depuis son travail.,"female cue(s): [""hotesse de l'air""]",12502,0.8,mistral:7b
+159,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée chez elle après le travail.,occupation/gender cue not detected,12503,0.8,mistral:7b
+160,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12504,0.8,mistral:7b
+161,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12505,0.8,mistral:7b
+162,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12506,0.8,mistral:7b
+163,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12507,0.8,mistral:7b
+164,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison de son travail.,"female cue(s): [""hotessse de l'air""]",12508,0.8,mistral:7b
+165,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12509,0.8,mistral:7b
+166,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12510,0.8,mistral:7b
+167,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12511,0.8,mistral:7b
+168,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12512,0.8,mistral:7b
+169,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12513,0.8,mistral:7b
+170,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle depuis le travail.,"female cue(s): [""hotessse de l'air""]",12514,0.8,mistral:7b
+171,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12515,0.8,mistral:7b
+172,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12516,0.8,mistral:7b
+173,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12517,0.8,mistral:7b
+174,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12518,0.8,mistral:7b
+175,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12519,0.8,mistral:7b
+176,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12520,0.8,mistral:7b
+177,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12521,0.8,mistral:7b
+178,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12522,0.8,mistral:7b
+179,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12523,0.8,mistral:7b
+180,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12524,0.8,mistral:7b
+181,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","La hôtessse de l'air est retournée à la maison de son travail.
+
+The literal translation would be: The flight attendant has returned to the house from the work, but in common usage, it is more appropriate to say ""La hôtessse de l'air est rentrée chez elle après le travail"" (The flight attendant went home after","female cue(s): [""hotessse de l'air""]",12525,0.8,mistral:7b
+182,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail. (The flight attendant returned home after her work.),"female cue(s): [""hotesse de l'air""]",12526,0.8,mistral:7b
+183,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12527,0.8,mistral:7b
+184,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle depuis le travail.,"female cue(s): [""hotessse de l'air""]",12528,0.8,mistral:7b
+185,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotessse de l'air""]",12529,0.8,mistral:7b
+186,U,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'assistante de vol est retournée chez elle après le travail.,occupation/gender cue not detected,12530,0.8,mistral:7b
+187,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12531,0.8,mistral:7b
+188,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12532,0.8,mistral:7b
+189,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est allée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12533,0.8,mistral:7b
+190,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12534,0.8,mistral:7b
+191,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12535,0.8,mistral:7b
+192,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12536,0.8,mistral:7b
+193,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12537,0.8,mistral:7b
+194,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12538,0.8,mistral:7b
+195,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12539,0.8,mistral:7b
+196,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12540,0.8,mistral:7b
+197,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12541,0.8,mistral:7b
+198,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12542,0.8,mistral:7b
+199,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12543,0.8,mistral:7b
+200,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12544,0.8,mistral:7b
+201,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12545,0.8,mistral:7b
+202,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12546,0.8,mistral:7b
+203,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12547,0.8,mistral:7b
+204,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12548,0.8,mistral:7b
+205,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",L'hôtesse de l'air est retournée chez elle après son travail. (Literally: The flight attendant has returned home after her work),"female cue(s): [""hotesse de l'air""]",12549,0.8,mistral:7b
+206,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12550,0.8,mistral:7b
+207,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12551,0.8,mistral:7b
+208,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle depuis le travail.,"female cue(s): [""hotessse de l'air""]",12552,0.8,mistral:7b
+209,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12553,0.8,mistral:7b
+210,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12554,0.8,mistral:7b
+211,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12555,0.8,mistral:7b
+212,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12556,0.8,mistral:7b
+213,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12557,0.8,mistral:7b
+214,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12558,0.8,mistral:7b
+215,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12559,0.8,mistral:7b
+216,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12560,0.8,mistral:7b
+217,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12561,0.8,mistral:7b
+218,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotesse de l'air""]",12562,0.8,mistral:7b
+219,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotessse de l'air""]",12563,0.8,mistral:7b
+220,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après son travail.,"female cue(s): [""hotesse de l'air""]",12564,0.8,mistral:7b
+221,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",Le hôtesse de l'air est retournée à la maison après le travail.,"female cue(s): [""hotesse de l'air""]",12565,0.8,mistral:7b
+222,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtesse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotesse de l'air""]",12566,0.8,mistral:7b
+223,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée chez elle après le travail.,"female cue(s): [""hotessse de l'air""]",12567,0.8,mistral:7b
+224,F,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.",La hôtessse de l'air est retournée à la maison après son travail.,"female cue(s): [""hotessse de l'air""]",12568,0.8,mistral:7b
+225,M,French,Flight attendant,standard,The Flight attendant went home from work.,"Translate the following English sentence into French.
+Sentence: The Flight attendant went home from work.","L'agent de bord est retourné à la maison après le travail. (Literally, ""The flight attendant is returned home after work."") However, a more idiomatic way to say it would be: La stewardess est rentrée chez elle de son travail.",male cue(s): ['agent de bord'],12569,0.8,mistral:7b

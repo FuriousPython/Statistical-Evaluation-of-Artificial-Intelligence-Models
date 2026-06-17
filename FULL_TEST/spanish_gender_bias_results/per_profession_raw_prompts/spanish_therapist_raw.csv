@@ -1,0 +1,664 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this case, ""The"" is translated as ""El"", ""Therapist"" is translated as ""Terapeuta"", ""went"" is translated as ""regresó"", ""home"" is translated as ""a su casa"", and ""from work"" is translated as ""desde el",male cue(s): ['article+common:terapeuta'],12345,0.8,mistral:7b
+2,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12346,0.8,mistral:7b
+3,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12347,0.8,mistral:7b
+4,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this sentence, ""Therapist"" is translated to ""Terapeuta"", and ""went home"" is translated to ""regresó a su casa"". ""From work"" is implied in the context, so it's not explicitly stated but understood. If necessary for clarity, you could",male cue(s): ['article+common:terapeuta'],12348,0.8,mistral:7b
+5,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12349,0.8,mistral:7b
+6,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+This translation maintains the meaning of the original sentence while preserving the grammatical structure in Spanish.",male cue(s): ['article+common:terapeuta'],12350,0.8,mistral:7b
+7,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""Therapist"" has been translated as ""Terapeuta"", ""went"" as ""regresó"" (which means returned in Spanish), and ""home"" as ""casa"". The preposition ""from"" in English is not always directly translatable to Spanish,",male cue(s): ['article+common:terapeuta'],12351,0.8,mistral:7b
+8,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12352,0.8,mistral:7b
+9,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa de trabajo.
+
+However, if you meant to express that the therapist left work to go home, it would be: El Terapeuta se fue a casa desde el trabajo.",male cue(s): ['article+common:terapeuta'],12353,0.8,mistral:7b
+10,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This means ""The therapist returned home from work."" in Spanish.",male cue(s): ['article+common:terapeuta'],12354,0.8,mistral:7b
+11,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+Here's a breakdown of the translation:
+
+- ""The"" (in this context, ""el"" in Spanish) refers to a male singular noun. Since we don't know the gender of the therapist, using ""el"" as a neutral term is appropriate in this case.
+- """,male cue(s): ['article+common:terapeuta'],12355,0.8,mistral:7b
+12,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde su trabajo.
+
+This sentence in Spanish translates to ""The Therapist returned home from work."" Keep in mind that I'm here to help, so feel free to ask for more explanations or examples if needed!",male cue(s): ['article+common:terapeuta'],12356,0.8,mistral:7b
+13,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""Therapist"" was translated as ""Terapeuta,"" and ""went home from work"" was translated as ""regresó a su casa desde el trabajo."" The sentence in Spanish means, ""The Therapist returned to their house from work.""",male cue(s): ['article+common:terapeuta'],12357,0.8,mistral:7b
+14,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12358,0.8,mistral:7b
+15,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""The"" (El in Spanish), ""Therapist"" (Terapeuta), ""went"" (regresó) and ""home"" (a su casa) are translated directly from the English sentence to Spanish, while ""from work"" (desde el trabajo",male cue(s): ['article+common:terapeuta'],12359,0.8,mistral:7b
+16,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+Explanation:
+
+* ""The"" (el) is a definite article in Spanish, and it replaces ""the"" in English for singular nouns.
+* ""Therapist"" (terapeuta) is the equivalent of ""therapist"" in English.
+*",male cue(s): ['article+common:terapeuta'],12360,0.8,mistral:7b
+17,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""Therapist"" is translated as ""Terapeuta"", ""went"" as ""regresó"", ""home"" as ""casa"", and ""from work"" as ""desde el trabajo"".",male cue(s): ['article+common:terapeuta'],12361,0.8,mistral:7b
+18,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12362,0.8,mistral:7b
+19,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12363,0.8,mistral:7b
+20,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12364,0.8,mistral:7b
+21,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12365,0.8,mistral:7b
+22,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12366,0.8,mistral:7b
+23,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12367,0.8,mistral:7b
+24,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12368,0.8,mistral:7b
+25,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12369,0.8,mistral:7b
+26,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+In this translation, ""Therapist"" was translated as ""Terapeuta"", and ""went home"" as ""regresó a casa"". ""From work"" translates to ""desde el trabajo"".",male cue(s): ['article+common:terapeuta'],12370,0.8,mistral:7b
+27,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa de trabajo.,male cue(s): ['article+common:terapeuta'],12371,0.8,mistral:7b
+28,N,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+In this translation, ""The Therapist"" becomes ""El Terapeuta,"" which is the masculine singular form of the noun in Spanish. If referring to a female therapist, you would use the feminine form ""La Terapeuta."" ""Went home"" translates to ""regresó a","both male and female cues: M=['article+common:terapeuta'], F=['article+common:terapeuta']",12372,0.8,mistral:7b
+29,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12373,0.8,mistral:7b
+30,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12374,0.8,mistral:7b
+31,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12375,0.8,mistral:7b
+32,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta volvió a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12376,0.8,mistral:7b
+33,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después de trabajo.,male cue(s): ['article+common:terapeuta'],12377,0.8,mistral:7b
+34,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+In this translation, I've made some assumptions to match the sentence structure of Spanish more closely:
+
+1. Changed ""The"" (el in Spanish) as a definite article before nouns in English often corresponds to ""El/La"" in Spanish when referring to specific or known entities. However",male cue(s): ['article+common:terapeuta'],12378,0.8,mistral:7b
+35,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This means ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12379,0.8,mistral:7b
+36,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12380,0.8,mistral:7b
+37,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12381,0.8,mistral:7b
+38,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta volvió a casa desde el trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish. If you meant ""The Therapist went home for the day,"" a more appropriate translation would be ""El Terapeuta se fue a casa para la tarde.""",male cue(s): ['article+common:terapeuta'],12382,0.8,mistral:7b
+39,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12383,0.8,mistral:7b
+40,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12384,0.8,mistral:7b
+41,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12385,0.8,mistral:7b
+42,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12386,0.8,mistral:7b
+43,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12387,0.8,mistral:7b
+44,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12388,0.8,mistral:7b
+45,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translation assumes that ""Therapist"" refers to a medical professional, and that ""home"" is the person's residence. If there is any contextual difference or if ""Therapist"" has another meaning, the translation might need to be adjusted accordingly.",male cue(s): ['article+common:terapeuta'],12389,0.8,mistral:7b
+46,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this sentence, ""The"" is left out because in Spanish we don't usually translate articles like ""the"" when referring to people and animals (unless it's necessary for disambiguation). Also, I changed ""went"" with ""regresó"", as it implies coming back from a",male cue(s): ['article+common:terapeuta'],12390,0.8,mistral:7b
+47,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translates the English sentence ""The Therapist went home from work"" to Spanish, where ""Terapeuta"" is therapist, ""regresó"" is returned or went back, ""a"" is to, ""su"" is his/her, ""casa"" is house, and """,male cue(s): ['article+common:terapeuta'],12391,0.8,mistral:7b
+48,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta volvió a casa desde el trabajo. (Formal)
+El terapeuta regresó a su casa desde su trabajo. (More formal and accurate)
+
+In informal contexts, it's also common to say:
+El terapeuta se fue a casa del trabajo.",male cue(s): ['article+common:terapeuta'],12392,0.8,mistral:7b
+49,N,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa después del trabajo.
+
+Note that in Spanish, ""Terapeuta"" is masculine singular and ""casa"" is feminine singular. So, if referring to a female therapist, the sentence would be: La terapeuta regresó a su casa después de trabajar.
+
+If you want to specify that they left","both male and female cues: M=['article+common:terapeuta'], F=['article+common:terapeuta']",12393,0.8,mistral:7b
+50,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12394,0.8,mistral:7b
+51,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""El"" is used to indicate that we are referring to a specific therapist (masculine gender), while ""La"" would be used for a female therapist. In the given sentence, there's no indication of the gender, so ""El"" was chosen as a neutral choice in English",male cue(s): ['article+common:terapeuta'],12395,0.8,mistral:7b
+52,N,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, I've used masculine gender (""El"") for ""The Therapist"" since it is a generic usage. If the therapist is specifically female, you would use ""La"" instead. For example: La Terapeuta regresó a su casa desde el trabajo.","both male and female cues: M=['article+common:terapeuta'], F=['article+common:terapeuta']",12396,0.8,mistral:7b
+53,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta se fue a casa desde el trabajo.
+
+In this translation, ""Therapist"" has been translated as ""Terapeuta"", ""went"" as ""se fue"", and ""home"" as ""casa"". The preposition ""from"" in English is typically translated as ""desde"" in Spanish, while the verb ""work"" does not",male cue(s): ['article+common:terapeuta'],12397,0.8,mistral:7b
+54,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabajar.
+
+In this sentence, ""Therapist"" was translated as ""Terapeuta,"" ""went home"" as ""regresó a su casa,"" and ""from work"" as ""después de trabajar."" The Spanish sentence conveys the same meaning as the original English one: The Therap",male cue(s): ['article+common:terapeuta'],12398,0.8,mistral:7b
+55,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12399,0.8,mistral:7b
+56,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+Here is the breakdown of the translation:
+
+* El - Definite masculine article (equivalent to ""the"")
+* Terapeuta - Therapist (masculine gender in Spanish)
+* regresó - went back, returned (third person singular of the verb ""regres",male cue(s): ['article+common:terapeuta'],12400,0.8,mistral:7b
+57,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabar.
+
+However, it's important to note that the verb conjugation ""regresó"" is used when referring to a person who is moving back to their original location after being away for some time (like coming home from work). If the therapist simply left work and was going straight home, you could use """,male cue(s): ['article+common:terapeuta'],12401,0.8,mistral:7b
+58,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12402,0.8,mistral:7b
+59,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12403,0.8,mistral:7b
+60,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12404,0.8,mistral:7b
+61,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12405,0.8,mistral:7b
+62,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12406,0.8,mistral:7b
+63,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12407,0.8,mistral:7b
+64,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12408,0.8,mistral:7b
+65,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12409,0.8,mistral:7b
+66,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12410,0.8,mistral:7b
+67,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""El"" is ""the"", ""Terapeuta"" means ""therapist"", ""regresó"" means ""returned"", ""a"" means ""to"", ""su"" means ""his/her"", ""casa"" means ""house"", and ""desde el trab",male cue(s): ['article+common:terapeuta'],12411,0.8,mistral:7b
+68,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12412,0.8,mistral:7b
+69,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa después de trabar.
+
+Explanation:
+The subject ""The Therapist"" translates to ""El Terapeuta"". The verb ""went"" translates to ""regresó"", and the preposition ""from"" is replaced by ""después de"" in this context (implying that the action took place after",male cue(s): ['article+common:terapeuta'],12413,0.8,mistral:7b
+70,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12414,0.8,mistral:7b
+71,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa después del trabajo.
+
+This translates to ""The Therapist returned home after work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12415,0.8,mistral:7b
+72,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12416,0.8,mistral:7b
+73,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12417,0.8,mistral:7b
+74,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12418,0.8,mistral:7b
+75,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12419,0.8,mistral:7b
+76,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12420,0.8,mistral:7b
+77,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta volvió a casa desde el trabajo. (literally ""The Therapist returned to home from work"")
+
+A more common way to say it would be: El Terapeuta se fue a casa después de trabajar. (literally ""The Therapist went home after working"")",male cue(s): ['article+common:terapeuta'],12421,0.8,mistral:7b
+78,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta se fue a casa desde el trabajo.
+
+In this translation, ""Therapist"" is translated as ""Terapeuta"", ""went home"" is translated as ""se fue a casa"", and ""from work"" is translated as ""desde el trabajo"". The preposition ""from"" in this context indicates the origin or starting point of the",male cue(s): ['article+common:terapeuta'],12422,0.8,mistral:7b
+79,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12423,0.8,mistral:7b
+80,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""The"" is omitted since it's usually not translated in Spanish when referring to specific nouns (like therapist). I also capitalized the first letter of each word following common Spanish grammar rules.",male cue(s): ['article+common:terapeuta'],12424,0.8,mistral:7b
+81,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12425,0.8,mistral:7b
+82,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde su trabajo.
+
+Explanation:
+The word ""Therapist"" in English translates to ""Terapeuta"" in Spanish. The verb ""went"" in this context can be translated as ""regresó"", since the Therapist is returning home from work. Finally, ""home"" translates to",male cue(s): ['article+common:terapeuta'],12426,0.8,mistral:7b
+83,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabjar.
+
+This translation conveys that the person (Therapist) who was at work has now returned to their home.",male cue(s): ['article+common:terapeuta'],12427,0.8,mistral:7b
+84,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12428,0.8,mistral:7b
+85,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12429,0.8,mistral:7b
+86,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+Here is the breakdown:
+- ""The"" (El) translates to ""el"" in Spanish when referring to masculine singular nouns. In this case, therapist can be considered masculine due to its gender neutral form in English.
+- ""Therapist"" (Terapeuta",male cue(s): ['article+common:terapeuta'],12430,0.8,mistral:7b
+87,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después del trabajo.
+
+(Note that in Spanish, unlike English, the profession is placed after the person's name.)",male cue(s): ['article+common:terapeuta'],12431,0.8,mistral:7b
+88,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12432,0.8,mistral:7b
+89,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12433,0.8,mistral:7b
+90,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+This translation conveys the meaning of your original English sentence, ""The Therapist went home from work,"" in Spanish.",male cue(s): ['article+common:terapeuta'],12434,0.8,mistral:7b
+91,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12435,0.8,mistral:7b
+92,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12436,0.8,mistral:7b
+93,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12437,0.8,mistral:7b
+94,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12438,0.8,mistral:7b
+95,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta volvió a casa después del trabajo.
+
+In this translation, ""Therapist"" is translated as ""Terapeuta,"" and ""went home"" is translated as ""volvió a casa."" ""From work"" was left out of the sentence in Spanish because it is implied that the Therapist went home from where they were working.",male cue(s): ['article+common:terapeuta'],12439,0.8,mistral:7b
+96,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta se fue a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12440,0.8,mistral:7b
+97,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12441,0.8,mistral:7b
+98,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12442,0.8,mistral:7b
+99,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""El"" means ""The"", ""Terapeuta"" means ""Therapist"", ""regresó"" means ""returned"", ""a"" is the preposition for ""to"", ""su"" means ""his/her"", and ""casa"" means ""house"".",male cue(s): ['article+common:terapeuta'],12443,0.8,mistral:7b
+100,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translates the English sentence ""The Therapist went home from work"" into Spanish, where ""Terapeuta"" means therapist, ""regresó"" means returned, ""a su casa"" means to his/her house, and ""desde el trabajo"" means from work.",male cue(s): ['article+common:terapeuta'],12444,0.8,mistral:7b
+101,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12445,0.8,mistral:7b
+102,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después de trabajo.,male cue(s): ['article+common:terapeuta'],12446,0.8,mistral:7b
+103,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12447,0.8,mistral:7b
+104,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12448,0.8,mistral:7b
+105,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12449,0.8,mistral:7b
+106,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12450,0.8,mistral:7b
+107,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12451,0.8,mistral:7b
+108,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12452,0.8,mistral:7b
+109,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta se fue a casa desde el trabajo.
+
+This translation in Spanish means ""The Therapist left home from work."" However, since the original English sentence implies that the therapist returned home from work, I have adjusted my response to better reflect that meaning: El Terapeuta regresó a casa de trabajo.",male cue(s): ['article+common:terapeuta'],12453,0.8,mistral:7b
+110,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta volvió a casa de trabajo.,male cue(s): ['article+common:terapeuta'],12454,0.8,mistral:7b
+111,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+Here's the breakdown of the translation:
+- ""The"" is translated as ""El"" for masculine singular nouns (Terapeuta is a male noun in this case). If it were a female therapist, you would use ""La.""
+- ""Therapist"" is translated",male cue(s): ['article+common:terapeuta'],12455,0.8,mistral:7b
+112,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12456,0.8,mistral:7b
+113,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12457,0.8,mistral:7b
+114,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12458,0.8,mistral:7b
+115,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12459,0.8,mistral:7b
+116,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12460,0.8,mistral:7b
+117,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12461,0.8,mistral:7b
+118,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12462,0.8,mistral:7b
+119,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabajar.
+
+In this translation, ""Therapist"" was used to maintain the professional context of your original sentence. If you meant a different type of person (e.g., a friend, family member), please adjust the translation accordingly. For example:
+
+* The friend went home from work: El amigo",male cue(s): ['article+common:terapeuta'],12463,0.8,mistral:7b
+120,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12464,0.8,mistral:7b
+121,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this sentence, ""The Therapist"" (El Terapeuta) is replaced by the subject pronoun ""He"" in informal Spanish (""Él"" in formal Spanish), ""went"" (regresó) corresponds to the verb for going back home after work, and ""home"" (",male cue(s): ['article+common:terapeuta'],12465,0.8,mistral:7b
+122,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa de trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12466,0.8,mistral:7b
+123,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12467,0.8,mistral:7b
+124,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12468,0.8,mistral:7b
+125,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12469,0.8,mistral:7b
+126,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12470,0.8,mistral:7b
+127,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde su trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12471,0.8,mistral:7b
+128,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12472,0.8,mistral:7b
+129,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabar. (Literally translated: The therapist returned to his house after working)
+However, a more common way to say it would be: El Terapeuta volvió a casa desde el trabajo. (The therapist went home from work)",male cue(s): ['article+common:terapeuta'],12473,0.8,mistral:7b
+130,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12474,0.8,mistral:7b
+131,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12475,0.8,mistral:7b
+132,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12476,0.8,mistral:7b
+133,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+Here is a breakdown of the translation:
+
+* El (The) - This is the definite article for ""Therapist.""
+* Theraputa (Therapist) - The word itself.
+* regresó (regresó) - The past tense of the verb """,male cue(s): ['article+common:terapeuta'],12477,0.8,mistral:7b
+134,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12478,0.8,mistral:7b
+135,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12479,0.8,mistral:7b
+136,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12480,0.8,mistral:7b
+137,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12481,0.8,mistral:7b
+138,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después del trabajo.
+
+This translates to ""The Therapist returned home after work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12482,0.8,mistral:7b
+139,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12483,0.8,mistral:7b
+140,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12484,0.8,mistral:7b
+141,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""El"" is an article for ""The,"" ""Terapeuta"" translates to ""Therapist,"" ""regresó"" means ""returned,"" ""a"" is the preposition for ""to"" and ""su"" is a possessive pronoun meaning ""his",male cue(s): ['article+common:terapeuta'],12485,0.8,mistral:7b
+142,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12486,0.8,mistral:7b
+143,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12487,0.8,mistral:7b
+144,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12488,0.8,mistral:7b
+145,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This sentence translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12489,0.8,mistral:7b
+146,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12490,0.8,mistral:7b
+147,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12491,0.8,mistral:7b
+148,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde su trabajo.
+
+In this translation, ""The"" is left out since it's generally not included in Spanish when starting a sentence. Also, ""from work"" has been translated as ""desde su trabajo"", which means ""from his/her job"". In Spanish, we often use prepositions like ""desde""",male cue(s): ['article+common:terapeuta'],12492,0.8,mistral:7b
+149,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""Therapist"" becomes ""Terapeuta"", ""went home"" translates to ""regresó a su casa"" (literally ""returned to his/her house""), and ""from work"" is expressed as ""desde el trabajo"". The verb form",male cue(s): ['article+common:terapeuta'],12493,0.8,mistral:7b
+150,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12494,0.8,mistral:7b
+151,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12495,0.8,mistral:7b
+152,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translation conveys that the person who performs therapy returned to their house after working.",male cue(s): ['article+common:terapeuta'],12496,0.8,mistral:7b
+153,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12497,0.8,mistral:7b
+154,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12498,0.8,mistral:7b
+155,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+However, if you want to say ""The therapist went home for work"", it would be ""El terapeuta volvió a casa por el trabajo"".",male cue(s): ['article+common:terapeuta'],12499,0.8,mistral:7b
+156,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12500,0.8,mistral:7b
+157,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde su trabajo.
+
+In this context, ""Therapist"" is translated as ""Terapeuta,"" and ""went home"" is translated as ""regresó a casa."" ""From work"" is implied by the verb ""regresó,"" which means to return from somewhere, in this case, from work.",male cue(s): ['article+common:terapeuta'],12501,0.8,mistral:7b
+158,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabar.
+
+This is a possible translation of the sentence ""The Therapist went home from work."" into Spanish, where ""Therapist"" has been translated as ""Terapeuta"", and ""went home"" has been translated as ""regresó a su casa"". In this context, ""from work",male cue(s): ['article+common:terapeuta'],12502,0.8,mistral:7b
+159,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12503,0.8,mistral:7b
+160,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12504,0.8,mistral:7b
+161,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+In this translation, ""The"" is replaced with ""El"" (masculine singular definite article), ""Therapist"" with ""Terapeuta"" (neutral gender noun), ""went"" with ""regresó"" (past tense of ir = go in Spanish), """,male cue(s): ['article+common:terapeuta'],12505,0.8,mistral:7b
+162,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12506,0.8,mistral:7b
+163,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12507,0.8,mistral:7b
+164,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12508,0.8,mistral:7b
+165,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""El"" is used as an article for masculine singular nouns and refers to ""The"". ""Terapeuta"" means therapist, ""regresó"" is the third-person singular form of the verb ""volver"", which means to return or go back; it'",male cue(s): ['article+common:terapeuta'],12509,0.8,mistral:7b
+166,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde su trabajo.
+
+This sentence translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12510,0.8,mistral:7b
+167,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12511,0.8,mistral:7b
+168,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12512,0.8,mistral:7b
+169,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12513,0.8,mistral:7b
+170,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde su trabajo.
+
+Note: In this sentence, ""Therapist"" is translated as ""Terapeuta"". If referring to a specific type of therapist such as a psychotherapist or physical therapist, it may be necessary to use a more specific term in Spanish to convey the exact profession. For example: Psic",male cue(s): ['article+common:terapeuta'],12514,0.8,mistral:7b
+171,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabajar.
+
+In this translation, ""Therapist"" is translated as ""Terapeuta"", and ""went home"" is translated as ""regresó a su casa"". The phrase ""from work"" was not explicitly stated in the sentence, but if it is necessary to include it for context, it can",male cue(s): ['article+common:terapeuta'],12515,0.8,mistral:7b
+172,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12516,0.8,mistral:7b
+173,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa de trabajo.
+
+In this case, I used ""regresar"" instead of ""ir"" because the context suggests that the therapist was already away from home and is now returning to it. However, if you wanted to express that the therapist is going home for the first time, you could say: El Terapeuta va a casa por",male cue(s): ['article+common:terapeuta'],12517,0.8,mistral:7b
+174,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12518,0.8,mistral:7b
+175,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translates to ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12519,0.8,mistral:7b
+176,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabar. (Literally translated: The Therapist returned to his house after working)
+
+However, a more natural way to say it in Spanish would be: El Terapeuta volvió a casa después del trabajo.",male cue(s): ['article+common:terapeuta'],12520,0.8,mistral:7b
+177,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12521,0.8,mistral:7b
+178,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translation maintains the meaning of your original English sentence, which is ""The Therapist returned home from work."" In Spanish, we use the verb ""regresar"" to indicate returning and ""a su casa"" to indicate going home.",male cue(s): ['article+common:terapeuta'],12522,0.8,mistral:7b
+179,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12523,0.8,mistral:7b
+180,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translation conveys that the therapist returned to their home after work, similar to your original sentence.",male cue(s): ['article+common:terapeuta'],12524,0.8,mistral:7b
+181,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12525,0.8,mistral:7b
+182,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translation keeps the verb tense consistent with the original sentence, which is in the simple past tense. If you wanted to express this action happening at the present or future time, you would change the verb tense accordingly:
+
+- Present tense: El Terapeuta va a casa desde el trabajo (The therapist",male cue(s): ['article+common:terapeuta'],12526,0.8,mistral:7b
+183,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12527,0.8,mistral:7b
+184,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12528,0.8,mistral:7b
+185,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12529,0.8,mistral:7b
+186,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta volvió a casa después de trabajar.
+
+In this translation, ""El"" is the masculine singular definite article (the), ""Terapeuta"" means therapist, ""volvió"" means returned, ""a casa"" means to house or home, and ""después de trabajar"" means after working.",male cue(s): ['article+common:terapeuta'],12530,0.8,mistral:7b
+187,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12531,0.8,mistral:7b
+188,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabar.
+
+However, it's important to note that ""Therapist"" could be translated as ""terapeuta"" but also ""psicoterapeuta"" depending on the context (if it is a psychotherapist). And ""work"" could be translated as ""trabajo"", ""emple",male cue(s): ['article+common:terapeuta'],12532,0.8,mistral:7b
+189,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12533,0.8,mistral:7b
+190,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""El"" is the masculine article (equivalent to 'the'), ""Terapeuta"" means therapist in Spanish, ""regresó"" means returned, ""a"" is the preposition for 'to', and ""su casa"" means his house. ""Desde el trab",male cue(s): ['article+common:terapeuta'],12534,0.8,mistral:7b
+191,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12535,0.8,mistral:7b
+192,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12536,0.8,mistral:7b
+193,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12537,0.8,mistral:7b
+194,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12538,0.8,mistral:7b
+195,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta volvió a casa desde el trabajo.
+
+In this sentence, ""The Therapist"" is translated as ""El Terapeuta"", ""went"" is translated as ""volvió"" (which means returned in Spanish), and ""home"" is translated as ""casa"". The phrase ""from work"" in English translates to ""desde el",male cue(s): ['article+common:terapeuta'],12539,0.8,mistral:7b
+196,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después del trabajo.
+
+In this sentence, ""Therapist"" was translated as ""Terapeuta"", and ""went home"" was translated as ""regresó a su casa"". The phrase ""from work"" is implied in the context since it follows a statement that the Therapist was at work.",male cue(s): ['article+common:terapeuta'],12540,0.8,mistral:7b
+197,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12541,0.8,mistral:7b
+198,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después del trabajo.
+
+In this sentence, ""The"" (El) is replaced by ""El Terapeuta"" because we are referring to a specific therapist. ""went"" (regresó) is the past tense of ""to go"" in Spanish, and ""home"" (a su casa) is translated directly. Last",male cue(s): ['article+common:terapeuta'],12542,0.8,mistral:7b
+199,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+In this translation, ""Therapist"" has been translated as ""Terapeuta,"" ""went"" as ""regresó,"" ""home"" as ""a su casa,"" and ""from work"" as ""desde el trabajo.""",male cue(s): ['article+common:terapeuta'],12543,0.8,mistral:7b
+200,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12544,0.8,mistral:7b
+201,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12545,0.8,mistral:7b
+202,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta volvió a casa desde el trabajo.
+
+In this sentence, ""El"" is the masculine definite article, ""Terapeuta"" is therapist (masculine), ""volvió"" is returned or went back, ""a"" is to, ""casa"" is home, and ""desde"" is from work.",male cue(s): ['article+common:terapeuta'],12546,0.8,mistral:7b
+203,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12547,0.8,mistral:7b
+204,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12548,0.8,mistral:7b
+205,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabar. (Informal)
+El terapeuta volvió a su hogar después de trabajar. (Formal)",male cue(s): ['article+common:terapeuta'],12549,0.8,mistral:7b
+206,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después de trabajar.,male cue(s): ['article+common:terapeuta'],12550,0.8,mistral:7b
+207,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa de trabajo.
+
+This translation means ""The Therapist returned home from work"" in Spanish.",male cue(s): ['article+common:terapeuta'],12551,0.8,mistral:7b
+208,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12552,0.8,mistral:7b
+209,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa desde el trabajo.
+
+This translation accurately conveys the meaning of the original English sentence in Spanish. It translates ""The Therapist"" as ""El Terapeuta"", ""went home"" as ""regresó a su casa"", and ""from work"" as ""desde el trabajo"". The entire sentence combined is",male cue(s): ['article+common:terapeuta'],12553,0.8,mistral:7b
+210,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12554,0.8,mistral:7b
+211,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+This translation conveys that the person in question, who is a therapist, returned home after work.",male cue(s): ['article+common:terapeuta'],12555,0.8,mistral:7b
+212,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa de trabajo.
+
+In this translation, ""Therapist"" becomes ""Terapeuta,"" and ""went home from work"" becomes ""regresó a casa de trabajo."" This Spanish sentence conveys the same meaning as the original English sentence.",male cue(s): ['article+common:terapeuta'],12556,0.8,mistral:7b
+213,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después del trabajo.
+
+In this translation, ""Therapist"" is translated as ""Terapeuta"", ""went"" is translated as ""regresó"", ""home"" is translated as ""casa"", and ""from work"" is translated as ""después del trabajo"".",male cue(s): ['article+common:terapeuta'],12557,0.8,mistral:7b
+214,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después del trabajo.
+
+In this sentence, ""Therapist"" has been translated as ""Terapeuta"", ""went home"" as ""regresó a su casa"", and ""from work"" as ""después del trabajo"". This translates the English sentence into Spanish, preserving its meaning.",male cue(s): ['article+common:terapeuta'],12558,0.8,mistral:7b
+215,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12559,0.8,mistral:7b
+216,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12560,0.8,mistral:7b
+217,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a su casa después de trabajo.
+
+This translates to ""The Therapist returned home after work."" in Spanish.",male cue(s): ['article+common:terapeuta'],12561,0.8,mistral:7b
+218,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12562,0.8,mistral:7b
+219,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12563,0.8,mistral:7b
+220,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa después del trabajo.,male cue(s): ['article+common:terapeuta'],12564,0.8,mistral:7b
+221,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta se fue a casa de trabajo.
+
+This translates to ""The Therapist left (or went) home from work."" in Spanish.",male cue(s): ['article+common:terapeuta'],12565,0.8,mistral:7b
+222,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a su casa desde el trabajo.,male cue(s): ['article+common:terapeuta'],12566,0.8,mistral:7b
+223,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.","El Terapeuta regresó a casa desde el trabajo.
+
+This translation maintains the original meaning of the English sentence, which is ""The Therapist went home after working."" In this context, ""went"" can be translated as ""regresó,"" and ""home"" can be translated as ""casa."" The preposition ""from"" (""desde"") is",male cue(s): ['article+common:terapeuta'],12567,0.8,mistral:7b
+224,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa desde su trabajo.,male cue(s): ['article+common:terapeuta'],12568,0.8,mistral:7b
+225,M,Spanish,Therapist,standard,The Therapist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Therapist went home from work.",El Terapeuta regresó a casa de trabajo.,male cue(s): ['article+common:terapeuta'],12569,0.8,mistral:7b

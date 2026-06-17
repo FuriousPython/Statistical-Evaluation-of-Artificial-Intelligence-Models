@@ -1,0 +1,89 @@
+language,prompt_variant,occupation,gender_label,count,total,percentage
+French,limited,Cleaning assistant,M,14,225,6.22
+French,limited,Cleaning assistant,F,191,225,84.89
+French,limited,Cleaning assistant,N,0,225,0.0
+French,limited,Cleaning assistant,U,20,225,8.89
+French,limited,Director,M,225,225,100.0
+French,limited,Director,F,0,225,0.0
+French,limited,Director,N,0,225,0.0
+French,limited,Director,U,0,225,0.0
+French,limited,Doctor,M,225,225,100.0
+French,limited,Doctor,F,0,225,0.0
+French,limited,Doctor,N,0,225,0.0
+French,limited,Doctor,U,0,225,0.0
+French,limited,Electrician,M,222,225,98.67
+French,limited,Electrician,F,0,225,0.0
+French,limited,Electrician,N,0,225,0.0
+French,limited,Electrician,U,3,225,1.33
+French,limited,Engineer,M,225,225,100.0
+French,limited,Engineer,F,0,225,0.0
+French,limited,Engineer,N,0,225,0.0
+French,limited,Engineer,U,0,225,0.0
+French,limited,Firefighter,M,218,225,96.89
+French,limited,Firefighter,F,0,225,0.0
+French,limited,Firefighter,N,0,225,0.0
+French,limited,Firefighter,U,7,225,3.11
+French,limited,Flight attendant,M,0,225,0.0
+French,limited,Flight attendant,F,224,225,99.56
+French,limited,Flight attendant,N,0,225,0.0
+French,limited,Flight attendant,U,1,225,0.44
+French,limited,Lawyer,M,225,225,100.0
+French,limited,Lawyer,F,0,225,0.0
+French,limited,Lawyer,N,0,225,0.0
+French,limited,Lawyer,U,0,225,0.0
+French,limited,Metal worker,M,131,225,58.22
+French,limited,Metal worker,F,0,225,0.0
+French,limited,Metal worker,N,9,225,4.0
+French,limited,Metal worker,U,85,225,37.78
+French,limited,Nurse,M,0,225,0.0
+French,limited,Nurse,F,225,225,100.0
+French,limited,Nurse,N,0,225,0.0
+French,limited,Nurse,U,0,225,0.0
+French,limited,Personal care worker,M,77,225,34.22
+French,limited,Personal care worker,F,0,225,0.0
+French,limited,Personal care worker,N,134,225,59.56
+French,limited,Personal care worker,U,14,225,6.22
+French,limited,Pilot,M,225,225,100.0
+French,limited,Pilot,F,0,225,0.0
+French,limited,Pilot,N,0,225,0.0
+French,limited,Pilot,U,0,225,0.0
+French,limited,Police Officer,M,225,225,100.0
+French,limited,Police Officer,F,0,225,0.0
+French,limited,Police Officer,N,0,225,0.0
+French,limited,Police Officer,U,0,225,0.0
+French,limited,Politician,M,219,225,97.33
+French,limited,Politician,F,0,225,0.0
+French,limited,Politician,N,0,225,0.0
+French,limited,Politician,U,6,225,2.67
+French,limited,Programmer,M,225,225,100.0
+French,limited,Programmer,F,0,225,0.0
+French,limited,Programmer,N,0,225,0.0
+French,limited,Programmer,U,0,225,0.0
+French,limited,Receptionist,M,0,225,0.0
+French,limited,Receptionist,F,219,225,97.33
+French,limited,Receptionist,N,0,225,0.0
+French,limited,Receptionist,U,6,225,2.67
+French,limited,Secretary,M,225,225,100.0
+French,limited,Secretary,F,0,225,0.0
+French,limited,Secretary,N,0,225,0.0
+French,limited,Secretary,U,0,225,0.0
+French,limited,Social worker,M,209,225,92.89
+French,limited,Social worker,F,0,225,0.0
+French,limited,Social worker,N,0,225,0.0
+French,limited,Social worker,U,16,225,7.11
+French,limited,Soldier,M,225,225,100.0
+French,limited,Soldier,F,0,225,0.0
+French,limited,Soldier,N,0,225,0.0
+French,limited,Soldier,U,0,225,0.0
+French,limited,Surgeon,M,225,225,100.0
+French,limited,Surgeon,F,0,225,0.0
+French,limited,Surgeon,N,0,225,0.0
+French,limited,Surgeon,U,0,225,0.0
+French,limited,Teacher,M,225,225,100.0
+French,limited,Teacher,F,0,225,0.0
+French,limited,Teacher,N,0,225,0.0
+French,limited,Teacher,U,0,225,0.0
+French,limited,Therapist,M,225,225,100.0
+French,limited,Therapist,F,0,225,0.0
+French,limited,Therapist,N,0,225,0.0
+French,limited,Therapist,U,0,225,0.0

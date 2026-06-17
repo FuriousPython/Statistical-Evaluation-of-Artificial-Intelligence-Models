@@ -21,7 +21,7 @@ N_PROFESSIONS = 88 # 22x2x2 = 88     (22 professions, 2 languages, 2 prompt) = 8
 #   "spanish"
 #   "german"
 #   "french"
-SELECTED_LANGUAGE = "spanish"
+SELECTED_LANGUAGE = "french"
 
 # Prompt variants:
 #   french_gender_bias_results

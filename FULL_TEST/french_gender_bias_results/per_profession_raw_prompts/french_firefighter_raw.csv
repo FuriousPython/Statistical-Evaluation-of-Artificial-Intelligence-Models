@@ -1,0 +1,691 @@
+Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12345,0.8,mistral:7b
+2,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12346,0.8,mistral:7b
+3,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+However, a more conversational way to say it would be:
+Le pompier est rentré chez lui après son travail.
+or even more informally:
+Il est revenu chez lui après sa journée d'œuvre.",male cue(s): ['pompier'],12347,0.8,mistral:7b
+4,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+This translation is correct as it accurately conveys the meaning of the original English sentence while using proper French grammar and vocabulary. In this context, ""le pompier"" refers to a firefighter, and ""a la maison"" translates to home. The phrase ""est retourné après",male cue(s): ['pompier'],12348,0.8,mistral:7b
+5,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de son travail.,male cue(s): ['pompier'],12349,0.8,mistral:7b
+6,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+However, if you want to say ""The firefighter went home"" in a context that implies he finished work and is going to his personal residence, the sentence could also be:
+Le pompier est rentré chez lui.",male cue(s): ['pompier'],12350,0.8,mistral:7b
+7,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail. (The firefighter has returned home after work.),male cue(s): ['pompier'],12351,0.8,mistral:7b
+8,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here, ""Le pompier"" translates to ""the firefighter"", ""est retourné"" translates to ""is returned"", and ""à la maison de travail"" translates to ""home from work"".",male cue(s): ['pompier'],12352,0.8,mistral:7b
+9,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12353,0.8,mistral:7b
+10,N,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+This translation is for a masculine firefighter. For a feminine firefighter, it would be: La pompière est retournée à la maison après le travail.","both male and female cues: M=['pompier'], F=['pompiere']",12354,0.8,mistral:7b
+11,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après son travail. (literally: The firefighter is returned at home after his work)
+
+A more idiomatic version would be: Le pompier est rentré chez lui de son travail. (The firefighter went home from work.)",male cue(s): ['pompier'],12355,0.8,mistral:7b
+12,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12356,0.8,mistral:7b
+13,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail. (formal)
+Le feu-nombreur est rentré chez lui après le travail. (informal, colloquial)",male cue(s): ['pompier'],12357,0.8,mistral:7b
+14,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison de travail. (formal)
+Le pompier est rentré chez lui après le travail. (informal)",male cue(s): ['pompier'],12358,0.8,mistral:7b
+15,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12359,0.8,mistral:7b
+16,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après son travail.,male cue(s): ['pompier'],12360,0.8,mistral:7b
+17,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12361,0.8,mistral:7b
+18,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (Literally: The firefighter has returned to home from work)
+Correct translation: Le pompier est rentré chez lui après le travail. (The firefighter went home after work.)",male cue(s): ['pompier'],12362,0.8,mistral:7b
+19,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12363,0.8,mistral:7b
+20,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work."" in French.",male cue(s): ['pompier'],12364,0.8,mistral:7b
+21,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translation implies that the firefighter left their workplace and went to their home, which is a more common way to say it in French compared to directly translating ""went home from work"" as ""est rentré du travail à la maison"". However, both are grammatically correct but the",male cue(s): ['pompier'],12365,0.8,mistral:7b
+22,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translation is a bit more formal and suitable for professional contexts, but if you want to make it more conversational, you could say: Il est rentré chez lui après le travail.",male cue(s): ['pompier'],12366,0.8,mistral:7b
+23,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here's a breakdown of the translation:
+
+- ""The firefighter"" (Le pompier) translates to fireman/woman in French, but ""le"" is used because it is a masculine singular noun. If you were referring to a female firefighter, you",male cue(s): ['pompier'],12367,0.8,mistral:7b
+24,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (literally)
+
+Le pompier est allé chez lui après son travail. (more idiomatic)",male cue(s): ['pompier'],12368,0.8,mistral:7b
+25,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12369,0.8,mistral:7b
+26,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est rentré chez lui après le travail.,male cue(s): ['pompier'],12370,0.8,mistral:7b
+27,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12371,0.8,mistral:7b
+28,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail.
+
+This translation conveys the idea that ""the firefighter"" left his workplace and returned to his home.",male cue(s): ['pompier'],12372,0.8,mistral:7b
+29,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné chez lui après le travail.,occupation/gender cue not detected,12373,0.8,mistral:7b
+30,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison de travail.
+
+In this translation, ""le pompier"" means ""the firefighter,"" and ""est retourné à la maison de travail"" translates to ""went home from work.""",male cue(s): ['pompier'],12374,0.8,mistral:7b
+31,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est rentré chez lui après le travail. (formal)
+Le pompier est retourné à la maison après le travail. (informal)",male cue(s): ['pompier'],12375,0.8,mistral:7b
+32,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison de travail. (Literally: The firefighter has returned to the house of work) However, the correct translation would be: Le pompier est rentré chez lui après le travail. (The firefighter went home after work)",male cue(s): ['pompier'],12376,0.8,mistral:7b
+33,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12377,0.8,mistral:7b
+34,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail.
+
+In this translation, ""pompier"" means firefighter, ""est retourné"" means returned, ""à la maison"" means at home, and ""de son travail"" means from work. The sentence structure has been adjusted to fit the French language more naturally, where the subject (Le pom",male cue(s): ['pompier'],12378,0.8,mistral:7b
+35,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+This translates to ""The firefighter has returned home after work"" in French.",male cue(s): ['pompier'],12379,0.8,mistral:7b
+36,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12380,0.8,mistral:7b
+37,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this sentence, ""Le pompier"" translates to ""the firefighter"", ""est retourné"" means ""has returned"", and ""à la maison de travail"" translates to ""home from work"".",male cue(s): ['pompier'],12381,0.8,mistral:7b
+38,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné chez lui après le travail. (The firefighter returned home after work.),occupation/gender cue not detected,12382,0.8,mistral:7b
+39,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après le travail.
+
+This translation conveys that a firefighter has returned home after work. In this context, ""le pompier"" refers to the firefighter and ""il est retourné chez lui après le travail"" means he went home from work.",male cue(s): ['pompier'],12383,0.8,mistral:7b
+40,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (Literally: The firefighter has returned at home from work)
+However, a more common way to express this in French would be: Le pompier est allé chez lui du travail. (The firefighter went home from work)",male cue(s): ['pompier'],12384,0.8,mistral:7b
+41,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12385,0.8,mistral:7b
+42,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+However, a more conversational and modern version could be:
+Le pompier est rentré chez lui après le travail.",male cue(s): ['pompier'],12386,0.8,mistral:7b
+43,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison après le travail. (Formal)
+Le pompier est rentré chez lui après le travail. (Casual)",male cue(s): ['pompier'],12387,0.8,mistral:7b
+44,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (formal)
+Le pompier est rentré chez lui après le travail. (informal)",male cue(s): ['pompier'],12388,0.8,mistral:7b
+45,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here's a breakdown of the translation:
+
+- ""The"" (in English) is translated as ""Le"" in French for masculine singular nouns. In this case, ""pompier"" (firefighter) is a masculine singular noun.
+
+- ""Firefig",male cue(s): ['pompier'],12389,0.8,mistral:7b
+46,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail. (The firefighter has returned home after work.),male cue(s): ['pompier'],12390,0.8,mistral:7b
+47,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Note that ""from work"" is translated as ""de travail"". In French, it's common to use prepositions like ""de"" (from) or ""à"" (to/at) when talking about going somewhere from a specific place or returning to a specific place.",male cue(s): ['pompier'],12391,0.8,mistral:7b
+48,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné à la maison après le travail. (formal) or Le pompier est rentré chez lui après le travail (informal),male cue(s): ['pompier'],12392,0.8,mistral:7b
+49,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après son travail.
+
+This translates to ""The firefighter has returned home after work."" in French.",male cue(s): ['pompier'],12393,0.8,mistral:7b
+50,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12394,0.8,mistral:7b
+51,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12395,0.8,mistral:7b
+52,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12396,0.8,mistral:7b
+53,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison après le travail. (Literally: The firefighter returned home after work)
+
+Or, in a more colloquial style: Il est rentré chez lui de son travail (He came home from work)",occupation/gender cue not detected,12397,0.8,mistral:7b
+54,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après le travail. (Literally translated: The firefighter is returned home after work.)
+
+In informal or more conversational French, you might say: Il est rentré chez lui après son travail. (He is back home after his work)",male cue(s): ['pompier'],12398,0.8,mistral:7b
+55,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail. (Literally: The firefighter has returned to home from work)
+Corrected version: Le pompier est rentré chez lui du travail. (The firefighter went home from work)",male cue(s): ['pompier'],12399,0.8,mistral:7b
+56,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné chez lui de travail. (Formal)
+Le pompier est rentré chez lui du travail. (Casual)
+The Firefighter has returned home from work. (Past simple, formal)
+Le pompier est revenu à la maison de son travail. (Past simple, more literary)",male cue(s): ['pompier'],12400,0.8,mistral:7b
+57,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12401,0.8,mistral:7b
+58,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné à la maison après le travail. (For a more gender-neutral version: Le Pompier est retourné à la maison après le travail.),male cue(s): ['pompier'],12402,0.8,mistral:7b
+59,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail.
+
+However, a more idiomatic and concise way to say this in French would be:
+
+Le pompier est rentré chez lui.
+
+This means ""The firefighter has gone home"" or ""The firefighter returned home.""",male cue(s): ['pompier'],12403,0.8,mistral:7b
+60,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work."" in French.",male cue(s): ['pompier'],12404,0.8,mistral:7b
+61,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12405,0.8,mistral:7b
+62,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""le"" is used as a gender-neutral definite article in French, and ""a la maison de travail"" means ""home from work.""",male cue(s): ['pompier'],12406,0.8,mistral:7b
+63,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""le pompier"" means ""the firefighter"", and ""est retourné à la maison de travail"" means ""went home from work"". Note that in French, the direct object (in this case, the subject of the sentence) precedes the verb, and we",male cue(s): ['pompier'],12407,0.8,mistral:7b
+64,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""pompier"" is used to refer to a firefighter in French, and ""est retourné"" translates to ""went back"", which is more appropriate for the context given that they are returning home from work. However, if you wanted a more colloquial expression",male cue(s): ['pompier'],12408,0.8,mistral:7b
+65,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translation is a bit specific because it assumes the gender of the firefighter is unknown, so we use the generic ""pompier"" (firefighter) instead of ""pompiers"" for multiple firefighters. If you know the gender, you can replace ""pompier",male cue(s): ['pompier'],12409,0.8,mistral:7b
+66,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work."" in French.",male cue(s): ['pompier'],12410,0.8,mistral:7b
+67,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This sentence translates the phrase ""went home from work"" into French, using the verb ""est retourné,"" which means ""is returning."" It's more grammatically correct to use this form in French because the time of the action is clear from the context. If you were describing a specific point in",male cue(s): ['pompier'],12411,0.8,mistral:7b
+68,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12412,0.8,mistral:7b
+69,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12413,0.8,mistral:7b
+70,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12414,0.8,mistral:7b
+71,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12415,0.8,mistral:7b
+72,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est rentré chez lui de son travail.,male cue(s): ['pompier'],12416,0.8,mistral:7b
+73,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison de travail. (Literally: The firefighter has returned to the house of work, but a more natural way would be Le pompier est rentré chez lui après le travail.)",male cue(s): ['pompier'],12417,0.8,mistral:7b
+74,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This sentence is a more literal translation that maintains the original word order. A more idiomatic way to say it in French would be:
+
+Il est retourné chez lui après son travail. (He returned home after his work)",male cue(s): ['pompier'],12418,0.8,mistral:7b
+75,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12419,0.8,mistral:7b
+76,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work"" in French. In French, there are two ways to say ""has returned"": ""est revenu"" and ""est rentré"". The latter is more commonly used for a male person returning home (as in this case), while the",male cue(s): ['pompier'],12420,0.8,mistral:7b
+77,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné à la maison après son travail.,male cue(s): ['pompier'],12421,0.8,mistral:7b
+78,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné à la maison après le travail.,occupation/gender cue not detected,12422,0.8,mistral:7b
+79,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here, ""le pompier"" translates to ""the firefighter"", and ""est retourné à la maison de travail"" means ""went home from work"". In this context, ""de travail"" is used to specify that the home in question is their place of employment, rather than their",male cue(s): ['pompier'],12423,0.8,mistral:7b
+80,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""le"" is used for masculine singular nouns (firefighter), ""est"" means ""is"", ""retourné"" translates to ""returned"", ""à la"" means ""to the"", ""maison"" means ""house"", and ""de travail"" means",male cue(s): ['pompier'],12424,0.8,mistral:7b
+81,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail.
+
+This translates to ""The firefighter returned home from work"" in French.",male cue(s): ['pompier'],12425,0.8,mistral:7b
+82,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après son travail.
+
+In this translation, ""The"" is left out because it's not necessary in French to always include articles when referring to a profession or occupation (e.g., firefighter, doctor, teacher). However, if you wanted to be more precise, you could say ""Le pompier est ren",male cue(s): ['pompier'],12426,0.8,mistral:7b
+83,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison après son travail. (Literally, ""The firefighter is back home after his work"")
+Or, using a more colloquial expression: Il est rentré chez lui après le travail. (""He came back home after work."")",male cue(s): ['pompier'],12427,0.8,mistral:7b
+84,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12428,0.8,mistral:7b
+85,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12429,0.8,mistral:7b
+86,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+This translation of ""The firefighter"" to ""Le pompier"" is a general one, as there are specific names for different ranks or positions within the fire department in French. However, without further context specifying a particular rank, ""le pompier"" remains the most appropriate translation.",male cue(s): ['pompier'],12430,0.8,mistral:7b
+87,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12431,0.8,mistral:7b
+88,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de travail.,male cue(s): ['pompier'],12432,0.8,mistral:7b
+89,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12433,0.8,mistral:7b
+90,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison après le travail. (Literally)
+Il est rentré chez lui après son travail, le pompier. (In a more natural French context)",male cue(s): ['pompier'],12434,0.8,mistral:7b
+91,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work"" in French.",male cue(s): ['pompier'],12435,0.8,mistral:7b
+92,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Explanation:
+- ""The"" (le in French) is used to introduce a specific noun. In this case, we are referring to a specific firefighter.
+- ""Firefighter"" (pompier) translates directly from English.
+- ""Went home""",male cue(s): ['pompier'],12436,0.8,mistral:7b
+93,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""Le"" is used to denote a male subject in French (similar to ""The"" in English). If the firefighter was female, we would use ""La"" instead.",male cue(s): ['pompier'],12437,0.8,mistral:7b
+94,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12438,0.8,mistral:7b
+95,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12439,0.8,mistral:7b
+96,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12440,0.8,mistral:7b
+97,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here, ""pompier"" translates to firefighter, ""est retourné"" means went back or returned, and ""à la maison de travail"" translates to home from work.",male cue(s): ['pompier'],12441,0.8,mistral:7b
+98,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here, ""The"" is omitted in the French version because it's not necessary in French to explicitly state that a subject (in this case, ""le pompier"") refers to an individual or a specific one. However, if you wanted to keep it for clarity, it would be: Le fireman",male cue(s): ['pompier'],12442,0.8,mistral:7b
+99,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12443,0.8,mistral:7b
+100,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12444,0.8,mistral:7b
+101,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné à la maison de son travail.,male cue(s): ['pompier'],12445,0.8,mistral:7b
+102,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après son travail. (Literally: The firefighter has returned home after his work)
+
+Or for a more colloquial version, you could say: Il est rentré chez lui du travail de pompier.",male cue(s): ['pompier'],12446,0.8,mistral:7b
+103,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de son travail.,male cue(s): ['pompier'],12447,0.8,mistral:7b
+104,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Note that in this translation, ""de travail"" was added to convey the idea of returning from work, as there is no direct equivalent in French for ""from work"". In French, one would say ""du travail"" if referring to the concept of work, but when expressing direction or origin, ""de"" followed",male cue(s): ['pompier'],12448,0.8,mistral:7b
+105,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail. (Literally, ""The firefighter has returned at home after the work."")",male cue(s): ['pompier'],12449,0.8,mistral:7b
+106,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est rentré chez lui après le travail.,male cue(s): ['pompier'],12450,0.8,mistral:7b
+107,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné chez lui après son travail.,occupation/gender cue not detected,12451,0.8,mistral:7b
+108,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translation reflects that in French, ""de travail"" (from work) is usually used to indicate where someone has come from, rather than where they are going. So, the sentence would be structured as ""Le pompier est revenu à la maison de travail"", which means ""The firefighter",male cue(s): ['pompier'],12452,0.8,mistral:7b
+109,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné à la maison après le travail.,occupation/gender cue not detected,12453,0.8,mistral:7b
+110,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est rentré à la maison après le travail.,occupation/gender cue not detected,12454,0.8,mistral:7b
+111,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de son travail.,male cue(s): ['pompier'],12455,0.8,mistral:7b
+112,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné à la maison après le travail.,occupation/gender cue not detected,12456,0.8,mistral:7b
+113,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison de travail. (Literally translated)
+Le pompier est rentré chez lui après le travail. (More idiomatic translation)",male cue(s): ['pompier'],12457,0.8,mistral:7b
+114,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison de travail.
+
+In this translation, ""Le"" is used to indicate the gender and number of the subject (masculine singular), ""Pompier"" means firefighter, ""est"" is the verb ""to be"", ""retourné"" means returned, ""à"" indicates a location or direction, ""la",male cue(s): ['pompier'],12458,0.8,mistral:7b
+115,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12459,0.8,mistral:7b
+116,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter returned home from work"" in French.",male cue(s): ['pompier'],12460,0.8,mistral:7b
+117,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail.
+
+This translation conveys that the firefighter has left their place of work and gone home.",male cue(s): ['pompier'],12461,0.8,mistral:7b
+118,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""pompier"" means firefighter and ""à la maison de travail"" means at home from work.",male cue(s): ['pompier'],12462,0.8,mistral:7b
+119,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après le travail. (Literally: The firefighter has returned home after work)
+Or, for a more colloquial version: Il est rentré à la maison de son travail. (He has gone back home from work)",male cue(s): ['pompier'],12463,0.8,mistral:7b
+120,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12464,0.8,mistral:7b
+121,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+This translates the English sentence ""The firefighter went home from work"" to French. Here, ""le pompier"" is translated as ""the firefighter,"" and ""est retourné à la maison après le travail"" translates to ""went home after work.""",male cue(s): ['pompier'],12465,0.8,mistral:7b
+122,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12466,0.8,mistral:7b
+123,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+However, if you want to say ""The firefighter went home"" without specifying that he left work, it would be:
+Le pompier est revenu à la maison. (The firefighter came home.)",male cue(s): ['pompier'],12467,0.8,mistral:7b
+124,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12468,0.8,mistral:7b
+125,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison de travail.
+
+In this translation, ""Firefighter"" is translated as ""Pompiers"", which is the standard term used in French to refer to firefighters. The verb tense ""went"" is translated as ""est retourné"", and ""home from work"" is translated as ""à la maison",occupation/gender cue not detected,12469,0.8,mistral:7b
+126,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison après le travail.
+
+In this translation, ""The"" is not included as it is generally not translated in such contexts. However, if you wanted to include it for clarity, you could say: Le pompier a revenu à la maison après son travail.",male cue(s): ['pompier'],12470,0.8,mistral:7b
+127,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12471,0.8,mistral:7b
+128,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12472,0.8,mistral:7b
+129,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12473,0.8,mistral:7b
+130,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here, ""le pompier"" is the gender-specific and plural form for firefighters (singular is ""le/la pompier""). In French, when referring to a group of people who have different genders, it's common to use a gender-neutral plural pronoun.",male cue(s): ['pompier'],12474,0.8,mistral:7b
+131,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (literally ""The firefighter has returned at home from work"")
+
+A more colloquial and common way to express this would be:
+Le pompier est rentré chez lui après le travail. (The firefighter went back home after work)",male cue(s): ['pompier'],12475,0.8,mistral:7b
+132,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après le travail. (Literally: The firefighter has returned home after the work)
+
+In a more colloquial or concise way, one could also say: Il est rentré chez lui du travail. (He has gone back home from work.)",male cue(s): ['pompier'],12476,0.8,mistral:7b
+133,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné chez lui après son travail.,occupation/gender cue not detected,12477,0.8,mistral:7b
+134,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12478,0.8,mistral:7b
+135,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de son travail.,male cue(s): ['pompier'],12479,0.8,mistral:7b
+136,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12480,0.8,mistral:7b
+137,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (literally, ""The firefighter has returned to the house of work"")
+Correct translation: Le pompier est rentré chez lui après le travail. (literally, ""The firefighter has gone home after work."")
+
+In French, when talking about going or returning home,",male cue(s): ['pompier'],12481,0.8,mistral:7b
+138,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12482,0.8,mistral:7b
+139,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est rentré chez lui après le travail.,male cue(s): ['pompier'],12483,0.8,mistral:7b
+140,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12484,0.8,mistral:7b
+141,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12485,0.8,mistral:7b
+142,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison de travail.
+
+However, a more conversational way to say it would be: Il est rentré chez lui après le travail (He returned home after work).",male cue(s): ['pompier'],12486,0.8,mistral:7b
+143,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après le travail. (Literally, The firefighter has returned home after work.)
+
+A more colloquial version would be: Il est rentré chez lui après son travail. (He has gone back home after his job.)",male cue(s): ['pompier'],12487,0.8,mistral:7b
+144,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12488,0.8,mistral:7b
+145,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+In this translation, ""le pompier"" means ""the firefighter"", and ""est retourné à la maison après le travail"" means ""went home from work"".",male cue(s): ['pompier'],12489,0.8,mistral:7b
+146,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12490,0.8,mistral:7b
+147,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12491,0.8,mistral:7b
+148,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après son travail.,male cue(s): ['pompier'],12492,0.8,mistral:7b
+149,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12493,0.8,mistral:7b
+150,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12494,0.8,mistral:7b
+151,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (Literally, ""The firefighter has returned home from work."")
+
+However, a more common and idiomatic way to say it in French would be:
+
+Le pompier est rentré chez lui après le travail. (Literally, ""The firefighter has gone",male cue(s): ['pompier'],12495,0.8,mistral:7b
+152,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12496,0.8,mistral:7b
+153,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12497,0.8,mistral:7b
+154,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12498,0.8,mistral:7b
+155,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné à la maison après son travail.,male cue(s): ['pompier'],12499,0.8,mistral:7b
+156,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter returned home from work"" in French.",male cue(s): ['pompier'],12500,0.8,mistral:7b
+157,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+The word ""work"" was translated as ""travail"", which is the formal term for work in French. However, in a casual context, people often use ""de bureau"" (from office) or simply ""du travail"" (of work), both of which can imply a workplace more informally. So you",male cue(s): ['pompier'],12501,0.8,mistral:7b
+158,F,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est rentré chez lui de son travail. (Masculine singular)
+Le Pompière est retournée chez elle de son travail. (Feminine singular)
+Le Pompiers sont rentrés chez eux de leur travail. (Masculine plural)
+Les Pompières sont retournées chez elles de leur travail.",female cue(s): ['pompiere'],12502,0.8,mistral:7b
+159,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison de travail.
+
+In this context, ""de travail"" translates to ""from work"". If you wanted to say ""The firefighter went home"", without specifying it was after work, you could simply say: ""Le pompier est rentré à la maison.""",male cue(s): ['pompier'],12503,0.8,mistral:7b
+160,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui après le travail.
+
+This translates to ""The firefighter returned home after work."" in French.",male cue(s): ['pompier'],12504,0.8,mistral:7b
+161,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12505,0.8,mistral:7b
+162,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison après le travail. (Literally: The firefighter is returned at home after work.)
+However, a more natural and idiomatic way to say it would be: Le pompier est rentré chez lui après son travail.",male cue(s): ['pompier'],12506,0.8,mistral:7b
+163,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work"" in French.",male cue(s): ['pompier'],12507,0.8,mistral:7b
+164,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12508,0.8,mistral:7b
+165,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12509,0.8,mistral:7b
+166,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné chez lui de son travail. (Literally: The firefighter is returned home from his work)
+
+Or in a more colloquial way: Il est rentré chez lui après le travail. (He came home after work.)",male cue(s): ['pompier'],12510,0.8,mistral:7b
+167,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12511,0.8,mistral:7b
+168,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""pompier"" is firefighter, ""est retourné"" means returned, and ""à la maison de travail"" translates to home from work.",male cue(s): ['pompier'],12512,0.8,mistral:7b
+169,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work"" in French. If you want a more informal or conversational way of saying it, you could say: ""Le pompier est rentré chez lui après le travail.""",male cue(s): ['pompier'],12513,0.8,mistral:7b
+170,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail. (The firefighter has returned home from work.)
+
+Or, if you want to say that he is going home, you can say : Le pompier va chez lui de son travail. (The firefighter goes home from work.)",male cue(s): ['pompier'],12514,0.8,mistral:7b
+171,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison de travail.
+
+In this translation, ""Pompier"" is used to refer to a firefighter in French. ""Retourné"" translates to ""returned,"" and ""à la maison de travail"" translates to ""home from work.""",male cue(s): ['pompier'],12515,0.8,mistral:7b
+172,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translation reflects a literal interpretation of the English sentence, but it might be more idiomatic and conversational in French to say ""Le pompier est rentré chez lui après le travail."" or ""Le pompier est revenu à la maison du travail.""",male cue(s): ['pompier'],12516,0.8,mistral:7b
+173,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12517,0.8,mistral:7b
+174,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12518,0.8,mistral:7b
+175,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12519,0.8,mistral:7b
+176,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12520,0.8,mistral:7b
+177,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12521,0.8,mistral:7b
+178,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est retourné chez lui après le travail.,occupation/gender cue not detected,12522,0.8,mistral:7b
+179,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12523,0.8,mistral:7b
+180,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné chez lui après le travail. (Informal)
+Le pompier est rentré chez lui après avoir travaillé. (Formal)",male cue(s): ['pompier'],12524,0.8,mistral:7b
+181,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+This translation implies that the firefighter left their place of work and returned home, but if you want to focus more on the action of going home specifically, a possible alternative could be: ""Le pompier est allé à la maison de son travail.""",male cue(s): ['pompier'],12525,0.8,mistral:7b
+182,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Explanation: In French, ""The"" becomes ""Le"" (masculine singular article), ""Firefighter"" becomes ""pompier"" (male firefighter), ""went"" becomes ""est retourné"" (he/him came back), ""home"" becomes ""à",male cue(s): ['pompier'],12526,0.8,mistral:7b
+183,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter returned home from work"" in French.",male cue(s): ['pompier'],12527,0.8,mistral:7b
+184,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail.
+
+Here, ""le pompier"" translates to ""the firefighter"", ""est retourné"" translates to ""is back/returned"", ""à la maison"" translates to ""at home"", and ""après le travail"" translates to ""after work"".",male cue(s): ['pompier'],12528,0.8,mistral:7b
+185,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+However, if you want to say ""The firefighter went home"", without specifying that it was after work, a more common way in English would be to use the simple past tense (went), but it doesn't have an exact equivalent in French. A possible translation could be: Le pomp",male cue(s): ['pompier'],12529,0.8,mistral:7b
+186,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work."" in French.",male cue(s): ['pompier'],12530,0.8,mistral:7b
+187,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12531,0.8,mistral:7b
+188,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12532,0.8,mistral:7b
+189,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail. (Literally: The firefighter has returned home from his work.),male cue(s): ['pompier'],12533,0.8,mistral:7b
+190,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail. (Literally)
+Il est rentré chez lui du travail comme un pompier. (Informal and more colloquial)",male cue(s): ['pompier'],12534,0.8,mistral:7b
+191,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work"" in standard French. However, a more colloquial or informal way of saying it could be: Il est rentré chez lui après le travail (He's back home after work).",male cue(s): ['pompier'],12535,0.8,mistral:7b
+192,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de son travail.,male cue(s): ['pompier'],12536,0.8,mistral:7b
+193,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""le pompier"" means ""the firefighter"", ""est retourné"" means ""went home"", and ""à la maison de travail"" translates to ""from work"". The sentence structure in French is slightly different from English, so I had to adjust the word order",male cue(s): ['pompier'],12537,0.8,mistral:7b
+194,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de son travail. (Literally translated: The firefighter has returned to the house of his work.)
+
+However, a more idiomatic translation would be: Le pompier est rentré chez lui après son travail. (The firefighter went home after his work.)",male cue(s): ['pompier'],12538,0.8,mistral:7b
+195,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison de travail. (Formal)
+Le feu policier est rentré chez lui après le travail. (Informal)",occupation/gender cue not detected,12539,0.8,mistral:7b
+196,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après son travail.,male cue(s): ['pompier'],12540,0.8,mistral:7b
+197,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+However, if you want to say that the firefighter has gone home after finishing work, it would be more appropriate to say:
+Le pompier est rentré chez lui après son travail.",male cue(s): ['pompier'],12541,0.8,mistral:7b
+198,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui de son travail. (Literally, The firefighter has returned home from his work.)
+
+A more colloquial version would be : Il est rentré chez lui après le travail. (He's back home after work.)",male cue(s): ['pompier'],12542,0.8,mistral:7b
+199,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12543,0.8,mistral:7b
+200,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter returned home from work"" in French.",male cue(s): ['pompier'],12544,0.8,mistral:7b
+201,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translates to ""The firefighter has returned home from work"" in French.",male cue(s): ['pompier'],12545,0.8,mistral:7b
+202,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison de travail. (Formal)
+Le pompier est rentré chez lui du travail. (Casual/Informal)",male cue(s): ['pompier'],12546,0.8,mistral:7b
+203,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""le pompier"" means ""the firefighter,"" ""est retourné"" means ""went back/returned,"" and ""à la maison de travail"" translates to ""home from work.""",male cue(s): ['pompier'],12547,0.8,mistral:7b
+204,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison après le travail. (literally: The firefighter has returned home after work)
+Or, plus couramment : Il est rentré chez lui après le travail. (More commonly: He went home after work.)",male cue(s): ['pompier'],12548,0.8,mistral:7b
+205,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est rentré chez lui de son travail. (The firefighter has gone home from work.)
+
+Note that in French, masculine and feminine nouns have different forms for the possessive adjectives. Since ""pompiers"" is a masculine noun, we use the masculine form ""son"" instead of ""sa"".",occupation/gender cue not detected,12549,0.8,mistral:7b
+206,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le Pompiers est retourné à la maison de travail. (Informal)
+Le pompier est rentré chez lui après son travail. (Formal)",male cue(s): ['pompier'],12550,0.8,mistral:7b
+207,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est rentré à la maison de son travail.
+
+This sentence translates to ""The firefighter returned home from work"" in French, as the verb used in the original English sentence (""went"") implies a past action that is better translated as ""returned"" or ""was returning"" in French, but since the destination (home) is mentioned",male cue(s): ['pompier'],12551,0.8,mistral:7b
+208,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de travail.,male cue(s): ['pompier'],12552,0.8,mistral:7b
+209,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+Here, ""Le"" is used as an article for referring to a male noun (firefighter), and ""à la maison"" translates to ""home"". ""De travail"" means ""from work"", so the entire sentence translates to ""The firefighter returned home from work"".",male cue(s): ['pompier'],12553,0.8,mistral:7b
+210,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail. (Literally translated)
+Le pompier est rentré chez lui après son travail. (More idiomatic and grammatically correct in French)",male cue(s): ['pompier'],12554,0.8,mistral:7b
+211,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+In this translation, ""pompier"" means firefighter, and ""est retourné à la maison de travail"" is a French idiom that translates to 'went home from work'.",male cue(s): ['pompier'],12555,0.8,mistral:7b
+212,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12556,0.8,mistral:7b
+213,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné chez lui de son travail.
+
+This translates to ""The firefighter has returned home from work"" in French.",male cue(s): ['pompier'],12557,0.8,mistral:7b
+214,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail. (Literally translated: The firefighter is returned home from his work.),male cue(s): ['pompier'],12558,0.8,mistral:7b
+215,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de travail.,male cue(s): ['pompier'],12559,0.8,mistral:7b
+216,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12560,0.8,mistral:7b
+217,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui après son travail. (The firefighter has returned home after his work.),male cue(s): ['pompier'],12561,0.8,mistral:7b
+218,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné à la maison de travail.,male cue(s): ['pompier'],12562,0.8,mistral:7b
+219,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translation is more idiomatic than ""Le pompier est rentré à la maison de son travail"" because it emphasizes that the firefighter left work and went home, rather than stating their destination directly.",male cue(s): ['pompier'],12563,0.8,mistral:7b
+220,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le pompier est retourné chez lui de son travail.,male cue(s): ['pompier'],12564,0.8,mistral:7b
+221,U,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompiers est rentré chez lui après le travail. (The firefighter has returned home after work),occupation/gender cue not detected,12565,0.8,mistral:7b
+222,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.","Le pompier est retourné à la maison de travail.
+
+This translation assumes that the ""work"" mentioned is a fire station or fire department, which is commonly referred to as ""travail"" in French when referring to a professional occupation. If it is meant as an everyday job, then ""le lieu de travail"" can be used instead.",male cue(s): ['pompier'],12566,0.8,mistral:7b
+223,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné à la maison après le travail.,male cue(s): ['pompier'],12567,0.8,mistral:7b
+224,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12568,0.8,mistral:7b
+225,M,French,Firefighter,standard,The Firefighter went home from work.,"Translate the following English sentence into French.
+Sentence: The Firefighter went home from work.",Le Pompier est retourné chez lui après le travail.,male cue(s): ['pompier'],12569,0.8,mistral:7b

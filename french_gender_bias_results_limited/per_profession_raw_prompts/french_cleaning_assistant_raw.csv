@@ -107,7 +107,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle de son travail.,female cue(s): ['assistante au nettoyage'],12362,0.8,mistral:7b
-19,U,unknown/unclear,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+19,F,female,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

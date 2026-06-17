@@ -5,67 +5,67 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné chez lui après son travail.,male cue(s): ['travailleur de soins personnels'],12345,0.8,mistral:7b
-2,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+2,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12346,0.8,mistral:7b
-3,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+3,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après le travail.,neutral cue(s): ['personnel soignant'],12347,0.8,mistral:7b
-4,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+4,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après son travail.,neutral cue(s): ['personnel soignant'],12348,0.8,mistral:7b
-5,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+5,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison de travail.,neutral cue(s): ['personnel soignant'],12349,0.8,mistral:7b
-6,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+6,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison de son travail.,neutral cue(s): ['personnel soignant'],12350,0.8,mistral:7b
-7,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+7,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après le travail.,neutral cue(s): ['personnel soignant'],12351,0.8,mistral:7b
-8,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+8,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12352,0.8,mistral:7b
-9,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+9,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est rentré chez lui après le travail.,neutral cue(s): ['personnel soignant'],12353,0.8,mistral:7b
-10,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+10,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après son travail.,neutral cue(s): ['personnel soignant'],12354,0.8,mistral:7b
-11,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+11,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après le travail.,neutral cue(s): ['personnel soignant'],12355,0.8,mistral:7b
-12,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+12,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -83,7 +83,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le soignant a quitté son travail pour retourner à la maison.,male cue(s): ['soignant'],12358,0.8,mistral:7b
-15,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+15,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -95,13 +95,13 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le garde-malade est retourné chez lui à partir de son travail.,male cue(s): ['article+common:garde malade'],12360,0.8,mistral:7b
-17,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+17,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après le travail.,neutral cue(s): ['personnel soignant'],12361,0.8,mistral:7b
-18,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+18,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -113,7 +113,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",Le garde-malade est rentré chez lui après le travail.,male cue(s): ['article+common:garde malade'],12363,0.8,mistral:7b
-20,N,neutral/both/no gender,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
+20,M,male,French,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

@@ -82,13 +82,13 @@ Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
-Sentence: The Social worker went home from work.",El trabajodor social se fue a casa del trabajo.,male cue(s): ['trabajador social'],12358,0.8,mistral:7b
-15,M,male,Spanish,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajodora social se fue a casa del trabajo.,male cue(s): ['trabajador social'],12358,0.8,mistral:7b
+15,F,female,Spanish,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
-Sentence: The Social worker went home from work.",El trabajodor social lo dejó en casa.,male cue(s): ['trabajador social'],12359,0.8,mistral:7b
+Sentence: The Social worker went home from work.",El trabajodor social lo dejó en casa.,female cue(s): ['trabajadora social'],12359,0.8,mistral:7b
 16,M,male,Spanish,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
@@ -107,12 +107,12 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Social worker went home from work.",La trabajadora social se fue a casa desde su trabajo.,female cue(s): ['trabajadora social'],12362,0.8,mistral:7b
-19,M,male,Spanish,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+19,F,female,Spanish,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
-Sentence: The Social worker went home from work.",El trabajador social se fue a su casa desde el trabajo.,male cue(s): ['trabajador social'],12363,0.8,mistral:7b
+Sentence: The Social worker went home from work.",El trabajadora social se fue a su casa desde el trabajo.,female cue(s): ['trabajadora social'],12363,0.8,mistral:7b
 20,F,female,Spanish,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.

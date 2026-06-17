@@ -1,5 +1,5 @@
 Prompt #,Gender,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
-1,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+1,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal de cuidado doméstico regresó a su casa después del trabajo.,occupation/gender cue not detected,12345,0.8,mistral:7b
 2,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12346,0.8,mistral:7b
@@ -15,7 +15,7 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12351,0.8,mistral:7b
 8,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12352,0.8,mistral:7b
-9,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+9,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.","El trabajador de atención personal regresó a casa desde su trabajo.
 
 The direct translation would be ""The worker of attention personal returned to house from work"" but since in Spanish we usually say ""regresar"" when someone comes back home, I've translated it as such.",occupation/gender cue not detected,12353,0.8,mistral:7b
@@ -59,13 +59,13 @@ Here is a breakdown of the translation:
 4. Desde el trabajo (from work)","male cue(s): ['cuidador', 'cuidador personal']",12368,0.8,mistral:7b
 25,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12369,0.8,mistral:7b
-26,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+26,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador personal se fue a casa desde su trabajo.,occupation/gender cue not detected,12370,0.8,mistral:7b
-27,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+27,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa después del trabajo.,occupation/gender cue not detected,12371,0.8,mistral:7b
 28,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12372,0.8,mistral:7b
-29,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+29,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal de cuidado doméstico regresó a casa después del trabajo.,occupation/gender cue not detected,12373,0.8,mistral:7b
 30,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal cuidador regresó a su casa después del trabajo.,neutral cue(s): ['personal cuidador'],12374,0.8,mistral:7b
@@ -85,9 +85,9 @@ Sentence: The Personal care worker went home from work.","El cuidador personal r
 In this sentence, ""Personal care worker"" translates to ""cuidador personal"", and ""went home"" translates to ""regresó a su casa"". The phrase ""from work"" is implied in the Spanish sentence because it's understood that someone would leave work to go home.","male cue(s): ['cuidador', 'cuidador personal']",12380,0.8,mistral:7b
 37,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12381,0.8,mistral:7b
-38,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+38,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal de cuidado doméstico regresó a casa desde el trabajo.,occupation/gender cue not detected,12382,0.8,mistral:7b
-39,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+39,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su hogar desde el trabajo.,occupation/gender cue not detected,12383,0.8,mistral:7b
 40,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12384,0.8,mistral:7b
@@ -113,9 +113,9 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12391,0.8,mistral:7b
 48,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12392,0.8,mistral:7b
-49,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+49,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa del trabajo.,occupation/gender cue not detected,12393,0.8,mistral:7b
-50,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+50,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa desde el trabajo.,occupation/gender cue not detected,12394,0.8,mistral:7b
 51,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12395,0.8,mistral:7b
@@ -129,7 +129,7 @@ Sentence: The Personal care worker went home from work.","El trabajador de cuida
 Here, ""Personal care worker"" translates to ""Trabajador de cuidado personal,"" and ""went home from work"" translates to ""regresó a su casa desde el trabajo.""",male cue(s): ['trabajador de cuidado personal'],12398,0.8,mistral:7b
 55,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a casa del trabajo.,male cue(s): ['trabajador de cuidado personal'],12399,0.8,mistral:7b
-56,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+56,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal de cuidado doméstico regresó a su casa desde el trabajo.,occupation/gender cue not detected,12400,0.8,mistral:7b
 57,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12401,0.8,mistral:7b
@@ -159,7 +159,7 @@ Sentence: The Personal care worker went home from work.",El cuidador personal re
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa después del trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12411,0.8,mistral:7b
 68,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa después del trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12412,0.8,mistral:7b
-69,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+69,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal del cuidado doméstico regresó a su casa después de trabajar.,occupation/gender cue not detected,12413,0.8,mistral:7b
 70,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12414,0.8,mistral:7b
@@ -171,7 +171,7 @@ Sentence: The Personal care worker went home from work.",El cuidador personal se
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12417,0.8,mistral:7b
 74,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12418,0.8,mistral:7b
-75,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+75,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa del trabajo.,occupation/gender cue not detected,12419,0.8,mistral:7b
 76,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12420,0.8,mistral:7b
@@ -197,9 +197,9 @@ In this translation, ""Personal"" is kept as it is because it is an adjective in
 Sentence: The Personal care worker went home from work.","El cuidador personal regresó a casa desde su trabajo.
 
 In this translation, ""Personal care worker"" is translated as ""cuidador personal"". This phrase can refer to someone who provides personal care services, such as helping with daily tasks and personal hygiene for individuals who need assistance due to age, illness, or disability.","male cue(s): ['cuidador', 'cuidador personal']",12427,0.8,mistral:7b
-84,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+84,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa desde el trabajo.,occupation/gender cue not detected,12428,0.8,mistral:7b
-85,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+85,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa después del trabajo.,occupation/gender cue not detected,12429,0.8,mistral:7b
 86,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal se fue a casa después de trabar.,male cue(s): ['trabajador de cuidado personal'],12430,0.8,mistral:7b
@@ -223,7 +223,7 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12437,0.8,mistral:7b
 94,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa después de trabajar.,"male cue(s): ['cuidador', 'cuidador personal']",12438,0.8,mistral:7b
-95,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+95,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa desde el trabajo.,occupation/gender cue not detected,12439,0.8,mistral:7b
 96,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12440,0.8,mistral:7b
@@ -241,7 +241,7 @@ In this translation, ""Personal"" is translated as ""de cuidado"", which means "
 Sentence: The Personal care worker went home from work.","El personal del cuidado personal regresó a casa de trabajo.
 
 This translates to ""The personal care worker returned home from work"" in Spanish.",neutral cue(s): ['personal del cuidado personal'],12445,0.8,mistral:7b
-102,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+102,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa después del trabajo.,occupation/gender cue not detected,12446,0.8,mistral:7b
 103,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.","El cuidador personal regresó a su casa después de trabajar.
@@ -251,7 +251,7 @@ In this translation, ""cuidador personal"" translates to ""personal care worker,
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa del trabajo.,male cue(s): ['trabajador de cuidado personal'],12448,0.8,mistral:7b
 105,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12449,0.8,mistral:7b
-106,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+106,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.","El trabajador personal se fue a casa después de trabar. (Literally: The personal care worker went home after working)
 
 Or more idiomatically:
@@ -266,7 +266,7 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.","El trabajador de cuidado personal regresó a casa desde el trabajo.
 
 This translation conveys that the personal care worker returned home after completing their work.",male cue(s): ['trabajador de cuidado personal'],12453,0.8,mistral:7b
-110,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+110,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal se fue a casa después del trabajo.,occupation/gender cue not detected,12454,0.8,mistral:7b
 111,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12455,0.8,mistral:7b
@@ -294,7 +294,7 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12466,0.8,mistral:7b
 123,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12467,0.8,mistral:7b
-124,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+124,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa después del trabajo.,occupation/gender cue not detected,12468,0.8,mistral:7b
 125,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa después del trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12469,0.8,mistral:7b
@@ -302,9 +302,9 @@ Sentence: The Personal care worker went home from work.",El cuidador personal re
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa después de trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12470,0.8,mistral:7b
 127,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal del cuidado personal se fue a casa desde el trabajo.,neutral cue(s): ['personal del cuidado personal'],12471,0.8,mistral:7b
-128,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+128,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa después del trabajo.,occupation/gender cue not detected,12472,0.8,mistral:7b
-129,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+129,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa desde el trabajo.,occupation/gender cue not detected,12473,0.8,mistral:7b
 130,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12474,0.8,mistral:7b
@@ -320,17 +320,17 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.","El cuidador personal regresó a su casa después de trabajar.
 
 This translates to ""The personal care worker returned home after working."" in Spanish.","male cue(s): ['cuidador', 'cuidador personal']",12479,0.8,mistral:7b
-136,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+136,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa desde el trabajo.,occupation/gender cue not detected,12480,0.8,mistral:7b
 137,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.","El trabajador de cuidado personal regresó a su casa del trabajo.
 
 In this translation, ""Personal"" is translated as ""del cuidado"" to maintain the context of 'personal care worker'. The phrase ""went home"" is translated as ""regresó a su casa"".",male cue(s): ['trabajador de cuidado personal'],12481,0.8,mistral:7b
-138,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+138,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa desde el trabajo.,occupation/gender cue not detected,12482,0.8,mistral:7b
 139,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal se fue a casa después de trabajar.,"male cue(s): ['cuidador', 'cuidador personal']",12483,0.8,mistral:7b
-140,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+140,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa después del trabajo.,occupation/gender cue not detected,12484,0.8,mistral:7b
 141,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su hogar desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12485,0.8,mistral:7b
@@ -404,27 +404,27 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.","El trabajador de cuidado personal regresó a casa del trabajo.
 
 This translation maintains the original meaning of the English sentence, stating that the personal care worker returned home after work.",male cue(s): ['trabajador de cuidado personal'],12514,0.8,mistral:7b
-171,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+171,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal del cuidado doméstico regresó a casa desde el trabajo.,occupation/gender cue not detected,12515,0.8,mistral:7b
 172,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12516,0.8,mistral:7b
-173,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+173,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.","El trabajador de atención personal regresó a casa después del trabajo.
 
 However, if you want to use the present perfect tense in Spanish for this sentence, it would be:
 
 Ha regresado a casa el trabajador de atención personal desde su trabajo. (The personal care worker has gone home from work.)",occupation/gender cue not detected,12517,0.8,mistral:7b
-174,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+174,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.","El trabajador de atención personal regresó a su casa después del trabajo.
 
 This translates to ""The personal care worker returned home after work"" in Spanish.",occupation/gender cue not detected,12518,0.8,mistral:7b
 175,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12519,0.8,mistral:7b
-176,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+176,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa desde el trabajo.,occupation/gender cue not detected,12520,0.8,mistral:7b
 177,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su hogar desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12521,0.8,mistral:7b
-178,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+178,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal de cuidado doméstico regresó a su casa después del trabajo.,occupation/gender cue not detected,12522,0.8,mistral:7b
 179,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12523,0.8,mistral:7b
@@ -440,11 +440,11 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su hogar del trabajo.,male cue(s): ['trabajador de cuidado personal'],12528,0.8,mistral:7b
 185,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12529,0.8,mistral:7b
-186,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+186,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal del cuidado doméstico regresó a su casa desde el trabajo.,occupation/gender cue not detected,12530,0.8,mistral:7b
 187,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12531,0.8,mistral:7b
-188,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+188,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa desde el trabajo.,occupation/gender cue not detected,12532,0.8,mistral:7b
 189,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal se fue a casa después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12533,0.8,mistral:7b
@@ -464,11 +464,11 @@ Sentence: The Personal care worker went home from work.","El cuidador personal r
 This translation indicates that the personal care worker returned to their home after completing their work duties. In this context, ""cuidador personal"" translates to ""personal care worker,"" ""regresó"" means ""returned,"" and ""a su casa"" translates to ""to his/her house.""","male cue(s): ['cuidador', 'cuidador personal']",12538,0.8,mistral:7b
 195,N,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El personal de cuidado domiciliario regresó a su casa desde el trabajo.,neutral cue(s): ['personal de cuidado domiciliario'],12539,0.8,mistral:7b
-196,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+196,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa desde el trabajo.,occupation/gender cue not detected,12540,0.8,mistral:7b
 197,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a casa desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12541,0.8,mistral:7b
-198,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+198,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa desde su trabajo.,occupation/gender cue not detected,12542,0.8,mistral:7b
 199,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su hogar desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12543,0.8,mistral:7b
@@ -513,7 +513,7 @@ Sentence: The Personal care worker went home from work.",El trabajador de cuidad
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12556,0.8,mistral:7b
 213,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa de trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12557,0.8,mistral:7b
-214,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+214,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a casa desde su trabajo.,occupation/gender cue not detected,12558,0.8,mistral:7b
 215,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su hogar desde el trabajo.,male cue(s): ['trabajador de cuidado personal'],12559,0.8,mistral:7b
@@ -525,9 +525,9 @@ Sentence: The Personal care worker went home from work.",El cuidador personal re
 Sentence: The Personal care worker went home from work.",El trabajador de cuidado personal regresó a su hogar después del trabajo.,male cue(s): ['trabajador de cuidado personal'],12562,0.8,mistral:7b
 219,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12563,0.8,mistral:7b
-220,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+220,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su hogar desde el trabajo.,occupation/gender cue not detected,12564,0.8,mistral:7b
-221,U,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+221,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El trabajador de atención personal regresó a su casa desde el trabajo.,occupation/gender cue not detected,12565,0.8,mistral:7b
 222,M,Spanish,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12566,0.8,mistral:7b

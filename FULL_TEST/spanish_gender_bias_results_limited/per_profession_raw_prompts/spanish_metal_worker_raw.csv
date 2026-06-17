@@ -209,7 +209,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",El herrero se fue a casa después de su trabajo.,male cue(s): ['herrero'],12379,0.8,mistral:7b
-36,U,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+36,M,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -407,7 +407,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",El herrero se fue a casa después de trabajo.,male cue(s): ['herrero'],12412,0.8,mistral:7b
-69,U,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+69,M,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -749,13 +749,13 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",El obrero del metal regresó a su casa desde el trabajo.,male cue(s): ['obrero del metal'],12469,0.8,mistral:7b
-126,U,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+126,M,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",El obrero de metalurgia se fue a casa del trabajo.,occupation/gender cue not detected,12470,0.8,mistral:7b
-127,U,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+127,M,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -875,7 +875,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",El herrero se fue a casa desde el trabajo.,male cue(s): ['herrero'],12490,0.8,mistral:7b
-147,U,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+147,M,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -1337,7 +1337,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Metal worker went home from work.",El obrero de metalúrgico se fue a casa del trabajo.,male cue(s): ['metalurgico'],12567,0.8,mistral:7b
-224,U,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
+224,M,Spanish,Metal worker,limited,The Metal worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

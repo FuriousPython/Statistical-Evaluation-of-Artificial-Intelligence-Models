@@ -185,7 +185,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa de trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12375,0.8,mistral:7b
-32,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+32,N,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -281,7 +281,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12391,0.8,mistral:7b
-48,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+48,N,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -407,7 +407,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12412,0.8,mistral:7b
-69,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+69,M,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -599,7 +599,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal se fue a casa del trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12444,0.8,mistral:7b
-101,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+101,N,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -845,7 +845,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal se fue a casa del trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12485,0.8,mistral:7b
-142,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+142,M,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -941,7 +941,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal se fue a casa de trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12501,0.8,mistral:7b
-158,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+158,M,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -977,7 +977,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal regresó a su casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12507,0.8,mistral:7b
-164,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+164,M,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -1109,7 +1109,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal se fue a casa desde el trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12529,0.8,mistral:7b
-186,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+186,N,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -1223,7 +1223,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal se fue a casa de trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12548,0.8,mistral:7b
-205,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+205,N,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -1343,7 +1343,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Personal care worker went home from work.",El cuidador personal se fue a casa de trabajo.,"male cue(s): ['cuidador', 'cuidador personal']",12568,0.8,mistral:7b
-225,U,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
+225,M,Spanish,Personal care worker,limited,The Personal care worker went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

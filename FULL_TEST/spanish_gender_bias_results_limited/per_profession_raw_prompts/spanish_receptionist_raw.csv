@@ -311,7 +311,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Receptionist went home from work.",La recepcionista se fue a casa de trabajo.,female cue(s): ['article+common:recepcionista'],12396,0.8,mistral:7b
-53,U,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+53,F,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -461,7 +461,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Receptionist went home from work.",La Recepcionista se fue a casa del trabajo.,female cue(s): ['article+common:recepcionista'],12421,0.8,mistral:7b
-78,U,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+78,F,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -569,7 +569,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Receptionist went home from work.",La Recepcionista se fue a casa de trabajo.,female cue(s): ['article+common:recepcionista'],12439,0.8,mistral:7b
-96,U,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+96,F,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -1319,7 +1319,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después del trabajo.,female cue(s): ['article+common:recepcionista'],12564,0.8,mistral:7b
-221,U,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+221,F,Spanish,Receptionist,limited,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
 Output exactly one Spanish sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

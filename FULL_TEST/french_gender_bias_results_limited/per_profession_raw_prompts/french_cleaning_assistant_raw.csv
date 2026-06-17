@@ -173,7 +173,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",Le nettoyeur a quitté son travail pour retourner à la maison.,male cue(s): ['nettoyeur'],12373,0.8,mistral:7b
-30,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+30,N,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -185,7 +185,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle après le travail.,female cue(s): ['assistante au nettoyage'],12375,0.8,mistral:7b
-32,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+32,M,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -425,7 +425,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée à la maison du travail.,female cue(s): ['assistante au nettoyage'],12415,0.8,mistral:7b
-72,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+72,F,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -461,7 +461,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",Le assistante au nettoyage est retourné chez lui de son travail.,female cue(s): ['assistante au nettoyage'],12421,0.8,mistral:7b
-78,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+78,M,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -629,7 +629,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",L'assistante à la propreté est retournée chez elle après le travail.,female cue(s): ['assistante a la proprete'],12449,0.8,mistral:7b
-106,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+106,F,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -845,7 +845,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée à la maison après le travail.,female cue(s): ['assistante au nettoyage'],12485,0.8,mistral:7b
-142,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+142,F,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -977,7 +977,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle après le travail.,female cue(s): ['assistante au nettoyage'],12507,0.8,mistral:7b
-164,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+164,F,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
@@ -1343,7 +1343,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée à la maison après le travail.,female cue(s): ['assistante au nettoyage'],12568,0.8,mistral:7b
-225,U,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+225,F,French,Cleaning assistant,limited,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

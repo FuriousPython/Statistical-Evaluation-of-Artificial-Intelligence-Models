@@ -69,7 +69,7 @@ Sentence: The Lawyer went home from work.","Le Avocat est allé à la maison apr
 This translates to ""The Lawyer has gone home after work"" in French. If you want it in the simple past tense, it would be ""Le Lawyer est retourné chez lui après son travail."" which translates to ""The Lawyer returned home after work.""",male cue(s): ['avocat'],12371,0.8,mistral:7b
 28,M,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
 Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12372,0.8,mistral:7b
-29,N,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+29,M,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
 Sentence: The Lawyer went home from work.","Avocat est retourné chez lui depuis son travail. (The Lawyer returned home from work.)
 
 Note that ""avocat"" is the term used for lawyer in formal or legal contexts, while ""avocate"" (feminine) or ""avocat d'affaires"" are more commonly used for a practicing attorney. However, since the gender of the n","both male and female cues: M=['avocat'], F=['avocate']",12373,0.8,mistral:7b
@@ -341,7 +341,7 @@ In this sentence, ""The"" is not necessary in French as it is implicit, so I rem
 Le lawyer (or Le avocat) est retourné à la maison après son travail.",male cue(s): ['avocat'],12475,0.8,mistral:7b
 132,M,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
 Sentence: The Lawyer went home from work.",Le avocat est retourné à la maison après le travail.,male cue(s): ['avocat'],12476,0.8,mistral:7b
-133,N,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+133,M,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
 Sentence: The Lawyer went home from work.","Avocat est retourné chez lui depuis son travail.
 
 In this translation, ""The"" is omitted as it's not typically included in a straightforward translation of the English sentence to French, and the gender-neutral word ""avocat"" (lawyer) is used instead of the male-specific ""avocat"" or female-specific ""avocate"".","both male and female cues: M=['avocat'], F=['avocate']",12477,0.8,mistral:7b

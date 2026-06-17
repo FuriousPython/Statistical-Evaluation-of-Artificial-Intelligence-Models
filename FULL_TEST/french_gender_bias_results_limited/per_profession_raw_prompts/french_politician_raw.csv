@@ -1319,7 +1319,7 @@ Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.
 
 Sentence: The Politician went home from work.",Le Politicien est retourné chez lui de son travail.,male cue(s): ['politicien'],12564,0.8,mistral:7b
-221,U,French,Politician,limited,The Politician went home from work.,"Translate the following English sentence into French.
+221,M,French,Politician,limited,The Politician went home from work.,"Translate the following English sentence into French.
 Output exactly one French sentence and nothing else.
 Do not explain. Do not add notes. Do not give alternatives.
 Do not translate the sentence back into English.

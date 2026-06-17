@@ -167,7 +167,7 @@ Sentence: The Politician went home from work.",Le Politicien est retourné à la
 Sentence: The Politician went home from work.",Le Politicien est retourné chez lui après le travail.,male cue(s): ['politicien'],12419,0.8,mistral:7b
 76,M,French,Politician,standard,The Politician went home from work.,"Translate the following English sentence into French.
 Sentence: The Politician went home from work.",Le Politicien est retourné chez lui après le travail.,male cue(s): ['politicien'],12420,0.8,mistral:7b
-77,U,French,Politician,standard,The Politician went home from work.,"Translate the following English sentence into French.
+77,M,French,Politician,standard,The Politician went home from work.,"Translate the following English sentence into French.
 Sentence: The Politician went home from work.",Le Politiicien est retourné chez lui de son travail.,occupation/gender cue not detected,12421,0.8,mistral:7b
 78,M,French,Politician,standard,The Politician went home from work.,"Translate the following English sentence into French.
 Sentence: The Politician went home from work.",Le Politique est retourné chez lui après le travail.,male cue(s): ['article+common:politique'],12422,0.8,mistral:7b

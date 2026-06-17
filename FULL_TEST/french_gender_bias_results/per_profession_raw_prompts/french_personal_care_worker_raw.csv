@@ -15,7 +15,7 @@ Sentence: The Personal care worker went home from work.",Le travailleur de soins
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12351,0.8,mistral:7b
 8,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après son travail.,neutral cue(s): ['personnel soignant'],12352,0.8,mistral:7b
-9,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+9,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur du soin personnel est retourné chez lui après le travail.,occupation/gender cue not detected,12353,0.8,mistral:7b
 10,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison de son travail.,neutral cue(s): ['personnel soignant'],12354,0.8,mistral:7b
@@ -60,7 +60,7 @@ Here's a breakdown of the translation:
 3. Est retourné (third person singular present tense of ""return"") - est retourné",neutral cue(s): ['personnel soignant'],12368,0.8,mistral:7b
 25,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12369,0.8,mistral:7b
-26,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+26,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le gardien du bien-être personnel est retourné à la maison après le travail.,occupation/gender cue not detected,12370,0.8,mistral:7b
 27,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le soignant a quitté son travail pour retourner à la maison.,male cue(s): ['soignant'],12371,0.8,mistral:7b
@@ -150,15 +150,15 @@ Sentence: The Personal care worker went home from work.",Le personnel de soins p
 Sentence: The Personal care worker went home from work.",Le travailleur en soins personnels est retourné chez lui après le travail.,occupation/gender cue not detected,12413,0.8,mistral:7b
 70,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soins personnels est retourné à la maison après le travail.,"neutral cue(s): ['personnel de soins', 'personnel de soins personnels']",12414,0.8,mistral:7b
-71,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+71,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur en soins personnels est retourné chez lui après le travail.,occupation/gender cue not detected,12415,0.8,mistral:7b
-72,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+72,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le gardien de personne est retourné à la maison après le travail.,occupation/gender cue not detected,12416,0.8,mistral:7b
 73,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12417,0.8,mistral:7b
 74,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le soignant domestique est retourné à la maison après le travail.,"male cue(s): ['soignant', 'soignant domestique']",12418,0.8,mistral:7b
-75,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+75,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domestique est retourné à la maison après le travail.,occupation/gender cue not detected,12419,0.8,mistral:7b
 76,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12420,0.8,mistral:7b
@@ -186,9 +186,9 @@ Sentence: The Personal care worker went home from work.",Le personnel soignant e
 Sentence: The Personal care worker went home from work.",Le personnel de soins personnels est retourné chez lui après le travail.,"neutral cue(s): ['personnel de soins', 'personnel de soins personnels']",12431,0.8,mistral:7b
 88,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison depuis son travail.,neutral cue(s): ['personnel soignant'],12432,0.8,mistral:7b
-89,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+89,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domicile est retourné chez lui après le travail.,occupation/gender cue not detected,12433,0.8,mistral:7b
-90,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+90,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le gardien de la personne est retourné à la maison après son travail.,occupation/gender cue not detected,12434,0.8,mistral:7b
 91,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.","Le garde-malade est retourné chez lui après le travail. (This sentence uses ""garde-malade"" which is a more formal term for ""personal care worker"")
@@ -222,15 +222,15 @@ Sentence: The Personal care worker went home from work.",Le travailleur de soins
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après son travail.,neutral cue(s): ['personnel soignant'],12448,0.8,mistral:7b
 105,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.","Le garde-malade est retourné chez lui après le travail. (This translates to ""The caregiver returned home after work."") However, since the original sentence specifically mentions a ""personal care worker,"" I would suggest using ""le soignant de soins personnels"" for more accuracy. So, the sentence in French becomes: Le soignant de soins person","male cue(s): ['soignant', 'article+common:garde malade']",12449,0.8,mistral:7b
-106,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+106,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le gardien de la personne est retourné à la maison après son travail.,occupation/gender cue not detected,12450,0.8,mistral:7b
-107,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+107,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domicile est retourné à la maison après le travail.,occupation/gender cue not detected,12451,0.8,mistral:7b
 108,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12452,0.8,mistral:7b
 109,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après le travail.,neutral cue(s): ['personnel soignant'],12453,0.8,mistral:7b
-110,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+110,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domestique est retourné à la maison après le travail.,occupation/gender cue not detected,12454,0.8,mistral:7b
 111,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le soignant de la personne est retourné chez lui après le travail.,male cue(s): ['soignant'],12455,0.8,mistral:7b
@@ -255,11 +255,11 @@ Sentence: The Personal care worker went home from work.",Le personnel soignant e
 Sentence: The Personal care worker went home from work.",Le soignant domestique est retourné à la maison après le travail.,"male cue(s): ['soignant', 'soignant domestique']",12462,0.8,mistral:7b
 119,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soins personnels est retourné chez lui après le travail.,"neutral cue(s): ['personnel de soins', 'personnel de soins personnels']",12463,0.8,mistral:7b
-120,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+120,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domestique est retourné à la maison après le travail.,occupation/gender cue not detected,12464,0.8,mistral:7b
 121,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison de son travail.,neutral cue(s): ['personnel soignant'],12465,0.8,mistral:7b
-122,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+122,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur en soins personnels est retourné à la maison après le travail.,occupation/gender cue not detected,12466,0.8,mistral:7b
 123,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12467,0.8,mistral:7b
@@ -287,7 +287,7 @@ Sentence: The Personal care worker went home from work.",Le personnel soignant e
 Sentence: The Personal care worker went home from work.",Le soignant personnel a retourné à la maison après le travail.,male cue(s): ['soignant'],12478,0.8,mistral:7b
 135,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné chez lui après le travail.,neutral cue(s): ['personnel soignant'],12479,0.8,mistral:7b
-136,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+136,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.","Le personnel de soin domestique est retourné à la maison depuis son travail.
 
 In this translation, I used ""personnel de soin domestique"" to refer to a personal care worker since it's the most accurate term in French for someone providing personal and health-related assistance within a person's home. The verb ""est retourné"" is the third",occupation/gender cue not detected,12480,0.8,mistral:7b
@@ -301,7 +301,7 @@ Sentence: The Personal care worker went home from work.",Le gardien de personne 
 Sentence: The Personal care worker went home from work.",Le soignant a retourné à la maison après le travail.,male cue(s): ['soignant'],12484,0.8,mistral:7b
 141,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est allé chez lui après le travail.,male cue(s): ['travailleur de soins personnels'],12485,0.8,mistral:7b
-142,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+142,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le gardien du bien-être personnel est retourné chez lui après le travail.,occupation/gender cue not detected,12486,0.8,mistral:7b
 143,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné chez lui après le travail.,male cue(s): ['travailleur de soins personnels'],12487,0.8,mistral:7b
@@ -309,7 +309,7 @@ Sentence: The Personal care worker went home from work.",Le travailleur de soins
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12488,0.8,mistral:7b
 145,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12489,0.8,mistral:7b
-146,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+146,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur en soins personnels est retourné à la maison après son travail.,occupation/gender cue not detected,12490,0.8,mistral:7b
 147,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12491,0.8,mistral:7b
@@ -321,7 +321,7 @@ Sentence: The Personal care worker went home from work.",Le personnel soignant e
 Sentence: The Personal care worker went home from work.",Le soignant de personnel est allé chez lui après le travail.,male cue(s): ['soignant'],12494,0.8,mistral:7b
 151,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison de son travail.,neutral cue(s): ['personnel soignant'],12495,0.8,mistral:7b
-152,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+152,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domestique est retourné à la maison après son travail.,occupation/gender cue not detected,12496,0.8,mistral:7b
 153,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est rentré chez lui après le travail.,neutral cue(s): ['personnel soignant'],12497,0.8,mistral:7b
@@ -367,9 +367,9 @@ This translation preserves the meaning of your original sentence while maintaini
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12515,0.8,mistral:7b
 172,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12516,0.8,mistral:7b
-173,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+173,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur en soins personnels est retourné chez lui après son travail.,occupation/gender cue not detected,12517,0.8,mistral:7b
-174,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+174,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domestique est retourné chez lui après le travail.,occupation/gender cue not detected,12518,0.8,mistral:7b
 175,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison après le travail.,neutral cue(s): ['personnel soignant'],12519,0.8,mistral:7b
@@ -437,7 +437,7 @@ Sentence: The Personal care worker went home from work.",Le soignant de la perso
 Sentence: The Personal care worker went home from work.",Le personnel de soins personnels est retourné à la maison après son travail.,"neutral cue(s): ['personnel de soins', 'personnel de soins personnels']",12549,0.8,mistral:7b
 206,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soins personnels est retourné à la maison après le travail.,"neutral cue(s): ['personnel de soins', 'personnel de soins personnels']",12550,0.8,mistral:7b
-207,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+207,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.","Le gardien personnel est retourné à la maison après le travail.
 
 This translation assumes that ""personal care worker"" is a person who takes care of another individual, such as an elderly or disabled person, in their own home. If the term ""personal care worker"" has a different meaning in your context, please provide more information so I can give you an accurate translation.",occupation/gender cue not detected,12551,0.8,mistral:7b
@@ -451,13 +451,13 @@ Sentence: The Personal care worker went home from work.",Le personnel soignant e
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné chez lui après le travail.,male cue(s): ['travailleur de soins personnels'],12555,0.8,mistral:7b
 212,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le soignant domestic a retourné chez lui après le travail.,male cue(s): ['soignant'],12556,0.8,mistral:7b
-213,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+213,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domestique est retourné à la maison après le travail.,occupation/gender cue not detected,12557,0.8,mistral:7b
-214,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+214,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soin domestique est retourné à la maison après son travail.,occupation/gender cue not detected,12558,0.8,mistral:7b
 215,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison depuis son travail.,neutral cue(s): ['personnel soignant'],12559,0.8,mistral:7b
-216,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+216,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur en soins personnels est retourné à la maison après le travail.,occupation/gender cue not detected,12560,0.8,mistral:7b
 217,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le personnel de soins personnels est retourné chez lui après le travail.,"neutral cue(s): ['personnel de soins', 'personnel de soins personnels']",12561,0.8,mistral:7b
@@ -465,7 +465,7 @@ Sentence: The Personal care worker went home from work.",Le personnel de soins p
 Sentence: The Personal care worker went home from work.",Le personnel soignant est retourné à la maison de travail.,neutral cue(s): ['personnel soignant'],12562,0.8,mistral:7b
 219,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12563,0.8,mistral:7b
-220,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+220,N,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.","Le personnel de soin domicile est retourné à la maison après le travail.
 
 This translation is for a personal care worker who works in someone's home, as opposed to a healthcare worker working in a hospital or clinic. If the context was different, the translation might vary.",occupation/gender cue not detected,12564,0.8,mistral:7b
@@ -477,5 +477,5 @@ Sentence: The Personal care worker went home from work.",Le personnel soignant e
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné chez lui après le travail.,male cue(s): ['travailleur de soins personnels'],12567,0.8,mistral:7b
 224,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le travailleur de soins personnels est retourné à la maison après le travail.,male cue(s): ['travailleur de soins personnels'],12568,0.8,mistral:7b
-225,U,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
+225,M,French,Personal care worker,standard,The Personal care worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Personal care worker went home from work.",Le gardien personnel est retourné à la maison après le travail.,occupation/gender cue not detected,12569,0.8,mistral:7b

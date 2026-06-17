@@ -41,7 +41,7 @@ Le ouv",male cue(s): ['ouvrier metallurgiste'],12360,0.8,mistral:7b
 Sentence: The Metal worker went home from work.","Le menuisier est retourné chez lui après le travail. (Literally: The carpenter returned home after work) However, since we are referring to a metal worker, it would be more appropriate to say: Le métallurgiste est rentré chez lui après le travail.",male cue(s): ['article+common:metallurgiste'],12361,0.8,mistral:7b
 18,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métallurgiste est retourné chez lui après le travail.,male cue(s): ['article+common:metallurgiste'],12362,0.8,mistral:7b
-19,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+19,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le Menuisier est retourné chez lui après le travail. (Note that 'Metal' is often referred to as 'Métal' in French, but in this context, 'menuisier' which means carpenter or woodworker, is used as it refers to a worker who shapes and molds metal.)",occupation/gender cue not detected,12363,0.8,mistral:7b
 20,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le Menuisier est retourné chez lui après le travail. (The carpenter went home after work.) However, since your question specifies a metal worker, it would be more accurate to say: Le Métallurgiste est rentré chez lui après son travail.",male cue(s): ['article+common:metallurgiste'],12364,0.8,mistral:7b
@@ -64,7 +64,7 @@ In this case, I used ""menuisier"" instead of ""métallurgiste"" because the sen
 Sentence: The Metal worker went home from work.",Le métallurgiste est retourné à la maison après le travail.,male cue(s): ['article+common:metallurgiste'],12369,0.8,mistral:7b
 26,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le tourneur de métal est retourné chez lui après le travail.,male cue(s): ['tourneur de metal'],12370,0.8,mistral:7b
-27,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+27,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le fermeur a du retourner chez lui après le travail. (The metalworker returned home after work.)
 
 This sentence is more grammatically correct and follows the standard way of saying ""went home"" in French. In colloquial language, it can also be expressed as ""Il est rentré chez lui"" but this version implies that he has just come back (",occupation/gender cue not detected,12371,0.8,mistral:7b
@@ -72,9 +72,9 @@ This sentence is more grammatically correct and follows the standard way of sayi
 Sentence: The Metal worker went home from work.",Le ouvrier métallurgiste est retourné chez lui après le travail.,male cue(s): ['ouvrier metallurgiste'],12372,0.8,mistral:7b
 29,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Ouvrier en métallurgie est retourné à la maison après le travail.,male cue(s): ['ouvrier en metallurgie'],12373,0.8,mistral:7b
-30,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+30,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Ouvrier du métal est retourné à la maison après le travail.,occupation/gender cue not detected,12374,0.8,mistral:7b
-31,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+31,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métalworker est retourné à la maison après le travail.,occupation/gender cue not detected,12375,0.8,mistral:7b
 32,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Ouvrier métallurgiste est retourné à la maison après le travail.
@@ -82,7 +82,7 @@ Sentence: The Metal worker went home from work.","Ouvrier métallurgiste est ret
 In this translation, ""Metal worker"" is replaced by ""ouvrier métallurgiste,"" and the verb tense is changed to reflect past simple (""est retourné"") since the action happened in the past (from work). The preposition ""from"" is translated as ""après""",male cue(s): ['ouvrier metallurgiste'],12376,0.8,mistral:7b
 33,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métalworker est retourné à la maison après le travail.,occupation/gender cue not detected,12377,0.8,mistral:7b
-34,N,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+34,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le travail du métallurgiste est retourné chez lui après le travail.
 
 In this translation, I used ""travail"" for ""worker"" because it is more appropriate in this context to refer to a profession, and ""lui"" (him) is implied as the subject of the sentence since it was mentioned at the beginning. The French phrase ""le travail"" can mean",common-form occupation without gender article: ['metallurgiste'],12378,0.8,mistral:7b
@@ -90,7 +90,7 @@ In this translation, I used ""travail"" for ""worker"" because it is more approp
 Sentence: The Metal worker went home from work.","Le ferblantier est retourné chez lui après son travail. (Literally: The metal worker is returned home after his work)
 
 The more colloquial and common way to say it would be: Il est retourné chez lui après le travail. (He is returned home after the work.)",male cue(s): ['ferblantier'],12379,0.8,mistral:7b
-36,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+36,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Ouvrier du métal est retourné chez lui après son travail.,occupation/gender cue not detected,12380,0.8,mistral:7b
 37,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le mécanicien métallurgiste est retourné à la maison après le travail.
@@ -117,7 +117,7 @@ Sentence: The Metal worker went home from work.",Le métallurgiste est retourné
 Sentence: The Metal worker went home from work.","Le métallurgiste est retourné à la maison après son travail. (literally: ""The metal worker is returned to the house after his work"") or plus simplement : Il est retourné à la maison du travail. (Simply: He returned home from work)",male cue(s): ['article+common:metallurgiste'],12389,0.8,mistral:7b
 46,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métallurgiste est retourné à la maison après le travail.,male cue(s): ['article+common:metallurgiste'],12390,0.8,mistral:7b
-47,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+47,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le menuisier est retourné chez lui après le travail.,occupation/gender cue not detected,12391,0.8,mistral:7b
 48,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",L'ouvrier métallurgiste est retourné chez lui après le travail.,male cue(s): ['ouvrier metallurgiste'],12392,0.8,mistral:7b
@@ -182,7 +182,7 @@ Sentence: The Metal worker went home from work.","Le marchand de métaux est all
 Here, I've translated ""The Metal worker"" as ""Le marchand de métaux"" since a metal worker is typically referred to as a metals dealer in French. However, if you want a more specific translation for a metal craftsman or artisan, it would be ""le métallurg",occupation/gender cue not detected,12416,0.8,mistral:7b
 73,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Ouvrier en métallurgie est retourné à la maison après le travail.,male cue(s): ['ouvrier en metallurgie'],12417,0.8,mistral:7b
-74,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+74,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le travailleur de métal est retourné à la maison après le travail.,occupation/gender cue not detected,12418,0.8,mistral:7b
 75,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métalworkers est retourné à la maison de son travail.,occupation/gender cue not detected,12419,0.8,mistral:7b
@@ -298,9 +298,9 @@ Sentence: The Metal worker went home from work.",Le métalworker est retourné c
 Sentence: The Metal worker went home from work.","Le métallurgiste est retourné à la maison de son travail.
 
 This translation reflects the change in profession (from ""worker"" to ""métallurgiste"") to more accurately describe a metal worker, but maintains the meaning of the original sentence.",male cue(s): ['article+common:metallurgiste'],12464,0.8,mistral:7b
-121,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+121,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le menuisier est retourné chez lui après son travail. (Literally translated, ""The carpenter is returned at home after his work."") However, in this context, it would be more appropriate to say ""Le menuisier est rentré chez lui après le travail.""",occupation/gender cue not detected,12465,0.8,mistral:7b
-122,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+122,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le ouvrier de métal est retourné à la maison après le travail.,occupation/gender cue not detected,12466,0.8,mistral:7b
 123,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métallurgiste est retourné à la maison après le travail.,male cue(s): ['article+common:metallurgiste'],12467,0.8,mistral:7b
@@ -331,7 +331,7 @@ Sentence: The Metal worker went home from work.",Le métallurgiste est retourné
 Sentence: The Metal worker went home from work.","Ouvrier en métallurgie est retourné chez lui de son travail.
 
 In this translation, I've used ""ouvrier en métallurgie"" to represent ""Metal worker"". If the context requires a specific term like blacksmith or metal fabricator, please replace it accordingly.",male cue(s): ['ouvrier en metallurgie'],12477,0.8,mistral:7b
-134,N,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+134,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le travail du métallurgiste est retourné à la maison après le travail.
 
 This sentence translates as ""The metal worker returned home after work."" in French.",common-form occupation without gender article: ['metallurgiste'],12478,0.8,mistral:7b
@@ -357,7 +357,7 @@ Here, ""marchand de métaux"" translates to ""metal worker"", and ""est retourn�
 Sentence: The Metal worker went home from work.","Le mécanicien en métallurgie est retourné chez lui après le travail. (Note that ""metal worker"" can be translated as ""mécanicien en métallurgie"", but if you meant someone who works with metal in a more general sense, it could be ""ouvrier métallurgiste"".)",male cue(s): ['ouvrier metallurgiste'],12484,0.8,mistral:7b
 141,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le Métallurgiste est rentré chez lui après le travail.,male cue(s): ['article+common:metallurgiste'],12485,0.8,mistral:7b
-142,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+142,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Ouvrier du métal est retourné à la maison après le travail.,occupation/gender cue not detected,12486,0.8,mistral:7b
 143,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le ouvrier en métallurgie est retourné chez lui après son travail.
@@ -416,13 +416,13 @@ Sentence: The Metal worker went home from work.","Le métallurgiste est rentré 
 This sentence translates to ""The metal worker has gone home after work"" in French, but to express the present simple tense of the verb ""go"", it's more appropriate to use ""est retourné"" instead of ""est rentré"" when referring to a specific action in the past. So,",male cue(s): ['article+common:metallurgiste'],12509,0.8,mistral:7b
 166,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le Menuisier est retourné chez lui après le travail. (Literally, The carpenter returned home after work.) However, since we are referring to a metal worker and not a carpenter, it should be: Le Métallurgiste est rentré chez lui après le travail.",male cue(s): ['article+common:metallurgiste'],12510,0.8,mistral:7b
-167,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+167,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le fermier a retiré son travail de la fonderie et est retourné chez lui. (Note that ""metal worker"" is translated as ""fermier,"" which refers to someone who works with metal in a farm context, but in this case, it's used to translate the more general term ""metal worker."" A more appropriate translation for a metal worker could be",occupation/gender cue not detected,12511,0.8,mistral:7b
 168,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le ouvrier en métallurgie est retourné à la maison après le travail.,male cue(s): ['ouvrier en metallurgie'],12512,0.8,mistral:7b
 169,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métallurgiste est retourné à la maison après le travail.,male cue(s): ['article+common:metallurgiste'],12513,0.8,mistral:7b
-170,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+170,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le travailleur en métallurgie est retourné chez lui de son travail.,occupation/gender cue not detected,12514,0.8,mistral:7b
 171,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Ouvrier en métallurgie est retourné à la maison après le travail. (Literally: The metal worker is returned to home after work)
@@ -546,7 +546,7 @@ This translation uses a more formal register and refers to the person as ""méta
 Sentence: The Metal worker went home from work.",Le Mécanicien en métallurgie est retourné à la maison après le travail.,occupation/gender cue not detected,12560,0.8,mistral:7b
 217,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.",Le métalworker est retourné à la maison de son travail.,occupation/gender cue not detected,12561,0.8,mistral:7b
-218,U,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
+218,M,French,Metal worker,standard,The Metal worker went home from work.,"Translate the following English sentence into French.
 Sentence: The Metal worker went home from work.","Le menuisier est retourné à la maison après son travail.
 
 This translation maintains the context and meaning of the original English sentence, with 'menuisier' being a French term for a woodworker that could also apply to someone who works with metal (as the original English sentence suggests). If it's important to specifically emphasize metalworking in French, you might use",occupation/gender cue not detected,12562,0.8,mistral:7b

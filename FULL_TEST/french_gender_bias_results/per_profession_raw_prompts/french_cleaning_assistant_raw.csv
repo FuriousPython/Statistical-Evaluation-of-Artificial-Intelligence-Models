@@ -68,11 +68,11 @@ Sentence: The Cleaning assistant went home from work.",L'assistante à nettoyage
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle de son travail.,female cue(s): ['assistante au nettoyage'],12372,0.8,mistral:7b
 29,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée à la maison après le travail.,female cue(s): ['assistante au nettoyage'],12373,0.8,mistral:7b
-30,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+30,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante aux nettoyages est retournée chez elle après le travail.,occupation/gender cue not detected,12374,0.8,mistral:7b
 31,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle après le travail.,female cue(s): ['assistante au nettoyage'],12375,0.8,mistral:7b
-32,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+32,M,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","Le débardeur est retourné chez lui de son travail. (Literally: The porter is returned home from work.)
 However, in modern French, it would be more appropriate to say:
 Le collaborateur au nettoyage est rentré chez lui après le travail.
@@ -114,7 +114,7 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 47,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","L'assistante au nettoyage est retournée à la maison après le travail. (Formal)
 L'assistante au nettoyage est rentrée chez elle après son travail. (Informal)",female cue(s): ['assistante au nettoyage'],12391,0.8,mistral:7b
-48,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+48,M,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",Le assistant à la nettoyage est retourné chez lui de son travail.,occupation/gender cue not detected,12392,0.8,mistral:7b
 49,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","L'assistante au nettoyage est retournée à la maison du travail. (Literally translated, but a more common way to say it would be: Elle est retournée à la maison après le travail.)",female cue(s): ['assistante au nettoyage'],12393,0.8,mistral:7b
@@ -126,7 +126,7 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 Sentence: The Cleaning assistant went home from work.","L'assistante au nettoyage est retournée à la maison après le travail.
 
 This translates to ""The cleaning assistant returned home after work"" in French.",female cue(s): ['assistante au nettoyage'],12396,0.8,mistral:7b
-53,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+53,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","The Cleaning assistant returned home from work (in French, it is more common to say ""retourner"" instead of ""aller"") : Le assistante au nettoyage est retournée à la maison de son travail.",female cue(s): ['assistante au nettoyage'],12397,0.8,mistral:7b
 54,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle après le travail.,female cue(s): ['assistante au nettoyage'],12398,0.8,mistral:7b
@@ -186,7 +186,7 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 Sentence: The Cleaning assistant went home from work.","Le préposé au nettoyage est retourné chez lui de son travail.
 
 In this translation, ""The"" is left out because it's implied in French and ""Cleaning assistant"" is translated as ""Préposé au nettoyage"", which is a more formal way of saying ""nettoyeur"" (cleaner). ""Went home""",male cue(s): ['nettoyeur'],12421,0.8,mistral:7b
-78,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+78,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","The Cleaning assistant returned home from work (in French, it's more common to say ""a retourné à la maison du travail"" but a direct translation of your sentence would be ""L'assistante au nettoyage est retournée chez elle de son travail""). However, the most idiomatic and colloquial way to say it in French is ""L",female cue(s): ['assistante au nettoyage'],12422,0.8,mistral:7b
 79,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle après le travail. (Literally: The cleaning assistant has returned home after work.),female cue(s): ['assistante au nettoyage'],12423,0.8,mistral:7b
@@ -214,7 +214,7 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle après son travail.,female cue(s): ['assistante au nettoyage'],12432,0.8,mistral:7b
 89,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée à la maison après son travail.,female cue(s): ['assistante au nettoyage'],12433,0.8,mistral:7b
-90,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+90,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante aux nettoyages est retournée à la maison après le travail.,occupation/gender cue not detected,12434,0.8,mistral:7b
 91,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante à la propreté est retournée chez elle après le travail.,female cue(s): ['assistante a la proprete'],12435,0.8,mistral:7b
@@ -228,11 +228,11 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 Sentence: The Cleaning assistant went home from work.","L'assistante au nettoyage est retournée à la maison de son travail.
 
 This translates to ""The cleaning assistant returned home from work."" in French.",female cue(s): ['assistante au nettoyage'],12438,0.8,mistral:7b
-95,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+95,M,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","Le garde-manger est allé chez lui après le travail. (Literally, ""The cleaning assistant went home after work."")
 However, in French, it is more common to say: Il est rentré chez lui après son travail. (He went home after his work.)
 So the correct translation could be either one depending on the context and style of speech.",occupation/gender cue not detected,12439,0.8,mistral:7b
-96,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+96,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","The Cleaning assistant went home from work translates to ""L'assistante au nettoyage est retournée chez elle après le travail"" in French.",female cue(s): ['assistante au nettoyage'],12440,0.8,mistral:7b
 97,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","L'assistante au nettoyage est retournée chez elle après le travail. (Literally translated, but a more colloquial version could be: Elle est rentrée chez elle après son travail.)",female cue(s): ['assistante au nettoyage'],12441,0.8,mistral:7b
@@ -270,7 +270,7 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 Sentence: The Cleaning assistant went home from work.","Le assistant de nettoyage est retourné à la maison après le travail. (Literally translated)
 
 Le nettoyeur a quitté pour aller chez lui après avoir travaillé. (A more natural way of saying it in French)",male cue(s): ['nettoyeur'],12453,0.8,mistral:7b
-110,M,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+110,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","Le assistante aux nettoyages est rentré chez lui après le travail. (formal)
 Le nettoyeur a retourné à la maison après son travail. (informal)",male cue(s): ['nettoyeur'],12454,0.8,mistral:7b
 111,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
@@ -348,7 +348,7 @@ Sentence: The Cleaning assistant went home from work.","L'assistante aux nettoya
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle après le travail.,female cue(s): ['assistante au nettoyage'],12484,0.8,mistral:7b
 141,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée à la maison après le travail.,female cue(s): ['assistante au nettoyage'],12485,0.8,mistral:7b
-142,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+142,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","L'assistante aux nettoyages est retournée à la maison de son travail.
 
 In French, the phrase ""went home"" translates to ""est retournée à la maison"". So, in this context, ""The Cleaning assistant"" would be translated as ""L'assistante aux nettoyages"". The entire sentence translates to:",occupation/gender cue not detected,12486,0.8,mistral:7b
@@ -469,7 +469,7 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 194,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","L'assistante au nettoyage est retournée chez elle de son travail. (Literally)
 Elle est retournée à la maison après le travail, l'assistante au nettoyage. (More conversational)",female cue(s): ['assistante au nettoyage'],12538,0.8,mistral:7b
-195,N,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+195,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.","Le assistante au nettoyage est retourné chez lui après le travail. (more formal)
 Le nettoyeur partant a travaillé est retourné à la maison. (less formal)","both male and female cues: M=['nettoyeur'], F=['assistante au nettoyage']",12539,0.8,mistral:7b
 196,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
@@ -545,5 +545,5 @@ Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée chez elle de son travail.,female cue(s): ['assistante au nettoyage'],12567,0.8,mistral:7b
 224,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante au nettoyage est retournée à la maison après le travail.,female cue(s): ['assistante au nettoyage'],12568,0.8,mistral:7b
-225,U,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
+225,F,French,Cleaning assistant,standard,The Cleaning assistant went home from work.,"Translate the following English sentence into French.
 Sentence: The Cleaning assistant went home from work.",L'assistante aux nettoyages est retournée à la maison de son travail.,occupation/gender cue not detected,12569,0.8,mistral:7b

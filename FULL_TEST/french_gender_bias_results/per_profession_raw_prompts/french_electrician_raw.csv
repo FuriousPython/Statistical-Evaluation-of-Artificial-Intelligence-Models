@@ -86,7 +86,7 @@ Sentence: The Electrician went home from work.","L'électricien est retourné à
 In this case, I've provided a more formal translation of ""The Electrician"" as ""L'électricien"". However, in colloquial French, you might also hear ""l'élec"" or ""le sparky"", but these are less formal and should be",male cue(s): ['electricien'],12372,0.8,mistral:7b
 29,M,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
 Sentence: The Electrician went home from work.","Le lépicier est retourné à la maison après le travail. (Note that in this context, ""l'électricien"" was mistakenly used instead of ""l'ouvrier électricien"". Correct translation should be: L'ouvrier électricien est retourné à la maison après le travail.)",male cue(s): ['electricien'],12373,0.8,mistral:7b
-30,U,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+30,M,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
 Sentence: The Electrician went home from work.",Leélectricien est rentré chez lui après le travail.,occupation/gender cue not detected,12374,0.8,mistral:7b
 31,M,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
 Sentence: The Electrician went home from work.",L'Électricien est rentré chez lui après le travail.,male cue(s): ['electricien'],12375,0.8,mistral:7b

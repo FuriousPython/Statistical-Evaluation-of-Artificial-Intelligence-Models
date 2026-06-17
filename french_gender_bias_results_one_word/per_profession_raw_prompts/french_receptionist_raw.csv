@@ -1,0 +1,45 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","Secrétaire(e) ou accueillante/accueil (dans un hôtel, par exemple). Si vous voulez spécifier le rôle de réceptionniste, vous pouvez dire : Secrétaire de réception ou réceptionniste. Dans les bureaux ou entreprises, on utilise souvent le mot secrétaire",common-form occupation without gender article: ['receptionniste'],12345,0.8,mistral:7b
+2,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculin) en français.,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculin) en français.,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculine).,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculine).,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculin) en français.,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",Le réceptionniste (masc.) ou la réceptionniste (fem.) en français.,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculin) en français.,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","La réceptionniste (m) ou la réceptionniste (f). Si le sexe n'est pas indiqué, on emploie généralement la forme neutre : le réceptionniste.","both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","La réceptionniste (feminine) ou le réceptionniste (masculine).
+
+In the singular, we can use either ""la réceptionniste"" for a female receptionist or ""le réceptionniste"" for a male receptionist. In plural form, it's ""les réceptionnistes"".","both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","La réceptionniste (feminine) or le réceptionniste (masculine). If you're not specifying a gender, it would be better to use la réceptionniste in a mixed-gender context.","both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12355,0.8,mistral:7b
+12,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculin) en français.,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",Le réceptionniste (masc.) ou la réceptionniste (fem.).,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","Réceptionniste (feminine) or Réceptionniste (masculine) in French. The choice of gender depends on whether the receptionist is male or female. If the gender is not specified, it's generally considered feminine.",common-form occupation without gender article: ['receptionniste'],12358,0.8,mistral:7b
+15,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","Le réceptionniste (masc.) ou la réceptionniste (fem.).
+
+Both forms are used, but in a mixed-gender environment or for a generic reference, ""réceptionniste"" is commonly used. For a male receptionist specifically, ""le réceptionniste"" is appropriate.","both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","Le réceptionniste (m/f) ou la réceptionniste (f). In French, we use ""réceptionniste"" for a gender-neutral term, and ""réceptionniste (f)"" for a female receptionist.","both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculin).,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste (feminine) ou le réceptionniste (masculine).,"both male and female cues: M=['article+common:receptionniste'], F=['article+common:receptionniste']",12362,0.8,mistral:7b
+19,M,male,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.","Le réceptionniste. (feminine) or le réceptionniste (masculine) in French, depending on whether the person is female or male.",male cue(s): ['article+common:receptionniste'],12363,0.8,mistral:7b
+20,F,female,French,Receptionist,one_word,Receptionist.,"Translate the following English sentence into French.
+Sentence: Receptionist.",La réceptionniste.,female cue(s): ['article+common:receptionniste'],12364,0.8,mistral:7b

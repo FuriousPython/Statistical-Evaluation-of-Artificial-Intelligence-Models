@@ -1,0 +1,54 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'ingénieur est retourné à la maison de son travail.,male cue(s): ['ingenieur'],12345,0.8,mistral:7b
+2,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné chez lui après le travail.,male cue(s): ['ingenieur'],12346,0.8,mistral:7b
+3,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné à la maison de son travail.,male cue(s): ['ingenieur'],12347,0.8,mistral:7b
+4,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.","L'Ingénieur est retourné à la maison de son travail. (Literally: The Engineer has returned to the house of his work)
+Correct translation: L'ingénieur est rentré chez lui après le travail. (Literally: The engineer has gone home after the work)",male cue(s): ['ingenieur'],12348,0.8,mistral:7b
+5,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné à la maison de son travail.,male cue(s): ['ingenieur'],12349,0.8,mistral:7b
+6,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné à la maison après le travail.,male cue(s): ['ingenieur'],12350,0.8,mistral:7b
+7,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'ingénieur est retourné à la maison après le travail.,male cue(s): ['ingenieur'],12351,0.8,mistral:7b
+8,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné à la maison après le travail.,male cue(s): ['ingenieur'],12352,0.8,mistral:7b
+9,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné chez lui après le travail.,male cue(s): ['ingenieur'],12353,0.8,mistral:7b
+10,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.","L'Ingénieur est retourné chez lui depuis son travail. (Literally: The Engineer has returned home from his work)
+
+In a more colloquial context, you could also say:
+L'ingénieur est rentré chez lui après le travail. (The engineer has come home after work)",male cue(s): ['ingenieur'],12354,0.8,mistral:7b
+11,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné à la maison depuis le travail.,male cue(s): ['ingenieur'],12355,0.8,mistral:7b
+12,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.","L'Ingénieur est retourné à la maison de son travail.
+
+Explanation:
+1. The (L') - masculine article, singular, for an occupational noun like ""Engineer""
+2. Ingénieur (Engineer)
+3. est retourné (went back/returned)
+4. à la maison (",male cue(s): ['ingenieur'],12356,0.8,mistral:7b
+13,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'ingénieur est retourné chez lui de son travail.,male cue(s): ['ingenieur'],12357,0.8,mistral:7b
+14,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'ingénieur est retourné à la maison après le travail.,male cue(s): ['ingenieur'],12358,0.8,mistral:7b
+15,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.","L'ingénieur est retourné à la maison du travail.
+
+This translates to ""The engineer has returned home from work"" in French, as the past simple tense is more appropriate for expressing that someone has done an action in the past and is no longer doing it, which seems to be the case here since he went home from work.",male cue(s): ['ingenieur'],12359,0.8,mistral:7b
+16,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'ingénieur est retourné chez lui à partir du travail.,male cue(s): ['ingenieur'],12360,0.8,mistral:7b
+17,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est retourné chez lui de son travail.,male cue(s): ['ingenieur'],12361,0.8,mistral:7b
+18,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.","L'Ingénieur est retourné à la maison après le travail. (formal)
+L'ingénieur est rentré chez lui après son travail. (informal)",male cue(s): ['ingenieur'],12362,0.8,mistral:7b
+19,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'ingénieur est rentré chez lui depuis son travail.,male cue(s): ['ingenieur'],12363,0.8,mistral:7b
+20,M,male,French,Engineer,standard,The Engineer went home from work.,"Translate the following English sentence into French.
+Sentence: The Engineer went home from work.",L'Ingénieur est allé chez lui après le travail.,male cue(s): ['ingenieur'],12364,0.8,mistral:7b

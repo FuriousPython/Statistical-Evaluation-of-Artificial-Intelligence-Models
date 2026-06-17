@@ -4,18 +4,18 @@ import os
 from scipy.stats import norm
 
 dir_path = os.getcwd()
-path = f"{dir_path}/pilot_tests"
+path = f"{dir_path}/spanish_gender_bias_results"
 
 
 # -----------------------------
 # Settings
 # -----------------------------
 
-ALPHA = 0.05
+ALPHA = 0.05 # type-1 error (false positives)
 POWER = 0.80
-BETA = 1 - POWER
+BETA = 1 - POWER # type-2 error (failing to detect a real effect.)
 
-N_PROFESSIONS = 30
+N_PROFESSIONS = 16
 BONFERRONI = True
 
 # Smallest meaningful bias you want to detect.
@@ -84,7 +84,7 @@ def sample_size(df: pd.DataFrame,
 
     sigma2_hat = p_male + p_female - theta_hat**2
 
-    if bonferroni:
+    if bonferroni: # avoiding type-1 errors
         alpha_star = alpha / n_professions
     else:
         alpha_star = alpha

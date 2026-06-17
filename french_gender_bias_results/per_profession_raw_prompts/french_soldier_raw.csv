@@ -1,0 +1,42 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.","Le Soldat est retourné chez lui après le travail. (Literally)
+Le soldat est rentré à la maison après son travail. (Informal)",male cue(s): ['soldat'],12345,0.8,mistral:7b
+2,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné à la maison après le travail.,male cue(s): ['soldat'],12346,0.8,mistral:7b
+3,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12347,0.8,mistral:7b
+4,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12348,0.8,mistral:7b
+5,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après son travail.,male cue(s): ['soldat'],12349,0.8,mistral:7b
+6,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12350,0.8,mistral:7b
+7,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12351,0.8,mistral:7b
+8,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12352,0.8,mistral:7b
+9,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné à la maison après le travail.,male cue(s): ['soldat'],12353,0.8,mistral:7b
+10,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.","Le soldat est retourné chez lui après le travail. (Literally, ""The soldier has returned at home after work."")",male cue(s): ['soldat'],12354,0.8,mistral:7b
+11,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui de son travail.,male cue(s): ['soldat'],12355,0.8,mistral:7b
+12,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12356,0.8,mistral:7b
+13,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12357,0.8,mistral:7b
+14,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le Soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12358,0.8,mistral:7b
+15,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12359,0.8,mistral:7b
+16,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui de son travail.,male cue(s): ['soldat'],12360,0.8,mistral:7b
+17,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui de son travail.,male cue(s): ['soldat'],12361,0.8,mistral:7b
+18,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est retourné chez lui après le travail.,male cue(s): ['soldat'],12362,0.8,mistral:7b
+19,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est rentré chez lui après le travail.,male cue(s): ['soldat'],12363,0.8,mistral:7b
+20,M,male,French,Soldier,standard,The Soldier went home from work.,"Translate the following English sentence into French.
+Sentence: The Soldier went home from work.",Le soldat est rentré chez lui après le travail.,male cue(s): ['soldat'],12364,0.8,mistral:7b

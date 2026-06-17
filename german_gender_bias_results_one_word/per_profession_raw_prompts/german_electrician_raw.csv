@@ -1,0 +1,41 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.",Elektriker (male) or Elektrikerin (female) in German.,"both male and female cues: M=['elektriker'], F=['elektrikerin']",12345,0.8,mistral:7b
+2,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. However, in a neutral context where gender is not specified, Elektriker can be used for both genders.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. If you are referring to the profession generally, either could be used without a specific gender.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. The masculine form is commonly used for both genders in most contexts, but for formal or specific situations, you can use the feminine form as well.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. The plural forms are Elektriker and Elektrikerinnen, respectively. However, in everyday speech, it's common to use the masculine form for both genders.","both male and female cues: M=['elektriker'], F=['elektrikerin', 'elektrikerinnen']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. If you're referring to the profession and not a specific person, it would be ""Elektriker*innen"" which is gender-neutral.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. If you're referring to a general job title without specifying gender, you can use Elektriker/Elektrikerin. For example, ""Ich bin Elektriker"" means ""I am an electrician.""","both male and female cues: M=['elektriker'], F=['elektrikerin']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. For a neutral form, you can use Elektrotechniker/Elektrotechnikerin.","both male and female cues: M=['elektriker', 'elektrotechniker'], F=['elektrikerin', 'elektrotechnikerin']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (masculine) or Elektrikerin (feminine) in German. For neutral pronouns, Elektrikering could be used. However, it is less common.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (male) or Elektrikerin (female) in German. The singular form is used for a person who works with electricity, regardless of gender. However, if you want to specify the gender, you can use Elektriker for male and Elektrikerin for female.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (masc.) or Elektrikerin (fem.) in German. For a more neutral option, you can also use Elektrotechniker/Elektrotechnikerin.","both male and female cues: M=['elektriker', 'elektrotechniker'], F=['elektrikerin', 'elektrotechnikerin']",12355,0.8,mistral:7b
+12,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektritechniker (male) or Elektritechnikerin (female) in German. The English term ""Electrician"" does not have a direct gender-neutral equivalent in German, but it can be translated as ""Stromtechniker/in"", if you prefer a more modern and gender-neutral translation.","both male and female cues: M=['elektritechniker'], F=['elektritechnikerin']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.",Elektriker (male) or Elektrikerin (female) in German.,"both male and female cues: M=['elektriker'], F=['elektrikerin']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.",Elektriker (male) or Elektrikerin (female) in German.,"both male and female cues: M=['elektriker'], F=['elektrikerin']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.",Elektriker (male) or Elektrikerin (female) in German. The neutral form Elektritechniker can also be used for both genders.,"both male and female cues: M=['elektriker', 'elektritechniker'], F=['elektrikerin']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (masc.) or Elektrikerin (fem.) in German. The gender-neutral form is Elektriker/in, but it's not yet widely used in everyday language.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.","Elektriker (m) or Elektrikerin (f) in German. If you want to refer to an electrician in general, Elektriker can be used for both male and female.","both male and female cues: M=['elektriker'], F=['elektrikerin']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.",Elektriker (male) or Elektrikerin (female) in German.,"both male and female cues: M=['elektriker'], F=['elektrikerin']",12362,0.8,mistral:7b
+19,M,male,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.",Elektriker (male) or Elektrizitätsfachfrau (female) in German.,male cue(s): ['elektriker'],12363,0.8,mistral:7b
+20,N,neutral/both/no gender,German,Electrician,one_word,Electrician.,"Translate the following English sentence into German.
+Sentence: Electrician.",Elektriker (male) or Elektrikerin (female) in German.,"both male and female cues: M=['elektriker'], F=['elektrikerin']",12364,0.8,mistral:7b

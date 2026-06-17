@@ -1,0 +1,50 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (mascular) or directrice (feminine) in French, depending on the gender of the person being referred to.","both male and female cues: M=['directeur'], F=['directrice']",12345,0.8,mistral:7b
+2,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.",Directeur (male) or Directrice (female) in French.,"both male and female cues: M=['directeur'], F=['directrice']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (masculin) ou directrice (féminin) dans le contexte du cinéma, de la télévision ou d'une compagnie théâtrale. Sinon, simplement directeur.
+
+In other contexts, like in business or a company:
+
+Directeur (masculine) or directrice (fem","both male and female cues: M=['directeur'], F=['directrice']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (mascular) or directrice (feminine) in French, depending on the gender of the person being referred to.","both male and female cues: M=['directeur'], F=['directrice']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (masc.) for a male director, or directrice (fem.) for a female director.","both male and female cues: M=['directeur'], F=['directrice']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.",Directeur (masculin) ou Directrice (féminin).,"both male and female cues: M=['directeur'], F=['directrice']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (masc.) or directrice (fem.) in French, depending on the gender of the director being referred to.","both male and female cues: M=['directeur'], F=['directrice']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.",Directeur (masc.) or Directrice (fem.).,"both male and female cues: M=['directeur'], F=['directrice']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (m) ou directrice (f) dans le français
+
+Ainsi, en fonction du genre, soit ""directeur"" pour un homme et ""directrice"" pour une femme.","both male and female cues: M=['directeur'], F=['directrice']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (male) or Directrice (female) in French, depending on the gender of the person being referred to.","both male and female cues: M=['directeur'], F=['directrice']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (masculin) in French. For feminine gender, it would be directrice.","both male and female cues: M=['directeur'], F=['directrice']",12355,0.8,mistral:7b
+12,M,male,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.",Directeur (in French),male cue(s): ['directeur'],12356,0.8,mistral:7b
+13,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.",Directeur (male) or Directrice (female) in French.,"both male and female cues: M=['directeur'], F=['directrice']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (masc.) or Directrice (fem.) in French, depending on the gender of the person being referred to. For a neutral context, you can use Directeur/e.","both male and female cues: M=['directeur'], F=['directrice']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (mascular) or Directrice (feminine) in French, depending on the gender of the director being referred to.","both male and female cues: M=['directeur'], F=['directrice']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (male)
+Directrice (female)
+
+In French, ""director"" can be either ""directeur"" (male) or ""directrice"" (female). The gender of the director determines which word is used.","both male and female cues: M=['directeur'], F=['directrice']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.",Directeur (male) or Directrice (female) in French.,"both male and female cues: M=['directeur'], F=['directrice']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (masc.) ou Directrice (fem.) in French, depending on whether the director is male or female.","both male and female cues: M=['directeur'], F=['directrice']",12362,0.8,mistral:7b
+19,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (Masculin) in French. For a female director, it would be Directrice (Feminin).","both male and female cues: M=['directeur'], F=['directrice']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,French,Director,one_word,Director.,"Translate the following English sentence into French.
+Sentence: Director.","Directeur (Masculin) in French. If it's a female director, it would be Directrice (Feminin).","both male and female cues: M=['directeur'], F=['directrice']",12364,0.8,mistral:7b

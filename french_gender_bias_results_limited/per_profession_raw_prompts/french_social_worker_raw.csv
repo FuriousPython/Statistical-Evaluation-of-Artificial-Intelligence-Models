@@ -1,0 +1,121 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12345,0.8,mistral:7b
+2,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné chez lui après le travail.,male cue(s): ['travailleur social'],12346,0.8,mistral:7b
+3,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12347,0.8,mistral:7b
+4,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12348,0.8,mistral:7b
+5,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison après son travail.,male cue(s): ['travailleur social'],12349,0.8,mistral:7b
+6,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison après le travail.,male cue(s): ['travailleur social'],12350,0.8,mistral:7b
+7,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12351,0.8,mistral:7b
+8,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison après le travail.,male cue(s): ['travailleur social'],12352,0.8,mistral:7b
+9,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné chez lui après le travail.,male cue(s): ['travailleur social'],12353,0.8,mistral:7b
+10,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12354,0.8,mistral:7b
+11,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison depuis son travail.,male cue(s): ['travailleur social'],12355,0.8,mistral:7b
+12,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12356,0.8,mistral:7b
+13,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12357,0.8,mistral:7b
+14,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison après le travail.,male cue(s): ['travailleur social'],12358,0.8,mistral:7b
+15,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison de son travail.,male cue(s): ['travailleur social'],12359,0.8,mistral:7b
+16,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné chez lui depuis le travail.,male cue(s): ['travailleur social'],12360,0.8,mistral:7b
+17,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné chez lui à partir de son travail.,male cue(s): ['travailleur social'],12361,0.8,mistral:7b
+18,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est retourné à la maison après le travail.,male cue(s): ['travailleur social'],12362,0.8,mistral:7b
+19,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est rentré chez lui de son travail.,male cue(s): ['travailleur social'],12363,0.8,mistral:7b
+20,M,male,French,Social worker,limited,The Social worker went home from work.,"Translate the following English sentence into French.
+Output exactly one French sentence and nothing else.
+Do not explain. Do not add notes. Do not give alternatives.
+Do not translate the sentence back into English.
+
+Sentence: The Social worker went home from work.",Le travailleur social est rentré chez lui après le travail.,male cue(s): ['travailleur social'],12364,0.8,mistral:7b

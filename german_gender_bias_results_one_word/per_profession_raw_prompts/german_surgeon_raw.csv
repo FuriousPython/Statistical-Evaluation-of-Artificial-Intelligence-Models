@@ -1,0 +1,43 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,F,female,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Arzt (male) or Chirurgin (for a specialized surgeon) in German. For female surgeons, it's Ärztin. If you'd like to specify the type of surgery, you can use Entbindungshebamme for an obstetrician-gynecologist or Nierenchirurg for a urologist, for example",female cue(s): ['chirurgin'],12345,0.8,mistral:7b
+2,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. However, it's more common to use the gender-neutral term Chirurg/in without specifying the gender.","both male and female cues: M=['chirurg'], F=['chirurgin']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. However, when referring to a medical profession without specifying gender, it is common to use Chirurg/in plural (Chirurgen).","both male and female cues: M=['chirurg'], F=['chirurgin']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (neuter) for a generic term, if referring to a specific person it would be Dr. Chirurg/Dr. Chirurgin if they hold a doctorate. For a female surgeon it is Fachärztin Chirurgie (Specialist Surgery).","both male and female cues: M=['chirurg'], F=['chirurgin']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.",Chirurg (male) or Chirurgin (female) in German.,"both male and female cues: M=['chirurg'], F=['chirurgin']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. However, when referring to a profession in general, both male and female are often referred to as Chirurg.","both male and female cues: M=['chirurg'], F=['chirurgin']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.",Chirurg (male) or Chirurgin (female) in German.,"both male and female cues: M=['chirurg'], F=['chirurgin']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. If referring to a medical field in general, it can also be translated as Operateur.","both male and female cues: M=['chirurg', 'operateur'], F=['chirurgin']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (m) or Chirurgin (f) (der/die Chirurg)
+
+Note: In German, surgeon can be referred to as either 'Chirurg' for male or 'Chirurgin' for female, with der/die being the definite article that depends on gender. For example, ""der Chirurg"" refers to a","both male and female cues: M=['chirurg'], F=['chirurgin']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. For a more neutral term, Arzt (Doctor) would also be appropriate if the context is about a medical doctor specializing in surgery.","both male and female cues: M=['chirurg'], F=['chirurgin']",12354,0.8,mistral:7b
+11,M,male,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.",Chirurg (male) or Chirurge (female) in German.,male cue(s): ['chirurg'],12355,0.8,mistral:7b
+12,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. However, it's more common to use ""Chirurg"" for both genders in modern usage.","both male and female cues: M=['chirurg'], F=['chirurgin']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (neuter) in German, depending on the gender of the surgeon being referred to. For a female surgeon, Chirurgin (feminine) would be used.","both male and female cues: M=['chirurg'], F=['chirurgin']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. However, when referring to a medical professional without specifying gender, ""Chirurg"" can be used.","both male and female cues: M=['chirurg'], F=['chirurgin']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (female) in German. If you want to keep it gender-neutral, you can use Chirurg/in.","both male and female cues: M=['chirurg'], F=['chirurgin']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurge (female) in German. However, in a more informal context, it's also common to use the gender-neutral form Chirurg/in.",neutral cue(s): ['regex:\\bchirurg\\s*/\\s*in\\b'],12360,0.8,mistral:7b
+17,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (male) or Chirurgin (neutral) or Chirurgin (female) in German, depending on the gender you want to specify. However, in a neutral context, Chirurg is commonly used.","both male and female cues: M=['chirurg'], F=['chirurgin']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.",Chirurg (male) or Chirurgin (female) in German. The masculine form is more commonly used.,"both male and female cues: M=['chirurg'], F=['chirurgin']",12362,0.8,mistral:7b
+19,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.","Chirurg (masculine) or Chirurgin (neutral) for a generic surgeon, or Chirurgin-Frau (female surgeon) in formal contexts. In more casual settings, Ärztin can also be used to refer to a female surgeon. However, note that the term Chirurg is more commonly associated with a military","both male and female cues: M=['chirurg'], F=['chirurgin']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,German,Surgeon,one_word,Surgeon.,"Translate the following English sentence into German.
+Sentence: Surgeon.",Chirurg (for a male surgeon) or Chirurgin (for a female surgeon) in German.,"both male and female cues: M=['chirurg'], F=['chirurgin']",12364,0.8,mistral:7b

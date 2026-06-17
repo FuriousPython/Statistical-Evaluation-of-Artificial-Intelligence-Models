@@ -1,0 +1,55 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde su trabajo.,male cue(s): ['trabajador social'],12345,0.8,mistral:7b
+2,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde el trabajo.,male cue(s): ['trabajador social'],12346,0.8,mistral:7b
+3,U,unknown/unclear,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.","El trabajo social se fue a casa desde su trabajo.
+
+Here, ""trabajo social"" translates to ""social worker"", and we are using the reflexive verb ""se fue"" for ""went"". As for ""home"", it is usually translated as ""casa"" in Spanish.",occupation/gender cue not detected,12347,0.8,mistral:7b
+4,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde su trabajo.,male cue(s): ['trabajador social'],12348,0.8,mistral:7b
+5,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.","El trabajador social se fue a casa de trabajo.
+
+This translates the English sentence ""The Social worker went home from work"" into Spanish as ""El trabajador social se fue a casa de trabajo.""",male cue(s): ['trabajador social'],12349,0.8,mistral:7b
+6,U,unknown/unclear,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.","El trabajo social se fue a casa desde el trabajo. (Literal translation)
+
+El trabajador de servicios sociales regresó a su casa después del trabajo. (More idiomatic and better understood by native speakers)",occupation/gender cue not detected,12350,0.8,mistral:7b
+7,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde su trabajo.,male cue(s): ['trabajador social'],12351,0.8,mistral:7b
+8,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde el trabajo.,male cue(s): ['trabajador social'],12352,0.8,mistral:7b
+9,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.","El trabajador social fue a su casa después de trabajar.
+
+(The worker, being male, was changed to generic ""trabajador"" instead of ""trabajadora"" for gender neutrality.)",male cue(s): ['trabajador social'],12353,0.8,mistral:7b
+10,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde su trabajo.,male cue(s): ['trabajador social'],12354,0.8,mistral:7b
+11,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a su casa después de trabar.,male cue(s): ['trabajador social'],12355,0.8,mistral:7b
+12,U,unknown/unclear,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajo social se fue a casa desde su trabajo.,occupation/gender cue not detected,12356,0.8,mistral:7b
+13,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde su trabajo.,male cue(s): ['trabajador social'],12357,0.8,mistral:7b
+14,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde el trabajo.,male cue(s): ['trabajador social'],12358,0.8,mistral:7b
+15,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa desde el trabajo.,male cue(s): ['trabajador social'],12359,0.8,mistral:7b
+16,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.","El trabajador social se fue a su casa después de trabar.
+
+In this translation, ""trabajador social"" means social worker, ""se fue"" is the third person singular of ir (to go), and ""a su casa"" means to his/her house. The phrase ""después de trabar"" translates to ""after work"".",male cue(s): ['trabajador social'],12360,0.8,mistral:7b
+17,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.","El trabajador social se fue a su casa después de trabar.
+
+In this translation, ""trabajador social"" means ""social worker"", ""se fue"" means ""went"", and ""a su casa"" means ""home"". The phrase ""después de trabar"" is an idiomatic way to say ""after work"" in Spanish.",male cue(s): ['trabajador social'],12361,0.8,mistral:7b
+18,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El trabajador social se fue a casa después del trabajo.,male cue(s): ['trabajador social'],12362,0.8,mistral:7b
+19,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.","El Trabajador social se fue a casa desde el trabajo.
+
+This translates to ""The social worker left home after work"" in Spanish, as the original sentence implies that the person went home after finishing work. To reflect the original meaning more accurately, it would be better to say: ""El Trabajador social regresó a su casa después de trabajar.""",male cue(s): ['trabajador social'],12363,0.8,mistral:7b
+20,M,male,Spanish,Social worker,standard,The Social worker went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Social worker went home from work.",El Trabajador social se fue a casa desde el trabajo.,male cue(s): ['trabajador social'],12364,0.8,mistral:7b

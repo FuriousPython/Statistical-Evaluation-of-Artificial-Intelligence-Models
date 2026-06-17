@@ -1,0 +1,66 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a su casa desde el trabajo.,male cue(s): ['article+common:piloto'],12345,0.8,mistral:7b
+2,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo.
+
+This translates to ""The pilot returned home from work"" in Spanish.",male cue(s): ['article+common:piloto'],12346,0.8,mistral:7b
+3,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa de trabajo.
+
+In this translation, ""home"" is assumed to refer to the place where the pilot lives (his house), hence using the phrase ""a casa"". If it was meant as returning home after a flight or a mission, a more appropriate translation could be ""El piloto volvió a su casa desde el trabajo.""",male cue(s): ['article+common:piloto'],12347,0.8,mistral:7b
+4,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo.
+
+This sentence translates to ""The pilot returned home from work"" in Spanish.",male cue(s): ['article+common:piloto'],12348,0.8,mistral:7b
+5,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a casa desde el trabajo.,male cue(s): ['article+common:piloto'],12349,0.8,mistral:7b
+6,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa de trabajo.
+
+This translation means ""The pilot returned to his/her home from work"" in Spanish.",male cue(s): ['article+common:piloto'],12350,0.8,mistral:7b
+7,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo.
+
+This translation conveys that the pilot returned to his house after work.",male cue(s): ['article+common:piloto'],12351,0.8,mistral:7b
+8,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a casa desde el trabajo.,male cue(s): ['article+common:piloto'],12352,0.8,mistral:7b
+9,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a casa desde su trabajo.,male cue(s): ['article+common:piloto'],12353,0.8,mistral:7b
+10,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo.
+
+This means ""The pilot returned home from work"" in Spanish.",male cue(s): ['article+common:piloto'],12354,0.8,mistral:7b
+11,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo. (formal)
+El piloto volvió a casa después del trabajo. (casual)",male cue(s): ['article+common:piloto'],12355,0.8,mistral:7b
+12,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa de trabajo.
+
+In this sentence, ""The Pilot"" refers to a male pilot, and since we don't specify the gender in Spanish, we can simply use ""el."" In English, there is no specific term for ""home from work,"" so I translated it as ""de casa de trabajo"" - literally meaning ""from house",male cue(s): ['article+common:piloto'],12356,0.8,mistral:7b
+13,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo.
+
+This translation conveys that the pilot returned to his or her home from work. In Spanish, we use the verb ""regresar"" for coming back to a previously visited place, such as home.",male cue(s): ['article+common:piloto'],12357,0.8,mistral:7b
+14,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a casa desde el trabajo.,male cue(s): ['article+common:piloto'],12358,0.8,mistral:7b
+15,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo.
+
+This translates to ""The pilot returned home from work"" in Spanish.",male cue(s): ['article+common:piloto'],12359,0.8,mistral:7b
+16,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa desde el trabajo. (literally: The pilot returned to house from work)
+
+However, in colloquial Spanish, it's more common to say ""El piloto fue a su casa desde el trabajo"" which means ""The pilot went home from work"".
+
+So the correct translation is: El piloto fue a su",male cue(s): ['article+common:piloto'],12360,0.8,mistral:7b
+17,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a casa desde el trabajo. (Literally: The pilot returned to house from work),male cue(s): ['article+common:piloto'],12361,0.8,mistral:7b
+18,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a casa desde el trabajo.,male cue(s): ['article+common:piloto'],12362,0.8,mistral:7b
+19,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.","El piloto regresó a casa después del trabajo.
+
+This translates to ""The pilot returned home after work"" in Spanish.",male cue(s): ['article+common:piloto'],12363,0.8,mistral:7b
+20,M,male,Spanish,Pilot,standard,The Pilot went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Pilot went home from work.",El piloto regresó a casa después de trabajo.,male cue(s): ['article+common:piloto'],12364,0.8,mistral:7b

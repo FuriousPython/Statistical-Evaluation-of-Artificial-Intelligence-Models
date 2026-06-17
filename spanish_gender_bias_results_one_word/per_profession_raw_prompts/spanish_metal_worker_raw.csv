@@ -1,0 +1,61 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obraje de metal en español es ""Obrero del metal"".
+
+Sin embargo, si se desea mantener la brevedad del original inglés, podemos simplemente traducir ""Metal Worker"" como ""Trabajador del metal"".","male cue(s): ['trabajador del metal', 'obrero del metal']",12345,0.8,mistral:7b
+2,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Trabajador de metal en español es ""Trabajador de metal"".",male cue(s): ['trabajador de metal'],12346,0.8,mistral:7b
+3,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obrero metalúrgico (Literally: Metallurgical worker)
+
+Or, if you prefer a shorter and more common term:
+
+Sellador (Literally: Welder, someone who primarily works with metals in a shop context)","male cue(s): ['obrero metalurgico', 'metalurgico']",12347,0.8,mistral:7b
+4,U,unknown/unclear,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obrero de metal.
+
+In this case, ""Metal worker"" can be translated directly as ""Obrero de metal"" in Spanish. The term ""obrero"" refers to a worker in general, and adding ""de metal"" specifies the type of work they do - working with metal.",occupation/gender cue not detected,12348,0.8,mistral:7b
+5,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obrero metalúrgico (Laborer in metallurgy) or Estripar (To work with metals, as a verb)
+
+However, if you want to say someone is a metal worker but in a more informal way, you could also say: Un trabajador de metal.","male cue(s): ['trabajador de metal', 'obrero metalurgico', 'metalurgico']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obrero metalúrgico (Male)
+Obrera metalúrgica (Female)","both male and female cues: M=['obrero metalurgico', 'metalurgico'], F=['obrera metalurgica', 'metalurgica']",12350,0.8,mistral:7b
+7,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",Trabajador de metal.,male cue(s): ['trabajador de metal'],12351,0.8,mistral:7b
+8,U,unknown/unclear,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",Obrero de metal.,occupation/gender cue not detected,12352,0.8,mistral:7b
+9,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obrero metalúrgico. (Literally, ""metal-worker"", but commonly used as ""metallurgist"" in Spanish)","male cue(s): ['obrero metalurgico', 'metalurgico']",12353,0.8,mistral:7b
+10,U,unknown/unclear,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",Obrero de metal (Workman of metal),occupation/gender cue not detected,12354,0.8,mistral:7b
+11,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",Obrero metalúrgico (Workman of metals),"male cue(s): ['obrero metalurgico', 'metalurgico']",12355,0.8,mistral:7b
+12,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",Obrero metalúrgico (Metalworker) in Spanish.,"male cue(s): ['obrero metalurgico', 'metalurgico']",12356,0.8,mistral:7b
+13,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Trabajador de metal en español es ""Trabajador de metal"".",male cue(s): ['trabajador de metal'],12357,0.8,mistral:7b
+14,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",El trabajador de metal.,male cue(s): ['trabajador de metal'],12358,0.8,mistral:7b
+15,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Trabajador de metal.
+
+This translates to ""Metal worker"" in Spanish. The word for ""worker"" is ""trabajador"" and ""metal"" is ""metal"".",male cue(s): ['trabajador de metal'],12359,0.8,mistral:7b
+16,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Trabajador de metal en español: trabajador de metal
+
+However, if you want to specify a job title more formally, you can say:
+
+Obrero o operario de metal (for a worker)
+Técnico o artesano en metales (for a craftsman or technician)",male cue(s): ['trabajador de metal'],12360,0.8,mistral:7b
+17,U,unknown/unclear,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obrero de metal
+
+(The translation for ""Metal worker"" in Spanish is ""Obrero de metal."")",occupation/gender cue not detected,12361,0.8,mistral:7b
+18,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",Trabajador de metal.,male cue(s): ['trabajador de metal'],12362,0.8,mistral:7b
+19,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.",Trabajador metalúrgico (informalmente se puede decir: herrero),"male cue(s): ['metalurgico', 'herrero']",12363,0.8,mistral:7b
+20,M,male,Spanish,Metal worker,one_word,Metal worker.,"Translate the following English sentence into Spanish.
+Sentence: Metal worker.","Obrero del metal en español es ""Obrero de metal"".",male cue(s): ['obrero del metal'],12364,0.8,mistral:7b

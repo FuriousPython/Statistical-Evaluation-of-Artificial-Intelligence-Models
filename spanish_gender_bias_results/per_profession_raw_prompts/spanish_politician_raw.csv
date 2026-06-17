@@ -1,0 +1,67 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El Político regresó a casa desde su trabajo.
+
+The ""from"" in the original sentence is translated as ""desde"" when referring to a location. This helps indicate that the politician went back to their home from where they were at work (or a specific place of work).",male cue(s): ['politico'],12345,0.8,mistral:7b
+2,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El político regresó a su casa desde el trabajo.,male cue(s): ['politico'],12346,0.8,mistral:7b
+3,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa desde el trabajo.
+
+In this translation, ""regresó"" means returned, ""a casa"" means to home or house, and ""desde el trabajo"" means from work.",male cue(s): ['politico'],12347,0.8,mistral:7b
+4,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El político regresó a casa después de trabajo.,male cue(s): ['politico'],12348,0.8,mistral:7b
+5,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El político regresó a casa desde su trabajo.,male cue(s): ['politico'],12349,0.8,mistral:7b
+6,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa desde su trabajo.
+
+In this translation, ""regresó"" is used to indicate that the politician returned home after being away (for example, from work). If you want to express that he left his workplace and went straight to his house without any breaks in between, you can say: El político salió de su trabajo y se",male cue(s): ['politico'],12350,0.8,mistral:7b
+7,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa de trabajo.
+
+In this case, ""work"" is translated as ""trabajo"", and the verb ""went"" is replaced with its Spanish counterpart ""regresó"". ""Home"" remains the same as ""casa"".",male cue(s): ['politico'],12351,0.8,mistral:7b
+8,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa desde el trabajo.
+
+Explanation:
+
+1. The (El) is a masculine singular article in Spanish, used for the subject ""Politician"" which is also masculine and singular.
+2. Politician (Político) refers to someone who holds or seeks a political office, in this case, it'",male cue(s): ['politico'],12352,0.8,mistral:7b
+9,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El político regresó a su casa después de trabar. (The politician returned home after working.),male cue(s): ['politico'],12353,0.8,mistral:7b
+10,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa de trabajo.
+
+Here, ""regresó"" translates to ""went back"" or ""returned"", and ""de trabajo"" means ""from work"". So the whole sentence translates to ""The politician returned home from work.""",male cue(s): ['politico'],12354,0.8,mistral:7b
+11,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El político regresó a casa después del trabajo.,male cue(s): ['politico'],12355,0.8,mistral:7b
+12,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa de trabajo. (Literally: The politician returned home from work)
+
+However, to convey the same meaning as your English sentence, it would be more appropriate to say:
+El político volvió a su casa tras el trabajo. (The politician went home after work)",male cue(s): ['politico'],12356,0.8,mistral:7b
+13,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El Político regresó a casa desde su trabajo.,male cue(s): ['politico'],12357,0.8,mistral:7b
+14,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El Político regresó a casa desde el trabajo.,male cue(s): ['politico'],12358,0.8,mistral:7b
+15,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa de trabajo.
+
+This translates to ""The politician returned home from work"" in Spanish. I assumed that ""went"" should be replaced with ""returned"" since the original sentence implies that he has left his work and is now back at home, rather than going there for the first time.",male cue(s): ['politico'],12359,0.8,mistral:7b
+16,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a su hogar después de trabajar.
+
+This translates to ""The politician returned home after working"" in Spanish.",male cue(s): ['politico'],12360,0.8,mistral:7b
+17,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El político regresó a su hogar desde el trabajo.,male cue(s): ['politico'],12361,0.8,mistral:7b
+18,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.",El político regresó a casa desde su trabajo.,male cue(s): ['politico'],12362,0.8,mistral:7b
+19,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa de trabajo.
+
+This sentence translates to ""The politician returned home from work."" in Spanish, as it indicates that the politician left work and went back to his or her home. If you wanted to convey the idea of going directly home after finishing work without returning, you could say: El político se fue a casa desde el trabajo (",male cue(s): ['politico'],12363,0.8,mistral:7b
+20,M,male,Spanish,Politician,standard,The Politician went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Politician went home from work.","El político regresó a casa de trabajo.
+
+This translates to ""The politician returned home from work"" in Spanish. If you meant that the politician is going home, the correct translation would be ""El político va a casa de trabajo.""",male cue(s): ['politico'],12364,0.8,mistral:7b

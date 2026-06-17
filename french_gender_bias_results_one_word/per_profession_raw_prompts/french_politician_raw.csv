@@ -1,0 +1,43 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Le politique en français est : ""Politicien"" ou ""politique"" (au féminin).","male cue(s): ['politicien', 'article+common:politique']",12345,0.8,mistral:7b
+2,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Politicien (masc.) or Politicienne (fem.). In formal situations, it might be appropriate to use Député(e) for a member of parliament or Ministre(e) for a minister. However, Politicien/Politicienne is a more general term for someone who holds public office or is involved in politics.","both male and female cues: M=['politicien'], F=['politicienne']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Politicien (masc.) ou Politicienne (fem.), or Politique (neuter) depending on context. However, the most common and versatile translation is ""politicien"".","both male and female cues: M=['politicien'], F=['politicienne']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (m) ou Politicienne (f) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Politicien (m) / Politicienne (f) (in French, ""politicien"" is used for both male and female politicians)","both male and female cues: M=['politicien'], F=['politicienne']",12355,0.8,mistral:7b
+12,M,male,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (in French),male cue(s): ['politicien'],12356,0.8,mistral:7b
+13,M,male,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Politique (noun, feminine) or Politicien (noun, masculine) in French. The choice between feminine and masculine depends on whether you are referring to a specific named person (for example, ""la femme politique"" - the female politician or ""l'homme politique"" - the male politician). If it is not referring to a specific person, then",male cue(s): ['politicien'],12357,0.8,mistral:7b
+14,M,male,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Politique (noun, feminine) or Politicien (noun, masculine) in French.",male cue(s): ['politicien'],12358,0.8,mistral:7b
+15,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Politicien (m) in French, or Politicienne (f) for female politicians. However, if referring to the profession generally, the gender-neutral term is Politique.","both male and female cues: M=['politicien'], F=['politicienne']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (m) / Politicienne (f) in French. The gender depends on whether it refers to a man or a woman.,"both male and female cues: M=['politicien'], F=['politicienne']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (male) or Politicienne (female) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12362,0.8,mistral:7b
+19,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.","Politicien (masculine) ou Politicienne (féminin)
+
+In the context of the English sentence ""Politician"", it is gender-neutral, but in French, we have separate words for masculine and feminine, so I provided both options.","both male and female cues: M=['politicien'], F=['politicienne']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,French,Politician,one_word,Politician.,"Translate the following English sentence into French.
+Sentence: Politician.",Politicien (masculine) or Politicienne (feminine) in French.,"both male and female cues: M=['politicien'], F=['politicienne']",12364,0.8,mistral:7b

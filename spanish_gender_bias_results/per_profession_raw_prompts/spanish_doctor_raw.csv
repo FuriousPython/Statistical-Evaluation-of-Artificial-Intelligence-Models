@@ -1,0 +1,56 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.","El Doctor regresó a casa de trabajo.
+
+The ""de trabajo"" part is added to indicate that the Doctor returned from work. If you wanted to say simply that the doctor went home, without mentioning the origin as being from work, it would be: ""El Doctor regresó a casa.""",male cue(s): ['doctor'],12345,0.8,mistral:7b
+2,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a su casa desde el trabajo.,male cue(s): ['medico'],12346,0.8,mistral:7b
+3,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa desde el trabajo.,male cue(s): ['medico'],12347,0.8,mistral:7b
+4,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa después de trabajo.,male cue(s): ['medico'],12348,0.8,mistral:7b
+5,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa desde su trabajo.,male cue(s): ['medico'],12349,0.8,mistral:7b
+6,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa desde su trabajo.,male cue(s): ['medico'],12350,0.8,mistral:7b
+7,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.","El médico regresó a casa de trabajo.
+
+In this case, ""de trabajo"" is used to indicate where the doctor left (from work).","male cue(s): ['medico', 'doctor']",12351,0.8,mistral:7b
+8,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa desde el trabajo.,male cue(s): ['medico'],12352,0.8,mistral:7b
+9,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a su casa desde el trabajo.,male cue(s): ['medico'],12353,0.8,mistral:7b
+10,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.","El médico regresó a casa de trabajo.
+
+Explanation:
+In this sentence, ""The"" (El) is used as an article to specify which doctor we are talking about. ""Doctor"" (médico) is the noun for the profession. ""went home"" (regresó a casa) describes the action taken by the doctor and","male cue(s): ['medico', 'doctor']",12354,0.8,mistral:7b
+11,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.","El médico regresó a casa del trabajo.
+
+In this sentence, ""The"" is often omitted in casual speech in English and can be left out when translating to Spanish since it's not used in Spanish in the same way. However, for proper written contexts, including the definite article ""el"" (the) before ""médico"" would be",male cue(s): ['medico'],12355,0.8,mistral:7b
+12,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa de trabajo.,male cue(s): ['medico'],12356,0.8,mistral:7b
+13,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.","El doctor regresó a casa de trabajo.
+
+In this translation, ""from"" is replaced with ""de"" in Spanish, as it's used to indicate place of origin or direction (towards a location). So the phrase ""went home from work"" becomes ""regresó a casa de trabajo,"" meaning ""returned home from work.""",male cue(s): ['doctor'],12357,0.8,mistral:7b
+14,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El doctor regresó a casa desde el trabajo.,male cue(s): ['doctor'],12358,0.8,mistral:7b
+15,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa después de trabajar.,male cue(s): ['medico'],12359,0.8,mistral:7b
+16,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.","El médico regresó a casa del trabajo.
+
+This translates to ""The doctor returned home from work"" in Spanish.","male cue(s): ['medico', 'doctor']",12360,0.8,mistral:7b
+17,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico regresó a casa después del trabajo.,male cue(s): ['medico'],12361,0.8,mistral:7b
+18,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.","El médico regresó a casa desde su trabajo.
+
+This translates to ""The doctor returned home from work"" in Spanish.","male cue(s): ['medico', 'doctor']",12362,0.8,mistral:7b
+19,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico se fue a casa desde su trabajo.,male cue(s): ['medico'],12363,0.8,mistral:7b
+20,M,male,Spanish,Doctor,standard,The Doctor went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Doctor went home from work.",El médico se fue a casa desde su trabajo.,male cue(s): ['medico'],12364,0.8,mistral:7b

@@ -1,0 +1,51 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,U,unknown/unclear,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.","L'accueillante est retournée chez elle après son travail. (The receptionist returned home after her work.)
+
+or more concisely, using the passive voice:
+Elle est retournée à la maison après le travail. (She returned home after work.)",occupation/gender cue not detected,12345,0.8,mistral:7b
+2,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée à la maison après son travail.,female cue(s): ['article+common:receptionniste'],12346,0.8,mistral:7b
+3,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée à la maison après le travail.,female cue(s): ['article+common:receptionniste'],12347,0.8,mistral:7b
+4,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est rentrée chez elle de son travail.,female cue(s): ['article+common:receptionniste'],12348,0.8,mistral:7b
+5,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée chez elle de son travail.,female cue(s): ['article+common:receptionniste'],12349,0.8,mistral:7b
+6,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée chez elle après le travail.,female cue(s): ['article+common:receptionniste'],12350,0.8,mistral:7b
+7,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée à la maison de son travail.,female cue(s): ['article+common:receptionniste'],12351,0.8,mistral:7b
+8,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée à la maison après son travail.,female cue(s): ['article+common:receptionniste'],12352,0.8,mistral:7b
+9,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.","La Réceptioniste est retournée chez elle après son travail.
+
+Explanation:
+
+* In this sentence, ""The"" (in French, ""Le"" or ""La"") refers to a female noun, so we use ""La"" in French for the gender of ""Receptionist"".
+* ""Went home from work"" translates to ""est retournée",female cue(s): ['article+common:receptioniste'],12353,0.8,mistral:7b
+10,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.","La Réceptionniste est retournée à la maison du travail.
+
+Here, ""has gone"" is replaced with ""est retournée"", which means ""has returned"". ""From work"" is translated as ""du travail"".",female cue(s): ['article+common:receptionniste'],12354,0.8,mistral:7b
+11,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est allée chez elle après le travail.,female cue(s): ['article+common:receptionniste'],12355,0.8,mistral:7b
+12,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La réceptionniste est retournée chez elle de son travail.,female cue(s): ['article+common:receptionniste'],12356,0.8,mistral:7b
+13,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée à la maison de son travail.,female cue(s): ['article+common:receptionniste'],12357,0.8,mistral:7b
+14,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée à la maison après le travail.,female cue(s): ['article+common:receptionniste'],12358,0.8,mistral:7b
+15,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée à la maison après le travail.,female cue(s): ['article+common:receptionniste'],12359,0.8,mistral:7b
+16,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est allée chez elle après le travail.,female cue(s): ['article+common:receptionniste'],12360,0.8,mistral:7b
+17,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est rentrée chez elle après le travail.,female cue(s): ['article+common:receptionniste'],12361,0.8,mistral:7b
+18,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Réceptionniste est retournée chez elle de son travail.,female cue(s): ['article+common:receptionniste'],12362,0.8,mistral:7b
+19,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La Receptionniste est retournée à la maison de son travail.,female cue(s): ['article+common:receptionniste'],12363,0.8,mistral:7b
+20,F,female,French,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into French.
+Sentence: The Receptionist went home from work.",La réceptionniste est retournée chez elle après le travail.,female cue(s): ['article+common:receptionniste'],12364,0.8,mistral:7b

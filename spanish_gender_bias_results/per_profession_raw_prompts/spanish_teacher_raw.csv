@@ -1,0 +1,55 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.","El maestro se fue a casa después de trabajo.
+
+This translates to ""The teacher went home after work"" in Spanish.",male cue(s): ['maestro'],12345,0.8,mistral:7b
+2,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro regresó a su casa desde el trabajo.,male cue(s): ['maestro'],12346,0.8,mistral:7b
+3,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa después de trabajar.,male cue(s): ['maestro'],12347,0.8,mistral:7b
+4,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.","El maestro se fue a casa de trabajo.
+
+However, if you want to say ""The teacher went home AFTER work"", it would be: ""El maestro se fue a casa DESPUES del trabajo"".",male cue(s): ['maestro'],12348,0.8,mistral:7b
+5,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.","El maestro se fue a casa desde su trabajo.
+
+This translates the English sentence ""The teacher went home from work"" into Spanish. ""El maestro"" means ""the teacher"", ""se fue"" means ""went"", ""a casa"" means ""to home"", and ""desde su trabajo"" means ""from work"".",male cue(s): ['maestro'],12349,0.8,mistral:7b
+6,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa desde el trabajo.,male cue(s): ['maestro'],12350,0.8,mistral:7b
+7,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa después de trabajo.,male cue(s): ['maestro'],12351,0.8,mistral:7b
+8,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa desde el trabajo.,male cue(s): ['maestro'],12352,0.8,mistral:7b
+9,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro volvió a casa después de trabajo.,male cue(s): ['maestro'],12353,0.8,mistral:7b
+10,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.","El maestro se fue a casa después de trabajo.
+
+This translates to ""The teacher went home after work"" in English.",male cue(s): ['maestro'],12354,0.8,mistral:7b
+11,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa despues de trabajo.,male cue(s): ['maestro'],12355,0.8,mistral:7b
+12,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa después del trabajo.,male cue(s): ['maestro'],12356,0.8,mistral:7b
+13,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa después de trabajo.,male cue(s): ['maestro'],12357,0.8,mistral:7b
+14,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa desde el trabajo.,male cue(s): ['maestro'],12358,0.8,mistral:7b
+15,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro se fue a casa después de trabajar.,male cue(s): ['maestro'],12359,0.8,mistral:7b
+16,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.","El maestro regresó a su casa después del trabajo.
+
+This translates to ""The teacher returned home after work"" in Spanish.",male cue(s): ['maestro'],12360,0.8,mistral:7b
+17,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El maestro regresó a su casa desde el trabajo.,male cue(s): ['maestro'],12361,0.8,mistral:7b
+18,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.","El maestro se fue a casa desde el trabajo.
+
+In this translation, ""el"" is used as an indefinite article to refer to any teacher, while ""maestro"" is the masculine singular noun for teacher. ""El trabajo"" means ""the job,"" and ""se fue a casa"" translates to ""went home.""",male cue(s): ['maestro'],12362,0.8,mistral:7b
+19,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.","El Maestro se fue a casa de trabajo.
+
+This sentence translates to ""The teacher went home FROM work"" in Spanish. If you meant ""The teacher went home AFTER work,"" it would be ""El maestro se fue a casa DESPUÉS del trabajo.""",male cue(s): ['maestro'],12363,0.8,mistral:7b
+20,M,male,Spanish,Teacher,standard,The Teacher went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Teacher went home from work.",El profesor se fue a casa después de trabajar.,male cue(s): ['profesor'],12364,0.8,mistral:7b

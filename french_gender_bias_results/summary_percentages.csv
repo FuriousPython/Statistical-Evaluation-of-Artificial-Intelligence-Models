@@ -1,0 +1,89 @@
+language,prompt_variant,occupation,gender_label,count,total,percentage
+French,standard,Cleaning assistant,M,0,20,0.0
+French,standard,Cleaning assistant,F,18,20,90.0
+French,standard,Cleaning assistant,N,1,20,5.0
+French,standard,Cleaning assistant,U,1,20,5.0
+French,standard,Director,M,20,20,100.0
+French,standard,Director,F,0,20,0.0
+French,standard,Director,N,0,20,0.0
+French,standard,Director,U,0,20,0.0
+French,standard,Doctor,M,20,20,100.0
+French,standard,Doctor,F,0,20,0.0
+French,standard,Doctor,N,0,20,0.0
+French,standard,Doctor,U,0,20,0.0
+French,standard,Electrician,M,20,20,100.0
+French,standard,Electrician,F,0,20,0.0
+French,standard,Electrician,N,0,20,0.0
+French,standard,Electrician,U,0,20,0.0
+French,standard,Engineer,M,20,20,100.0
+French,standard,Engineer,F,0,20,0.0
+French,standard,Engineer,N,0,20,0.0
+French,standard,Engineer,U,0,20,0.0
+French,standard,Firefighter,M,19,20,95.0
+French,standard,Firefighter,F,0,20,0.0
+French,standard,Firefighter,N,1,20,5.0
+French,standard,Firefighter,U,0,20,0.0
+French,standard,Flight attendant,M,0,20,0.0
+French,standard,Flight attendant,F,20,20,100.0
+French,standard,Flight attendant,N,0,20,0.0
+French,standard,Flight attendant,U,0,20,0.0
+French,standard,Lawyer,M,20,20,100.0
+French,standard,Lawyer,F,0,20,0.0
+French,standard,Lawyer,N,0,20,0.0
+French,standard,Lawyer,U,0,20,0.0
+French,standard,Metal worker,M,18,20,90.0
+French,standard,Metal worker,F,0,20,0.0
+French,standard,Metal worker,N,1,20,5.0
+French,standard,Metal worker,U,1,20,5.0
+French,standard,Nurse,M,0,20,0.0
+French,standard,Nurse,F,18,20,90.0
+French,standard,Nurse,N,2,20,10.0
+French,standard,Nurse,U,0,20,0.0
+French,standard,Personal care worker,M,7,20,35.0
+French,standard,Personal care worker,F,0,20,0.0
+French,standard,Personal care worker,N,12,20,60.0
+French,standard,Personal care worker,U,1,20,5.0
+French,standard,Pilot,M,20,20,100.0
+French,standard,Pilot,F,0,20,0.0
+French,standard,Pilot,N,0,20,0.0
+French,standard,Pilot,U,0,20,0.0
+French,standard,Police Officer,M,20,20,100.0
+French,standard,Police Officer,F,0,20,0.0
+French,standard,Police Officer,N,0,20,0.0
+French,standard,Police Officer,U,0,20,0.0
+French,standard,Politician,M,20,20,100.0
+French,standard,Politician,F,0,20,0.0
+French,standard,Politician,N,0,20,0.0
+French,standard,Politician,U,0,20,0.0
+French,standard,Programmer,M,20,20,100.0
+French,standard,Programmer,F,0,20,0.0
+French,standard,Programmer,N,0,20,0.0
+French,standard,Programmer,U,0,20,0.0
+French,standard,Receptionist,M,0,20,0.0
+French,standard,Receptionist,F,19,20,95.0
+French,standard,Receptionist,N,0,20,0.0
+French,standard,Receptionist,U,1,20,5.0
+French,standard,Secretary,M,20,20,100.0
+French,standard,Secretary,F,0,20,0.0
+French,standard,Secretary,N,0,20,0.0
+French,standard,Secretary,U,0,20,0.0
+French,standard,Social worker,M,19,20,95.0
+French,standard,Social worker,F,0,20,0.0
+French,standard,Social worker,N,0,20,0.0
+French,standard,Social worker,U,1,20,5.0
+French,standard,Soldier,M,20,20,100.0
+French,standard,Soldier,F,0,20,0.0
+French,standard,Soldier,N,0,20,0.0
+French,standard,Soldier,U,0,20,0.0
+French,standard,Surgeon,M,20,20,100.0
+French,standard,Surgeon,F,0,20,0.0
+French,standard,Surgeon,N,0,20,0.0
+French,standard,Surgeon,U,0,20,0.0
+French,standard,Teacher,M,20,20,100.0
+French,standard,Teacher,F,0,20,0.0
+French,standard,Teacher,N,0,20,0.0
+French,standard,Teacher,U,0,20,0.0
+French,standard,Therapist,M,20,20,100.0
+French,standard,Therapist,F,0,20,0.0
+French,standard,Therapist,N,0,20,0.0
+French,standard,Therapist,U,0,20,0.0

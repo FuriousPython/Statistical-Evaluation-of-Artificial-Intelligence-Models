@@ -1,0 +1,43 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Le thérapeute (male) ou la thérapeutique (female, neuter if it refers to a type of therapy) en français.",male cue(s): ['article+common:therapeute'],12345,0.8,mistral:7b
+2,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Thérapeute (male) or Thérapeutique (female) in French. However, in a more informal context, one might also use psychologue or psychiatre.",common-form occupation without gender article: ['therapeute'],12346,0.8,mistral:7b
+3,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Thérapeute (male) or Thérapeutique (female) in French. However, when referring to a medical professional, it is more common to use 'therapeute' as a gender-neutral term.",common-form occupation without gender article: ['therapeute'],12347,0.8,mistral:7b
+4,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeuteuse (female) in French.,common-form occupation without gender article: ['therapeute'],12348,0.8,mistral:7b
+5,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeutique (female) in French.,common-form occupation without gender article: ['therapeute'],12349,0.8,mistral:7b
+6,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Thérapeute (male) or Thérapeutique (female) in French. However, in informal contexts, Thérapeute is commonly used for both genders.",common-form occupation without gender article: ['therapeute'],12350,0.8,mistral:7b
+7,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeutique (female) in French.,common-form occupation without gender article: ['therapeute'],12351,0.8,mistral:7b
+8,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Thérapeute (male) or Thérapeutique (female) in French. However, if you are referring to a profession rather than a specific person, it would be Therapeute(s) in the plural form.",common-form occupation without gender article: ['therapeute'],12352,0.8,mistral:7b
+9,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Thérapeute (masc.) or Thérapeutique (fem.), depending on gender. If referring to the profession in general, one can use simply ""Thérapeutes"".",common-form occupation without gender article: ['therapeute'],12353,0.8,mistral:7b
+10,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Thérapeute (male) or Thérapeuteuse (female) in French. The masculine form is more commonly used in general contexts, whereas the feminine form is used when referring to a female therapist specifically.",common-form occupation without gender article: ['therapeute'],12354,0.8,mistral:7b
+11,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeute(e) (female) in French.,common-form occupation without gender article: ['therapeute'],12355,0.8,mistral:7b
+12,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (Masculine) or Thérapeutique (Feminine) in French.,common-form occupation without gender article: ['therapeute'],12356,0.8,mistral:7b
+13,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeuteuse (female) in French.,common-form occupation without gender article: ['therapeute'],12357,0.8,mistral:7b
+14,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Le thérapeute (masc.) ou la thérapeute (fem.) en français.,"both male and female cues: M=['article+common:therapeute'], F=['article+common:therapeute']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeuteuse (female) in French.,common-form occupation without gender article: ['therapeute'],12359,0.8,mistral:7b
+16,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeute (female) in French.,common-form occupation without gender article: ['therapeute'],12360,0.8,mistral:7b
+17,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeute(e) (female) in French.,common-form occupation without gender article: ['therapeute'],12361,0.8,mistral:7b
+18,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (male) or Thérapeutique (female) in French.,common-form occupation without gender article: ['therapeute'],12362,0.8,mistral:7b
+19,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.","Thérapeute (for a male therapist)
+Thérapeutè (for a female therapist)
+In informal settings, it can also be ""le psychothérapeute"" or ""la psychothérapeutique"".",common-form occupation without gender article: ['therapeute'],12363,0.8,mistral:7b
+20,N,neutral/both/no gender,French,Therapist,one_word,Therapist.,"Translate the following English sentence into French.
+Sentence: Therapist.",Thérapeute (feminine: thérapeutique) in French.,common-form occupation without gender article: ['therapeute'],12364,0.8,mistral:7b

@@ -1,0 +1,51 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Avocat est retourné chez lui de son travail. (Informal: Il est rentré chez lui après son travail.),male cue(s): ['avocat'],12345,0.8,mistral:7b
+2,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Le avocat est retourné chez lui après le travail. (literally: The lawyer has returned home after work)
+However, a more idiomatic way to say it would be: Le avocat est rentré chez lui du travail. (The lawyer came/went home from work)",male cue(s): ['avocat'],12346,0.8,mistral:7b
+3,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Le Avocat est retourné chez lui après le travail. (Literally)
+Il est allé chez lui après le travail. (Informal and common usage)",male cue(s): ['avocat'],12347,0.8,mistral:7b
+4,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12348,0.8,mistral:7b
+5,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le Avocat est retourné à la maison de son travail.,male cue(s): ['avocat'],12349,0.8,mistral:7b
+6,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Le Avocat est retourné à la maison de son travail.
+
+In this translation, ""le"" is used to denote a masculine singular noun (lawyer), ""l'avocat"" is the formal way of saying lawyer in French. ""est retourné"" translates to ""has returned"", and ""à la maison de son travail"" means ""to",male cue(s): ['avocat'],12350,0.8,mistral:7b
+7,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12351,0.8,mistral:7b
+8,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Le avocat est retourné à la maison après le travail. (Literally: The lawyer has returned to home after work)
+However, a more common and concise way to say it would be: Le avocat est rentré chez lui du travail. (The lawyer went home from work)",male cue(s): ['avocat'],12352,0.8,mistral:7b
+9,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le Avocat est rentré chez lui après le travail. (Formal) or Il est retourné à la maison après le travail. (Informal),male cue(s): ['avocat'],12353,0.8,mistral:7b
+10,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après son travail.,male cue(s): ['avocat'],12354,0.8,mistral:7b
+11,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12355,0.8,mistral:7b
+12,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Le Avocat est retourné chez lui après le travail. (Formal)
+Le avocat est rentré chez lui après le travail. (Informal)",male cue(s): ['avocat'],12356,0.8,mistral:7b
+13,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12357,0.8,mistral:7b
+14,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Avocat est retourné chez lui après le travail. (Literally, ""The lawyer returned home after work."")",male cue(s): ['avocat'],12358,0.8,mistral:7b
+15,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12359,0.8,mistral:7b
+16,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui de son travail.,male cue(s): ['avocat'],12360,0.8,mistral:7b
+17,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12361,0.8,mistral:7b
+18,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Le avocat est retourné à la maison de travail.
+
+This translates to ""The lawyer returned home from work"" in French. The French phrase uses the verb ""est retourné"" which means ""returned"", and the preposition ""à la maison"" meaning ""home"".",male cue(s): ['avocat'],12362,0.8,mistral:7b
+19,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.","Le Avocat est retourné chez lui après le travail. (Literally: The lawyer has returned at home after work)
+
+A more idiomatic way to say it would be: L'avocat est rentré à la maison de son travail. (The lawyer has come back home from work)",male cue(s): ['avocat'],12363,0.8,mistral:7b
+20,M,male,French,Lawyer,standard,The Lawyer went home from work.,"Translate the following English sentence into French.
+Sentence: The Lawyer went home from work.",Le Avocat est retourné chez lui après le travail.,male cue(s): ['avocat'],12364,0.8,mistral:7b

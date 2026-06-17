@@ -1,0 +1,41 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrleute (mascular plural) or Feuerwehrfrauen (feminine plural, for female firefighters), or all-gender alternative: Feuerwehrmitglieder (members of the fire department). In informal contexts, you might also hear ""Feuerwehrmänner"" (firemen) or ""Fe",neutral cue(s): ['feuerwehrleute'],12345,0.8,mistral:7b
+2,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. The neutral version is Feuerwehrmensch, but it's less common.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.",Feuerwehrmann (male) or Feuerwehrfrau (female) in German. The neutral form is Feuerwehrperson.,"both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. However, a more neutral term for both genders is Feuerwehrpersonal (fire service personnel).","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.",Feuerwehrmann (male) or Feuerwehrfrau (female) in German.,"both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. For a general term, Feuerwehrmann/-in could be used.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. However, for a generic term that could refer to both genders, you can use Feuerwehrpersonal.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. However, if referring to a generic firefighter regardless of gender, you can use Feuerwehrläufer/in.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.",Feuerwehrmann (male firefighter) or Feuerwehrfrau (female firefighter) in German.,"both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.",Feuerwehrmann (male) or Feuerwehrfrau (female) in German. The general term for both genders is Feuerwehrmitglied.,"both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.",Feuerwehrmann (male) or Feuerwehrfrau (female) are the German translations for firefighter.,"both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12355,0.8,mistral:7b
+12,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (for male) or Feuerwehrfrau (for female) are the translations of ""Firefighter"" in German. However, if you want to say simply 'fireman' without specifying gender, it can be translated as 'Feuerwehrmann/Feuerwehrmänner'. Similarly, for 'woman fire","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. However, the neutral form is Feuerwehrmensch which can be used for both genders.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. However, if you want a more generic term, Feuerwehrmitarbeiter (Fire department employee) could be used.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. However, when referring to a firefighter in general, without specifying gender, one can use Feuerwehrmensch.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.",Feuerwehrmann (male) or Feuerwehrfrau (female) - German for firefighter.,"both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) for a specific gender, but if you want a neutral term, you can use Feuerwehrmensch.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (male) or Feuerwehrfrau (female) in German. For a generic term, you can also use Feuerwehrpersonal.","both male and female cues: M=['feuerwehrmann'], F=['feuerwehrfrau']",12362,0.8,mistral:7b
+19,M,male,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.","Feuerwehrmann (informal) or Feuerwehrleutnant (formal, lieutenant) are possible translations for ""Firefighter"" in German. However, it's important to note that the specific rank or position may not always be specified depending on context.",male cue(s): ['feuerwehrmann'],12363,0.8,mistral:7b
+20,N,neutral/both/no gender,German,Firefighter,one_word,Firefighter.,"Translate the following English sentence into German.
+Sentence: Firefighter.",Feuerwehrmann (literally: fireman) or Feuerwehrleute (more generic: fire service personnel) are commonly used terms in German to refer to a firefighter.,neutral cue(s): ['feuerwehrleute'],12364,0.8,mistral:7b

@@ -1,0 +1,64 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (gender-neutral) oder Fluggastdienstleiter/in (formal) or Stewardess (outdated and female-specific) in Deutsch. Es ist jedoch empfohlen, den geschlechterneutralen Ausdruck zu verwenden, wie ""Flugbegleiter"" oder ""Fluggastd","both male and female cues: M=['flugbegleiter'], F=['stewardess']",12345,0.8,mistral:7b
+2,M,male,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/-frau (male or female flight attendant)
+Flughafenpersonal (airport staff, more general term for all personnel working at an airport)",male cue(s): ['flugbegleiter'],12346,0.8,mistral:7b
+3,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (masculine or feminine, depending on context)
+Flugbegleiter (neuter, if used in a non-gendered context)",neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12347,0.8,mistral:7b
+4,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.",Flugbegleiter/in (female) or Flugbegleiter (male and neutral) in German.,neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12348,0.8,mistral:7b
+5,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (for a female flight attendant) or Flugbegleiter (for a male flight attendant) in German. The neutral form ""Flugbegleiter"" can also be used for both genders.",neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12349,0.8,mistral:7b
+6,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (männlich/weiblich)
+
+Note that in German, nouns for professions often have a gender-specific form (male or female). In this case, ""Flugbegleiter"" is used for male flight attendants, and ""Flugbegleiterin"" is used for female flight attend","both male and female cues: M=['flugbegleiter'], F=['flugbegleiterin']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (masculine or feminine depending on context)
+
+Flugbegleiter is used when referring to a flight attendant in general, while Flugbegleiterin is used for a female flight attendant. When the gender isn't specified, Flugbegleiter can also be used for both male and female flight","both male and female cues: M=['flugbegleiter'], F=['flugbegleiterin']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.",Flugbegleiter/in (männlich/weiblich),neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12352,0.8,mistral:7b
+9,M,male,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.",Flugbegleiter/-in (masculine/feminine) oder Luftfahrtspezialist(in) (gender-neutral) ist die deutsche Bezeichnung für einen Flugbegleiter.,male cue(s): ['flugbegleiter'],12353,0.8,mistral:7b
+10,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (gender-neutral) oder Flughafenpersonal (more general, not only flight attendants)
+
+Flight attendant (male): Flugbegleiter
+Flight attendant (female): Flugbegleiterin
+
+For a more gender-neutral option: Flugbegleiter/","both male and female cues: M=['flugbegleiter'], F=['flugbegleiterin']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (Masculine/Feminine)
+
+Flughafenpersonal (Neutral)
+
+These translations are gender-specific and neutral respectively, but the most common term used for flight attendants in German is ""Flugbegleiter"". However, it's worth noting that in formal contexts or when referring",neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12355,0.8,mistral:7b
+12,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (gender-neutral) or Flughafenpersonal (for a female flight attendant) in German. If you want to specify that it's a male flight attendant, use Flugbegleiter.",neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12356,0.8,mistral:7b
+13,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.",Flugbegleiter/in (female) or Flugbegleiter (male and neutral) in German.,neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12357,0.8,mistral:7b
+14,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.",Flugbegleiter/in (for male and female) or Flugbegleiter (singular for both genders) in German.,neutral cue(s): ['regex:\\bflugbegleiter\\s*/\\s*in\\b'],12358,0.8,mistral:7b
+15,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (gender-neutral) or Flugbeteiligte (for a collective noun)
+
+Flugbegleiter (male) or Flugbegleiterin (female) would also be appropriate, but using gender-neutral language is becoming more common in German.","both male and female cues: M=['flugbegleiter'], F=['flugbegleiterin', 'flugbeteiligte']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/-beambte (male) or Flugbegleiterin (female) in German. The neutral form ""Flugbegleiter"" is also commonly used to refer to both male and female flight attendants.","both male and female cues: M=['flugbegleiter'], F=['flugbegleiterin']",12360,0.8,mistral:7b
+17,M,male,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.",Flugbegleiter/-innen (masculine and feminine respectively) or Flugbeteiligungsdienst (neutral) in German.,male cue(s): ['flugbegleiter'],12361,0.8,mistral:7b
+18,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (männlich: Flugbegleiter, weiblich: Flugbegleiterin)
+
+The masculine and feminine forms are used depending on the context or the specific person being referred to. For example, ""Der Flugbegleiter"" means ""the flight attendant (male)"" and ""","both male and female cues: M=['flugbegleiter'], F=['flugbegleiterin']",12362,0.8,mistral:7b
+19,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (gender-neutral) or Flughafenpersonal (airport personnel - more general, but can also refer to ground staff) in German. If you want a gender-specific term, it would be Flugbegleiter (male flight attendant) and Flugbegleiterin (female flight attendant).","both male and female cues: M=['flugbegleiter'], F=['flugbegleiterin']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,German,Flight attendant,one_word,Flight attendant.,"Translate the following English sentence into German.
+Sentence: Flight attendant.","Flugbegleiter/in (masculine/feminine)
+
+Flight attendant (plural): Flugbegleiter/innen
+
+For a more formal context, you can use Steward/Stewardess, which translates to Flugbegleiter or Flugbegleiterin respectively. However, the term ""Flug","both male and female cues: M=['flugbegleiter', 'steward'], F=['flugbegleiterin', 'stewardess']",12364,0.8,mistral:7b

@@ -1,0 +1,41 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (Masculine) or Avocate (Feminine) in French.,"both male and female cues: M=['avocat'], F=['avocate']",12345,0.8,mistral:7b
+2,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (for a criminal lawyer, avocat d'affaires is used for business lawyers)",male cue(s): ['avocat'],12346,0.8,mistral:7b
+3,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (in French),male cue(s): ['avocat'],12347,0.8,mistral:7b
+4,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (informal: avoué) in French.,male cue(s): ['avocat'],12348,0.8,mistral:7b
+5,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (in French),male cue(s): ['avocat'],12349,0.8,mistral:7b
+6,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (in French),male cue(s): ['avocat'],12350,0.8,mistral:7b
+7,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (for a professional lawyer) or Avocate (in the sense of a person who pleads a cause, but less commonly used for a professional lawyer) in French.","both male and female cues: M=['avocat'], F=['avocate']",12351,0.8,mistral:7b
+8,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (informal: avoué),male cue(s): ['avocat'],12352,0.8,mistral:7b
+9,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (in French, the word for lawyer)",male cue(s): ['avocat'],12353,0.8,mistral:7b
+10,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (informal) / Avocat ou avocate de droit (formal) in French. The formal version would be used when referring to a lawyer in a professional context, while the informal version is commonly used in everyday conversation.","both male and female cues: M=['avocat'], F=['avocate']",12354,0.8,mistral:7b
+11,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (in French) is the translation for the word ""Lawyer.""",male cue(s): ['avocat'],12355,0.8,mistral:7b
+12,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (in French) is the translation for Lawyer.,male cue(s): ['avocat'],12356,0.8,mistral:7b
+13,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (male) or Avocate (female) in French. However, if you want a gender-neutral term, you can use Avocat(e).","both male and female cues: M=['avocat'], F=['avocate']",12357,0.8,mistral:7b
+14,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (singular) or Avocats (plural) in French.,male cue(s): ['avocat'],12358,0.8,mistral:7b
+15,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (for a professional lawyer) or Avocate (when referring to the act of advocating, but this term is less common for a professional title) in French.","both male and female cues: M=['avocat'], F=['avocate']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (for a criminal lawyer), Avocate (for a civil lawyer) in French. However, when referring to a lawyer in general, either Avocat or Avocate can be used without causing confusion.","both male and female cues: M=['avocat'], F=['avocate']",12360,0.8,mistral:7b
+17,M,male,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (informal) ou avocat(e) (formal) in French.,male cue(s): ['avocat'],12361,0.8,mistral:7b
+18,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (for a professional lawyer) or avocate (in a broader sense, meaning advocate) in French. However, for a more formal context, it's usually ""avocat(e)"" with an accent when referring to a female lawyer.","both male and female cues: M=['avocat'], F=['avocate']",12362,0.8,mistral:7b
+19,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.","Avocat (for a professional lawyer) or Avocate (for a female professional lawyer) in French. For referring to a generic ""lawyer"" without specifying gender, you can use avocat(e), which is an androgynous term.","both male and female cues: M=['avocat'], F=['avocate']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,French,Lawyer,one_word,Lawyer.,"Translate the following English sentence into French.
+Sentence: Lawyer.",Avocat (in formal situations) or avocate (in more informal contexts) in French.,"both male and female cues: M=['avocat'], F=['avocate']",12364,0.8,mistral:7b

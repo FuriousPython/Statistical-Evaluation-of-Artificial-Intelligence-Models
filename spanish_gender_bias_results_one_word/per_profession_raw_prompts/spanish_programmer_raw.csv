@@ -1,0 +1,45 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12345,0.8,mistral:7b
+2,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12346,0.8,mistral:7b
+3,N,neutral/both/no gender,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (Masculino) or Programadora (Femenino) en español.,"both male and female cues: M=['programador'], F=['programadora']",12347,0.8,mistral:7b
+4,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12348,0.8,mistral:7b
+5,N,neutral/both/no gender,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.","Programador (Masculino) or Programadora (Femenino)
+
+In Spanish, like in English, we use ""programmer"" as a gender-neutral term. However, if you want to specify the gender, it can be either ""programador"" for males and ""programadora"" for females.","both male and female cues: M=['programador'], F=['programadora']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (Masculino) or Programadora (Femenino) en español.,"both male and female cues: M=['programador'], F=['programadora']",12350,0.8,mistral:7b
+7,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12351,0.8,mistral:7b
+8,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12352,0.8,mistral:7b
+9,N,neutral/both/no gender,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.","Programador (Masculino) / Programadora (Femenino)
+
+In Spanish, as with many languages, there's a gender distinction for some nouns when referring to a person. In this case, ""Programmer"" can be translated to either ""programador"" (masculine) or ""programadora"" (feminine). Depending on the context","both male and female cues: M=['programador'], F=['programadora']",12353,0.8,mistral:7b
+10,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12354,0.8,mistral:7b
+11,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12355,0.8,mistral:7b
+12,N,neutral/both/no gender,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.","Programador (m) or Programadora (f) in Spanish, depending on gender.","both male and female cues: M=['programador'], F=['programadora']",12356,0.8,mistral:7b
+13,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12357,0.8,mistral:7b
+14,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12358,0.8,mistral:7b
+15,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12359,0.8,mistral:7b
+16,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12360,0.8,mistral:7b
+17,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12361,0.8,mistral:7b
+18,M,male,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (in Spanish),male cue(s): ['programador'],12362,0.8,mistral:7b
+19,N,neutral/both/no gender,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (masculino) or Programadora (femenino) en español.,"both male and female cues: M=['programador'], F=['programadora']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,Spanish,Programmer,one_word,Programmer.,"Translate the following English sentence into Spanish.
+Sentence: Programmer.",Programador (masculino) or Programadora (femenino) en español.,"both male and female cues: M=['programador'], F=['programadora']",12364,0.8,mistral:7b

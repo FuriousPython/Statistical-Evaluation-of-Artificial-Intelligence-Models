@@ -1,0 +1,50 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa del trabajo.,female cue(s): ['article+common:recepcionista'],12345,0.8,mistral:7b
+2,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.","La recepcionista regresó a casa desde el trabajo.
+
+In this translation, ""The"" is omitted because it is not necessary in Spanish for common nouns (like ""receptionist""), and ""from"" is replaced with ""desde"". This means ""from"" in the sense of ""coming from"" or ""leaving from"", not the preposition",female cue(s): ['article+common:recepcionista'],12346,0.8,mistral:7b
+3,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa de trabajo.,female cue(s): ['article+common:recepcionista'],12347,0.8,mistral:7b
+4,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después de trabajo.,female cue(s): ['article+common:recepcionista'],12348,0.8,mistral:7b
+5,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.","La recepcionista se fue a casa de trabajo. (The receptionist went home from work.)
+
+Alternatively, you could say:
+La recepcionista regresó a su casa después del trabajo. (The receptionist returned to her house after work.)",female cue(s): ['article+common:recepcionista'],12349,0.8,mistral:7b
+6,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa desde su trabajo.,female cue(s): ['article+common:recepcionista'],12350,0.8,mistral:7b
+7,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa del trabajo.,female cue(s): ['article+common:recepcionista'],12351,0.8,mistral:7b
+8,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa desde el trabajo.,female cue(s): ['article+common:recepcionista'],12352,0.8,mistral:7b
+9,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista salió a casa después de trabarajo.,female cue(s): ['article+common:recepcionista'],12353,0.8,mistral:7b
+10,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después de su trabajo.,female cue(s): ['article+common:recepcionista'],12354,0.8,mistral:7b
+11,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después del trabajo.,female cue(s): ['article+common:recepcionista'],12355,0.8,mistral:7b
+12,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.","La recepcionista se fue a casa del trabajo.
+
+This translation keeps the original sentence structure and grammar, making it suitable for formal or written contexts. However, in informal or spoken Spanish, you could say ""La recepcionista se fue a su casa desde el trabajo"" or simply ""La recepcionista se fue a trabajar a casa""",female cue(s): ['article+common:recepcionista'],12356,0.8,mistral:7b
+13,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después de trabajo.,female cue(s): ['article+common:recepcionista'],12357,0.8,mistral:7b
+14,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa de trabajo.,female cue(s): ['article+common:recepcionista'],12358,0.8,mistral:7b
+15,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después de trabajo.,female cue(s): ['article+common:recepcionista'],12359,0.8,mistral:7b
+16,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después del trabajo.,female cue(s): ['article+common:recepcionista'],12360,0.8,mistral:7b
+17,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La recepcionista se fue a casa después de trabajar.,female cue(s): ['article+common:recepcionista'],12361,0.8,mistral:7b
+18,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.","La recepcionista se fue a casa desde su trabajo.
+
+This translates to ""The receptionist went home from work"" in Spanish.",female cue(s): ['article+common:recepcionista'],12362,0.8,mistral:7b
+19,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La Recepcionista fue a su casa desde el trabajo.,female cue(s): ['article+common:recepcionista'],12363,0.8,mistral:7b
+20,F,female,Spanish,Receptionist,standard,The Receptionist went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Receptionist went home from work.",La Recepcionista regresó a casa desde el trabajo.,female cue(s): ['article+common:recepcionista'],12364,0.8,mistral:7b

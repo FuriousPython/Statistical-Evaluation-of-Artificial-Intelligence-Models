@@ -1,0 +1,69 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (masculino)
+Política (femenino)
+Político or político/a (neutro)","both male and female cues: M=['politico'], F=['politica']",12345,0.8,mistral:7b
+2,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masculino) or Política (femenino) in Spanish.,"both male and female cues: M=['politico'], F=['politica']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (Masculino) or Política (Femenino) en español.,"both male and female cues: M=['politico'], F=['politica']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (masculino)
+Política (femenino)
+
+In Spanish, we have separate gender-specific terms for politicians depending on their gender. ""Politician"" can be translated as either masculine (""político"") or feminine (""politica""). The appropriate translation would depend on the specific context and gender of the individual being referred to in the sentence","both male and female cues: M=['politico'], F=['politica']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (Masculino) or Política (Femenino)
+
+In Spanish, as in English, ""politician"" can be used for both genders. However, to specify the gender, we use 'Político' for a male politician and 'Política' for a female politician.
+
+Here is the sentence with gender specified:
+-","both male and female cues: M=['politico'], F=['politica']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (Masculino) or Política (Femenino) in Spanish. The gender of the noun depends on the sex of the politician being referred to.,"both male and female cues: M=['politico'], F=['politica']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (masculino)
+Política (femenino)
+
+The masculine form is used for a generic or unspecified politician, while the feminine form is used when referring to a specific female politician. In informal contexts, ""poliburo"" is also used as slang for politician in Spanish-speaking countries.","both male and female cues: M=['politico'], F=['politica']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masculino) or Política (femenino) in Spanish.,"both male and female cues: M=['politico'], F=['politica']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (Masculino) / Política (Femenino)
+
+In Spanish, 'politician' can be either masculine or feminine depending on the gender of the person being referred to. Here are both options:
+
+- Masculino: Político
+- Femenino: Política
+
+So, the correct translation for your sentence","both male and female cues: M=['politico'], F=['politica']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (masculino)
+Política (femenino)
+Político o política (neutro, general)","both male and female cues: M=['politico'], F=['politica']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masculino) o política (femenino) en español.,"both male and female cues: M=['politico'], F=['politica']",12355,0.8,mistral:7b
+12,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masc) or Política (feminine) in Spanish.,"both male and female cues: M=['politico'], F=['politica']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (masculino)
+Política (femenino)
+
+The masculine form is typically used for a generic reference to a politician, but in contexts where the gender of the person isn't known or irrelevant, you can use either form. If the gender is known, you would use ""politico"" for a male politician and ""politica"" for","both male and female cues: M=['politico'], F=['politica']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masculino) or Política (femenino) en español.,"both male and female cues: M=['politico'], F=['politica']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (masculino)
+Política (femenino)
+
+In Spanish, politician can be either masculine (""político"") or feminine (""politica""). The choice depends on the gender of the person being referred to.","both male and female cues: M=['politico'], F=['politica']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masculino) o Política (femenino) en español.,"both male and female cues: M=['politico'], F=['politica']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masculino) o política (femenino) en español.,"both male and female cues: M=['politico'], F=['politica']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (masculino) or Política (femenino) en español.,"both male and female cues: M=['politico'], F=['politica']",12362,0.8,mistral:7b
+19,N,neutral/both/no gender,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.","Político (in masculine) or Política (in feminine) in Spanish. The choice between masculine and feminine depends on the gender of the specific politician being referred to, if known.","both male and female cues: M=['politico'], F=['politica']",12363,0.8,mistral:7b
+20,M,male,Spanish,Politician,one_word,Politician.,"Translate the following English sentence into Spanish.
+Sentence: Politician.",Político (in Spanish),male cue(s): ['politico'],12364,0.8,mistral:7b

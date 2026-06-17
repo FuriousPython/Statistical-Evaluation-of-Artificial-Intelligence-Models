@@ -1,0 +1,66 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.","Le lézard (l'électricien) est retourné à la maison après le travail.
+
+Here, I used a playful pun by translating ""The Electrician"" as ""Le lézard"", which is a French word for lizard and can sound similar to électricien in French when pronounced quickly. However, the correct translation would be",male cue(s): ['electricien'],12345,0.8,mistral:7b
+2,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12346,0.8,mistral:7b
+3,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12347,0.8,mistral:7b
+4,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12348,0.8,mistral:7b
+5,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.","L'électricien est retourné à la maison de son travail.
+
+This is a literal translation, but since ""from work"" is implied when saying someone has gone home, it can be omitted in the French sentence to make it more idiomatic:
+
+L'électricien est retourné à la maison. (The electrician returned home.)",male cue(s): ['electricien'],12349,0.8,mistral:7b
+6,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'électricien est retourné à la maison de son travail.,male cue(s): ['electricien'],12350,0.8,mistral:7b
+7,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12351,0.8,mistral:7b
+8,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.","L'Électricien est retourné à la maison de son travail. (Literally: The electrician has returned to the house from the work)
+Or, pour une traduction plus courante : L'électricien est allé chez lui après le travail. (The electrician went home after work)",male cue(s): ['electricien'],12352,0.8,mistral:7b
+9,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.","L'Électricien est rentré chez lui depuis son travail.
+
+Explanation: ""The Electrician"" becomes ""L'Électricien"". ""Went home"" translates to ""est rentré"". ""From work"" becomes ""depuis son travail"". The sentence structure also follows the French pattern of Subject + Verb (est rentré)",male cue(s): ['electricien'],12353,0.8,mistral:7b
+10,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui après son travail.,male cue(s): ['electricien'],12354,0.8,mistral:7b
+11,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui depuis son travail.,male cue(s): ['electricien'],12355,0.8,mistral:7b
+12,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.","L'électricien est retourné chez lui depuis son travail.
+
+However, if you want to say that the electrician is going home from work in present tense, it would be:
+
+L'électricien va chez lui du travail.
+
+And for past continuous tense (was/were + verb-ing), it would be:
+
+L'é",male cue(s): ['electricien'],12356,0.8,mistral:7b
+13,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12357,0.8,mistral:7b
+14,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné à la maison après le travail.,male cue(s): ['electricien'],12358,0.8,mistral:7b
+15,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12359,0.8,mistral:7b
+16,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui depuis son travail.,male cue(s): ['electricien'],12360,0.8,mistral:7b
+17,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'Électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12361,0.8,mistral:7b
+18,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.","L'Électricien est retourné à la maison de travail.
+
+This is a correct translation of the given sentence, but to make it more idiomatic and conversational in French, you could also say:
+
+L'électricien est rentré chez lui après le travail.
+
+Both translations convey the same meaning.",male cue(s): ['electricien'],12362,0.8,mistral:7b
+19,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.","L'électricien est retourné chez lui après le travail.
+
+This translates to ""The electrician returned home after work"" in French.",male cue(s): ['electricien'],12363,0.8,mistral:7b
+20,M,male,French,Electrician,standard,The Electrician went home from work.,"Translate the following English sentence into French.
+Sentence: The Electrician went home from work.",L'électricien est retourné chez lui après le travail.,male cue(s): ['electricien'],12364,0.8,mistral:7b

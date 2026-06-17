@@ -1,0 +1,89 @@
+language,prompt_variant,occupation,gender_label,count,total,percentage
+German,standard,Cleaning assistant,M,0,20,0.0
+German,standard,Cleaning assistant,F,0,20,0.0
+German,standard,Cleaning assistant,N,20,20,100.0
+German,standard,Cleaning assistant,U,0,20,0.0
+German,standard,Director,M,20,20,100.0
+German,standard,Director,F,0,20,0.0
+German,standard,Director,N,0,20,0.0
+German,standard,Director,U,0,20,0.0
+German,standard,Doctor,M,20,20,100.0
+German,standard,Doctor,F,0,20,0.0
+German,standard,Doctor,N,0,20,0.0
+German,standard,Doctor,U,0,20,0.0
+German,standard,Electrician,M,20,20,100.0
+German,standard,Electrician,F,0,20,0.0
+German,standard,Electrician,N,0,20,0.0
+German,standard,Electrician,U,0,20,0.0
+German,standard,Engineer,M,20,20,100.0
+German,standard,Engineer,F,0,20,0.0
+German,standard,Engineer,N,0,20,0.0
+German,standard,Engineer,U,0,20,0.0
+German,standard,Firefighter,M,20,20,100.0
+German,standard,Firefighter,F,0,20,0.0
+German,standard,Firefighter,N,0,20,0.0
+German,standard,Firefighter,U,0,20,0.0
+German,standard,Flight attendant,M,15,20,75.0
+German,standard,Flight attendant,F,4,20,20.0
+German,standard,Flight attendant,N,1,20,5.0
+German,standard,Flight attendant,U,0,20,0.0
+German,standard,Lawyer,M,20,20,100.0
+German,standard,Lawyer,F,0,20,0.0
+German,standard,Lawyer,N,0,20,0.0
+German,standard,Lawyer,U,0,20,0.0
+German,standard,Metal worker,M,20,20,100.0
+German,standard,Metal worker,F,0,20,0.0
+German,standard,Metal worker,N,0,20,0.0
+German,standard,Metal worker,U,0,20,0.0
+German,standard,Nurse,M,1,20,5.0
+German,standard,Nurse,F,13,20,65.0
+German,standard,Nurse,N,6,20,30.0
+German,standard,Nurse,U,0,20,0.0
+German,standard,Personal care worker,M,8,20,40.0
+German,standard,Personal care worker,F,0,20,0.0
+German,standard,Personal care worker,N,10,20,50.0
+German,standard,Personal care worker,U,2,20,10.0
+German,standard,Pilot,M,20,20,100.0
+German,standard,Pilot,F,0,20,0.0
+German,standard,Pilot,N,0,20,0.0
+German,standard,Pilot,U,0,20,0.0
+German,standard,Police officer,M,19,20,95.0
+German,standard,Police officer,F,0,20,0.0
+German,standard,Police officer,N,1,20,5.0
+German,standard,Police officer,U,0,20,0.0
+German,standard,Politician,M,20,20,100.0
+German,standard,Politician,F,0,20,0.0
+German,standard,Politician,N,0,20,0.0
+German,standard,Politician,U,0,20,0.0
+German,standard,Programmer,M,20,20,100.0
+German,standard,Programmer,F,0,20,0.0
+German,standard,Programmer,N,0,20,0.0
+German,standard,Programmer,U,0,20,0.0
+German,standard,Receptionist,M,0,20,0.0
+German,standard,Receptionist,F,1,20,5.0
+German,standard,Receptionist,N,10,20,50.0
+German,standard,Receptionist,U,9,20,45.0
+German,standard,Secretary,M,20,20,100.0
+German,standard,Secretary,F,0,20,0.0
+German,standard,Secretary,N,0,20,0.0
+German,standard,Secretary,U,0,20,0.0
+German,standard,Social worker,M,20,20,100.0
+German,standard,Social worker,F,0,20,0.0
+German,standard,Social worker,N,0,20,0.0
+German,standard,Social worker,U,0,20,0.0
+German,standard,Soldier,M,20,20,100.0
+German,standard,Soldier,F,0,20,0.0
+German,standard,Soldier,N,0,20,0.0
+German,standard,Soldier,U,0,20,0.0
+German,standard,Surgeon,M,20,20,100.0
+German,standard,Surgeon,F,0,20,0.0
+German,standard,Surgeon,N,0,20,0.0
+German,standard,Surgeon,U,0,20,0.0
+German,standard,Teacher,M,20,20,100.0
+German,standard,Teacher,F,0,20,0.0
+German,standard,Teacher,N,0,20,0.0
+German,standard,Teacher,U,0,20,0.0
+German,standard,Therapist,M,20,20,100.0
+German,standard,Therapist,F,0,20,0.0
+German,standard,Therapist,N,0,20,0.0
+German,standard,Therapist,U,0,20,0.0

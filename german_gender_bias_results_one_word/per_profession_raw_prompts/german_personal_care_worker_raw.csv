@@ -1,0 +1,55 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.",Der persönliche Pflegehilfe (Pfleger) ist der richtige Begriff in deutscher Sprache für die Rolle einer persönlichen Pflegeperson oder eines persönlichen Betreuers.,neutral cue(s): ['pflegehilfe'],12345,0.8,mistral:7b
+2,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegehilfe (Personal Care Assistant) or Pfleger Krankenpfleger (Nurse, but specifically for personal care in private homes)",neutral cue(s): ['pflegehilfe'],12346,0.8,mistral:7b
+3,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.",Pflegefachperson (m) or Pflegefachpersonin (f) in German. The male and female forms are both commonly used.,neutral cue(s): ['pflegefachperson'],12347,0.8,mistral:7b
+4,M,male,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefacharbeiter (female) or Pflegefacharbeiter (male) in German. The word ""Personal"" is not directly translated as it refers to a specific type of employment context, and in this case, it's already included in the job title ""care worker.""",male cue(s): ['pflegefacharbeiter'],12348,0.8,mistral:7b
+5,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefachperson (M/W) or Kurzbezeichnung: Pfleger/Pflegerin (Für die weibliche Form, wenn es darauf ankommt)",neutral cue(s): ['pflegefachperson'],12349,0.8,mistral:7b
+6,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefachkraft (lit. Care professional) or Pflegedienstbotin/Pflegedienstbote (lit. Home care assistant, gender-neutral or male/female respectively) are common translations for the term ""Personal care worker"". However, depending on the specific context, other terms such as Krankenpfleger/Krankensch",neutral cue(s): ['pflegefachkraft'],12350,0.8,mistral:7b
+7,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefachperson (Männlich): Pflegefachmann
+Pflegefachperson (Weiblich): Pflegefachfrau
+Allgemein: Pfleger/in
+
+In modern German, the terms Pflegefachmann and Pflegefachfrau are used for male and female personal care workers respectively. However, the","both male and female cues: M=['pflegefachmann'], F=['pflegefachfrau']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefachkraft (M/W) (informal: Pfleger/Pflegelady)
+
+The gender-neutral term is ""Pflegefachkraft"". If you prefer to use the more informal terms, you can use either ""Pfleger"" for male personal care workers or ""Pflegelady"" for female",neutral cue(s): ['pflegefachkraft'],12352,0.8,mistral:7b
+9,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.",Pflegekraft (Fachpersonal für Haus- und Gemeindepflege) or Pflegehilfe (Assistent in der Altenpflege bzw. behinderungsbezogener Pflege) – die genaue Übersetzung hängt von den konkreten Aufgaben und Arbeitsfeldern ab.,"neutral cue(s): ['pflegekraft', 'pflegehilfe']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegehilfe (short for Pflegehelfer/in) is a common term used in Germany to refer to a personal care worker. However, if you want to say ""a person who works as a personal care worker,"" it would be ""eine Person, die als Pflegehilfe arbeitet.""","neutral cue(s): ['pflegehilfe', 'regex:\\bpflegehelfer\\s*/\\s*in\\b']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefachkräfte (German for ""Personal Care Workers"")",neutral cue(s): ['pflegefachkrafte'],12355,0.8,mistral:7b
+12,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefachperson (Personal Caregiver)
+
+Or, if referring to a job title, ""Pfleger"" can also be used.",neutral cue(s): ['pflegefachperson'],12356,0.8,mistral:7b
+13,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Der persönliche Pflegehilfe (englisch personal care worker) ist ein Mitarbeiter, der sich um die persönlichen Hygiene-, Verpflegungs- und Gesundheitsbedürfnisse von Personen kümmert, insbesondere von Menschen, die in Altersheimen oder Pflegeheimen leben.",neutral cue(s): ['pflegehilfe'],12357,0.8,mistral:7b
+14,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Der persönliche Pflegehilfe (Personal Care Worker)
+
+or
+
+Pfleger mit personlicher Betreuung (Personal Care Worker)
+
+Both translations are correct, but the first one is more common and shorter. The second one is a bit more formal and emphasizes the personal aspect of the care work.",neutral cue(s): ['pflegehilfe'],12358,0.8,mistral:7b
+15,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefacharbeiter (male) or Pflegefachfrau (female) in German. These are the general terms for a personal care worker. However, depending on the specific context, other terms like Krankenpfleger/in, Altenpfleger/in or Hebamme might be more appropriate.","both male and female cues: M=['pflegefacharbeiter'], F=['pflegefachfrau']",12359,0.8,mistral:7b
+16,U,unknown/unclear,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegehilfefachperson (Literally: Care assistant specialist) or Pfleger (Caregiver) are possible translations for ""Personal care worker"". However, the specific term may depend on the context and the region in Germany.",occupation/gender cue not detected,12360,0.8,mistral:7b
+17,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegehilfekraft (Female) or Pflegehilfe (Neutral) in German. The male equivalent would be Pflegehelfer, but it's less common for personal care workers to be male.",neutral cue(s): ['pflegehilfe'],12361,0.8,mistral:7b
+18,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegefachkraft (lit. care professional) or Hauspersonal (lit. home personal/household staff) are possible translations for ""Personal care worker"" in German, depending on the specific context and setting.",neutral cue(s): ['pflegefachkraft'],12362,0.8,mistral:7b
+19,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.",Pflegefacharbeiter (male) or Pflegefacharbeiterin (female) in German.,"both male and female cues: M=['pflegefacharbeiter'], F=['pflegefacharbeiterin']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,German,Personal care worker,one_word,Personal care worker.,"Translate the following English sentence into German.
+Sentence: Personal care worker.","Pflegehilfe (Personal Care Assistant) or Krankenpfleger/in (Nurse) in a wider context, depending on the specific tasks and responsibilities involved.",neutral cue(s): ['pflegehilfe'],12364,0.8,mistral:7b

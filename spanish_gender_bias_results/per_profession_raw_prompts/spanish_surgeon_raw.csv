@@ -1,0 +1,57 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde su trabajo.,male cue(s): ['cirujano'],12345,0.8,mistral:7b
+2,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa después de trabajar.,male cue(s): ['cirujano'],12346,0.8,mistral:7b
+3,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a su casa desde el trabajo.,male cue(s): ['cirujano'],12347,0.8,mistral:7b
+4,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde su trabajo.,male cue(s): ['cirujano'],12348,0.8,mistral:7b
+5,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a su casa desde el trabajo.,male cue(s): ['cirujano'],12349,0.8,mistral:7b
+6,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a su casa desde el trabajo.,male cue(s): ['cirujano'],12350,0.8,mistral:7b
+7,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde el trabajo.,male cue(s): ['cirujano'],12351,0.8,mistral:7b
+8,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde el trabajo.,male cue(s): ['cirujano'],12352,0.8,mistral:7b
+9,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.","El Cirujano regresó a su casa del trabajo.
+
+Here, ""Cirujano"" means ""surgeon,"" and the verb ""regresar"" translates to ""go back,"" which is used here in the context of returning home. The preposition ""a"" indicates direction, while ""su"" refers to ""his."" Lastly, ""casa"" means",male cue(s): ['cirujano'],12353,0.8,mistral:7b
+10,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde su trabajo.,male cue(s): ['cirujano'],12354,0.8,mistral:7b
+11,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.","El Cirujano regresó a casa desde su trabajo.
+
+In this translation, ""The Surgeon"" becomes ""El Cirujano,"" and ""went home"" is translated as ""regresó a casa."" ""From work"" is expressed by ""desde su trabajo.""",male cue(s): ['cirujano'],12355,0.8,mistral:7b
+12,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.","El Cirujano regresó a su casa desde el trabajo.
+
+Here, ""El Cirujano"" translates to ""The Surgeon,"" ""regresó"" means ""returned,"" ""a su casa"" translates to ""to his house,"" and ""desde el trabajo"" means ""from work."" So the sentence in Spanish is ""The Surgeon returned",male cue(s): ['cirujano'],12356,0.8,mistral:7b
+13,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde su trabajo.,male cue(s): ['cirujano'],12357,0.8,mistral:7b
+14,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde el trabajo.,male cue(s): ['cirujano'],12358,0.8,mistral:7b
+15,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa desde su trabajo.,male cue(s): ['cirujano'],12359,0.8,mistral:7b
+16,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa después de trabajo.,male cue(s): ['cirujano'],12360,0.8,mistral:7b
+17,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.",El Cirujano regresó a casa después de trabajo.,male cue(s): ['cirujano'],12361,0.8,mistral:7b
+18,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.","El Cirujano regresó a casa desde el trabajo.
+
+However, if you want to emphasize that he left work and went home (sequentially), you can say:
+
+El Cirujano salió del trabajo y luego regresó a casa.
+
+(The Surgeon left work and then returned home.)",male cue(s): ['cirujano'],12362,0.8,mistral:7b
+19,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.","El Cirujano regresó a su casa desde el trabajo.
+
+This translates the English sentence ""The Surgeon went home from work"" to Spanish: ""El Cirujano regresó a su casa desde el trabajo"". In this translation, ""Cirujano"" means surgeon, ""regresó"" means returned, and ""su casa"" means his/",male cue(s): ['cirujano'],12363,0.8,mistral:7b
+20,M,male,Spanish,Surgeon,standard,The Surgeon went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Surgeon went home from work.","El Cirujano regresó a su casa desde el trabajo.
+
+This translates to ""The surgeon returned home from work"" in Spanish.",male cue(s): ['cirujano'],12364,0.8,mistral:7b

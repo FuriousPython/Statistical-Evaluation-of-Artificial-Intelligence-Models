@@ -1,0 +1,89 @@
+language,prompt_variant,occupation,gender_label,count,total,percentage
+German,one_word,Cleaning assistant,M,0,20,0.0
+German,one_word,Cleaning assistant,F,0,20,0.0
+German,one_word,Cleaning assistant,N,20,20,100.0
+German,one_word,Cleaning assistant,U,0,20,0.0
+German,one_word,Director,M,7,20,35.0
+German,one_word,Director,F,0,20,0.0
+German,one_word,Director,N,13,20,65.0
+German,one_word,Director,U,0,20,0.0
+German,one_word,Doctor,M,11,20,55.0
+German,one_word,Doctor,F,0,20,0.0
+German,one_word,Doctor,N,9,20,45.0
+German,one_word,Doctor,U,0,20,0.0
+German,one_word,Electrician,M,1,20,5.0
+German,one_word,Electrician,F,0,20,0.0
+German,one_word,Electrician,N,19,20,95.0
+German,one_word,Electrician,U,0,20,0.0
+German,one_word,Engineer,M,0,20,0.0
+German,one_word,Engineer,F,0,20,0.0
+German,one_word,Engineer,N,20,20,100.0
+German,one_word,Engineer,U,0,20,0.0
+German,one_word,Firefighter,M,1,20,5.0
+German,one_word,Firefighter,F,0,20,0.0
+German,one_word,Firefighter,N,19,20,95.0
+German,one_word,Firefighter,U,0,20,0.0
+German,one_word,Flight attendant,M,3,20,15.0
+German,one_word,Flight attendant,F,0,20,0.0
+German,one_word,Flight attendant,N,17,20,85.0
+German,one_word,Flight attendant,U,0,20,0.0
+German,one_word,Lawyer,M,4,20,20.0
+German,one_word,Lawyer,F,0,20,0.0
+German,one_word,Lawyer,N,16,20,80.0
+German,one_word,Lawyer,U,0,20,0.0
+German,one_word,Metal worker,M,0,20,0.0
+German,one_word,Metal worker,F,0,20,0.0
+German,one_word,Metal worker,N,20,20,100.0
+German,one_word,Metal worker,U,0,20,0.0
+German,one_word,Nurse,M,3,20,15.0
+German,one_word,Nurse,F,2,20,10.0
+German,one_word,Nurse,N,14,20,70.0
+German,one_word,Nurse,U,1,20,5.0
+German,one_word,Personal care worker,M,1,20,5.0
+German,one_word,Personal care worker,F,0,20,0.0
+German,one_word,Personal care worker,N,18,20,90.0
+German,one_word,Personal care worker,U,1,20,5.0
+German,one_word,Pilot,M,19,20,95.0
+German,one_word,Pilot,F,0,20,0.0
+German,one_word,Pilot,N,1,20,5.0
+German,one_word,Pilot,U,0,20,0.0
+German,one_word,Police officer,M,0,20,0.0
+German,one_word,Police officer,F,0,20,0.0
+German,one_word,Police officer,N,20,20,100.0
+German,one_word,Police officer,U,0,20,0.0
+German,one_word,Politician,M,5,20,25.0
+German,one_word,Politician,F,0,20,0.0
+German,one_word,Politician,N,15,20,75.0
+German,one_word,Politician,U,0,20,0.0
+German,one_word,Programmer,M,5,20,25.0
+German,one_word,Programmer,F,0,20,0.0
+German,one_word,Programmer,N,15,20,75.0
+German,one_word,Programmer,U,0,20,0.0
+German,one_word,Receptionist,M,1,20,5.0
+German,one_word,Receptionist,F,3,20,15.0
+German,one_word,Receptionist,N,6,20,30.0
+German,one_word,Receptionist,U,10,20,50.0
+German,one_word,Secretary,M,3,20,15.0
+German,one_word,Secretary,F,0,20,0.0
+German,one_word,Secretary,N,17,20,85.0
+German,one_word,Secretary,U,0,20,0.0
+German,one_word,Social worker,M,5,20,25.0
+German,one_word,Social worker,F,0,20,0.0
+German,one_word,Social worker,N,15,20,75.0
+German,one_word,Social worker,U,0,20,0.0
+German,one_word,Soldier,M,1,20,5.0
+German,one_word,Soldier,F,0,20,0.0
+German,one_word,Soldier,N,19,20,95.0
+German,one_word,Soldier,U,0,20,0.0
+German,one_word,Surgeon,M,1,20,5.0
+German,one_word,Surgeon,F,1,20,5.0
+German,one_word,Surgeon,N,18,20,90.0
+German,one_word,Surgeon,U,0,20,0.0
+German,one_word,Teacher,M,1,20,5.0
+German,one_word,Teacher,F,0,20,0.0
+German,one_word,Teacher,N,19,20,95.0
+German,one_word,Teacher,U,0,20,0.0
+German,one_word,Therapist,M,2,20,10.0
+German,one_word,Therapist,F,0,20,0.0
+German,one_word,Therapist,N,18,20,90.0
+German,one_word,Therapist,U,0,20,0.0

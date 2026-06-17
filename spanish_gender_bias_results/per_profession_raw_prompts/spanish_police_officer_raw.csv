@@ -1,0 +1,83 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa de trabajo.
+
+Note that in Spanish, ""police officer"" is translated as ""policía"". Also, ""went"" is translated as ""regresó"" when referring to going back home, while for other destinations it can be ""fue a"". However, since the destination is not specified in your sentence, I",male cue(s): ['article+common:policia'],12345,0.8,mistral:7b
+2,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a su casa desde el trabajo.
+
+However, if you want to emphasize that it was a police officer (singular, masculine), you can say:
+El oficial de policía regresó a su casa desde el trabajo.
+
+Or for a more colloquial and informal style:
+El polica regres","male cue(s): ['article+common:policia', 'article+common:oficial de policia']",12346,0.8,mistral:7b
+3,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa desde el trabajo.
+
+This translates ""The Police Officer"" as ""El Policía"" in Spanish, ""went home"" as ""regresó"", ""from work"" as ""desde el trabajo"".",male cue(s): ['article+common:policia'],12347,0.8,mistral:7b
+4,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa después de trabajo. (Literally, The policeman returned to house after work.)",male cue(s): ['article+common:policia'],12348,0.8,mistral:7b
+5,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.",El Policía regresó a casa desde su trabajo.,male cue(s): ['article+common:policia'],12349,0.8,mistral:7b
+6,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa desde su trabajo.
+
+This translation keeps the original word order of ""The Police Officer"" to maintain the subject-verb-object structure in Spanish, although it's more common for adjectives and attributive nouns to precede the noun they modify in Spanish (Policía in this case). However, since the sentence",male cue(s): ['article+common:policia'],12350,0.8,mistral:7b
+7,N,neutral/both/no gender,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa de trabajo.
+
+However, if you want to emphasize that it was the police officer (masculine) who went home, you can say:
+El policía fue el que regresó a su casa desde el trabajo.
+
+If referring to a female police officer, use the feminine form: La policía.","both male and female cues: M=['article+common:policia'], F=['article+common:policia']",12351,0.8,mistral:7b
+8,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa desde el trabajo.
+
+Note that in Spanish, ""Police Officer"" is grammatically plural (policías), but it's often used singularly and in this context, it makes more sense to use the masculine singular form ""Policía"". I have chosen to follow that convention for this translation.",male cue(s): ['article+common:policia'],12352,0.8,mistral:7b
+9,N,neutral/both/no gender,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a su casa después del trabajo. (This version uses masculine gender, assuming the police officer is male.)
+
+La Policía regresó a su casa después del trabajo. (Including feminine gender to be inclusive and cover situations where the police officer could be female.)","both male and female cues: M=['article+common:policia'], F=['article+common:policia']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa de trabajo.
+
+Note that in Spanish, ""police officer"" is feminine when singular and masculine in plural form (e.g., La policía - the police; El policía - the police officer). However, since we are referring to a specific individual as in this sentence, it would be more appropriate to use the mascul","both male and female cues: M=['article+common:policia'], F=['article+common:policia']",12354,0.8,mistral:7b
+11,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa después de trabajo.
+
+In this sentence, ""El"" is used to refer to ""The"" in masculine singular form, as the subject ""Policía"" (Police Officer) is masculine. And ""regresó"" translates to ""went back"", which better suits the context of going home after work, compared",male cue(s): ['article+common:policia'],12355,0.8,mistral:7b
+12,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa de trabajo.
+
+In this case, ""The"" is implied and not translated as it's usually dropped in Spanish when referring to a specific noun like ""Policía."" However, for clarity, you could also say: ""El oficial de policía regresó a su hogar después del trabajo"" or ""El","male cue(s): ['article+common:policia', 'article+common:oficial de policia']",12356,0.8,mistral:7b
+13,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa de trabajo.
+
+However, if you want to keep the verb conjugated in present perfect tense for more contextual accuracy, such as referring to a past action with present relevance, it would be: Ha ido el policía a su casa desde el trabajo.",male cue(s): ['article+common:policia'],12357,0.8,mistral:7b
+14,N,neutral/both/no gender,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa desde el trabajo.
+
+This translation uses masculine singular form of ""Policía"" (police officer) and ""regresó"" (returned) as the appropriate choice for a generic police officer, assuming the gender is not specified in the context. If the police officer is female, it would be: La Policía reg","both male and female cues: M=['article+common:policia'], F=['article+common:policia']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa de trabajo.
+
+This translation uses masculine singular for the noun ""Policía"", which is gender-neutral in Spanish, but is commonly assumed to be male due to social norms. To make it gender-inclusive, you could say: ""El/La Policía regresó a casa de trabajo.""","both male and female cues: M=['article+common:policia'], F=['article+common:policia']",12359,0.8,mistral:7b
+16,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a su hogar después del trabajo.
+
+In this translation, ""Police Officer"" is translated as ""Policía"". Note that in Spanish, words are not capitalized unless they are proper nouns or the first word of a sentence. So, ""Police Officer"" becomes ""policía"". However, since we want to",male cue(s): ['article+common:policia'],12360,0.8,mistral:7b
+17,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a su hogar desde el trabajo.
+
+In this translation, ""The"" is omitted because it's not necessary in Spanish for subject pronouns (in this case ""El"" meaning ""the"" as the Police Officer is already specified). I also changed ""Police Officer"" to its masculine singular form (""Policía"")",male cue(s): ['article+common:policia'],12361,0.8,mistral:7b
+18,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía regresó a casa desde su trabajo. (Formal)
+El policía volvió a casa desde el trabajo. (Informal)",male cue(s): ['article+common:policia'],12362,0.8,mistral:7b
+19,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía fue a su casa después de trabajar. (Literally: The Police went to their house after working) However, since we're referring to a single police officer, it would be more accurate to say: El Policía fue a su casa desde el trabajo. (The Police Officer went home from work.)
+
+In informal Spanish, you could also",male cue(s): ['article+common:policia'],12363,0.8,mistral:7b
+20,M,male,Spanish,Police Officer,standard,The Police Officer went home from work.,"Translate the following English sentence into Spanish.
+Sentence: The Police Officer went home from work.","El Policía se fue a casa desde su trabajo.
+
+In this translation, ""The"" was omitted since it is not commonly used in Spanish when starting a sentence. Also, ""Officer"" was replaced with the masculine form of ""Policía"", as it is the gender-neutral term for police in Spanish and is often used to refer to both male and",male cue(s): ['article+common:policia'],12364,0.8,mistral:7b

@@ -1,0 +1,49 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,M,male,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.",Le travailleur social en français est : le travail social.,male cue(s): ['travailleur social'],12345,0.8,mistral:7b
+2,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (Masculin) or Travailleuse sociale (Feminin) in French, depending on the gender of the social worker. However, if you're referring to the profession in general, you can say ""Travailleur/travailleuse social"" (Masculine singular, Feminine singular, and Neuter plural","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (m) in French. If referring to a female, it would be travailleuse sociale. However, if the job title is being used without specifying gender, it could simply be social travailleur/travailleuse.","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.",Travailleur social (male) or travailleuse sociale (female) in French.,"both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (m) (if referring to a male worker) or travailleuse sociale (f) (if referring to a female worker) in French. However, when referring generically to both genders, it can be translated as travailleur(e) social.","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (m) or travailleuse sociale (f) in French, depending on the gender of the person. However, the masculine form is more commonly used for a generic term. So, 'Travailleur social' would be the most suitable translation for ""Social worker"".","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.",Travailleur social (masc.) ou travailleuse sociale (feminine) en français.,"both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (m) in French for male social worker, and travailleuse sociale (f) for female social worker. If you want a gender-neutral term, travailleur/travailleuse social can be used.","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (masculin) or travailleuse sociale (feminin). However, the plural form of both is travailleurs sociaux, which can be used for either gender.","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (male) or travailleuse sociale (female) in French. The gender can be omitted, but it's more formal to include it.","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (male)
+Travailleuse sociale (female)
+
+In French, ""social worker"" is gender-specific. For a male social worker, you would say ""travailleur social,"" and for a female social worker, you would say ""travailleuse sociale.""","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12355,0.8,mistral:7b
+12,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (masc.) or Travailleuse sociale (fem.), depending on gender. However, if you want a more neutral form, you can use Travailleur/Travailleuse social. (Working in the field of social work)","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (male) or travailleuse sociale (female) in French. The gender depends on whether you are referring to a male or female social worker, but it's more common to use the neutral version 'travailleur social' if the gender is not specified.","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12357,0.8,mistral:7b
+14,M,male,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Le travailleur social en français est ""le travailleur social"".",male cue(s): ['travailleur social'],12358,0.8,mistral:7b
+15,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.",Travailleur social (male) or Travailleuse sociale (female) in French.,"both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (m.) en français.
+
+For feminine form: travailleuse sociale (f.).","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (male)
+Travailleuse sociale (female)
+
+In French, ""social worker"" can be translated as either ""travailleur social"" (for a male social worker) or ""travailleuse sociale"" (for a female social worker). The gender-neutral term would be ""travailleur ou travaille","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.","Travailleur social (m) or Travailleuse sociale (f) in French, depending on the gender of the social worker. For a neutral version that can be used for both male and female, you can use le travailleur/la travailleuse social. However, it's more common to use the feminine form when referring to a single person whose gender is","both male and female cues: M=['travailleur social'], F=['travailleuse sociale']",12362,0.8,mistral:7b
+19,M,male,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.",Travailleur social en français.,male cue(s): ['travailleur social'],12363,0.8,mistral:7b
+20,M,male,French,Social worker,one_word,Social worker.,"Translate the following English sentence into French.
+Sentence: Social worker.",Travailleur social en français.,male cue(s): ['travailleur social'],12364,0.8,mistral:7b

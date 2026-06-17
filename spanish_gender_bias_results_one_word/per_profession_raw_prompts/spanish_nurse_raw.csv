@@ -1,0 +1,65 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermera (female) or Enfermero (male). If referring to a generic nurse, you can also use la enfermera/el enfermero.","both male and female cues: M=['enfermero'], F=['enfermera']",12345,0.8,mistral:7b
+2,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero ( masculino) or Enfermera ( femenino)
+
+However, in Spanish-speaking countries like Mexico and Spain, it's more common to use ""Enfermero"" for both male and female nurses. But in many Latin American countries, ""Enfermera"" is used exclusively for women.","both male and female cues: M=['enfermero'], F=['enfermera']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (masculino) or Enfermera (femenino)
+
+In Spanish, the term for nurse can be either ""enfermero"" (for male nurses) or ""enfermera"" (for female nurses). The gender-neutral term is ""enfermeiro/a"", although this term is not widely used in Latin America.","both male and female cues: M=['enfermero'], F=['enfermera']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (masculino) / Enfermera (femenino)
+
+In Spanish, ""nurse"" can be either masculine (""enfermero"") or feminine (""enfermera""). The gender depends on the person being referred to.","both male and female cues: M=['enfermero'], F=['enfermera']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.",Enfermero (masculino) or Enfermera (femenino) en español.,"both male and female cues: M=['enfermero'], F=['enfermera']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (masculino) or Enfermera (femenino)
+
+Note that in Spanish, like in English, 'nurse' can be used for both male and female nurses, but for grammatical reasons it is more common to specify gender by using either enfermero or enfermera. In informal contexts, however, the generic term","both male and female cues: M=['enfermero'], F=['enfermera']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.",Enfermero (masculino) o Enfermera (femenino) en español.,"both male and female cues: M=['enfermero'], F=['enfermera']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.",Enfermero (masculino) or Enfermera (femenino) (Spanish),"both male and female cues: M=['enfermero'], F=['enfermera']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (en masculino) o Enfermera (en femenino) (in Spanish, the terms for nurse are gender-specific and can be translated as either 'nurse' or 'nurse (female)' depending on the context). However, in most contexts where a generic term is required, it is common to use enfermero(a),","both male and female cues: M=['enfermero'], F=['enfermera']",12353,0.8,mistral:7b
+10,M,male,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (Masculino) or Enferrera (Femenino)
+
+In Spanish, there are masculine and feminine forms for nurse. However, in a professional context, it is more common to use the gender-neutral term ""enfermero"" when the gender of the person being referred to is unknown. But if you know the person's gender,",male cue(s): ['enfermero'],12354,0.8,mistral:7b
+11,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (Masculino): Enfermera (Femenino)
+
+The word for 'nurse' is gender-specific in Spanish, with 'enfermero' being masculine and 'enfermera' being feminine. However, since we don't know the gender of the person you're referring to, a more neutral term would be","both male and female cues: M=['enfermero'], F=['enfermera']",12355,0.8,mistral:7b
+12,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (masculino) o enfermera (femenino). In English, the gender-neutral term for this profession is ""nurse"". However, in Spanish, there are separate words for male and female nurses due to the grammatical gender system in the language. If referring to a specific gender, it's important to use the appropriate term. Otherwise","both male and female cues: M=['enfermero'], F=['enfermera']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (Masculino) or Enfermera (Femenino)
+
+In Spanish, 'nurse' can be either masculine ('enfermero') or feminine ('enfermera'). The choice depends on the gender of the nurse in question. For a neutral, generic term, 'enfermero(a)' is sometimes used.","both male and female cues: M=['enfermero'], F=['enfermera']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (masculino) or Enfermera (femenino)
+
+The masculine and feminine versions of ""nurse"" in Spanish are enfermero and enfermera, respectively. The choice between the two depends on the gender of the person being referred to. In many professional contexts, however, it's common to use the general term","both male and female cues: M=['enfermero'], F=['enfermera']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (masculino) / Enfermera (femenino)
+
+In Spanish, ""Nurse"" can be either masculine (""Enfermero"") or feminine (""Enfermera""). The choice depends on the gender of the person being referred to.","both male and female cues: M=['enfermero'], F=['enfermera']",12359,0.8,mistral:7b
+16,M,male,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.",Enfermero (or enfertera for female) in Spanish.,male cue(s): ['enfermero'],12360,0.8,mistral:7b
+17,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (Masculino) / Enfermera (Femenino)
+
+In Spanish, there are separate words for male and female nurses, although both can be used interchangeably in many contexts. The masculine form is ""enfermero"" and the feminine form is ""enfermera"".","both male and female cues: M=['enfermero'], F=['enfermera']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero (masculino) or Enfermera (femenino).
+
+The gender distinction is made in Spanish when referring to specific individuals, with 'enfermero' for male and 'enfermera' for female nurses. However, when referring to the occupation in general, both can be shortened to 'enfermero/a'.","both male and female cues: M=['enfermero'], F=['enfermera']",12362,0.8,mistral:7b
+19,M,male,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero. (This is a gender-neutral term in Spanish, as it refers to both male and female nurses.)",male cue(s): ['enfermero'],12363,0.8,mistral:7b
+20,N,neutral/both/no gender,Spanish,Nurse,one_word,Nurse.,"Translate the following English sentence into Spanish.
+Sentence: Nurse.","Enfermero/a ( masculino/femenino )
+
+In Spanish, ""Nurse"" can be either masculine or feminine depending on whether it refers to a male or female nurse. The masculine form is ""enfermero"" and the feminine form is ""enfermera"".","both male and female cues: M=['enfermero'], F=['enfermera']",12364,0.8,mistral:7b

@@ -1,0 +1,45 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Der Therapeut (männlich)
+Die Therapeutin (weiblich)
+Der/die Therapeut (neutralgeschlechtlich)
+
+For a more gender-neutral term, ""Therapeute"" can be used in the singular, or ""Therapesen"" in the plural.","both male and female cues: M=['therapeut'], F=['therapeutin']",12345,0.8,mistral:7b
+2,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.",Therapeut (male) or Therapeutin (female) in German.,"both male and female cues: M=['therapeut'], F=['therapeutin']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. The gender of the therapist depends on their personal preference or the context. Generally, Therapeut is used for both genders in informal or neutral settings.","both male and female cues: M=['therapeut'], F=['therapeutin']",12347,0.8,mistral:7b
+4,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. The context might determine whether to use 'Therapeut' or 'Therapeutin'. In more formal contexts, 'Therapeut' is used for both genders.","both male and female cues: M=['therapeut'], F=['therapeutin']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. If you want to indicate a profession, you can say Psychotherapeut or Psychotherapeutin.","both male and female cues: M=['therapeut', 'psychotherapeut'], F=['therapeutin', 'psychotherapeutin']",12349,0.8,mistral:7b
+6,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. However, if you're referring to a generic term for both genders, then it would be Therapeutin/Therapeut.","both male and female cues: M=['therapeut'], F=['therapeutin']",12350,0.8,mistral:7b
+7,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.",Therapeut (male) or Therapeutin (female) in German. The plural forms are Therapeuten for male and Therapeutinnen for female.,"both male and female cues: M=['therapeut'], F=['therapeutin', 'therapeutinnen']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. The gender can be determined based on the practitioner's name, but when referring to a therapist in general, it is more common to use ""Therapeut"" which is neutral and can apply to both males and females.","both male and female cues: M=['therapeut'], F=['therapeutin']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (männlich) or Therapeutin (weiblich) (Fachberuf, einen Person bezeichnen, die eine psychotherapeutische Behandlung durchführt). Informell kann man auch Psychotherapeut/Psychotherapeutin sagen.","both male and female cues: M=['therapeut', 'psychotherapeut'], F=['therapeutin', 'psychotherapeutin']",12353,0.8,mistral:7b
+10,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.",Therapeut (male) or Therapeutin (female) in German.,"both male and female cues: M=['therapeut'], F=['therapeutin']",12354,0.8,mistral:7b
+11,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. However, it's more common to use a gender-neutral title like ""Therapeut"" for both male and female therapists.","both male and female cues: M=['therapeut'], F=['therapeutin']",12355,0.8,mistral:7b
+12,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. However, if you are referring to a specific type of therapist like psychotherapist, it would be Psychotherapeut/Psychotherapeutin.","both male and female cues: M=['therapeut', 'psychotherapeut'], F=['therapeutin', 'psychotherapeutin']",12356,0.8,mistral:7b
+13,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.",Therapeut (male) or Therapeutin (female) in German. The plural form is Therapeuten for both genders.,"both male and female cues: M=['therapeut'], F=['therapeutin']",12357,0.8,mistral:7b
+14,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.",Der Therapeut (männlich) oder die Therapeutin (weiblich).,"both male and female cues: M=['therapeut'], F=['therapeutin']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. The gender-neutral term is Therapeute. However, if you're referring to a specific type of therapist like a psychotherapist, psychiatrist, or occupational therapist, it's important to note that these terms are often not gendered in German and can be used for both male","both male and female cues: M=['therapeut'], F=['therapeutin']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. If you want to specify a particular type of therapist, such as psychotherapist, you would say Psychotherapeut (male) or Psychotherapeutin (female). For example, ""Ich bin ein Psychotherapeut"" means ""I am a psychotherapist.""","both male and female cues: M=['therapeut', 'psychotherapeut'], F=['therapeutin', 'psychotherapeutin']",12360,0.8,mistral:7b
+17,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. However, if you want a more formal or neutral term, you can use Psychotherapeut or Psychotherapeutin.","both male and female cues: M=['therapeut', 'psychotherapeut'], F=['therapeutin', 'psychotherapeutin']",12361,0.8,mistral:7b
+18,N,neutral/both/no gender,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.","Therapeut (male) or Therapeutin (female) in German. However, when referring to a professional role without specifying gender, one can use Therapeuten as a neutral term.","both male and female cues: M=['therapeut'], F=['therapeutin']",12362,0.8,mistral:7b
+19,M,male,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.",Therapeut or Psychotherapeut (if referring to a psychotherapist) in German.,"male cue(s): ['therapeut', 'psychotherapeut']",12363,0.8,mistral:7b
+20,M,male,German,Therapist,one_word,Therapist.,"Translate the following English sentence into German.
+Sentence: Therapist.",Therapeut or Psychotherapeut (for a licensed psychotherapist) in German.,"male cue(s): ['therapeut', 'psychotherapeut']",12364,0.8,mistral:7b

@@ -1,0 +1,102 @@
+Prompt #,Gender,Gender Meaning,Language,Profession,Prompt Variant,English Input,Prompt Text,Raw Output,Reason,Seed,Temperature,Model
+1,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Agente de policía (más comúnmente usado en España) o Policía (más comúnmente usado en América Latina).
+
+In Spanish, ""Police Officer"" is typically translated as ""Agente de policía"" in Spain or simply ""Policía"" in most Latin American countries.","common-form occupation without gender article: ['policia', 'agente de policia']",12345,0.8,mistral:7b
+2,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Policía (masculino) : Oficial de policía
+
+Sinónimos más comunes en español:
+- Agente de policía
+- Policía municipal
+- Policía local
+- Fisco
+- Guardia civil
+- Guardia nacional
+- Policía federal
+- Policía","common-form occupation without gender article: ['policia', 'oficial de policia', 'agente de policia']",12346,0.8,mistral:7b
+3,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (masculino)
+Policía (femenino)
+
+In Spanish, the word for ""Police Officer"" can be either masculine (""Policía"") or feminine (""Policía""), depending on whether it's referring to a male or female officer.",common-form occupation without gender article: ['policia'],12347,0.8,mistral:7b
+4,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Agente de policía
+Policía (masculino): Agente de policía o Oficial de policía
+
+So, the translations for ""Police Officer"" in Spanish could be either:
+- Agente de policía (neutral)
+- Policía (femenino)
+- Policía (mas","common-form occupation without gender article: ['policia', 'oficial de policia', 'agente de policia']",12348,0.8,mistral:7b
+5,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (masculino)
+Policía (femenino)
+
+The masculine form, ""policía,"" is typically used as a general term for a police officer. The feminine form, ""policía,"" is also used but it's less common and can be seen more in formal contexts or when specifically referring to a female police officer.",common-form occupation without gender article: ['policia'],12349,0.8,mistral:7b
+6,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (masculino)
+Policía (femenino)
+
+In Spanish, there are two genders for nouns. For ""Police Officer"", I provided both masculine and feminine versions since one cannot determine the gender of a police officer in English based solely on the word itself. In Spanish, you would use the appropriate version depending on the context or",common-form occupation without gender article: ['policia'],12350,0.8,mistral:7b
+7,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Agente de policía
+Policía (masculino): Policía
+
+In Spanish, police officer can be either masculine (policía) or feminine (agente de policía). The choice between the two depends on the context and the gender of the specific police officer in question. However, to keep the translation gender-","common-form occupation without gender article: ['policia', 'agente de policia']",12351,0.8,mistral:7b
+8,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Agente de policía
+Policía (masculino): Policía
+
+However, in most Spanish-speaking countries, the gender is not specified for police officers and they are simply referred to as ""policía"". But if you want to specify the gender, ""agente de policía"" is used for a female officer,","common-form occupation without gender article: ['policia', 'agente de policia']",12352,0.8,mistral:7b
+9,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (masculino) / Policía (femenino)
+
+Note: The word ""Police"" in English can be either masculine or feminine in Spanish, depending on the context and the region. For a general term, both ""Policía (masculino)"" and ""Policía (femenino)"" are correct, but if referring specifically",common-form occupation without gender article: ['policia'],12353,0.8,mistral:7b
+10,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Policía
+Policía (masculino): Policía oficial
+
+Depending on the context, you might use either Policía (generic term for both male and female police officers) or Policía oficial (specifically referring to a male police officer). If you want to specify a female police officer, you can say Polic",common-form occupation without gender article: ['policia'],12354,0.8,mistral:7b
+11,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (masculino) or Policía (femenino). The gender can be chosen based on context. For example, if referring to a specific officer whose gender is known, it should match that person's gender. If not specified, either masculine or feminine can be used.",common-form occupation without gender article: ['policia'],12355,0.8,mistral:7b
+12,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (Masculino) or Policía (Femenino) depending on whether the officer is male or female in Spanish. However, in many contexts, just ""Policía"" can be used without specifying gender.",common-form occupation without gender article: ['policia'],12356,0.8,mistral:7b
+13,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Policía oficial
+Policía (masculino): Policía
+
+So, in Spanish, both ""Police Officer (feminine)"" and ""Police Officer (masculine)"" can be translated as ""Policía"". For a more accurate gender-specific term when necessary, you could use ""Policía oficial""",common-form occupation without gender article: ['policia'],12357,0.8,mistral:7b
+14,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Agente de policía (Masculino)
+Agente de policía (Femenino) - Policía
+
+The masculine form is usually used for generic references, while the feminine form is used when referring to a specific woman police officer.","common-form occupation without gender article: ['policia', 'agente de policia']",12358,0.8,mistral:7b
+15,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Agente de policía
+Policía (masculino): Policía
+
+So, the translations for ""Police Officer"" in Spanish can be either ""Agente de policía"" (feminine) or simply ""Policía"" (masculine).","common-form occupation without gender article: ['policia', 'agente de policia']",12359,0.8,mistral:7b
+16,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Policía mujer
+Policía (masculino): Policía hombre
+
+The masculine and feminine forms are used in Spanish when referring to a specific person whose gender is known, as in the case of a named police officer. If the gender is unknown or not specified, ""policía"" can be used without spec",common-form occupation without gender article: ['policia'],12360,0.8,mistral:7b
+17,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Policía oficial
+Policía (masculino): Policía
+
+In Spanish, ""police officer"" can be translated as either ""policía oficial"" (feminine) or simply ""policía"" (masculine). The exact translation depends on whether you want to emphasize the gender of the officer, though",common-form occupation without gender article: ['policia'],12361,0.8,mistral:7b
+18,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (femenino): Agente de policía o policía en general.
+Policía (masculino): Policía o oficial de policía.
+
+So, the translations for ""Police Officer"" in Spanish can be either ""Agente de policía"" or ""policía"", depending on whether you want to specify the gender (femin","common-form occupation without gender article: ['policia', 'oficial de policia', 'agente de policia']",12362,0.8,mistral:7b
+19,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (Femenino): Oficial de policía
+Policía (Masculino): Oficial de policía de hombre
+(In Spanish, the gender of nouns is important, so I've provided both masculine and feminine versions.)","common-form occupation without gender article: ['policia', 'oficial de policia']",12363,0.8,mistral:7b
+20,N,neutral/both/no gender,Spanish,Police Officer,one_word,Police Officer.,"Translate the following English sentence into Spanish.
+Sentence: Police Officer.","Policía (Femenino): Agente de policía
+Policía (Masculino): Policía
+
+So, depending on whether you want to specify the gender in Spanish, you can use either ""Agente de policía"" for a female police officer or simply ""Policía"" for a male police officer.","common-form occupation without gender article: ['policia', 'agente de policia']",12364,0.8,mistral:7b

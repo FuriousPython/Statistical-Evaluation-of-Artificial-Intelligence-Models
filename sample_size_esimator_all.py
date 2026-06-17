@@ -15,11 +15,13 @@ POWER = 0.80
 DELTA = 0.20
 BONFERRONI = True
 
+N_PROFESSIONS = 88 # 22x2x2 = 88     (22 professions, 2 languages, 2 prompt) = 88
+
 # Select ONE language at a time:
 #   "spanish"
 #   "german"
 #   "french"
-SELECTED_LANGUAGE = "french"
+SELECTED_LANGUAGE = "spanish"
 
 # Prompt variants:
 #   french_gender_bias_results
@@ -28,7 +30,7 @@ SELECTED_LANGUAGE = "french"
 PROMPT_SUFFIXES = [
     "",           # regular prompt
     "_limited",  # limited prompt
-    "_one_word", # one-word prompt
+    # "_one_word", # one-word prompt
 ]
 
 # Your project directory.
@@ -242,13 +244,11 @@ def analyse_prompt_folder(
         print("-----------------------------")
         return pd.DataFrame()
 
-    n_professions = len(profession_files)
-
     print("\n=============================")
     print(f"Language: {language}")
     print(f"Prompt:   {prompt_name}")
     print(f"Folder:   {folder_path}")
-    print(f"Profession CSVs found: {n_professions}")
+    print(f"Profession CSVs found: {N_PROFESSIONS}")
     print("=============================")
 
     results = []
@@ -266,7 +266,7 @@ def analyse_prompt_folder(
                 alpha=ALPHA,
                 power=POWER,
                 delta=DELTA,
-                n_professions=n_professions,
+                n_professions=N_PROFESSIONS,
                 bonferroni=BONFERRONI,
             )
 
@@ -294,7 +294,7 @@ def analyse_prompt_folder(
         stats["folder"] = str(folder_path)
         stats["dataset"] = dataset
         stats["profession"] = profession
-        stats["n_professions_in_prompt"] = n_professions
+        stats["n_professions_in_prompt"] = N_PROFESSIONS
 
         results.append(stats)
 

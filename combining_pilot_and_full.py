@@ -9,14 +9,14 @@ base_dir = Path(__file__).parent.resolve()
 folder1 = (
     base_dir
     / "FULL_TEST"
-    / "french_gender_bias_results"
+    / "french_gender_bias_results_limited"
     / "per_profession_raw_prompts"
 )
 
 folder2 = (
     base_dir
     / "pilot_tests_french"
-    / "french_gender_bias_results"
+    / "french_gender_bias_results_limited"
     / "per_profession_raw_prompts"
 )
 
@@ -46,4 +46,4 @@ for file1 in folder1.glob("*.csv"):
 
 master = pd.concat(all_rows, ignore_index=True)
 
-master.to_csv("master_merged.csv", index=False)
+master.to_csv("master_merged_fr_limited.csv", index=False)

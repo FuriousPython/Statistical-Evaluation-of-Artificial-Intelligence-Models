@@ -2,10 +2,30 @@ import pandas as pd
 from pathlib import Path
 
 
-# CONFIG
+base_dir = Path(__file__).parent.resolve()
 
-folder1 = Path("folder1")   # First subfolder
-folder2 = Path("folder2")   # Second subfolder
+folder1 = (
+    base_dir
+    / "FULL_TEST"
+    / "french_gender_bias_results"
+    / "per_profession_raw_prompts"
+)
+
+folder2 = (
+    base_dir
+    / "pilot_tests_french"
+    / "french_gender_bias_results"
+    / "per_profession_raw_prompts"
+)
+
+print(folder1)
+print(folder2)
+
+print(folder1.exists())
+print(folder2.exists())
+
+
+# CONFIG
 
 output_file = "master_merged.csv"
 

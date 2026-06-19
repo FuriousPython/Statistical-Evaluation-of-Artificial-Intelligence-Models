@@ -29,13 +29,13 @@ For each row:
 Output: the ORIGINAL file, with every original column preserved exactly,
 plus one new column "Z" appended at the end. If Z can't be computed for a
 row (n=0, n=1, or zero variance e.g. all-N row), "Z" is left blank.
- 
+
 Usage:
     python wald_test_per_row.py input.csv --out output.csv
  
 If --out is omitted, writes to "<input_name>_with_z.csv" alongside the input.
 """
- 
+
 import argparse
 import csv
 import math

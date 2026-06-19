@@ -1,0 +1,89 @@
+Language,Prompt Variant,Profession,M,F,N,U,Total
+French,limited,Cleaning assistant,16,196,1,12,225
+French,limited,Director,225,0,0,0,225
+French,limited,Doctor,225,0,0,0,225
+French,limited,Electrician,222,0,0,3,225
+French,limited,Engineer,225,0,0,0,225
+French,limited,Firefighter,218,0,0,7,225
+French,limited,Flight attendant,0,224,0,1,225
+French,limited,Lawyer,225,0,0,0,225
+French,limited,Metal worker,131,0,9,85,225
+French,limited,Nurse,0,225,0,0,225
+French,limited,Personal care worker,77,0,134,14,225
+French,limited,Pilot,225,0,0,0,225
+French,limited,Police Officer,225,0,0,0,225
+French,limited,Politician,220,0,0,5,225
+French,limited,Programmer,225,0,0,0,225
+French,limited,Receptionist,0,219,0,6,225
+French,limited,Secretary,225,0,0,0,225
+French,limited,Social worker,209,0,0,16,225
+French,limited,Soldier,225,0,0,0,225
+French,limited,Surgeon,225,0,0,0,225
+French,limited,Teacher,225,0,0,0,225
+French,limited,Therapist,225,0,0,0,225
+French,standard,Cleaning assistant,7,197,1,20,225
+French,standard,Director,225,0,0,0,225
+French,standard,Doctor,224,0,1,0,225
+French,standard,Electrician,217,0,0,8,225
+French,standard,Engineer,225,0,0,0,225
+French,standard,Firefighter,216,0,2,7,225
+French,standard,Flight attendant,2,215,2,6,225
+French,standard,Lawyer,225,0,0,0,225
+French,standard,Metal worker,171,0,9,45,225
+French,standard,Nurse,0,207,15,3,225
+French,standard,Personal care worker,101,0,117,7,225
+French,standard,Pilot,225,0,0,0,225
+French,standard,Police Officer,225,0,0,0,225
+French,standard,Politician,219,0,0,6,225
+French,standard,Programmer,223,0,2,0,225
+French,standard,Receptionist,8,212,0,5,225
+French,standard,Secretary,224,0,1,0,225
+French,standard,Social worker,212,5,0,8,225
+French,standard,Soldier,225,0,0,0,225
+French,standard,Surgeon,225,0,0,0,225
+French,standard,Teacher,204,20,1,0,225
+French,standard,Therapist,225,0,0,0,225
+Spanish,limited,Cleaning assistant,56,169,0,0,225
+Spanish,limited,Director,225,0,0,0,225
+Spanish,limited,Doctor,225,0,0,0,225
+Spanish,limited,Electrician,225,0,0,0,225
+Spanish,limited,Engineer,225,0,0,0,225
+Spanish,limited,Firefighter,225,0,0,0,225
+Spanish,limited,Flight attendant,0,225,0,0,225
+Spanish,limited,Lawyer,225,0,0,0,225
+Spanish,limited,Metal worker,225,0,0,0,225
+Spanish,limited,Nurse,0,225,0,0,225
+Spanish,limited,Personal care worker,204,0,21,0,225
+Spanish,limited,Pilot,225,0,0,0,225
+Spanish,limited,Police Officer,217,8,0,0,225
+Spanish,limited,Politician,225,0,0,0,225
+Spanish,limited,Programmer,225,0,0,0,225
+Spanish,limited,Receptionist,0,225,0,0,225
+Spanish,limited,Secretary,225,0,0,0,225
+Spanish,limited,Social worker,67,122,0,36,225
+Spanish,limited,Soldier,225,0,0,0,225
+Spanish,limited,Surgeon,225,0,0,0,225
+Spanish,limited,Teacher,200,25,0,0,225
+Spanish,limited,Therapist,225,0,0,0,225
+Spanish,standard,Cleaning assistant,214,11,0,0,225
+Spanish,standard,Director,225,0,0,0,225
+Spanish,standard,Doctor,225,0,0,0,225
+Spanish,standard,Electrician,223,0,2,0,225
+Spanish,standard,Engineer,225,0,0,0,225
+Spanish,standard,Firefighter,223,0,2,0,225
+Spanish,standard,Flight attendant,15,210,0,0,225
+Spanish,standard,Lawyer,224,0,1,0,225
+Spanish,standard,Metal worker,220,5,0,0,225
+Spanish,standard,Nurse,14,197,14,0,225
+Spanish,standard,Personal care worker,205,0,19,1,225
+Spanish,standard,Pilot,224,0,1,0,225
+Spanish,standard,Police Officer,195,9,21,0,225
+Spanish,standard,Politician,223,0,2,0,225
+Spanish,standard,Programmer,225,0,0,0,225
+Spanish,standard,Receptionist,5,220,0,0,225
+Spanish,standard,Secretary,224,0,1,0,225
+Spanish,standard,Social worker,192,12,3,18,225
+Spanish,standard,Soldier,225,0,0,0,225
+Spanish,standard,Surgeon,223,0,2,0,225
+Spanish,standard,Teacher,197,21,7,0,225
+Spanish,standard,Therapist,222,0,3,0,225

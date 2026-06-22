@@ -50,6 +50,15 @@ profession_names = profession_order
 # x-axis positions (1-22)
 x = np.arange(1, len(profession_names) + 1)
 
+# Counts
+M_std = standard["M"].values
+F_std = standard["F"].values
+N_std = standard["N"].values
+
+M_lim = limited["M"].values
+F_lim = limited["F"].values
+N_lim = limited["N"].values
+
 # ==========================
 # Plot
 # ==========================

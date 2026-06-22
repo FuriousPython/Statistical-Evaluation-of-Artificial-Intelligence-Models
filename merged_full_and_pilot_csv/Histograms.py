@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # ==========================
 # Load data
 # ==========================
-csv_file = "gender_counts_master_z.csv"
+csv_file = "gender_counts_master.csv"
 df = pd.read_csv(csv_file)
 
 # ==========================

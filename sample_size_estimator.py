@@ -4,7 +4,7 @@ import os
 from scipy.stats import norm
 
 dir_path = os.getcwd()
-path = f"{dir_path}/spanish_gender_bias_results"
+path = f"{dir_path}/pilot_tests_spanish/spanish_gender_bias_results/per_profession_raw_prompts"
 
 
 # -----------------------------
@@ -157,6 +157,4 @@ print("-----------------------------")
 results_df["upper_bound_n"] = upper_bound_n
 
 output_path = os.path.join(dir_path, "sample_size_results.csv")
-results_df.to_csv(output_path, index=False)
 
-print(f"Saved results to: {output_path}")

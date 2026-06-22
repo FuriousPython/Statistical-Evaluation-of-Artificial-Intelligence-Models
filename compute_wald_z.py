@@ -26,7 +26,7 @@ For each row:
     SE     = sqrt(sample_var / n)
     Z      = mean / SE
 
-CONTINUITY CORRECTION (zero-variance rows):
+CONTINUITY CORRECTION (zero-variance rows) --- J:
     If a row has zero variance in the raw counts -- e.g. all 245 observations
     fell in one category (245 M / 0 F / 0 N) -- the standard error is 0 and
     Z would be mathematically undefined (division by zero). To still produce

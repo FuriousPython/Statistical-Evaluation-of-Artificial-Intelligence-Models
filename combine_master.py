@@ -9,11 +9,9 @@ files = [
     "master_merged_sp_standard.csv"
 ]
 
-# Read and combine
 dfs = [pd.read_csv(f) for f in files]
 df = pd.concat(dfs, ignore_index=True)
 
-# Count genders by Language + Prompt Variant + Profession
 summary = (
     df.groupby(
         ["Language", "Prompt Variant", "Profession", "Gender"]
@@ -27,16 +25,10 @@ for gender in ["M", "F", "N", "U"]:
     if gender not in summary.columns:
         summary[gender] = 0
 
-# Reorder columns
 summary = summary[["M", "F", "N", "U"]]
-
-# Add total
 summary["Total"] = summary.sum(axis=1)
-
-# Convert index back to columns
 summary = summary.reset_index()
 
-# Save
 summary.to_csv("gender_counts_master.csv", index=False)
 
 print(summary.head())

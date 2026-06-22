@@ -2,7 +2,7 @@
 DTU COURSE: 02445
 
 
-# Statistical Evaluation of Artificial Intelligence Models
+# Repeated-measures experimental audit of gender bias in LLM outputs
 
 This repository contains the code, datasets, generated model outputs, and statistical analysis files for a DTU 02445 project on gender bias in large language model translation outputs.
 

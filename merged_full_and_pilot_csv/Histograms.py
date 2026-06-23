@@ -90,7 +90,7 @@ def plot_comparison(
 ):
 
     x = np.arange(1, len(profession_names) + 1)
-    width = 0.25
+    width = 0.35
 
     fig, ax = plt.subplots(figsize=(20, 8))
 
@@ -162,8 +162,8 @@ def plot_comparison(
     ax.grid(axis="y", linestyle="--", alpha=0.4)
 
     ax.legend(
-        bbox_to_anchor=(1.02, 1),
-        loc="upper left"
+    loc="upper left",
+    fontsize=14
     )
 
     plt.tight_layout()

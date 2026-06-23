@@ -1,6 +1,10 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import os
+
+output_dir = "merged_full_and_pilot_csv"
+os.makedirs(output_dir, exist_ok=True)
 
 # ==========================
 # Load data
@@ -149,28 +153,32 @@ def plot_comparison(
     )
 
     ax.set_title(title, fontsize=16)
-    ax.set_xlabel("Profession")
-    ax.set_ylabel("Count")
+    ax.set_xlabel("Profession", fontsize=16)
+    ax.set_ylabel("Count", fontsize=16)
 
     ax.set_xticks(x)
     ax.set_xticklabels(
         profession_names,
         rotation=45,
         ha="right"
+        fontsize=14
     )
+    #ax.tick_params(axis='y', labelsize=12)
 
     ax.grid(axis="y", linestyle="--", alpha=0.4)
 
     ax.legend(
-    loc="upper left",
+    loc="upper right",
     fontsize=14
     )
 
-    plt.tight_layout()
-    plt.savefig(title.replace(":", "").replace(" ", "_") + ".png",
-            dpi=300,
-            bbox_inches="tight")
-    plt.close()
+    filename = title.replace(":", "").replace(" ", "_") + ".png"
+
+    plt.savefig(
+        os.path.join(output_dir, filename),
+        dpi=600,
+        bbox_inches="tight"
+    )
 
 # ==========================
 # Colors

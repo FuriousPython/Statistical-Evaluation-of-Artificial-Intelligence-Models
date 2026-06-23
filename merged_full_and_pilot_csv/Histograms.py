@@ -9,7 +9,7 @@ os.makedirs(output_dir, exist_ok=True)
 # ==========================
 # Load data
 # ==========================
-csv_file = "gender_counts_master.csv"
+csv_file = os.path.join(output_dir, "gender_counts_master.csv")
 df = pd.read_csv(csv_file)
 
 # ==========================
@@ -160,7 +160,7 @@ def plot_comparison(
     ax.set_xticklabels(
         profession_names,
         rotation=45,
-        ha="right"
+        ha="right",
         fontsize=14
     )
     #ax.tick_params(axis='y', labelsize=12)

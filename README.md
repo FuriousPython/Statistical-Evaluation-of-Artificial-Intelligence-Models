@@ -502,6 +502,7 @@ Project for DTU Course 02445.
 
 Authors listed in the accompanying report:
 
+- Martin Knudsen
 - Malthe Dornonville de la Cour
 - Villads Bomholt Larsen
 - Rasmus Boyer Nørregaard Hammer
